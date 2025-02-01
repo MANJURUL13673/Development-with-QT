@@ -1,0 +1,21 @@
+# ninja log v6
+7	852	7586297270859633	8-HBoxLayoutExample_autogen/timestamp	c91bd472839c4721
+7	852	7586297270859633	8-HBoxLayoutExample_autogen/mocs_compilation.cpp	c91bd472839c4721
+7	852	7586297270859633	E:/PERSONAL/Learning/QT DEVELOPMENT/8-HBoxLayoutExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/8-HBoxLayoutExample_autogen/timestamp	c91bd472839c4721
+7	852	7586297270859633	E:/PERSONAL/Learning/QT DEVELOPMENT/8-HBoxLayoutExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/8-HBoxLayoutExample_autogen/mocs_compilation.cpp	c91bd472839c4721
+870	3433	7586297272071066	CMakeFiles/8-HBoxLayoutExample.dir/widget.cpp.obj	ec11676b64dde6a6
+857	3449	7586297271930414	CMakeFiles/8-HBoxLayoutExample.dir/8-HBoxLayoutExample_autogen/mocs_compilation.cpp.obj	703d5973df9b4be
+863	3539	7586297271999584	CMakeFiles/8-HBoxLayoutExample.dir/main.cpp.obj	39e701a75e54accf
+3539	3803	7586297298761049	8-HBoxLayoutExample.exe	2bdf91e6219f0eb3
+34	221	7586297949304500	8-HBoxLayoutExample_autogen/timestamp	c91bd472839c4721
+34	221	7586297949304500	8-HBoxLayoutExample_autogen/mocs_compilation.cpp	c91bd472839c4721
+34	221	7586297949304500	E:/PERSONAL/Learning/QT DEVELOPMENT/8-HBoxLayoutExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/8-HBoxLayoutExample_autogen/timestamp	c91bd472839c4721
+34	221	7586297949304500	E:/PERSONAL/Learning/QT DEVELOPMENT/8-HBoxLayoutExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/8-HBoxLayoutExample_autogen/mocs_compilation.cpp	c91bd472839c4721
+221	2822	7586297951177828	CMakeFiles/8-HBoxLayoutExample.dir/widget.cpp.obj	ec11676b64dde6a6
+2822	3043	7586297977190714	8-HBoxLayoutExample.exe	2bdf91e6219f0eb3
+44	263	7586299520163392	8-HBoxLayoutExample_autogen/timestamp	c91bd472839c4721
+44	263	7586299520163392	8-HBoxLayoutExample_autogen/mocs_compilation.cpp	c91bd472839c4721
+44	263	7586299520163392	E:/PERSONAL/Learning/QT DEVELOPMENT/8-HBoxLayoutExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/8-HBoxLayoutExample_autogen/timestamp	c91bd472839c4721
+44	263	7586299520163392	E:/PERSONAL/Learning/QT DEVELOPMENT/8-HBoxLayoutExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/8-HBoxLayoutExample_autogen/mocs_compilation.cpp	c91bd472839c4721
+264	2521	7586299522362438	CMakeFiles/8-HBoxLayoutExample.dir/widget.cpp.obj	ec11676b64dde6a6
+2522	2715	7586299544942483	8-HBoxLayoutExample.exe	2bdf91e6219f0eb3

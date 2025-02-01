@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b706f010b7ff05ed51f2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "13-CheckBoxExample",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "13-CheckBoxExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-13-CheckBoxExample-Debug-35cf3828531726c381c6.json",
+					"name" : "13-CheckBoxExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "13-CheckBoxExample_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-13-CheckBoxExample_autogen-Debug-4e78e655faf804661f73.json",
+					"name" : "13-CheckBoxExample_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "13-CheckBoxExample_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-13-CheckBoxExample_autogen_timestamp_deps-Debug-7e1fb70472bfaec00a47.json",
+					"name" : "13-CheckBoxExample_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/13-CheckBoxExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/13-CheckBoxExample"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

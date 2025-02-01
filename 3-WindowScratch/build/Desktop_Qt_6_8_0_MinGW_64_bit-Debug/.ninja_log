@@ -1,0 +1,26 @@
+# ninja log v6
+33	220	7585541702981955	3-WindowScratch_autogen/timestamp	3f1734faa49fe034
+221	2121	7585541704850688	CMakeFiles/3-WindowScratch.dir/widget.cpp.obj	25b53eb5ebb96e11
+33	220	7585541702981955	3-WindowScratch_autogen/mocs_compilation.cpp	3f1734faa49fe034
+33	220	7585541702981955	E:/PERSONAL/Learning/QT DEVELOPMENT/3-WindowScratch/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/3-WindowScratch_autogen/timestamp	3f1734faa49fe034
+695	3036	7585539259143903	CMakeFiles/3-WindowScratch.dir/main.cpp.obj	4901a258963d7def
+33	220	7585541702981955	E:/PERSONAL/Learning/QT DEVELOPMENT/3-WindowScratch/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/3-WindowScratch_autogen/mocs_compilation.cpp	3f1734faa49fe034
+691	3042	7585539259111463	CMakeFiles/3-WindowScratch.dir/3-WindowScratch_autogen/mocs_compilation.cpp.obj	d5db7f03e5e78020
+2121	2303	7585541723854844	3-WindowScratch.exe	149b918bed7d2aae
+31	736	7585547525761273	3-WindowScratch_autogen/timestamp	3f1734faa49fe034
+31	736	7585547525761273	3-WindowScratch_autogen/mocs_compilation.cpp	3f1734faa49fe034
+31	736	7585547525761273	E:/PERSONAL/Learning/QT DEVELOPMENT/3-WindowScratch/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/3-WindowScratch_autogen/timestamp	3f1734faa49fe034
+31	736	7585547525761273	E:/PERSONAL/Learning/QT DEVELOPMENT/3-WindowScratch/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/3-WindowScratch_autogen/mocs_compilation.cpp	3f1734faa49fe034
+737	819	7585547527325224	3-WindowScratch_autogen/EWIEGA46WW/qrc_res.cpp	5d16a6c36df4f218
+737	819	7585547527325224	E:/PERSONAL/Learning/QT DEVELOPMENT/3-WindowScratch/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/3-WindowScratch_autogen/EWIEGA46WW/qrc_res.cpp	5d16a6c36df4f218
+837	938	7585547527637125	CMakeFiles/3-WindowScratch.dir/3-WindowScratch_autogen/EWIEGA46WW/qrc_res.cpp.obj	70ff86721b8d202b
+819	3219	7585547527461135	CMakeFiles/3-WindowScratch.dir/3-WindowScratch_autogen/mocs_compilation.cpp.obj	d5db7f03e5e78020
+831	3249	7585547527577141	CMakeFiles/3-WindowScratch.dir/widget.cpp.obj	25b53eb5ebb96e11
+826	3285	7585547527521653	CMakeFiles/3-WindowScratch.dir/main.cpp.obj	4901a258963d7def
+3285	3499	7585547552114430	3-WindowScratch.exe	c7ea96301092fd4c
+36	220	7585547748216430	3-WindowScratch_autogen/timestamp	3f1734faa49fe034
+36	220	7585547748216430	3-WindowScratch_autogen/mocs_compilation.cpp	3f1734faa49fe034
+36	220	7585547748216430	E:/PERSONAL/Learning/QT DEVELOPMENT/3-WindowScratch/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/3-WindowScratch_autogen/timestamp	3f1734faa49fe034
+36	220	7585547748216430	E:/PERSONAL/Learning/QT DEVELOPMENT/3-WindowScratch/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/3-WindowScratch_autogen/mocs_compilation.cpp	3f1734faa49fe034
+221	2129	7585547750058541	CMakeFiles/3-WindowScratch.dir/widget.cpp.obj	25b53eb5ebb96e11
+2130	2314	7585547769154777	3-WindowScratch.exe	c7ea96301092fd4c

@@ -1,0 +1,59 @@
+# ninja log v6
+7	655	7600238506401405	15-QLCDNumberExample_autogen/timestamp	b0a01b96911ab88e
+7	655	7600238506401405	15-QLCDNumberExample_autogen/mocs_compilation.cpp	b0a01b96911ab88e
+7	655	7600238506401405	E:/PERSONAL/Learning/QT DEVELOPMENT/15-QLCDNumberExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/15-QLCDNumberExample_autogen/timestamp	b0a01b96911ab88e
+7	655	7600238506401405	E:/PERSONAL/Learning/QT DEVELOPMENT/15-QLCDNumberExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/15-QLCDNumberExample_autogen/mocs_compilation.cpp	b0a01b96911ab88e
+669	2637	7600238507339043	CMakeFiles/15-QLCDNumberExample.dir/widget.cpp.obj	4fad12dc5d752201
+660	2648	7600238507236854	CMakeFiles/15-QLCDNumberExample.dir/15-QLCDNumberExample_autogen/mocs_compilation.cpp.obj	59e828464e78091
+665	2658	7600238507280225	CMakeFiles/15-QLCDNumberExample.dir/main.cpp.obj	8d464b714b09ac77
+2658	2840	7600238527212767	15-QLCDNumberExample.exe	159ac3767e529ce9
+36	653	7600239881119154	15-QLCDNumberExample_autogen/timestamp	b0a01b96911ab88e
+36	653	7600239881119154	15-QLCDNumberExample_autogen/mocs_compilation.cpp	b0a01b96911ab88e
+36	653	7600239881119154	E:/PERSONAL/Learning/QT DEVELOPMENT/15-QLCDNumberExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/15-QLCDNumberExample_autogen/timestamp	b0a01b96911ab88e
+36	653	7600239881119154	E:/PERSONAL/Learning/QT DEVELOPMENT/15-QLCDNumberExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/15-QLCDNumberExample_autogen/mocs_compilation.cpp	b0a01b96911ab88e
+663	2949	7600239882071632	CMakeFiles/15-QLCDNumberExample.dir/widget.cpp.obj	4fad12dc5d752201
+654	2956	7600239881972385	CMakeFiles/15-QLCDNumberExample.dir/15-QLCDNumberExample_autogen/mocs_compilation.cpp.obj	59e828464e78091
+658	3028	7600239882024630	CMakeFiles/15-QLCDNumberExample.dir/main.cpp.obj	8d464b714b09ac77
+3028	3245	7600239905718198	15-QLCDNumberExample.exe	159ac3767e529ce9
+13	180	7600240465732463	15-QLCDNumberExample_autogen/timestamp	b0a01b96911ab88e
+13	180	7600240465732463	15-QLCDNumberExample_autogen/mocs_compilation.cpp	b0a01b96911ab88e
+13	180	7600240465732463	E:/PERSONAL/Learning/QT DEVELOPMENT/15-QLCDNumberExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/15-QLCDNumberExample_autogen/timestamp	b0a01b96911ab88e
+13	180	7600240465732463	E:/PERSONAL/Learning/QT DEVELOPMENT/15-QLCDNumberExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/15-QLCDNumberExample_autogen/mocs_compilation.cpp	b0a01b96911ab88e
+181	2098	7600240467404238	CMakeFiles/15-QLCDNumberExample.dir/widget.cpp.obj	4fad12dc5d752201
+2099	2279	7600240486575748	15-QLCDNumberExample.exe	159ac3767e529ce9
+37	226	7600242500028829	15-QLCDNumberExample_autogen/timestamp	b0a01b96911ab88e
+37	226	7600242500028829	15-QLCDNumberExample_autogen/mocs_compilation.cpp	b0a01b96911ab88e
+37	226	7600242500028829	E:/PERSONAL/Learning/QT DEVELOPMENT/15-QLCDNumberExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/15-QLCDNumberExample_autogen/timestamp	b0a01b96911ab88e
+37	226	7600242500028829	E:/PERSONAL/Learning/QT DEVELOPMENT/15-QLCDNumberExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/15-QLCDNumberExample_autogen/mocs_compilation.cpp	b0a01b96911ab88e
+227	2288	7600242501928119	CMakeFiles/15-QLCDNumberExample.dir/widget.cpp.obj	4fad12dc5d752201
+2289	2485	7600242522541066	15-QLCDNumberExample.exe	159ac3767e529ce9
+32	191	7600242680740788	15-QLCDNumberExample_autogen/timestamp	b0a01b96911ab88e
+32	191	7600242680740788	15-QLCDNumberExample_autogen/mocs_compilation.cpp	b0a01b96911ab88e
+32	191	7600242680740788	E:/PERSONAL/Learning/QT DEVELOPMENT/15-QLCDNumberExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/15-QLCDNumberExample_autogen/timestamp	b0a01b96911ab88e
+32	191	7600242680740788	E:/PERSONAL/Learning/QT DEVELOPMENT/15-QLCDNumberExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/15-QLCDNumberExample_autogen/mocs_compilation.cpp	b0a01b96911ab88e
+191	2305	7600242682336056	CMakeFiles/15-QLCDNumberExample.dir/widget.cpp.obj	4fad12dc5d752201
+2305	2519	7600242703468206	15-QLCDNumberExample.exe	159ac3767e529ce9
+37	242	7600242790351568	15-QLCDNumberExample_autogen/timestamp	b0a01b96911ab88e
+37	242	7600242790351568	15-QLCDNumberExample_autogen/mocs_compilation.cpp	b0a01b96911ab88e
+37	242	7600242790351568	E:/PERSONAL/Learning/QT DEVELOPMENT/15-QLCDNumberExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/15-QLCDNumberExample_autogen/timestamp	b0a01b96911ab88e
+37	242	7600242790351568	E:/PERSONAL/Learning/QT DEVELOPMENT/15-QLCDNumberExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/15-QLCDNumberExample_autogen/mocs_compilation.cpp	b0a01b96911ab88e
+243	2433	7600242792423461	CMakeFiles/15-QLCDNumberExample.dir/widget.cpp.obj	4fad12dc5d752201
+2433	2620	7600242814322034	15-QLCDNumberExample.exe	159ac3767e529ce9
+30	191	7600243177088445	15-QLCDNumberExample_autogen/timestamp	b0a01b96911ab88e
+30	191	7600243177088445	15-QLCDNumberExample_autogen/mocs_compilation.cpp	b0a01b96911ab88e
+30	191	7600243177088445	E:/PERSONAL/Learning/QT DEVELOPMENT/15-QLCDNumberExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/15-QLCDNumberExample_autogen/timestamp	b0a01b96911ab88e
+30	191	7600243177088445	E:/PERSONAL/Learning/QT DEVELOPMENT/15-QLCDNumberExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/15-QLCDNumberExample_autogen/mocs_compilation.cpp	b0a01b96911ab88e
+192	2038	7600243178707344	CMakeFiles/15-QLCDNumberExample.dir/widget.cpp.obj	4fad12dc5d752201
+2038	2222	7600243197166170	15-QLCDNumberExample.exe	159ac3767e529ce9
+36	219	7600243455723093	15-QLCDNumberExample_autogen/timestamp	b0a01b96911ab88e
+36	219	7600243455723093	15-QLCDNumberExample_autogen/mocs_compilation.cpp	b0a01b96911ab88e
+36	219	7600243455723093	E:/PERSONAL/Learning/QT DEVELOPMENT/15-QLCDNumberExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/15-QLCDNumberExample_autogen/timestamp	b0a01b96911ab88e
+36	219	7600243455723093	E:/PERSONAL/Learning/QT DEVELOPMENT/15-QLCDNumberExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/15-QLCDNumberExample_autogen/mocs_compilation.cpp	b0a01b96911ab88e
+220	2198	7600243457557263	CMakeFiles/15-QLCDNumberExample.dir/widget.cpp.obj	4fad12dc5d752201
+2198	2382	7600243477339712	15-QLCDNumberExample.exe	159ac3767e529ce9
+34	212	7600243585081477	15-QLCDNumberExample_autogen/timestamp	b0a01b96911ab88e
+34	212	7600243585081477	15-QLCDNumberExample_autogen/mocs_compilation.cpp	b0a01b96911ab88e
+34	212	7600243585081477	E:/PERSONAL/Learning/QT DEVELOPMENT/15-QLCDNumberExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/15-QLCDNumberExample_autogen/timestamp	b0a01b96911ab88e
+34	212	7600243585081477	E:/PERSONAL/Learning/QT DEVELOPMENT/15-QLCDNumberExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/15-QLCDNumberExample_autogen/mocs_compilation.cpp	b0a01b96911ab88e
+212	2144	7600243586862012	CMakeFiles/15-QLCDNumberExample.dir/widget.cpp.obj	4fad12dc5d752201
+2144	2325	7600243606176084	15-QLCDNumberExample.exe	159ac3767e529ce9

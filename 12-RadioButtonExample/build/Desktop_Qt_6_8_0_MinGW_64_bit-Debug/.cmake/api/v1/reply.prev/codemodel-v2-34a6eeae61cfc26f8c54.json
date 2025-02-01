@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b6ea6657fbe40cf95c17.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "12-RadioButtonExample",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "12-RadioButtonExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12-RadioButtonExample-Debug-8fa0e8273b386c7a0d7e.json",
+					"name" : "12-RadioButtonExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "12-RadioButtonExample_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12-RadioButtonExample_autogen-Debug-707839a5c944d327ff3e.json",
+					"name" : "12-RadioButtonExample_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "12-RadioButtonExample_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12-RadioButtonExample_autogen_timestamp_deps-Debug-99ce76043dcc746f1a86.json",
+					"name" : "12-RadioButtonExample_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/12-RadioButtonExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/12-RadioButtonExample"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

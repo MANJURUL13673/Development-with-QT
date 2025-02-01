@@ -1,0 +1,9 @@
+# ninja log v6
+32	783	7585534819543990	1-cmakehello_autogen/timestamp	204e68ae4e18f9f8
+32	783	7585534819543990	1-cmakehello_autogen/mocs_compilation.cpp	204e68ae4e18f9f8
+32	783	7585534819543990	E:/PERSONAL/Learning/QT DEVELOPMENT/1-cmakehello/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/1-cmakehello_autogen/timestamp	204e68ae4e18f9f8
+32	783	7585534819543990	E:/PERSONAL/Learning/QT DEVELOPMENT/1-cmakehello/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/1-cmakehello_autogen/mocs_compilation.cpp	204e68ae4e18f9f8
+788	3676	7585534820479041	CMakeFiles/1-cmakehello.dir/1-cmakehello_autogen/mocs_compilation.cpp.obj	2f6b885bbfbdc45b
+792	3684	7585534820512216	CMakeFiles/1-cmakehello.dir/main.cpp.obj	176a5b5b4a8232fa
+797	3685	7585534820568212	CMakeFiles/1-cmakehello.dir/widget.cpp.obj	88eda501b1ff0d4c
+3685	4321	7585534849449274	1-cmakehello.exe	3335f6275a279567

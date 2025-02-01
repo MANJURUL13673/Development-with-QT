@@ -1,0 +1,21 @@
+# ninja log v6
+7	759	7586320019925839	9-VBoxLayoutExample_autogen/timestamp	ca4604f6310cfefc
+7	759	7586320019925839	9-VBoxLayoutExample_autogen/mocs_compilation.cpp	ca4604f6310cfefc
+7	759	7586320019925839	E:/PERSONAL/Learning/QT DEVELOPMENT/9-VBoxLayoutExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/9-VBoxLayoutExample_autogen/timestamp	ca4604f6310cfefc
+7	759	7586320019925839	E:/PERSONAL/Learning/QT DEVELOPMENT/9-VBoxLayoutExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/9-VBoxLayoutExample_autogen/mocs_compilation.cpp	ca4604f6310cfefc
+773	3090	7586320020962526	CMakeFiles/9-VBoxLayoutExample.dir/widget.cpp.obj	ab5ac89b5cb2001c
+764	3121	7586320020870200	CMakeFiles/9-VBoxLayoutExample.dir/9-VBoxLayoutExample_autogen/mocs_compilation.cpp.obj	6490d499a3a612b6
+768	3128	7586320020926042	CMakeFiles/9-VBoxLayoutExample.dir/main.cpp.obj	64b8d2dd33649c6d
+3128	3359	7586320044517418	9-VBoxLayoutExample.exe	79066a3f82e3dfce
+13	205	7586320879713733	9-VBoxLayoutExample_autogen/timestamp	ca4604f6310cfefc
+13	205	7586320879713733	9-VBoxLayoutExample_autogen/mocs_compilation.cpp	ca4604f6310cfefc
+13	205	7586320879713733	E:/PERSONAL/Learning/QT DEVELOPMENT/9-VBoxLayoutExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/9-VBoxLayoutExample_autogen/timestamp	ca4604f6310cfefc
+13	205	7586320879713733	E:/PERSONAL/Learning/QT DEVELOPMENT/9-VBoxLayoutExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/9-VBoxLayoutExample_autogen/mocs_compilation.cpp	ca4604f6310cfefc
+206	2556	7586320881630997	CMakeFiles/9-VBoxLayoutExample.dir/widget.cpp.obj	ab5ac89b5cb2001c
+2556	2756	7586320905141024	9-VBoxLayoutExample.exe	79066a3f82e3dfce
+15	210	7586321885705485	9-VBoxLayoutExample_autogen/timestamp	ca4604f6310cfefc
+15	210	7586321885705485	9-VBoxLayoutExample_autogen/mocs_compilation.cpp	ca4604f6310cfefc
+15	210	7586321885705485	E:/PERSONAL/Learning/QT DEVELOPMENT/9-VBoxLayoutExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/9-VBoxLayoutExample_autogen/timestamp	ca4604f6310cfefc
+15	210	7586321885705485	E:/PERSONAL/Learning/QT DEVELOPMENT/9-VBoxLayoutExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/9-VBoxLayoutExample_autogen/mocs_compilation.cpp	ca4604f6310cfefc
+211	2428	7586321887667534	CMakeFiles/9-VBoxLayoutExample.dir/widget.cpp.obj	ab5ac89b5cb2001c
+2429	2619	7586321909842311	9-VBoxLayoutExample.exe	79066a3f82e3dfce

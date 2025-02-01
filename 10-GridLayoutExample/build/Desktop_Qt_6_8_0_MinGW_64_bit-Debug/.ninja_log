@@ -1,0 +1,9 @@
+# ninja log v6
+8	925	7586323982265320	10-GridLayoutExample_autogen/timestamp	873e85ce42a7a7b5
+8	925	7586323982265320	10-GridLayoutExample_autogen/mocs_compilation.cpp	873e85ce42a7a7b5
+8	925	7586323982265320	E:/PERSONAL/Learning/QT DEVELOPMENT/10-GridLayoutExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/10-GridLayoutExample_autogen/timestamp	873e85ce42a7a7b5
+8	925	7586323982265320	E:/PERSONAL/Learning/QT DEVELOPMENT/10-GridLayoutExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/10-GridLayoutExample_autogen/mocs_compilation.cpp	873e85ce42a7a7b5
+930	3524	7586323983316117	CMakeFiles/10-GridLayoutExample.dir/10-GridLayoutExample_autogen/mocs_compilation.cpp.obj	6684c9380c3cbc40
+941	3551	7586323983427279	CMakeFiles/10-GridLayoutExample.dir/widget.cpp.obj	8d4b14d2a7bf6dba
+935	3634	7586323983358387	CMakeFiles/10-GridLayoutExample.dir/main.cpp.obj	184712682b124940
+3635	3880	7586324010356660	10-GridLayoutExample.exe	41ab45cd570e120a

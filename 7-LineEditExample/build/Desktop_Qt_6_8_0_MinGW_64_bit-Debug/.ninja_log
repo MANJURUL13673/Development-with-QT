@@ -1,0 +1,27 @@
+# ninja log v6
+8	763	7586293821313113	7-LineEditExample_autogen/timestamp	f20ffaa85513d2d2
+8	763	7586293821313113	7-LineEditExample_autogen/mocs_compilation.cpp	f20ffaa85513d2d2
+8	763	7586293821313113	E:/PERSONAL/Learning/QT DEVELOPMENT/7-LineEditExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/7-LineEditExample_autogen/timestamp	f20ffaa85513d2d2
+8	763	7586293821313113	E:/PERSONAL/Learning/QT DEVELOPMENT/7-LineEditExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/7-LineEditExample_autogen/mocs_compilation.cpp	f20ffaa85513d2d2
+768	3411	7586293822229278	CMakeFiles/7-LineEditExample.dir/7-LineEditExample_autogen/mocs_compilation.cpp.obj	23c30525f16df716
+779	3419	7586293822338539	CMakeFiles/7-LineEditExample.dir/widget.cpp.obj	3e6d9aebfb3bc7b3
+774	3423	7586293822285821	CMakeFiles/7-LineEditExample.dir/main.cpp.obj	e1e193d9e20c9b08
+3423	3858	7586293848775041	7-LineEditExample.exe	ce352520527e515b
+42	258	7586294355318739	7-LineEditExample_autogen/timestamp	f20ffaa85513d2d2
+42	258	7586294355318739	7-LineEditExample_autogen/mocs_compilation.cpp	f20ffaa85513d2d2
+42	258	7586294355318739	E:/PERSONAL/Learning/QT DEVELOPMENT/7-LineEditExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/7-LineEditExample_autogen/timestamp	f20ffaa85513d2d2
+42	258	7586294355318739	E:/PERSONAL/Learning/QT DEVELOPMENT/7-LineEditExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/7-LineEditExample_autogen/mocs_compilation.cpp	f20ffaa85513d2d2
+259	2573	7586294357484800	CMakeFiles/7-LineEditExample.dir/widget.cpp.obj	3e6d9aebfb3bc7b3
+2573	2764	7586294380624352	7-LineEditExample.exe	ce352520527e515b
+42	252	7586294523492708	7-LineEditExample_autogen/timestamp	f20ffaa85513d2d2
+42	252	7586294523492708	7-LineEditExample_autogen/mocs_compilation.cpp	f20ffaa85513d2d2
+42	252	7586294523492708	E:/PERSONAL/Learning/QT DEVELOPMENT/7-LineEditExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/7-LineEditExample_autogen/timestamp	f20ffaa85513d2d2
+42	252	7586294523492708	E:/PERSONAL/Learning/QT DEVELOPMENT/7-LineEditExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/7-LineEditExample_autogen/mocs_compilation.cpp	f20ffaa85513d2d2
+253	2525	7586294525602863	CMakeFiles/7-LineEditExample.dir/widget.cpp.obj	3e6d9aebfb3bc7b3
+2525	2723	7586294548323932	7-LineEditExample.exe	ce352520527e515b
+49	283	7586294885624212	7-LineEditExample_autogen/timestamp	f20ffaa85513d2d2
+49	283	7586294885624212	7-LineEditExample_autogen/mocs_compilation.cpp	f20ffaa85513d2d2
+49	283	7586294885624212	E:/PERSONAL/Learning/QT DEVELOPMENT/7-LineEditExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/7-LineEditExample_autogen/timestamp	f20ffaa85513d2d2
+49	283	7586294885624212	E:/PERSONAL/Learning/QT DEVELOPMENT/7-LineEditExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/7-LineEditExample_autogen/mocs_compilation.cpp	f20ffaa85513d2d2
+284	2874	7586294887970266	CMakeFiles/7-LineEditExample.dir/widget.cpp.obj	3e6d9aebfb3bc7b3
+2874	3071	7586294913881629	7-LineEditExample.exe	ce352520527e515b
