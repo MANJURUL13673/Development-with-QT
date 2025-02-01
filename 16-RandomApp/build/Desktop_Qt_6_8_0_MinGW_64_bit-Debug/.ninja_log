@@ -1,0 +1,9 @@
+# ninja log v6
+8	854	7600249808095400	16-RandomApp_autogen/timestamp	e4eab8947dd8c30d
+8	854	7600249808095400	16-RandomApp_autogen/mocs_compilation.cpp	e4eab8947dd8c30d
+8	854	7600249808095400	E:/PERSONAL/Learning/QT DEVELOPMENT/16-RandomApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/16-RandomApp_autogen/timestamp	e4eab8947dd8c30d
+8	854	7600249808095400	E:/PERSONAL/Learning/QT DEVELOPMENT/16-RandomApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/16-RandomApp_autogen/mocs_compilation.cpp	e4eab8947dd8c30d
+870	3635	7600249809264114	CMakeFiles/16-RandomApp.dir/widget.cpp.obj	ae7df117d024ea58
+859	3654	7600249809155936	CMakeFiles/16-RandomApp.dir/16-RandomApp_autogen/mocs_compilation.cpp.obj	6a63eeeeec07ee8
+865	3740	7600249809215212	CMakeFiles/16-RandomApp.dir/main.cpp.obj	534fbe06358c294b
+3741	3982	7600249837974718	16-RandomApp.exe	a7b806964701f6a9

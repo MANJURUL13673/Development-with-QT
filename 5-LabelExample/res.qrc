@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>QtImg.png</file>
+        <file>sky.gif</file>
+    </qresource>
+</RCC>

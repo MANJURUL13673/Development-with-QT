@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ff8b7ecb240099ba5ca3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "8-HBoxLayoutExample",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "8-HBoxLayoutExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8-HBoxLayoutExample-Debug-db00d831e4d147231c6c.json",
+					"name" : "8-HBoxLayoutExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8-HBoxLayoutExample_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8-HBoxLayoutExample_autogen-Debug-9933537e6d6edaec7627.json",
+					"name" : "8-HBoxLayoutExample_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8-HBoxLayoutExample_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8-HBoxLayoutExample_autogen_timestamp_deps-Debug-2b2c41133c3e426683f4.json",
+					"name" : "8-HBoxLayoutExample_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/8-HBoxLayoutExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/8-HBoxLayoutExample"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,47 @@
+# ninja log v6
+8	906	7600199109036504	E:/PERSONAL/Learning/QT DEVELOPMENT/13-CheckBoxExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/13-CheckBoxExample_autogen/mocs_compilation.cpp	9946fd00b0ce5831
+8	906	7600199109036504	13-CheckBoxExample_autogen/mocs_compilation.cpp	9946fd00b0ce5831
+8	906	7600199109036504	13-CheckBoxExample_autogen/timestamp	9946fd00b0ce5831
+8	906	7600199109036504	E:/PERSONAL/Learning/QT DEVELOPMENT/13-CheckBoxExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/13-CheckBoxExample_autogen/timestamp	9946fd00b0ce5831
+3945	4203	7600199140421250	13-CheckBoxExample.exe	3405b7700586f7d9
+916	3945	7600199110132838	CMakeFiles/13-CheckBoxExample.dir/main.cpp.obj	53abf78e8de2ac6a
+923	3866	7600199110199424	CMakeFiles/13-CheckBoxExample.dir/widget.cpp.obj	8dd0c0f70c54285a
+911	3885	7600199110072345	CMakeFiles/13-CheckBoxExample.dir/13-CheckBoxExample_autogen/mocs_compilation.cpp.obj	4bf6c8ee28dc84d9
+17	735	7600205044709382	build.ninja	908df0e5befb2d86
+29	192	7600205045869648	13-CheckBoxExample_autogen/timestamp	9946fd00b0ce5831
+29	192	7600205045869648	13-CheckBoxExample_autogen/mocs_compilation.cpp	9946fd00b0ce5831
+29	192	7600205045869648	E:/PERSONAL/Learning/QT DEVELOPMENT/13-CheckBoxExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/13-CheckBoxExample_autogen/timestamp	9946fd00b0ce5831
+29	192	7600205045869648	E:/PERSONAL/Learning/QT DEVELOPMENT/13-CheckBoxExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/13-CheckBoxExample_autogen/mocs_compilation.cpp	9946fd00b0ce5831
+193	281	7600205048264434	13-CheckBoxExample_autogen/EWIEGA46WW/qrc_res.cpp	833803ed6eb1c2f8
+193	281	7600205048264434	E:/PERSONAL/Learning/QT DEVELOPMENT/13-CheckBoxExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/13-CheckBoxExample_autogen/EWIEGA46WW/qrc_res.cpp	833803ed6eb1c2f8
+286	588	7600205048431983	CMakeFiles/13-CheckBoxExample.dir/13-CheckBoxExample_autogen/EWIEGA46WW/qrc_res.cpp.obj	518a8e91fa995645
+282	2891	7600205048398158	CMakeFiles/13-CheckBoxExample.dir/widget.cpp.obj	8dd0c0f70c54285a
+2891	3206	7600205074487315	13-CheckBoxExample.exe	a7b0869417daab01
+34	212	7600206996109206	13-CheckBoxExample_autogen/timestamp	9946fd00b0ce5831
+34	212	7600206996109206	13-CheckBoxExample_autogen/mocs_compilation.cpp	9946fd00b0ce5831
+34	212	7600206996109206	E:/PERSONAL/Learning/QT DEVELOPMENT/13-CheckBoxExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/13-CheckBoxExample_autogen/timestamp	9946fd00b0ce5831
+34	212	7600206996109206	E:/PERSONAL/Learning/QT DEVELOPMENT/13-CheckBoxExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/13-CheckBoxExample_autogen/mocs_compilation.cpp	9946fd00b0ce5831
+213	2251	7600206997895174	CMakeFiles/13-CheckBoxExample.dir/widget.cpp.obj	8dd0c0f70c54285a
+2251	2457	7600207018283979	13-CheckBoxExample.exe	a7b0869417daab01
+33	686	7600208463149579	13-CheckBoxExample_autogen/timestamp	9946fd00b0ce5831
+33	686	7600208463149579	13-CheckBoxExample_autogen/mocs_compilation.cpp	9946fd00b0ce5831
+33	686	7600208463149579	E:/PERSONAL/Learning/QT DEVELOPMENT/13-CheckBoxExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/13-CheckBoxExample_autogen/timestamp	9946fd00b0ce5831
+33	686	7600208463149579	E:/PERSONAL/Learning/QT DEVELOPMENT/13-CheckBoxExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/13-CheckBoxExample_autogen/mocs_compilation.cpp	9946fd00b0ce5831
+696	3636	7600208464059895	CMakeFiles/13-CheckBoxExample.dir/widget.cpp.obj	8dd0c0f70c54285a
+692	3688	7600208464017347	CMakeFiles/13-CheckBoxExample.dir/main.cpp.obj	53abf78e8de2ac6a
+687	3757	7600208463964513	CMakeFiles/13-CheckBoxExample.dir/13-CheckBoxExample_autogen/mocs_compilation.cpp.obj	4bf6c8ee28dc84d9
+3758	4015	7600208494677826	13-CheckBoxExample.exe	a7b0869417daab01
+40	930	7600210730863203	13-CheckBoxExample_autogen/timestamp	9946fd00b0ce5831
+40	930	7600210730863203	13-CheckBoxExample_autogen/mocs_compilation.cpp	9946fd00b0ce5831
+40	930	7600210730863203	E:/PERSONAL/Learning/QT DEVELOPMENT/13-CheckBoxExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/13-CheckBoxExample_autogen/timestamp	9946fd00b0ce5831
+40	930	7600210730863203	E:/PERSONAL/Learning/QT DEVELOPMENT/13-CheckBoxExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/13-CheckBoxExample_autogen/mocs_compilation.cpp	9946fd00b0ce5831
+938	3986	7600210732130417	CMakeFiles/13-CheckBoxExample.dir/main.cpp.obj	53abf78e8de2ac6a
+944	4004	7600210732185559	CMakeFiles/13-CheckBoxExample.dir/widget.cpp.obj	8dd0c0f70c54285a
+932	4065	7600210732067149	CMakeFiles/13-CheckBoxExample.dir/13-CheckBoxExample_autogen/mocs_compilation.cpp.obj	4bf6c8ee28dc84d9
+4065	4316	7600210763394052	13-CheckBoxExample.exe	a7b0869417daab01
+12	184	7600212379528845	13-CheckBoxExample_autogen/timestamp	9946fd00b0ce5831
+12	184	7600212379528845	13-CheckBoxExample_autogen/mocs_compilation.cpp	9946fd00b0ce5831
+12	184	7600212379528845	E:/PERSONAL/Learning/QT DEVELOPMENT/13-CheckBoxExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/13-CheckBoxExample_autogen/timestamp	9946fd00b0ce5831
+12	184	7600212379528845	E:/PERSONAL/Learning/QT DEVELOPMENT/13-CheckBoxExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/13-CheckBoxExample_autogen/mocs_compilation.cpp	9946fd00b0ce5831
+184	2072	7600212381251163	CMakeFiles/13-CheckBoxExample.dir/widget.cpp.obj	8dd0c0f70c54285a
+2072	2262	7600212400126344	13-CheckBoxExample.exe	a7b0869417daab01

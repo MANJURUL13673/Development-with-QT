@@ -1,0 +1,17 @@
+# ninja log v6
+9	1464	7600234700303027	14-SpinBoxExample_autogen/timestamp	5dd67e75dc89e22
+9	1464	7600234700303027	14-SpinBoxExample_autogen/mocs_compilation.cpp	5dd67e75dc89e22
+9	1464	7600234700303027	E:/PERSONAL/Learning/QT DEVELOPMENT/14-SpinBoxExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/14-SpinBoxExample_autogen/timestamp	5dd67e75dc89e22
+9	1464	7600234700303027	E:/PERSONAL/Learning/QT DEVELOPMENT/14-SpinBoxExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/14-SpinBoxExample_autogen/mocs_compilation.cpp	5dd67e75dc89e22
+1470	5094	7600234701467075	CMakeFiles/14-SpinBoxExample.dir/14-SpinBoxExample_autogen/mocs_compilation.cpp.obj	c4646f31f55f1d2
+1475	5103	7600234701516713	CMakeFiles/14-SpinBoxExample.dir/main.cpp.obj	88b6089a31ead271
+1481	5105	7600234701586546	CMakeFiles/14-SpinBoxExample.dir/widget.cpp.obj	601e663993331b46
+5105	5502	7600234737827659	14-SpinBoxExample.exe	17b20c51198534e6
+51	1120	7600236261276690	14-SpinBoxExample_autogen/timestamp	5dd67e75dc89e22
+51	1120	7600236261276690	14-SpinBoxExample_autogen/mocs_compilation.cpp	5dd67e75dc89e22
+51	1120	7600236261276690	E:/PERSONAL/Learning/QT DEVELOPMENT/14-SpinBoxExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/14-SpinBoxExample_autogen/timestamp	5dd67e75dc89e22
+51	1120	7600236261276690	E:/PERSONAL/Learning/QT DEVELOPMENT/14-SpinBoxExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/14-SpinBoxExample_autogen/mocs_compilation.cpp	5dd67e75dc89e22
+1127	4310	7600236262628321	CMakeFiles/14-SpinBoxExample.dir/main.cpp.obj	88b6089a31ead271
+1121	4379	7600236262570860	CMakeFiles/14-SpinBoxExample.dir/14-SpinBoxExample_autogen/mocs_compilation.cpp.obj	c4646f31f55f1d2
+1133	4418	7600236262696021	CMakeFiles/14-SpinBoxExample.dir/widget.cpp.obj	601e663993331b46
+4418	4662	7600236295543907	14-SpinBoxExample.exe	17b20c51198534e6

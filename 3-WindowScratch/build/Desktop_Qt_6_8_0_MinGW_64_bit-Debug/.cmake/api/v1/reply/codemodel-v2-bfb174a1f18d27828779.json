@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b26475d352591df5211e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "3-WindowScratch",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "3-WindowScratch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-WindowScratch-Debug-76e7fa624b78dd86037f.json",
+					"name" : "3-WindowScratch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3-WindowScratch_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-WindowScratch_autogen-Debug-28934e38a00fed5eecdc.json",
+					"name" : "3-WindowScratch_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3-WindowScratch_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-WindowScratch_autogen_timestamp_deps-Debug-dd48a0999bbee37b3d6b.json",
+					"name" : "3-WindowScratch_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/3-WindowScratch/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/3-WindowScratch"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

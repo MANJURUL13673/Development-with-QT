@@ -1,0 +1,24 @@
+# ninja log v6
+39	234	7585568843346048	5-LabelExample_autogen/timestamp	a6a766d9ba4c449d
+39	234	7585568843346048	E:/PERSONAL/Learning/QT DEVELOPMENT/5-LabelExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/5-LabelExample_autogen/timestamp	a6a766d9ba4c449d
+39	234	7585568843346048	5-LabelExample_autogen/mocs_compilation.cpp	a6a766d9ba4c449d
+39	234	7585568843346048	E:/PERSONAL/Learning/QT DEVELOPMENT/5-LabelExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/5-LabelExample_autogen/mocs_compilation.cpp	a6a766d9ba4c449d
+823	3125	7585566512653278	CMakeFiles/5-LabelExample.dir/5-LabelExample_autogen/mocs_compilation.cpp.obj	4137bd10d9c185d
+234	3264	7585568845297617	CMakeFiles/5-LabelExample.dir/widget.cpp.obj	40c03f7b80675d4a
+828	3243	7585566512713553	CMakeFiles/5-LabelExample.dir/main.cpp.obj	808de55d596c44d4
+3264	3546	7585568875590535	5-LabelExample.exe	6cde1c744346483d
+30	220	7585573207791229	5-LabelExample_autogen/timestamp	a6a766d9ba4c449d
+30	220	7585573207791229	5-LabelExample_autogen/mocs_compilation.cpp	a6a766d9ba4c449d
+30	220	7585573207791229	E:/PERSONAL/Learning/QT DEVELOPMENT/5-LabelExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/5-LabelExample_autogen/timestamp	a6a766d9ba4c449d
+30	220	7585573207791229	E:/PERSONAL/Learning/QT DEVELOPMENT/5-LabelExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/5-LabelExample_autogen/mocs_compilation.cpp	a6a766d9ba4c449d
+221	354	7585573210875973	5-LabelExample_autogen/EWIEGA46WW/qrc_res.cpp	e8cd72546f0f624c
+221	354	7585573210875973	E:/PERSONAL/Learning/QT DEVELOPMENT/5-LabelExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/5-LabelExample_autogen/EWIEGA46WW/qrc_res.cpp	e8cd72546f0f624c
+359	2380	7585573211091266	CMakeFiles/5-LabelExample.dir/5-LabelExample_autogen/EWIEGA46WW/qrc_res.cpp.obj	2d6685a441998be9
+354	2456	7585573211032613	CMakeFiles/5-LabelExample.dir/widget.cpp.obj	40c03f7b80675d4a
+2456	2676	7585573232048519	5-LabelExample.exe	3378d4f3de3924b5
+38	236	7585574173279179	5-LabelExample_autogen/timestamp	a6a766d9ba4c449d
+38	236	7585574173279179	5-LabelExample_autogen/mocs_compilation.cpp	a6a766d9ba4c449d
+38	236	7585574173279179	E:/PERSONAL/Learning/QT DEVELOPMENT/5-LabelExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/5-LabelExample_autogen/timestamp	a6a766d9ba4c449d
+38	236	7585574173279179	E:/PERSONAL/Learning/QT DEVELOPMENT/5-LabelExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/5-LabelExample_autogen/mocs_compilation.cpp	a6a766d9ba4c449d
+237	2944	7585574175269344	CMakeFiles/5-LabelExample.dir/widget.cpp.obj	40c03f7b80675d4a
+2944	3175	7585574202344709	5-LabelExample.exe	3378d4f3de3924b5

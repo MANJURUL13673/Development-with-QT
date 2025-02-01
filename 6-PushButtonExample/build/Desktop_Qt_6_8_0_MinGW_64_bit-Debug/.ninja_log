@@ -1,0 +1,36 @@
+# ninja log v6
+6	812	7585586136677953	6-PushButtonExample_autogen/timestamp	2189116b84ca956f
+6	812	7585586136677953	6-PushButtonExample_autogen/mocs_compilation.cpp	2189116b84ca956f
+818	4272	7585586137796466	CMakeFiles/6-PushButtonExample.dir/6-PushButtonExample_autogen/mocs_compilation.cpp.obj	3082a52cc382c551
+823	4278	7585586137848096	CMakeFiles/6-PushButtonExample.dir/main.cpp.obj	b52bfd3cfef42ede
+6	812	7585586136677953	E:/PERSONAL/Learning/QT DEVELOPMENT/6-PushButtonExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/6-PushButtonExample_autogen/timestamp	2189116b84ca956f
+6	812	7585586136677953	E:/PERSONAL/Learning/QT DEVELOPMENT/6-PushButtonExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/6-PushButtonExample_autogen/mocs_compilation.cpp	2189116b84ca956f
+830	4274	7585586137908999	CMakeFiles/6-PushButtonExample.dir/widget.cpp.obj	49ef309bc10bdc0d
+4278	4650	7585586172398469	6-PushButtonExample.exe	114bdc12842d0b3e
+34	211	7585587671676020	6-PushButtonExample_autogen/timestamp	2189116b84ca956f
+34	211	7585587671676020	6-PushButtonExample_autogen/mocs_compilation.cpp	2189116b84ca956f
+34	211	7585587671676020	E:/PERSONAL/Learning/QT DEVELOPMENT/6-PushButtonExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/6-PushButtonExample_autogen/timestamp	2189116b84ca956f
+34	211	7585587671676020	E:/PERSONAL/Learning/QT DEVELOPMENT/6-PushButtonExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/6-PushButtonExample_autogen/mocs_compilation.cpp	2189116b84ca956f
+212	289	7585587674114856	6-PushButtonExample_autogen/EWIEGA46WW/qrc_res.cpp	c328666d4b3b30ce
+212	289	7585587674114856	E:/PERSONAL/Learning/QT DEVELOPMENT/6-PushButtonExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/6-PushButtonExample_autogen/EWIEGA46WW/qrc_res.cpp	c328666d4b3b30ce
+293	371	7585587674265009	CMakeFiles/6-PushButtonExample.dir/6-PushButtonExample_autogen/EWIEGA46WW/qrc_res.cpp.obj	15b0a50301d27472
+289	2116	7585587674224717	CMakeFiles/6-PushButtonExample.dir/widget.cpp.obj	49ef309bc10bdc0d
+2116	2302	7585587692492516	6-PushButtonExample.exe	d48f7155955d8819
+33	212	7585587948192206	6-PushButtonExample_autogen/timestamp	2189116b84ca956f
+33	212	7585587948192206	6-PushButtonExample_autogen/mocs_compilation.cpp	2189116b84ca956f
+33	212	7585587948192206	E:/PERSONAL/Learning/QT DEVELOPMENT/6-PushButtonExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/6-PushButtonExample_autogen/timestamp	2189116b84ca956f
+33	212	7585587948192206	E:/PERSONAL/Learning/QT DEVELOPMENT/6-PushButtonExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/6-PushButtonExample_autogen/mocs_compilation.cpp	2189116b84ca956f
+212	2188	7585587949990225	CMakeFiles/6-PushButtonExample.dir/widget.cpp.obj	49ef309bc10bdc0d
+2188	2384	7585587969747618	6-PushButtonExample.exe	d48f7155955d8819
+15	209	7585588784723110	6-PushButtonExample_autogen/timestamp	2189116b84ca956f
+15	209	7585588784723110	6-PushButtonExample_autogen/mocs_compilation.cpp	2189116b84ca956f
+15	209	7585588784723110	E:/PERSONAL/Learning/QT DEVELOPMENT/6-PushButtonExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/6-PushButtonExample_autogen/timestamp	2189116b84ca956f
+15	209	7585588784723110	E:/PERSONAL/Learning/QT DEVELOPMENT/6-PushButtonExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/6-PushButtonExample_autogen/mocs_compilation.cpp	2189116b84ca956f
+210	2254	7585588786662452	CMakeFiles/6-PushButtonExample.dir/widget.cpp.obj	49ef309bc10bdc0d
+2254	2457	7585588807105467	6-PushButtonExample.exe	d48f7155955d8819
+35	226	7585589395101501	6-PushButtonExample_autogen/timestamp	2189116b84ca956f
+35	226	7585589395101501	6-PushButtonExample_autogen/mocs_compilation.cpp	2189116b84ca956f
+35	226	7585589395101501	E:/PERSONAL/Learning/QT DEVELOPMENT/6-PushButtonExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/6-PushButtonExample_autogen/timestamp	2189116b84ca956f
+35	226	7585589395101501	E:/PERSONAL/Learning/QT DEVELOPMENT/6-PushButtonExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/6-PushButtonExample_autogen/mocs_compilation.cpp	2189116b84ca956f
+228	2114	7585589397030808	CMakeFiles/6-PushButtonExample.dir/widget.cpp.obj	49ef309bc10bdc0d
+2114	2311	7585589415897656	6-PushButtonExample.exe	d48f7155955d8819
