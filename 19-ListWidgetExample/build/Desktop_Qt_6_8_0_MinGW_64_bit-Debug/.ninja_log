@@ -1,0 +1,9 @@
+# ninja log v6
+15	1216	7602079738507405	19-ListWidgetExample_autogen/timestamp	71e17b0a96f611bd
+15	1216	7602079738507405	19-ListWidgetExample_autogen/mocs_compilation.cpp	71e17b0a96f611bd
+15	1216	7602079738507405	E:/PERSONAL/Learning/QT DEVELOPMENT/19-ListWidgetExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/19-ListWidgetExample_autogen/timestamp	71e17b0a96f611bd
+15	1216	7602079738507405	E:/PERSONAL/Learning/QT DEVELOPMENT/19-ListWidgetExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/19-ListWidgetExample_autogen/mocs_compilation.cpp	71e17b0a96f611bd
+1223	5269	7602079739973471	CMakeFiles/19-ListWidgetExample.dir/19-ListWidgetExample_autogen/mocs_compilation.cpp.obj	9605a653ceb7d9
+1230	5293	7602079740040874	CMakeFiles/19-ListWidgetExample.dir/main.cpp.obj	86d11c4c8f6d4a40
+1237	5736	7602079740110680	CMakeFiles/19-ListWidgetExample.dir/widget.cpp.obj	f99623b3a1d609d5
+5737	6133	7602079785106667	19-ListWidgetExample.exe	b5405cde4616ad03

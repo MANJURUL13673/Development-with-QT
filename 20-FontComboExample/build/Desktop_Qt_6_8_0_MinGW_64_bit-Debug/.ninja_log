@@ -1,0 +1,21 @@
+# ninja log v6
+15	1341	7602083341608768	20-FontComboExample_autogen/timestamp	7aca98fce5d14b1d
+15	1341	7602083341608768	20-FontComboExample_autogen/mocs_compilation.cpp	7aca98fce5d14b1d
+15	1341	7602083341608768	E:/PERSONAL/Learning/QT DEVELOPMENT/20-FontComboExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/20-FontComboExample_autogen/timestamp	7aca98fce5d14b1d
+15	1341	7602083341608768	E:/PERSONAL/Learning/QT DEVELOPMENT/20-FontComboExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/20-FontComboExample_autogen/mocs_compilation.cpp	7aca98fce5d14b1d
+1356	5949	7602083343240156	CMakeFiles/20-FontComboExample.dir/main.cpp.obj	78ffd085b79292bb
+1362	5961	7602083343302458	CMakeFiles/20-FontComboExample.dir/widget.cpp.obj	1ec8955cad83b87a
+1349	6069	7602083343175639	CMakeFiles/20-FontComboExample.dir/20-FontComboExample_autogen/mocs_compilation.cpp.obj	d7cb4dacdc5b410d
+6070	6385	7602083390395921	20-FontComboExample.exe	eeed70ac7feda490
+54	294	7602085038393846	20-FontComboExample_autogen/timestamp	7aca98fce5d14b1d
+54	294	7602085038393846	20-FontComboExample_autogen/mocs_compilation.cpp	7aca98fce5d14b1d
+54	294	7602085038393846	E:/PERSONAL/Learning/QT DEVELOPMENT/20-FontComboExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/20-FontComboExample_autogen/timestamp	7aca98fce5d14b1d
+54	294	7602085038393846	E:/PERSONAL/Learning/QT DEVELOPMENT/20-FontComboExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/20-FontComboExample_autogen/mocs_compilation.cpp	7aca98fce5d14b1d
+295	4781	7602085040799121	CMakeFiles/20-FontComboExample.dir/widget.cpp.obj	1ec8955cad83b87a
+4781	5095	7602085085658840	20-FontComboExample.exe	eeed70ac7feda490
+54	307	7602085875494058	20-FontComboExample_autogen/timestamp	7aca98fce5d14b1d
+54	307	7602085875494058	20-FontComboExample_autogen/mocs_compilation.cpp	7aca98fce5d14b1d
+54	307	7602085875494058	E:/PERSONAL/Learning/QT DEVELOPMENT/20-FontComboExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/20-FontComboExample_autogen/timestamp	7aca98fce5d14b1d
+54	307	7602085875494058	E:/PERSONAL/Learning/QT DEVELOPMENT/20-FontComboExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/20-FontComboExample_autogen/mocs_compilation.cpp	7aca98fce5d14b1d
+308	4045	7602085878039296	CMakeFiles/20-FontComboExample.dir/widget.cpp.obj	1ec8955cad83b87a
+4045	4285	7602085915408980	20-FontComboExample.exe	eeed70ac7feda490

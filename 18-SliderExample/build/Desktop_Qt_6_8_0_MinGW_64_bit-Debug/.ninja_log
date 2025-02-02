@@ -1,0 +1,15 @@
+# ninja log v6
+16	1269	7602067430189531	18-SliderExample_autogen/timestamp	89df1a4e0bff87b0
+16	1269	7602067430189531	18-SliderExample_autogen/mocs_compilation.cpp	89df1a4e0bff87b0
+16	1269	7602067430189531	E:/PERSONAL/Learning/QT DEVELOPMENT/18-SliderExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/18-SliderExample_autogen/timestamp	89df1a4e0bff87b0
+16	1269	7602067430189531	E:/PERSONAL/Learning/QT DEVELOPMENT/18-SliderExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/18-SliderExample_autogen/mocs_compilation.cpp	89df1a4e0bff87b0
+1294	5268	7602067431700106	CMakeFiles/18-SliderExample.dir/widget.cpp.obj	58b7a8f13931b93a
+1287	5516	7602067431633234	CMakeFiles/18-SliderExample.dir/main.cpp.obj	ffdebbd7515cde1b
+1282	5554	7602067431573832	CMakeFiles/18-SliderExample.dir/18-SliderExample_autogen/mocs_compilation.cpp.obj	8a21c4a4c1e44a1b
+5555	5877	7602067474307925	18-SliderExample.exe	fc6c2c6687bff0e5
+64	359	7602067738292968	18-SliderExample_autogen/timestamp	89df1a4e0bff87b0
+64	359	7602067738292968	18-SliderExample_autogen/mocs_compilation.cpp	89df1a4e0bff87b0
+64	359	7602067738292968	E:/PERSONAL/Learning/QT DEVELOPMENT/18-SliderExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/18-SliderExample_autogen/timestamp	89df1a4e0bff87b0
+64	359	7602067738292968	E:/PERSONAL/Learning/QT DEVELOPMENT/18-SliderExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/18-SliderExample_autogen/mocs_compilation.cpp	89df1a4e0bff87b0
+360	4072	7602067741252873	CMakeFiles/18-SliderExample.dir/widget.cpp.obj	58b7a8f13931b93a
+4072	4353	7602067778364004	18-SliderExample.exe	fc6c2c6687bff0e5

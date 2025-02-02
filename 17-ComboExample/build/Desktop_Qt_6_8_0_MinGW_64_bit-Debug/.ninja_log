@@ -1,0 +1,23 @@
+# ninja log v6
+30	1522	7602056670764280	17-ComboExample_autogen/timestamp	127d87b53144332a
+30	1522	7602056670764280	17-ComboExample_autogen/mocs_compilation.cpp	127d87b53144332a
+30	1522	7602056670764280	E:/PERSONAL/Learning/QT DEVELOPMENT/17-ComboExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/17-ComboExample_autogen/timestamp	127d87b53144332a
+30	1522	7602056670764280	E:/PERSONAL/Learning/QT DEVELOPMENT/17-ComboExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/17-ComboExample_autogen/mocs_compilation.cpp	127d87b53144332a
+1530	6326	7602056672271988	CMakeFiles/17-ComboExample.dir/17-ComboExample_autogen/mocs_compilation.cpp.obj	dc2afa01ba916195
+1536	6332	7602056672333735	CMakeFiles/17-ComboExample.dir/main.cpp.obj	9dc6161014631a89
+1542	6343	7602056672394812	CMakeFiles/17-ComboExample.dir/widget.cpp.obj	e732b260db37804f
+6344	7019	7602056720414473	17-ComboExample.exe	6e7ef5b3947f095
+54	336	7602058471848171	17-ComboExample_autogen/timestamp	127d87b53144332a
+54	336	7602058471848171	17-ComboExample_autogen/mocs_compilation.cpp	127d87b53144332a
+54	336	7602058471848171	E:/PERSONAL/Learning/QT DEVELOPMENT/17-ComboExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/17-ComboExample_autogen/timestamp	127d87b53144332a
+54	336	7602058471848171	E:/PERSONAL/Learning/QT DEVELOPMENT/17-ComboExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/17-ComboExample_autogen/mocs_compilation.cpp	127d87b53144332a
+337	4163	7602058474674017	CMakeFiles/17-ComboExample.dir/widget.cpp.obj	e732b260db37804f
+4163	4464	7602058512941931	17-ComboExample.exe	6e7ef5b3947f095
+51	1175	7602061073248102	17-ComboExample_autogen/timestamp	127d87b53144332a
+51	1175	7602061073248102	17-ComboExample_autogen/mocs_compilation.cpp	127d87b53144332a
+51	1175	7602061073248102	E:/PERSONAL/Learning/QT DEVELOPMENT/17-ComboExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/17-ComboExample_autogen/timestamp	127d87b53144332a
+51	1175	7602061073248102	E:/PERSONAL/Learning/QT DEVELOPMENT/17-ComboExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/17-ComboExample_autogen/mocs_compilation.cpp	127d87b53144332a
+1188	5292	7602061074647903	CMakeFiles/17-ComboExample.dir/widget.cpp.obj	e732b260db37804f
+1176	5308	7602061074520961	CMakeFiles/17-ComboExample.dir/17-ComboExample_autogen/mocs_compilation.cpp.obj	dc2afa01ba916195
+1181	5337	7602061074572179	CMakeFiles/17-ComboExample.dir/main.cpp.obj	9dc6161014631a89
+5338	5668	7602061116127598	17-ComboExample.exe	6e7ef5b3947f095
