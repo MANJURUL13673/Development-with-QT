@@ -1,0 +1,37 @@
+# ninja log v6
+7	747	7602835810018169	28-SignalsSlots_autogen/timestamp	2e690789d8c9830a
+7	747	7602835810018169	28-SignalsSlots_autogen/mocs_compilation.cpp	2e690789d8c9830a
+7	747	7602835810018169	E:/PERSONAL/Learning/QT DEVELOPMENT/28-SignalsSlots/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/28-SignalsSlots_autogen/timestamp	2e690789d8c9830a
+7	747	7602835810018169	E:/PERSONAL/Learning/QT DEVELOPMENT/28-SignalsSlots/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/28-SignalsSlots_autogen/mocs_compilation.cpp	2e690789d8c9830a
+753	3260	7602835810908082	CMakeFiles/28-SignalsSlots.dir/28-SignalsSlots_autogen/mocs_compilation.cpp.obj	7020c9d199e21de
+758	3268	7602835810960078	CMakeFiles/28-SignalsSlots.dir/main.cpp.obj	4922e6ddccc06ac0
+763	3274	7602835811005270	CMakeFiles/28-SignalsSlots.dir/widget.cpp.obj	e47ae08a86d415c2
+3275	3678	7602835836126759	28-SignalsSlots.exe	cc2109b42f986cb7
+35	251	7602837868487345	28-SignalsSlots_autogen/timestamp	2e690789d8c9830a
+35	251	7602837868487345	28-SignalsSlots_autogen/mocs_compilation.cpp	2e690789d8c9830a
+35	251	7602837868487345	E:/PERSONAL/Learning/QT DEVELOPMENT/28-SignalsSlots/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/28-SignalsSlots_autogen/timestamp	2e690789d8c9830a
+35	251	7602837868487345	E:/PERSONAL/Learning/QT DEVELOPMENT/28-SignalsSlots/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/28-SignalsSlots_autogen/mocs_compilation.cpp	2e690789d8c9830a
+252	2553	7602837870652895	CMakeFiles/28-SignalsSlots.dir/widget.cpp.obj	e47ae08a86d415c2
+2553	2743	7602837893667123	28-SignalsSlots.exe	cc2109b42f986cb7
+32	239	7602838893564847	28-SignalsSlots_autogen/timestamp	2e690789d8c9830a
+32	239	7602838893564847	28-SignalsSlots_autogen/mocs_compilation.cpp	2e690789d8c9830a
+32	239	7602838893564847	E:/PERSONAL/Learning/QT DEVELOPMENT/28-SignalsSlots/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/28-SignalsSlots_autogen/timestamp	2e690789d8c9830a
+32	239	7602838893564847	E:/PERSONAL/Learning/QT DEVELOPMENT/28-SignalsSlots/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/28-SignalsSlots_autogen/mocs_compilation.cpp	2e690789d8c9830a
+240	2339	7602838895636215	CMakeFiles/28-SignalsSlots.dir/widget.cpp.obj	e47ae08a86d415c2
+2340	2530	7602838916627899	28-SignalsSlots.exe	cc2109b42f986cb7
+14	680	7602841037952023	28-SignalsSlots_autogen/timestamp	2e690789d8c9830a
+14	680	7602841037952023	28-SignalsSlots_autogen/mocs_compilation.cpp	2e690789d8c9830a
+14	680	7602841037952023	E:/PERSONAL/Learning/QT DEVELOPMENT/28-SignalsSlots/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/28-SignalsSlots_autogen/timestamp	2e690789d8c9830a
+14	680	7602841037952023	E:/PERSONAL/Learning/QT DEVELOPMENT/28-SignalsSlots/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/28-SignalsSlots_autogen/mocs_compilation.cpp	2e690789d8c9830a
+681	2981	7602841039093099	CMakeFiles/28-SignalsSlots.dir/28-SignalsSlots_autogen/mocs_compilation.cpp.obj	7020c9d199e21de
+687	2982	7602841039153671	CMakeFiles/28-SignalsSlots.dir/main.cpp.obj	4922e6ddccc06ac0
+691	3139	7602841039193486	CMakeFiles/28-SignalsSlots.dir/widget.cpp.obj	e47ae08a86d415c2
+3140	3488	7602841063685437	28-SignalsSlots.exe	cc2109b42f986cb7
+35	728	7602842169527027	28-SignalsSlots_autogen/timestamp	2e690789d8c9830a
+35	728	7602842169527027	28-SignalsSlots_autogen/mocs_compilation.cpp	2e690789d8c9830a
+35	728	7602842169527027	E:/PERSONAL/Learning/QT DEVELOPMENT/28-SignalsSlots/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/28-SignalsSlots_autogen/timestamp	2e690789d8c9830a
+35	728	7602842169527027	E:/PERSONAL/Learning/QT DEVELOPMENT/28-SignalsSlots/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/28-SignalsSlots_autogen/mocs_compilation.cpp	2e690789d8c9830a
+729	3422	7602842170402456	CMakeFiles/28-SignalsSlots.dir/28-SignalsSlots_autogen/mocs_compilation.cpp.obj	7020c9d199e21de
+735	3537	7602842170470101	CMakeFiles/28-SignalsSlots.dir/main.cpp.obj	4922e6ddccc06ac0
+740	3611	7602842170511723	CMakeFiles/28-SignalsSlots.dir/widget.cpp.obj	e47ae08a86d415c2
+3611	3818	7602842199228225	28-SignalsSlots.exe	cc2109b42f986cb7
