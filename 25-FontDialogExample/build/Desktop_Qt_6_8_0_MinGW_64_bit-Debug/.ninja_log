@@ -1,0 +1,9 @@
+# ninja log v6
+6	720	7602757183096858	25-FontDialogExample_autogen/timestamp	378433ae60aea75e
+6	720	7602757183096858	25-FontDialogExample_autogen/mocs_compilation.cpp	378433ae60aea75e
+6	720	7602757183096858	E:/PERSONAL/Learning/QT DEVELOPMENT/25-FontDialogExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/25-FontDialogExample_autogen/timestamp	378433ae60aea75e
+6	720	7602757183096858	E:/PERSONAL/Learning/QT DEVELOPMENT/25-FontDialogExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/25-FontDialogExample_autogen/mocs_compilation.cpp	378433ae60aea75e
+736	3368	7602757184083854	CMakeFiles/25-FontDialogExample.dir/widget.cpp.obj	cc9ee8bdc4bbbadf
+726	3383	7602757183977791	CMakeFiles/25-FontDialogExample.dir/25-FontDialogExample_autogen/mocs_compilation.cpp.obj	4c85f36edd9abab4
+732	3421	7602757184029502	CMakeFiles/25-FontDialogExample.dir/main.cpp.obj	3c861347d3446992
+3421	3651	7602757210932360	25-FontDialogExample.exe	3fad500e91273262

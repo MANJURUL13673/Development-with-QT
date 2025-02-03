@@ -16,8 +16,4 @@ Widget::Widget(QWidget *parent)
 
 Widget::~Widget() {}
 
-void Widget::changeFont()
-{
-    QFont font = QFont(fontCombo->itemText(fontCombo->currentIndex()));
-    edit->setFont(font);
-}
+

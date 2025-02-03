@@ -1,0 +1,15 @@
+# ninja log v6
+35	1133	7602789032324456	26-MessageBox_autogen/timestamp	d016f00f007d6ec4
+35	1133	7602789032324456	26-MessageBox_autogen/mocs_compilation.cpp	d016f00f007d6ec4
+35	1133	7602789032324456	E:/PERSONAL/Learning/QT DEVELOPMENT/26-MessageBox/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/26-MessageBox_autogen/timestamp	d016f00f007d6ec4
+35	1133	7602789032324456	E:/PERSONAL/Learning/QT DEVELOPMENT/26-MessageBox/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/26-MessageBox_autogen/mocs_compilation.cpp	d016f00f007d6ec4
+1139	4227	7602789033214595	CMakeFiles/26-MessageBox.dir/26-MessageBox_autogen/mocs_compilation.cpp.obj	dac283db1fb6d2ab
+1149	4228	7602789033314167	CMakeFiles/26-MessageBox.dir/widget.cpp.obj	ced85032dc4afef2
+1143	4234	7602789033262603	CMakeFiles/26-MessageBox.dir/main.cpp.obj	5cab228458154db9
+4234	5035	7602789064172400	26-MessageBox.exe	7509691cdefd1662
+35	210	7602789613083582	26-MessageBox_autogen/timestamp	d016f00f007d6ec4
+35	210	7602789613083582	26-MessageBox_autogen/mocs_compilation.cpp	d016f00f007d6ec4
+35	210	7602789613083582	E:/PERSONAL/Learning/QT DEVELOPMENT/26-MessageBox/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/26-MessageBox_autogen/timestamp	d016f00f007d6ec4
+35	210	7602789613083582	E:/PERSONAL/Learning/QT DEVELOPMENT/26-MessageBox/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/26-MessageBox_autogen/mocs_compilation.cpp	d016f00f007d6ec4
+210	2177	7602789614843508	CMakeFiles/26-MessageBox.dir/widget.cpp.obj	ced85032dc4afef2
+2177	2356	7602789634510915	26-MessageBox.exe	7509691cdefd1662

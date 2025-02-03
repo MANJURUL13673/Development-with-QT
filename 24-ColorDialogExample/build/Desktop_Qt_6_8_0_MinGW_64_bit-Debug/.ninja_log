@@ -1,0 +1,9 @@
+# ninja log v6
+6	972	7602750858348993	24-ColorDialogExample_autogen/timestamp	f60d4f9ebf32e648
+6	972	7602750858348993	24-ColorDialogExample_autogen/mocs_compilation.cpp	f60d4f9ebf32e648
+6	972	7602750858348993	E:/PERSONAL/Learning/QT DEVELOPMENT/24-ColorDialogExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/24-ColorDialogExample_autogen/timestamp	f60d4f9ebf32e648
+6	972	7602750858348993	E:/PERSONAL/Learning/QT DEVELOPMENT/24-ColorDialogExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/24-ColorDialogExample_autogen/mocs_compilation.cpp	f60d4f9ebf32e648
+991	4212	7602750859622203	CMakeFiles/24-ColorDialogExample.dir/widget.cpp.obj	20a8a924a64072cf
+977	4234	7602750859486160	CMakeFiles/24-ColorDialogExample.dir/24-ColorDialogExample_autogen/mocs_compilation.cpp.obj	561b69580d94f917
+983	4280	7602750859541361	CMakeFiles/24-ColorDialogExample.dir/main.cpp.obj	5410c45fbd85f3b2
+4280	4552	7602750892509541	24-ColorDialogExample.exe	8f76e6f181f4d852
