@@ -2,6 +2,7 @@
 #define WIDGET_H
 
 #include <QWidget>
+#include <QTableWidget>
 
 class Widget : public QWidget
 {
@@ -10,5 +11,8 @@ class Widget : public QWidget
 public:
     Widget(QWidget *parent = nullptr);
     ~Widget();
+
+private:
+    QTableWidget *table;
 };
 #endif // WIDGET_H

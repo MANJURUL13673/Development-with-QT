@@ -1,0 +1,9 @@
+# ninja log v6
+20	1721	7602097346246588	21-TableWidgetExample_autogen/timestamp	509ff946279edc12
+20	1721	7602097346246588	21-TableWidgetExample_autogen/mocs_compilation.cpp	509ff946279edc12
+20	1721	7602097346246588	E:/PERSONAL/Learning/QT DEVELOPMENT/21-TableWidgetExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/21-TableWidgetExample_autogen/timestamp	509ff946279edc12
+20	1721	7602097346246588	E:/PERSONAL/Learning/QT DEVELOPMENT/21-TableWidgetExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/21-TableWidgetExample_autogen/mocs_compilation.cpp	509ff946279edc12
+1738	7707	7602097348333822	CMakeFiles/21-TableWidgetExample.dir/main.cpp.obj	3106bb20425f1e3d
+1729	7722	7602097348243273	CMakeFiles/21-TableWidgetExample.dir/21-TableWidgetExample_autogen/mocs_compilation.cpp.obj	ba29b248492cd8c7
+1748	7747	7602097348420841	CMakeFiles/21-TableWidgetExample.dir/widget.cpp.obj	7427abdc234997f8
+7747	8221	7602097408426582	21-TableWidgetExample.exe	d5ccb69c314cf616

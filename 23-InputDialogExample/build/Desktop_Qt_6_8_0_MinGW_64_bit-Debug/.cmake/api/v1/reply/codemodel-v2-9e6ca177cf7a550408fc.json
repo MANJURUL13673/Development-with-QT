@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a845970d72010c89d1c0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "23-InputDialogExample",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "23-InputDialogExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-23-InputDialogExample-Debug-7d08f2a1c40e5779332d.json",
+					"name" : "23-InputDialogExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "23-InputDialogExample_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-23-InputDialogExample_autogen-Debug-b7f1c074c8631846ab03.json",
+					"name" : "23-InputDialogExample_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "23-InputDialogExample_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-23-InputDialogExample_autogen_timestamp_deps-Debug-8daf20d10362a6a5f39f.json",
+					"name" : "23-InputDialogExample_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/23-InputDialogExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/23-InputDialogExample"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

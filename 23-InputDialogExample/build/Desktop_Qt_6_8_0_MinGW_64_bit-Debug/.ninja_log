@@ -1,0 +1,23 @@
+# ninja log v6
+7	892	7602743413567689	23-InputDialogExample_autogen/timestamp	bfe93223da5be351
+7	892	7602743413567689	23-InputDialogExample_autogen/mocs_compilation.cpp	bfe93223da5be351
+7	892	7602743413567689	E:/PERSONAL/Learning/QT DEVELOPMENT/23-InputDialogExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/23-InputDialogExample_autogen/timestamp	bfe93223da5be351
+7	892	7602743413567689	E:/PERSONAL/Learning/QT DEVELOPMENT/23-InputDialogExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/23-InputDialogExample_autogen/mocs_compilation.cpp	bfe93223da5be351
+909	4495	7602743414971609	CMakeFiles/23-InputDialogExample.dir/widget.cpp.obj	d8475c4c2fa781d9
+897	4497	7602743414863501	CMakeFiles/23-InputDialogExample.dir/23-InputDialogExample_autogen/mocs_compilation.cpp.obj	4af5e192482ab3a6
+903	4577	7602743414913584	CMakeFiles/23-InputDialogExample.dir/main.cpp.obj	ffa1bceff257efce
+4577	4935	7602743451664048	23-InputDialogExample.exe	7909075e56f7c148
+34	746	7602745157353326	23-InputDialogExample_autogen/timestamp	bfe93223da5be351
+34	746	7602745157353326	23-InputDialogExample_autogen/mocs_compilation.cpp	bfe93223da5be351
+34	746	7602745157353326	E:/PERSONAL/Learning/QT DEVELOPMENT/23-InputDialogExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/23-InputDialogExample_autogen/timestamp	bfe93223da5be351
+34	746	7602745157353326	E:/PERSONAL/Learning/QT DEVELOPMENT/23-InputDialogExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/23-InputDialogExample_autogen/mocs_compilation.cpp	bfe93223da5be351
+747	3347	7602745158287218	CMakeFiles/23-InputDialogExample.dir/23-InputDialogExample_autogen/mocs_compilation.cpp.obj	4af5e192482ab3a6
+756	3378	7602745158371431	CMakeFiles/23-InputDialogExample.dir/widget.cpp.obj	d8475c4c2fa781d9
+752	3423	7602745158334573	CMakeFiles/23-InputDialogExample.dir/main.cpp.obj	ffa1bceff257efce
+3423	3633	7602745185045076	23-InputDialogExample.exe	7909075e56f7c148
+32	208	7602747589469345	23-InputDialogExample_autogen/timestamp	bfe93223da5be351
+32	208	7602747589469345	23-InputDialogExample_autogen/mocs_compilation.cpp	bfe93223da5be351
+32	208	7602747589469345	E:/PERSONAL/Learning/QT DEVELOPMENT/23-InputDialogExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/23-InputDialogExample_autogen/timestamp	bfe93223da5be351
+32	208	7602747589469345	E:/PERSONAL/Learning/QT DEVELOPMENT/23-InputDialogExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/23-InputDialogExample_autogen/mocs_compilation.cpp	bfe93223da5be351
+209	2617	7602747591247274	CMakeFiles/23-InputDialogExample.dir/widget.cpp.obj	d8475c4c2fa781d9
+2617	2861	7602747615332858	23-InputDialogExample.exe	7909075e56f7c148
