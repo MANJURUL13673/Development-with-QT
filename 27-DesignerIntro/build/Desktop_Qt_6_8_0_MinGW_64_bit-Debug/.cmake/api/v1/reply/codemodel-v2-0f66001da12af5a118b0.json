@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4beb7c7cf2bb0bd098a0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "27-DesignerIntro",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "27-DesignerIntro::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-27-DesignerIntro-Debug-dcd59d4686dd09e8d7e8.json",
+					"name" : "27-DesignerIntro",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "27-DesignerIntro_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-27-DesignerIntro_autogen-Debug-140e091fedc9ffbd320a.json",
+					"name" : "27-DesignerIntro_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "27-DesignerIntro_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-27-DesignerIntro_autogen_timestamp_deps-Debug-c5723fc05bd539b9124d.json",
+					"name" : "27-DesignerIntro_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

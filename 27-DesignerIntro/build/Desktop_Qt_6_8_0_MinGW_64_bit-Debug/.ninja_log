@@ -1,0 +1,24 @@
+# ninja log v6
+6	723	7602809390907494	27-DesignerIntro_autogen/timestamp	d969b16c0647e446
+6	723	7602809390907494	27-DesignerIntro_autogen/mocs_compilation.cpp	d969b16c0647e446
+6	723	7602809390907494	E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/27-DesignerIntro_autogen/mocs_compilation.cpp	d969b16c0647e446
+738	2937	7602809391871822	CMakeFiles/27-DesignerIntro.dir/widget.cpp.obj	ff8b8ea6457df3cb
+6	723	7602809390907494	E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/27-DesignerIntro_autogen/timestamp	d969b16c0647e446
+729	2883	7602809391775299	CMakeFiles/27-DesignerIntro.dir/27-DesignerIntro_autogen/mocs_compilation.cpp.obj	4fc4d0f8aeadd73a
+2938	3236	7602809413864066	27-DesignerIntro.exe	996132fa6497a94f
+734	2894	7602809391815984	CMakeFiles/27-DesignerIntro.dir/main.cpp.obj	9f47daa5a359df50
+25	238	7602811863149241	27-DesignerIntro_autogen/timestamp	d969b16c0647e446
+25	238	7602811863149241	27-DesignerIntro_autogen/mocs_compilation.cpp	d969b16c0647e446
+25	238	7602811863149241	E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/27-DesignerIntro_autogen/timestamp	d969b16c0647e446
+25	238	7602811863149241	E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/27-DesignerIntro_autogen/mocs_compilation.cpp	d969b16c0647e446
+239	321	7602811865990104	27-DesignerIntro_autogen/EWIEGA46WW/qrc_res.cpp	d21f138494f2e58c
+239	321	7602811865990104	E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/27-DesignerIntro_autogen/EWIEGA46WW/qrc_res.cpp	d21f138494f2e58c
+326	400	7602811866170248	CMakeFiles/27-DesignerIntro.dir/27-DesignerIntro_autogen/EWIEGA46WW/qrc_res.cpp.obj	f5ec6f3ef73bffa
+321	2206	7602811866123439	CMakeFiles/27-DesignerIntro.dir/widget.cpp.obj	ff8b8ea6457df3cb
+2207	2405	7602811884973207	27-DesignerIntro.exe	5bdc548502c32421
+11	200	7602812235941476	27-DesignerIntro_autogen/timestamp	d969b16c0647e446
+11	200	7602812235941476	27-DesignerIntro_autogen/mocs_compilation.cpp	d969b16c0647e446
+11	200	7602812235941476	E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/27-DesignerIntro_autogen/timestamp	d969b16c0647e446
+11	200	7602812235941476	E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/27-DesignerIntro_autogen/mocs_compilation.cpp	d969b16c0647e446
+201	2113	7602812237832339	CMakeFiles/27-DesignerIntro.dir/widget.cpp.obj	ff8b8ea6457df3cb
+2113	2293	7602812256959855	27-DesignerIntro.exe	5bdc548502c32421

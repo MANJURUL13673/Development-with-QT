@@ -1,0 +1,9 @@
+E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/27-DesignerIntro.dir
+E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/27-DesignerIntro_autogen_timestamp_deps.dir
+E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/27-DesignerIntro_autogen.dir

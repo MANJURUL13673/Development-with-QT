@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/27-DesignerIntro_autogen",
+	"CMAKE_BINARY_DIR" : "E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro",
+	"CMAKE_SOURCE_DIR" : "E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/27-DesignerIntro_autogen/include",
+	"INPUTS" : [ "E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/QtImg.png" ],
+	"LOCK_FILE" : "E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/27-DesignerIntro_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.8.0/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/27-DesignerIntro_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/PERSONAL/Learning/QT DEVELOPMENT/27-DesignerIntro/res.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
