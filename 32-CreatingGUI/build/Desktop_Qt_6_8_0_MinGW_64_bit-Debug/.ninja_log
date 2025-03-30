@@ -1,0 +1,36 @@
+# ninja log v6
+10	1102	7649662645495526	32-CreatingGUI_autogen/timestamp	6964636a2f029346
+1117	4791	7649662646853124	CMakeFiles/32-CreatingGUI.dir/32-CreatingGUI_autogen/mocs_compilation.cpp.obj	3932dc2c1f5f4b13
+10	1102	7649662645495526	32-CreatingGUI_autogen/mocs_compilation.cpp	6964636a2f029346
+10	1102	7649662645495526	E:/PERSONAL/Learning/QT DEVELOPMENT/32-CreatingGUI/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/32-CreatingGUI_autogen/timestamp	6964636a2f029346
+1123	4818	7649662646907418	CMakeFiles/32-CreatingGUI.dir/main.cpp.obj	2d440729f6bf6ed
+10	1102	7649662645495526	E:/PERSONAL/Learning/QT DEVELOPMENT/32-CreatingGUI/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/32-CreatingGUI_autogen/mocs_compilation.cpp	6964636a2f029346
+1129	4879	7649662646969618	CMakeFiles/32-CreatingGUI.dir/mainwindow.cpp.obj	fd08908921083bbf
+4879	5255	7649662684475781	32-CreatingGUI.exe	39dcceab8b4588c6
+80	493	7650580459005705	32-CreatingGUI_autogen/timestamp	6964636a2f029346
+80	493	7650580459005705	32-CreatingGUI_autogen/mocs_compilation.cpp	6964636a2f029346
+80	493	7650580459005705	E:/PERSONAL/Learning/QT DEVELOPMENT/32-CreatingGUI/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/32-CreatingGUI_autogen/timestamp	6964636a2f029346
+80	493	7650580459005705	E:/PERSONAL/Learning/QT DEVELOPMENT/32-CreatingGUI/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/32-CreatingGUI_autogen/mocs_compilation.cpp	6964636a2f029346
+502	654	7650580464529626	32-CreatingGUI_autogen/EWIEGA46WW/qrc_res.cpp	1cafdefc8cbb738a
+502	654	7650580464529626	E:/PERSONAL/Learning/QT DEVELOPMENT/32-CreatingGUI/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/32-CreatingGUI_autogen/EWIEGA46WW/qrc_res.cpp	1cafdefc8cbb738a
+661	2012	7650580464812022	CMakeFiles/32-CreatingGUI.dir/32-CreatingGUI_autogen/EWIEGA46WW/qrc_res.cpp.obj	86ed32c5006a6d4d
+654	5408	7650580464736951	CMakeFiles/32-CreatingGUI.dir/mainwindow.cpp.obj	fd08908921083bbf
+5409	6530	7650580512289509	32-CreatingGUI.exe	adf021c835775c28
+60	375	7650581901700751	32-CreatingGUI_autogen/timestamp	6964636a2f029346
+60	375	7650581901700751	32-CreatingGUI_autogen/mocs_compilation.cpp	6964636a2f029346
+60	375	7650581901700751	E:/PERSONAL/Learning/QT DEVELOPMENT/32-CreatingGUI/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/32-CreatingGUI_autogen/timestamp	6964636a2f029346
+60	375	7650581901700751	E:/PERSONAL/Learning/QT DEVELOPMENT/32-CreatingGUI/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/32-CreatingGUI_autogen/mocs_compilation.cpp	6964636a2f029346
+377	4541	7650581904880630	CMakeFiles/32-CreatingGUI.dir/mainwindow.cpp.obj	fd08908921083bbf
+4542	4954	7650581946522501	32-CreatingGUI.exe	adf021c835775c28
+55	384	7650582982813602	32-CreatingGUI_autogen/timestamp	6964636a2f029346
+55	384	7650582982813602	32-CreatingGUI_autogen/mocs_compilation.cpp	6964636a2f029346
+55	384	7650582982813602	E:/PERSONAL/Learning/QT DEVELOPMENT/32-CreatingGUI/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/32-CreatingGUI_autogen/timestamp	6964636a2f029346
+55	384	7650582982813602	E:/PERSONAL/Learning/QT DEVELOPMENT/32-CreatingGUI/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/32-CreatingGUI_autogen/mocs_compilation.cpp	6964636a2f029346
+385	4648	7650582986116931	CMakeFiles/32-CreatingGUI.dir/mainwindow.cpp.obj	fd08908921083bbf
+4649	5048	7650583028759086	32-CreatingGUI.exe	adf021c835775c28
+66	329	7650585272727507	32-CreatingGUI_autogen/timestamp	6964636a2f029346
+66	329	7650585272727507	32-CreatingGUI_autogen/mocs_compilation.cpp	6964636a2f029346
+66	329	7650585272727507	E:/PERSONAL/Learning/QT DEVELOPMENT/32-CreatingGUI/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/32-CreatingGUI_autogen/timestamp	6964636a2f029346
+66	329	7650585272727507	E:/PERSONAL/Learning/QT DEVELOPMENT/32-CreatingGUI/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/32-CreatingGUI_autogen/mocs_compilation.cpp	6964636a2f029346
+330	5539	7650585275373090	CMakeFiles/32-CreatingGUI.dir/mainwindow.cpp.obj	fd08908921083bbf
+5539	6004	7650585327463348	32-CreatingGUI.exe	adf021c835775c28

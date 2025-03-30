@@ -1,0 +1,21 @@
+# ninja log v6
+11	1089	7649627365568864	29-ProgressBar_autogen/timestamp	e832841d1b05a0cf
+11	1089	7649627365568864	29-ProgressBar_autogen/mocs_compilation.cpp	e832841d1b05a0cf
+11	1089	7649627365568864	E:/PERSONAL/Learning/QT DEVELOPMENT/29-ProgressBar/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/29-ProgressBar_autogen/timestamp	e832841d1b05a0cf
+11	1089	7649627365568864	E:/PERSONAL/Learning/QT DEVELOPMENT/29-ProgressBar/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/29-ProgressBar_autogen/mocs_compilation.cpp	e832841d1b05a0cf
+1097	4825	7649627366975008	CMakeFiles/29-ProgressBar.dir/29-ProgressBar_autogen/mocs_compilation.cpp.obj	4d8cca84c68796df
+1104	4846	7649627367044378	CMakeFiles/29-ProgressBar.dir/main.cpp.obj	60d82ab6baca478e
+1111	4904	7649627367114575	CMakeFiles/29-ProgressBar.dir/widget.cpp.obj	9e77c52c4c3603b0
+4905	5363	7649627405054064	29-ProgressBar.exe	984b341335919300
+40	239	7649629478558672	29-ProgressBar_autogen/timestamp	e832841d1b05a0cf
+40	239	7649629478558672	29-ProgressBar_autogen/mocs_compilation.cpp	e832841d1b05a0cf
+40	239	7649629478558672	E:/PERSONAL/Learning/QT DEVELOPMENT/29-ProgressBar/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/29-ProgressBar_autogen/timestamp	e832841d1b05a0cf
+40	239	7649629478558672	E:/PERSONAL/Learning/QT DEVELOPMENT/29-ProgressBar/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/29-ProgressBar_autogen/mocs_compilation.cpp	e832841d1b05a0cf
+240	2928	7649629480556695	CMakeFiles/29-ProgressBar.dir/widget.cpp.obj	9e77c52c4c3603b0
+2928	3168	7649629507431771	29-ProgressBar.exe	984b341335919300
+62	271	7649630298270271	29-ProgressBar_autogen/timestamp	e832841d1b05a0cf
+62	271	7649630298270271	29-ProgressBar_autogen/mocs_compilation.cpp	e832841d1b05a0cf
+62	271	7649630298270271	E:/PERSONAL/Learning/QT DEVELOPMENT/29-ProgressBar/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/29-ProgressBar_autogen/timestamp	e832841d1b05a0cf
+62	271	7649630298270271	E:/PERSONAL/Learning/QT DEVELOPMENT/29-ProgressBar/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/29-ProgressBar_autogen/mocs_compilation.cpp	e832841d1b05a0cf
+272	3015	7649630300366676	CMakeFiles/29-ProgressBar.dir/widget.cpp.obj	9e77c52c4c3603b0
+3015	3257	7649630327797759	29-ProgressBar.exe	984b341335919300

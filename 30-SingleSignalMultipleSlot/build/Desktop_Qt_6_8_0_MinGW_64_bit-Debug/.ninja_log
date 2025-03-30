@@ -1,0 +1,9 @@
+# ninja log v6
+13	1298	7649633619822106	30-SingleSignalMultipleSlot_autogen/timestamp	63b11501a8c5c438
+13	1298	7649633619822106	30-SingleSignalMultipleSlot_autogen/mocs_compilation.cpp	63b11501a8c5c438
+13	1298	7649633619822106	E:/PERSONAL/Learning/QT DEVELOPMENT/30-SingleSignalMultipleSlot/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/30-SingleSignalMultipleSlot_autogen/timestamp	63b11501a8c5c438
+13	1298	7649633619822106	E:/PERSONAL/Learning/QT DEVELOPMENT/30-SingleSignalMultipleSlot/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/30-SingleSignalMultipleSlot_autogen/mocs_compilation.cpp	63b11501a8c5c438
+1305	4823	7649633621264025	CMakeFiles/30-SingleSignalMultipleSlot.dir/30-SingleSignalMultipleSlot_autogen/mocs_compilation.cpp.obj	8de757955c35ed5c
+1311	4984	7649633621314571	CMakeFiles/30-SingleSignalMultipleSlot.dir/main.cpp.obj	fa498144d2e78c19
+1320	5004	7649633621414094	CMakeFiles/30-SingleSignalMultipleSlot.dir/widget.cpp.obj	a369bbeb75bf8434
+5005	5250	7649633658255845	30-SingleSignalMultipleSlot.exe	610ee64de8b844d3
