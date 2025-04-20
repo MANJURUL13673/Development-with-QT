@@ -63,3 +63,15 @@ void MainWindow::on_pushButtonClear_clicked()
         return model->clear();
 }
 
+void MainWindow::on_pushButtonClearOne_clicked()
+{
+    bool ok;
+
+    int rowId = QInputDialog::getInt(this, "Select Row", "Please enter row to delete", 1, 1, model->rowCount(), 1, &ok);
+
+    if(ok)
+    {
+        model->removeRow(rowId-1);
+    }
+}
+

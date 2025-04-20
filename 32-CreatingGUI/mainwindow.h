@@ -4,6 +4,7 @@
 #include <QMainWindow>
 #include <QStandardItemModel>
 #include <QMessageBox>
+#include <QInputDialog>
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -25,6 +26,8 @@ private slots:
     void on_actionAbout_App_triggered();
 
     void on_pushButtonClear_clicked();
+
+    void on_pushButtonClearOne_clicked();
 
 private:
     Ui::MainWindow *ui;
