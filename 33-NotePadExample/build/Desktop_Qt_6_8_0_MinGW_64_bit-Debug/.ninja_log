@@ -1,24 +1,57 @@
 # ninja log v6
-6	703	7668419233481017	33-NotePadExample_autogen/timestamp	a113ed9bebdd78
-6	703	7668419233481017	33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
-3009	3236	7668419257356949	33-NotePadExample.exe	7636e5f8e12dd23a
-6	703	7668419233481017	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/timestamp	a113ed9bebdd78
-6	703	7668419233481017	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
+37	219	7668423758201753	33-NotePadExample_autogen/timestamp	a113ed9bebdd78
+37	219	7668423758201753	33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
+2361	2554	7668423781443292	33-NotePadExample.exe	d345ced988845465
+37	219	7668423758201753	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/timestamp	a113ed9bebdd78
+37	219	7668423758201753	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
 708	2833	7668419234348640	CMakeFiles/33-NotePadExample.dir/33-NotePadExample_autogen/mocs_compilation.cpp.obj	e7b3bda64e0f0e20
 713	2847	7668419234388743	CMakeFiles/33-NotePadExample.dir/main.cpp.obj	f7731eaa8d878586
-718	3009	7668419234441571	CMakeFiles/33-NotePadExample.dir/mainwindow.cpp.obj	275cafeebfb814dd
-68	273	7668423484784802	33-NotePadExample_autogen/timestamp	a113ed9bebdd78
-68	273	7668423484784802	33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
-68	273	7668423484784802	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/timestamp	a113ed9bebdd78
-68	273	7668423484784802	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
+220	2361	7668423760030859	CMakeFiles/33-NotePadExample.dir/mainwindow.cpp.obj	275cafeebfb814dd
 274	362	7668423487601587	33-NotePadExample_autogen/EWIEGA46WW/qrc_res.cpp	267174e5e7e25353
 274	362	7668423487601587	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/EWIEGA46WW/qrc_res.cpp	267174e5e7e25353
 367	457	7668423487775230	CMakeFiles/33-NotePadExample.dir/33-NotePadExample_autogen/EWIEGA46WW/qrc_res.cpp.obj	d30fbd6de115711c
-362	2538	7668423487733871	CMakeFiles/33-NotePadExample.dir/mainwindow.cpp.obj	275cafeebfb814dd
-2539	2741	7668423509495338	33-NotePadExample.exe	d345ced988845465
-37	219	7668423758201753	33-NotePadExample_autogen/timestamp	a113ed9bebdd78
-37	219	7668423758201753	33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
-37	219	7668423758201753	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/timestamp	a113ed9bebdd78
-37	219	7668423758201753	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
-220	2361	7668423760030859	CMakeFiles/33-NotePadExample.dir/mainwindow.cpp.obj	275cafeebfb814dd
-2361	2554	7668423781443292	33-NotePadExample.exe	d345ced988845465
+78	288	7668472755731433	33-NotePadExample_autogen/timestamp	a113ed9bebdd78
+78	288	7668472755731433	33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
+78	288	7668472755731433	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/timestamp	a113ed9bebdd78
+78	288	7668472755731433	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
+290	451	7668472759317386	33-NotePadExample_autogen/EWIEGA46WW/qrc_res.cpp	267174e5e7e25353
+290	451	7668472759317386	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/EWIEGA46WW/qrc_res.cpp	267174e5e7e25353
+458	3193	7668472759538177	CMakeFiles/33-NotePadExample.dir/33-NotePadExample_autogen/EWIEGA46WW/qrc_res.cpp.obj	d30fbd6de115711c
+452	3207	7668472759474042	CMakeFiles/33-NotePadExample.dir/mainwindow.cpp.obj	275cafeebfb814dd
+3207	3510	7668472787033797	33-NotePadExample.exe	d345ced988845465
+35	227	7668473697867028	33-NotePadExample_autogen/timestamp	a113ed9bebdd78
+35	227	7668473697867028	33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
+35	227	7668473697867028	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/timestamp	a113ed9bebdd78
+35	227	7668473697867028	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
+228	2257	7668473699790074	CMakeFiles/33-NotePadExample.dir/mainwindow.cpp.obj	275cafeebfb814dd
+2258	2469	7668473720085810	33-NotePadExample.exe	d345ced988845465
+35	226	7668476874607585	33-NotePadExample_autogen/timestamp	a113ed9bebdd78
+35	226	7668476874607585	33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
+35	226	7668476874607585	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/timestamp	a113ed9bebdd78
+35	226	7668476874607585	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
+226	2389	7668476876521418	CMakeFiles/33-NotePadExample.dir/mainwindow.cpp.obj	275cafeebfb814dd
+2389	2610	7668476898146766	33-NotePadExample.exe	d345ced988845465
+36	232	7668479132577842	33-NotePadExample_autogen/timestamp	a113ed9bebdd78
+36	232	7668479132577842	33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
+36	232	7668479132577842	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/timestamp	a113ed9bebdd78
+36	232	7668479132577842	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
+232	2527	7668479134539147	CMakeFiles/33-NotePadExample.dir/mainwindow.cpp.obj	275cafeebfb814dd
+2527	2778	7668479157486483	33-NotePadExample.exe	d345ced988845465
+31	220	7668479528602778	33-NotePadExample_autogen/timestamp	a113ed9bebdd78
+31	220	7668479528602778	33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
+31	220	7668479528602778	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/timestamp	a113ed9bebdd78
+31	220	7668479528602778	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
+220	2344	7668479530500842	CMakeFiles/33-NotePadExample.dir/mainwindow.cpp.obj	275cafeebfb814dd
+2345	2563	7668479551746902	33-NotePadExample.exe	d345ced988845465
+37	220	7668481637845110	33-NotePadExample_autogen/timestamp	a113ed9bebdd78
+37	220	7668481637845110	33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
+37	220	7668481637845110	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/timestamp	a113ed9bebdd78
+37	220	7668481637845110	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
+221	2352	7668481639684068	CMakeFiles/33-NotePadExample.dir/mainwindow.cpp.obj	275cafeebfb814dd
+2352	2586	7668481660997005	33-NotePadExample.exe	d345ced988845465
+34	224	7668482133149690	33-NotePadExample_autogen/timestamp	a113ed9bebdd78
+34	224	7668482133149690	33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
+34	224	7668482133149690	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/timestamp	a113ed9bebdd78
+34	224	7668482133149690	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
+225	2337	7668482135057378	CMakeFiles/33-NotePadExample.dir/mainwindow.cpp.obj	275cafeebfb814dd
+2337	2555	7668482156174003	33-NotePadExample.exe	d345ced988845465

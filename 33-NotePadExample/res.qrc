@@ -1,5 +1,28 @@
 <RCC>
     <qresource prefix="/images">
-        <file>notepad.png</file>
+        <file>Resource/about.png</file>
+        <file>Resource/bold.png</file>
+        <file>Resource/center.png</file>
+        <file>Resource/color.png</file>
+        <file>Resource/copy.png</file>
+        <file>Resource/cut.png</file>
+        <file>Resource/exit.png</file>
+        <file>Resource/exportpdf.png</file>
+        <file>Resource/font.png</file>
+        <file>Resource/italic.png</file>
+        <file>Resource/justify.png</file>
+        <file>Resource/left.png</file>
+        <file>Resource/new.png</file>
+        <file>Resource/notepad.png</file>
+        <file>Resource/open.png</file>
+        <file>Resource/paste.png</file>
+        <file>Resource/print.png</file>
+        <file>Resource/printpreview.png</file>
+        <file>Resource/redo.png</file>
+        <file>Resource/right.png</file>
+        <file>Resource/save.png</file>
+        <file>Resource/saveas.png</file>
+        <file>Resource/underline.png</file>
+        <file>Resource/undo.png</file>
     </qresource>
 </RCC>

@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>800</width>
+    <width>846</width>
     <height>600</height>
    </rect>
   </property>
@@ -15,7 +15,7 @@
   </property>
   <property name="windowIcon">
    <iconset resource="res.qrc">
-    <normaloff>:/images/notepad.png</normaloff>:/images/notepad.png</iconset>
+    <normaloff>:/images/Resource/notepad.png</normaloff>:/images/Resource/notepad.png</iconset>
   </property>
   <widget class="QWidget" name="centralwidget">
    <layout class="QHBoxLayout" name="horizontalLayout">
@@ -29,7 +29,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>800</width>
+     <width>846</width>
      <height>26</height>
     </rect>
    </property>
@@ -86,117 +86,293 @@
    <addaction name="menuFormat"/>
    <addaction name="menuHelp"/>
   </widget>
+  <widget class="QToolBar" name="toolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionNew"/>
+   <addaction name="actionOpen"/>
+   <addaction name="actionSave"/>
+   <addaction name="actionSave_As"/>
+   <addaction name="separator"/>
+   <addaction name="actionPrint"/>
+   <addaction name="actionPrint_Preview"/>
+   <addaction name="actionExport_PDF"/>
+   <addaction name="separator"/>
+   <addaction name="actionUndo"/>
+   <addaction name="actionRedo"/>
+   <addaction name="separator"/>
+   <addaction name="actionCut"/>
+   <addaction name="actionCopy"/>
+   <addaction name="actionPaste"/>
+   <addaction name="separator"/>
+   <addaction name="actionBold"/>
+   <addaction name="actionItalic"/>
+   <addaction name="actionUnderline"/>
+   <addaction name="separator"/>
+   <addaction name="actionLeft"/>
+   <addaction name="actionRight"/>
+   <addaction name="actionCenter"/>
+   <addaction name="actionJustify"/>
+   <addaction name="separator"/>
+   <addaction name="actionFont"/>
+   <addaction name="actionColor"/>
+   <addaction name="separator"/>
+  </widget>
   <action name="actionNew">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/images/Resource/new.png</normaloff>:/images/Resource/new.png</iconset>
+   </property>
    <property name="text">
     <string>New</string>
    </property>
+   <property name="shortcut">
+    <string>Ctrl+N</string>
+   </property>
   </action>
   <action name="actionOpen">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/images/Resource/open.png</normaloff>:/images/Resource/open.png</iconset>
+   </property>
    <property name="text">
     <string>Open</string>
    </property>
+   <property name="shortcut">
+    <string>Ctrl+O</string>
+   </property>
   </action>
   <action name="actionSave">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/images/Resource/save.png</normaloff>:/images/Resource/save.png</iconset>
+   </property>
    <property name="text">
     <string>Save</string>
    </property>
+   <property name="shortcut">
+    <string>Ctrl+S</string>
+   </property>
   </action>
   <action name="actionSave_As">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/images/Resource/saveas.png</normaloff>:/images/Resource/saveas.png</iconset>
+   </property>
    <property name="text">
     <string>Save As</string>
    </property>
+   <property name="shortcut">
+    <string>Ctrl+Shift+S</string>
+   </property>
   </action>
   <action name="actionPrint">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/images/Resource/print.png</normaloff>:/images/Resource/print.png</iconset>
+   </property>
    <property name="text">
     <string>Print</string>
    </property>
+   <property name="shortcut">
+    <string>Ctrl+P</string>
+   </property>
   </action>
   <action name="actionPrint_Preview">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/images/Resource/printpreview.png</normaloff>:/images/Resource/printpreview.png</iconset>
+   </property>
    <property name="text">
     <string>Print Preview</string>
    </property>
+   <property name="shortcut">
+    <string>Ctrl+Shift+P</string>
+   </property>
   </action>
   <action name="actionExport_PDF">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/images/Resource/exportpdf.png</normaloff>:/images/Resource/exportpdf.png</iconset>
+   </property>
    <property name="text">
     <string>Export PDF</string>
    </property>
+   <property name="shortcut">
+    <string>Ctrl+Shift+E</string>
+   </property>
   </action>
   <action name="actionExit">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/images/Resource/exit.png</normaloff>:/images/Resource/exit.png</iconset>
+   </property>
    <property name="text">
     <string>Exit</string>
    </property>
   </action>
   <action name="actionUndo">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/images/Resource/undo.png</normaloff>:/images/Resource/undo.png</iconset>
+   </property>
    <property name="text">
     <string>Undo</string>
    </property>
+   <property name="shortcut">
+    <string>Ctrl+U</string>
+   </property>
   </action>
   <action name="actionRedo">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/images/Resource/redo.png</normaloff>:/images/Resource/redo.png</iconset>
+   </property>
    <property name="text">
     <string>Redo</string>
    </property>
+   <property name="shortcut">
+    <string>Ctrl+R</string>
+   </property>
   </action>
   <action name="actionCut">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/images/Resource/cut.png</normaloff>:/images/Resource/cut.png</iconset>
+   </property>
    <property name="text">
     <string>Cut</string>
    </property>
+   <property name="shortcut">
+    <string>Ctrl+Shift+C</string>
+   </property>
   </action>
   <action name="actionCopy">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/images/Resource/copy.png</normaloff>:/images/Resource/copy.png</iconset>
+   </property>
    <property name="text">
     <string>Copy</string>
    </property>
+   <property name="shortcut">
+    <string>Ctrl+C</string>
+   </property>
   </action>
   <action name="actionPaste">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/images/Resource/paste.png</normaloff>:/images/Resource/paste.png</iconset>
+   </property>
    <property name="text">
     <string>Paste</string>
    </property>
+   <property name="shortcut">
+    <string>Ctrl+V</string>
+   </property>
   </action>
   <action name="actionBold">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/images/Resource/bold.png</normaloff>:/images/Resource/bold.png</iconset>
+   </property>
    <property name="text">
     <string>Bold</string>
    </property>
+   <property name="shortcut">
+    <string>Ctrl+B</string>
+   </property>
   </action>
   <action name="actionItalic">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/images/Resource/italic.png</normaloff>:/images/Resource/italic.png</iconset>
+   </property>
    <property name="text">
     <string>Italic</string>
    </property>
+   <property name="shortcut">
+    <string>Ctrl+I</string>
+   </property>
   </action>
   <action name="actionUnderline">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/images/Resource/underline.png</normaloff>:/images/Resource/underline.png</iconset>
+   </property>
    <property name="text">
     <string>Underline</string>
    </property>
+   <property name="shortcut">
+    <string>Ctrl+U</string>
+   </property>
   </action>
   <action name="actionLeft">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/images/Resource/left.png</normaloff>:/images/Resource/left.png</iconset>
+   </property>
    <property name="text">
     <string>Left</string>
    </property>
   </action>
   <action name="actionRight">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/images/Resource/right.png</normaloff>:/images/Resource/right.png</iconset>
+   </property>
    <property name="text">
     <string>Right</string>
    </property>
   </action>
   <action name="actionCenter">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/images/Resource/center.png</normaloff>:/images/Resource/center.png</iconset>
+   </property>
    <property name="text">
     <string>Center</string>
    </property>
   </action>
   <action name="actionJustify">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/images/Resource/justify.png</normaloff>:/images/Resource/justify.png</iconset>
+   </property>
    <property name="text">
     <string>Justify</string>
    </property>
   </action>
   <action name="actionFont">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/images/Resource/font.png</normaloff>:/images/Resource/font.png</iconset>
+   </property>
    <property name="text">
     <string>Font</string>
    </property>
   </action>
   <action name="actionColor">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/images/Resource/color.png</normaloff>:/images/Resource/color.png</iconset>
+   </property>
    <property name="text">
     <string>Color</string>
    </property>
   </action>
   <action name="actionAbout">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/images/Resource/about.png</normaloff>:/images/Resource/about.png</iconset>
+   </property>
    <property name="text">
     <string>About</string>
    </property>
