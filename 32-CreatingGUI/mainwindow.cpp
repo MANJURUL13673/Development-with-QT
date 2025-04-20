@@ -28,3 +28,12 @@ MainWindow::~MainWindow()
 {
     delete ui;
 }
+
+void MainWindow::on_pushButtonSave_clicked()
+{
+    QStandardItem *name = new QStandardItem(ui->lineEditName->text());
+    QStandardItem *phone = new QStandardItem(ui->lineEditPhone->text());
+
+    model->appendRow({name, phone});
+}
+
