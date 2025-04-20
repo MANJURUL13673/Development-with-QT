@@ -16,6 +16,12 @@ MainWindow::MainWindow(QWidget *parent)
 
     ui->tableView->horizontalHeader()->setSectionResizeMode(QHeaderView::Stretch);
     ui->tableView->setModel(model);
+
+    //adding item in table view
+    QStandardItem* firstItem = new QStandardItem(QString("Parwiz"));
+    QStandardItem* secondItem = new QStandardItem(QString("0848484"));
+    model->setItem(0, 0, firstItem);
+    model->setItem(0, 1, secondItem);
 }
 
 MainWindow::~MainWindow()
