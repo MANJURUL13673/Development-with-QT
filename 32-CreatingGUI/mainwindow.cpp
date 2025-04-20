@@ -36,6 +36,8 @@ void MainWindow::on_pushButtonSave_clicked()
 
     model->appendRow({name, phone});
     clearFields();
+
+    QMessageBox::information(this, "Application", "Record has been saved");
 }
 
 void MainWindow::clearFields()
@@ -44,9 +46,20 @@ void MainWindow::clearFields()
     ui->lineEditPhone->setText("");
 }
 
-
 void MainWindow::on_actionAbout_App_triggered()
 {
     QMessageBox::about(this, "About Application", "This application is created by QT && C++");
+}
+
+void MainWindow::on_pushButtonClear_clicked()
+{
+    msg = new QMessageBox();
+    msg->setText("Delete Item");
+    msg->setInformativeText(("Do you want to delete all items ? "));
+    msg->setStandardButtons(QMessageBox::Yes | QMessageBox::Discard | QMessageBox::Cancel);
+    int ret = msg->exec();
+
+    if(ret == QMessageBox::Yes)
+        return model->clear();
 }
 

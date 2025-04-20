@@ -24,10 +24,12 @@ private slots:
 
     void on_actionAbout_App_triggered();
 
+    void on_pushButtonClear_clicked();
+
 private:
     Ui::MainWindow *ui;
     QStandardItemModel *model;
-
+    QMessageBox *msg;
     void clearFields();
 };
 #endif // MAINWINDOW_H
