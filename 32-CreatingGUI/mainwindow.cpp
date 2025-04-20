@@ -35,5 +35,12 @@ void MainWindow::on_pushButtonSave_clicked()
     QStandardItem *phone = new QStandardItem(ui->lineEditPhone->text());
 
     model->appendRow({name, phone});
+    clearFields();
+}
+
+void MainWindow::clearFields()
+{
+    ui->lineEditName->setText("");
+    ui->lineEditPhone->setText("");
 }
 

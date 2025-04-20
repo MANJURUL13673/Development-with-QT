@@ -24,5 +24,7 @@ private slots:
 private:
     Ui::MainWindow *ui;
     QStandardItemModel *model;
+
+    void clearFields();
 };
 #endif // MAINWINDOW_H
