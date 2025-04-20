@@ -8,6 +8,14 @@ MainWindow::MainWindow(QWidget *parent)
     ui->setupUi(this);
 
     connect(ui->actionQuit, &QAction::triggered, this, &QApplication::quit);
+
+    //adding header to table view
+    model = new QStandardItemModel();
+    model->setHorizontalHeaderItem(0, new QStandardItem(QString("Name")));
+    model->setHorizontalHeaderItem(1, new QStandardItem(QString("Phone")));
+
+    ui->tableView->horizontalHeader()->setSectionResizeMode(QHeaderView::Stretch);
+    ui->tableView->setModel(model);
 }
 
 MainWindow::~MainWindow()
