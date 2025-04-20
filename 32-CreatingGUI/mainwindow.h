@@ -3,6 +3,7 @@
 
 #include <QMainWindow>
 #include <QStandardItemModel>
+#include <QMessageBox>
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -20,6 +21,8 @@ public:
 
 private slots:
     void on_pushButtonSave_clicked();
+
+    void on_actionAbout_App_triggered();
 
 private:
     Ui::MainWindow *ui;

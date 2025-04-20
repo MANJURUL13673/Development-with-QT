@@ -44,3 +44,9 @@ void MainWindow::clearFields()
     ui->lineEditPhone->setText("");
 }
 
+
+void MainWindow::on_actionAbout_App_triggered()
+{
+    QMessageBox::about(this, "About Application", "This application is created by QT && C++");
+}
+

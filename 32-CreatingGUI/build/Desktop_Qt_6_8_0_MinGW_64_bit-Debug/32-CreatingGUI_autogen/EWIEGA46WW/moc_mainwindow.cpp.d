@@ -149,7 +149,11 @@ E:/PERSONAL/Learning/QT\ DEVELOPMENT/32-CreatingGUI/build/Desktop_Qt_6_8_0_MinGW
   C:/Qt/6.8.0/mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt/6.8.0/mingw_64/include/QtGui/qwindowdefs_win.h \
   C:/Qt/6.8.0/mingw_64/include/QtWidgets/QMainWindow \
+  C:/Qt/6.8.0/mingw_64/include/QtWidgets/QMessageBox \
+  C:/Qt/6.8.0/mingw_64/include/QtWidgets/qdialog.h \
+  C:/Qt/6.8.0/mingw_64/include/QtWidgets/qdialogbuttonbox.h \
   C:/Qt/6.8.0/mingw_64/include/QtWidgets/qmainwindow.h \
+  C:/Qt/6.8.0/mingw_64/include/QtWidgets/qmessagebox.h \
   C:/Qt/6.8.0/mingw_64/include/QtWidgets/qsizepolicy.h \
   C:/Qt/6.8.0/mingw_64/include/QtWidgets/qtabwidget.h \
   C:/Qt/6.8.0/mingw_64/include/QtWidgets/qtwidgets-config.h \
