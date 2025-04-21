@@ -131,6 +131,10 @@ E:/PERSONAL/Learning/QT\ DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_Mi
   C:/Qt/6.8.0/mingw_64/include/QtGui/qicon.h \
   C:/Qt/6.8.0/mingw_64/include/QtGui/qimage.h \
   C:/Qt/6.8.0/mingw_64/include/QtGui/qkeysequence.h \
+  C:/Qt/6.8.0/mingw_64/include/QtGui/qpagedpaintdevice.h \
+  C:/Qt/6.8.0/mingw_64/include/QtGui/qpagelayout.h \
+  C:/Qt/6.8.0/mingw_64/include/QtGui/qpageranges.h \
+  C:/Qt/6.8.0/mingw_64/include/QtGui/qpagesize.h \
   C:/Qt/6.8.0/mingw_64/include/QtGui/qpaintdevice.h \
   C:/Qt/6.8.0/mingw_64/include/QtGui/qpalette.h \
   C:/Qt/6.8.0/mingw_64/include/QtGui/qpixelformat.h \
@@ -145,6 +149,11 @@ E:/PERSONAL/Learning/QT\ DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_Mi
   C:/Qt/6.8.0/mingw_64/include/QtGui/qtransform.h \
   C:/Qt/6.8.0/mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt/6.8.0/mingw_64/include/QtGui/qwindowdefs_win.h \
+  C:/Qt/6.8.0/mingw_64/include/QtPrintSupport/QPrinter \
+  C:/Qt/6.8.0/mingw_64/include/QtPrintSupport/qprinter.h \
+  C:/Qt/6.8.0/mingw_64/include/QtPrintSupport/qtprintsupport-config.h \
+  C:/Qt/6.8.0/mingw_64/include/QtPrintSupport/qtprintsupportexports.h \
+  C:/Qt/6.8.0/mingw_64/include/QtPrintSupport/qtprintsupportglobal.h \
   C:/Qt/6.8.0/mingw_64/include/QtWidgets/QMainWindow \
   C:/Qt/6.8.0/mingw_64/include/QtWidgets/qmainwindow.h \
   C:/Qt/6.8.0/mingw_64/include/QtWidgets/qsizepolicy.h \

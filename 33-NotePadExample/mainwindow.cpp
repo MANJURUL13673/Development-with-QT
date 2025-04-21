@@ -2,6 +2,8 @@
 #include "./ui_mainwindow.h"
 #include <QFileDialog>
 #include <QMessageBox>
+#include <QPrintDialog>
+#include <QPrintPreviewDialog>
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -84,5 +86,30 @@ void MainWindow::on_actionSave_As_triggered()
     QString text = ui->textEdit->toPlainText();
     out << text;
     file.close();
+}
+
+void MainWindow::on_actionPrint_triggered()
+{
+    QPrinter printDev;
+    QPrintDialog dialog(&printDev, this);
+    if(dialog.exec() == QDialog::Rejected)
+    {
+        return;
+    }
+    ui->textEdit->print(&printDev);
+}
+
+void MainWindow::on_actionPrint_Preview_triggered()
+{
+    QPrinter printer(QPrinter::HighResolution);
+    QPrintPreviewDialog preview(&printer, this);
+    preview.setWindowFlags(Qt::Window);
+    connect(&preview, SIGNAL(paintRequested(QPrinter*)), SLOT(printPreview(QPrinter *)));
+    preview.exec();
+}
+
+void MainWindow::printPreview(QPrinter *printer)
+{
+    ui->textEdit->print(printer);
 }
 

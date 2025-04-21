@@ -2,6 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include <QPrinter>
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -25,6 +26,11 @@ private slots:
     void on_actionSave_triggered();
 
     void on_actionSave_As_triggered();
+
+    void on_actionPrint_triggered();
+
+    void on_actionPrint_Preview_triggered();
+    void printPreview(QPrinter *printer);
 
 private:
     Ui::MainWindow *ui;
