@@ -4,12 +4,15 @@
 #include <QMessageBox>
 #include <QPrintDialog>
 #include <QPrintPreviewDialog>
+#include <QApplication>
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+
+    connect(ui->actionExit, &QAction::triggered, this, &QApplication::quit);
 }
 
 MainWindow::~MainWindow()
@@ -111,5 +114,18 @@ void MainWindow::on_actionPrint_Preview_triggered()
 void MainWindow::printPreview(QPrinter *printer)
 {
     ui->textEdit->print(printer);
+}
+
+void MainWindow::on_actionExport_PDF_triggered()
+{
+    QString fileName = QFileDialog::getSaveFileName(this, "Export PDF");
+
+    if(!fileName.isEmpty()) {
+        QPrinter printer(QPrinter::PrinterResolution);
+        printer.setOutputFormat(QPrinter::PdfFormat);
+        printer.setOutputFileName(fileName);
+        printer.setPageMargins(QMarginsF(30, 30, 30, 30));
+        ui->textEdit->document()->print(&printer);
+    }
 }
 

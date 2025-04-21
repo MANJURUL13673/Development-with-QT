@@ -32,6 +32,8 @@ private slots:
     void on_actionPrint_Preview_triggered();
     void printPreview(QPrinter *printer);
 
+    void on_actionExport_PDF_triggered();
+
 private:
     Ui::MainWindow *ui;
 
