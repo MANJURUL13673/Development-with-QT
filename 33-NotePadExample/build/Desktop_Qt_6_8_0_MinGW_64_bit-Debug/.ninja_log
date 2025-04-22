@@ -79,3 +79,11 @@
 910	4575	7670264772341434	CMakeFiles/33-NotePadExample.dir/main.cpp.obj	e2a02d0acf0aa1b0
 916	5504	7670264772395433	CMakeFiles/33-NotePadExample.dir/mainwindow.cpp.obj	4c95e92698013627
 5504	5785	7670264818273937	33-NotePadExample.exe	265ac6d9e0ac25e5
+35	891	7670281099104130	33-NotePadExample_autogen/timestamp	a113ed9bebdd78
+35	891	7670281099104130	33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
+35	891	7670281099104130	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/timestamp	a113ed9bebdd78
+35	891	7670281099104130	E:/PERSONAL/Learning/QT DEVELOPMENT/33-NotePadExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/33-NotePadExample_autogen/mocs_compilation.cpp	a113ed9bebdd78
+892	4445	7670281100241935	CMakeFiles/33-NotePadExample.dir/33-NotePadExample_autogen/mocs_compilation.cpp.obj	9a1fc3b6a6f5cd2
+900	4449	7670281100320098	CMakeFiles/33-NotePadExample.dir/main.cpp.obj	e2a02d0acf0aa1b0
+909	5247	7670281100402507	CMakeFiles/33-NotePadExample.dir/mainwindow.cpp.obj	4c95e92698013627
+5247	5555	7670281143788553	33-NotePadExample.exe	265ac6d9e0ac25e5

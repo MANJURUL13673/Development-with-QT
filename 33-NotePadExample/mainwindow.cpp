@@ -5,6 +5,8 @@
 #include <QPrintDialog>
 #include <QPrintPreviewDialog>
 #include <QApplication>
+#include <QFontDialog>
+#include <QColorDialog>
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -199,6 +201,24 @@ void MainWindow::on_actionJustify_triggered()
 
 void MainWindow::on_actionFont_triggered()
 {
+    bool ok;
+    QFont font = QFontDialog::getFont(&ok, this);
 
+    if(ok)
+    {
+        ui->textEdit->setFont(font);
+    }
+}
+
+void MainWindow::on_actionColor_triggered()
+{
+    QColorDialog colorDialog;
+    QColor color = colorDialog.getColor();
+    ui->textEdit->setTextColor(color);
+}
+
+void MainWindow::on_actionAbout_triggered()
+{
+    QMessageBox::about(this, "About Application", "This App is developed by Manjurul");
 }
 
