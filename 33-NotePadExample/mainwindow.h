@@ -44,6 +44,20 @@ private slots:
 
     void on_actionPaste_triggered();
 
+    void on_actionBold_triggered();
+
+    void on_actionItalic_triggered();
+
+    void on_actionUnderline_triggered();
+
+    void on_actionLeft_triggered();
+
+    void on_actionRight_triggered();
+
+    void on_actionCenter_triggered();
+
+    void on_actionJustify_triggered();
+
 private:
     Ui::MainWindow *ui;
 

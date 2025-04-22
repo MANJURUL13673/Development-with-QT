@@ -155,3 +155,50 @@ void MainWindow::on_actionPaste_triggered()
     ui->textEdit->paste();
 }
 
+void MainWindow::on_actionBold_triggered()
+{
+    QFont font;
+    font.setBold(true);
+    ui->textEdit->setFont(font);
+}
+
+void MainWindow::on_actionItalic_triggered()
+{
+    QFont font;
+    font.setItalic(true);
+    ui->textEdit->setFont(font);
+}
+
+void MainWindow::on_actionUnderline_triggered()
+{
+    QFont font;
+    font.setUnderline(true);
+    ui->textEdit->setFont(font);
+}
+
+void MainWindow::on_actionLeft_triggered()
+{
+    ui->textEdit->setAlignment(Qt::AlignmentFlag::AlignLeft);
+}
+
+void MainWindow::on_actionRight_triggered()
+{
+    ui->textEdit->setAlignment(Qt::AlignmentFlag::AlignRight);
+}
+
+void MainWindow::on_actionCenter_triggered()
+{
+    ui->textEdit->setAlignment(Qt::AlignmentFlag::AlignCenter);
+}
+
+void MainWindow::on_actionJustify_triggered()
+{
+    ui->textEdit->setAlignment(Qt::AlignmentFlag::AlignJustify);
+}
+
+
+void MainWindow::on_actionFont_triggered()
+{
+
+}
+
