@@ -34,6 +34,10 @@ private slots:
 
     void on_actionExport_PDF_triggered();
 
+    void on_actionUndo_triggered();
+
+    void on_actionRedo_triggered();
+
 private:
     Ui::MainWindow *ui;
 
