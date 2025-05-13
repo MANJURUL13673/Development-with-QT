@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c32476a786c7c70758ea.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "35-DrawRect",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "35-DrawRect::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-35-DrawRect-Debug-20c8bc68e1a07e29c096.json",
+					"name" : "35-DrawRect",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "35-DrawRect_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-35-DrawRect_autogen-Debug-897736a20bcea4377573.json",
+					"name" : "35-DrawRect_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "35-DrawRect_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-35-DrawRect_autogen_timestamp_deps-Debug-7b0381320cfc00a897df.json",
+					"name" : "35-DrawRect_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/35-DrawRect/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/35-DrawRect"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,39 @@
+# ninja log v6
+11	1338	7688340892957106	34-DrawingText_autogen/timestamp	3b961c14f399be6
+11	1338	7688340892957106	34-DrawingText_autogen/mocs_compilation.cpp	3b961c14f399be6
+11	1338	7688340892957106	E:/PERSONAL/Learning/QT DEVELOPMENT/34-DrawingText/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/34-DrawingText_autogen/timestamp	3b961c14f399be6
+11	1338	7688340892957106	E:/PERSONAL/Learning/QT DEVELOPMENT/34-DrawingText/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/34-DrawingText_autogen/mocs_compilation.cpp	3b961c14f399be6
+1347	5704	7688340894724419	CMakeFiles/34-DrawingText.dir/34-DrawingText_autogen/mocs_compilation.cpp.obj	42d6d6e15877d7b3
+1356	5713	7688340894823759	CMakeFiles/34-DrawingText.dir/main.cpp.obj	689d157bfd668f36
+1365	5772	7688340894901896	CMakeFiles/34-DrawingText.dir/widget.cpp.obj	fb6e6b8ce05501ad
+5772	6357	7688340938971350	34-DrawingText.exe	36828635dc77dc8e
+39	225	7688341193038647	34-DrawingText_autogen/timestamp	3b961c14f399be6
+39	225	7688341193038647	34-DrawingText_autogen/mocs_compilation.cpp	3b961c14f399be6
+39	225	7688341193038647	E:/PERSONAL/Learning/QT DEVELOPMENT/34-DrawingText/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/34-DrawingText_autogen/timestamp	3b961c14f399be6
+39	225	7688341193038647	E:/PERSONAL/Learning/QT DEVELOPMENT/34-DrawingText/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/34-DrawingText_autogen/mocs_compilation.cpp	3b961c14f399be6
+226	2282	7688341194908985	CMakeFiles/34-DrawingText.dir/widget.cpp.obj	fb6e6b8ce05501ad
+2282	2489	7688341215470564	34-DrawingText.exe	36828635dc77dc8e
+34	201	7688342604196320	34-DrawingText_autogen/timestamp	3b961c14f399be6
+34	201	7688342604196320	34-DrawingText_autogen/mocs_compilation.cpp	3b961c14f399be6
+34	201	7688342604196320	E:/PERSONAL/Learning/QT DEVELOPMENT/34-DrawingText/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/34-DrawingText_autogen/timestamp	3b961c14f399be6
+34	201	7688342604196320	E:/PERSONAL/Learning/QT DEVELOPMENT/34-DrawingText/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/34-DrawingText_autogen/mocs_compilation.cpp	3b961c14f399be6
+202	2198	7688342605877100	CMakeFiles/34-DrawingText.dir/widget.cpp.obj	fb6e6b8ce05501ad
+2198	2393	7688342625840703	34-DrawingText.exe	36828635dc77dc8e
+44	218	7688342717386279	34-DrawingText_autogen/timestamp	3b961c14f399be6
+44	218	7688342717386279	34-DrawingText_autogen/mocs_compilation.cpp	3b961c14f399be6
+44	218	7688342717386279	E:/PERSONAL/Learning/QT DEVELOPMENT/34-DrawingText/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/34-DrawingText_autogen/timestamp	3b961c14f399be6
+44	218	7688342717386279	E:/PERSONAL/Learning/QT DEVELOPMENT/34-DrawingText/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/34-DrawingText_autogen/mocs_compilation.cpp	3b961c14f399be6
+219	2548	7688342719137638	CMakeFiles/34-DrawingText.dir/widget.cpp.obj	fb6e6b8ce05501ad
+2548	2748	7688342742431290	34-DrawingText.exe	36828635dc77dc8e
+42	206	7688342846285843	34-DrawingText_autogen/timestamp	3b961c14f399be6
+42	206	7688342846285843	34-DrawingText_autogen/mocs_compilation.cpp	3b961c14f399be6
+42	206	7688342846285843	E:/PERSONAL/Learning/QT DEVELOPMENT/34-DrawingText/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/34-DrawingText_autogen/timestamp	3b961c14f399be6
+42	206	7688342846285843	E:/PERSONAL/Learning/QT DEVELOPMENT/34-DrawingText/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/34-DrawingText_autogen/mocs_compilation.cpp	3b961c14f399be6
+207	2631	7688342847938396	CMakeFiles/34-DrawingText.dir/widget.cpp.obj	fb6e6b8ce05501ad
+2631	2844	7688342872176756	34-DrawingText.exe	36828635dc77dc8e
+34	203	7688343261623494	34-DrawingText_autogen/timestamp	3b961c14f399be6
+34	203	7688343261623494	34-DrawingText_autogen/mocs_compilation.cpp	3b961c14f399be6
+34	203	7688343261623494	E:/PERSONAL/Learning/QT DEVELOPMENT/34-DrawingText/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/34-DrawingText_autogen/timestamp	3b961c14f399be6
+34	203	7688343261623494	E:/PERSONAL/Learning/QT DEVELOPMENT/34-DrawingText/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/34-DrawingText_autogen/mocs_compilation.cpp	3b961c14f399be6
+204	2206	7688343263323249	CMakeFiles/34-DrawingText.dir/widget.cpp.obj	fb6e6b8ce05501ad
+2206	2397	7688343283345440	34-DrawingText.exe	36828635dc77dc8e

@@ -1,0 +1,15 @@
+# ninja log v6
+7	699	7688346756617341	35-DrawRect_autogen/timestamp	47f0c424ad9a7ed0
+7	699	7688346756617341	35-DrawRect_autogen/mocs_compilation.cpp	47f0c424ad9a7ed0
+7	699	7688346756617341	E:/PERSONAL/Learning/QT DEVELOPMENT/35-DrawRect/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/35-DrawRect_autogen/timestamp	47f0c424ad9a7ed0
+7	699	7688346756617341	E:/PERSONAL/Learning/QT DEVELOPMENT/35-DrawRect/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/35-DrawRect_autogen/mocs_compilation.cpp	47f0c424ad9a7ed0
+703	3215	7688346757534842	CMakeFiles/35-DrawRect.dir/35-DrawRect_autogen/mocs_compilation.cpp.obj	fd46bcfd80185285
+708	3302	7688346757574199	CMakeFiles/35-DrawRect.dir/main.cpp.obj	5bfe388f6c29ca66
+713	3432	7688346757623711	CMakeFiles/35-DrawRect.dir/widget.cpp.obj	620fd37cc99ae5a3
+3433	3686	7688346784828399	35-DrawRect.exe	9948acf1c9ed1fca
+34	194	7688348444805512	35-DrawRect_autogen/timestamp	47f0c424ad9a7ed0
+34	194	7688348444805512	35-DrawRect_autogen/mocs_compilation.cpp	47f0c424ad9a7ed0
+34	194	7688348444805512	E:/PERSONAL/Learning/QT DEVELOPMENT/35-DrawRect/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/35-DrawRect_autogen/timestamp	47f0c424ad9a7ed0
+34	194	7688348444805512	E:/PERSONAL/Learning/QT DEVELOPMENT/35-DrawRect/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/35-DrawRect_autogen/mocs_compilation.cpp	47f0c424ad9a7ed0
+195	2179	7688348446406919	CMakeFiles/35-DrawRect.dir/widget.cpp.obj	620fd37cc99ae5a3
+2179	2371	7688348466245260	35-DrawRect.exe	9948acf1c9ed1fca
