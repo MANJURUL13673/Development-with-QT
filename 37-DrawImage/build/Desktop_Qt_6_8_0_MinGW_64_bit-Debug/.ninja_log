@@ -1,0 +1,12 @@
+# ninja log v6
+8	1035	7690897483472466	37-DrawImage_autogen/timestamp	1e2792ea283ccddf
+8	1035	7690897483472466	37-DrawImage_autogen/mocs_compilation.cpp	1e2792ea283ccddf
+8	1035	7690897483472466	E:/PERSONAL/Learning/QT DEVELOPMENT/37-DrawImage/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/37-DrawImage_autogen/timestamp	1e2792ea283ccddf
+8	1035	7690897483472466	E:/PERSONAL/Learning/QT DEVELOPMENT/37-DrawImage/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/37-DrawImage_autogen/mocs_compilation.cpp	1e2792ea283ccddf
+1040	1148	7690897485597318	37-DrawImage_autogen/EWIEGA46WW/qrc_res.cpp	711a5744f1e4c7d
+1040	1148	7690897485597318	E:/PERSONAL/Learning/QT DEVELOPMENT/37-DrawImage/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/37-DrawImage_autogen/EWIEGA46WW/qrc_res.cpp	711a5744f1e4c7d
+1168	1278	7690897485969326	CMakeFiles/37-DrawImage.dir/37-DrawImage_autogen/EWIEGA46WW/qrc_res.cpp.obj	595bbdfc6c4a9f50
+1148	4266	7690897485767389	CMakeFiles/37-DrawImage.dir/37-DrawImage_autogen/mocs_compilation.cpp.obj	a06e14a7911a748c
+1155	4306	7690897485833256	CMakeFiles/37-DrawImage.dir/main.cpp.obj	fad9d95afff9a48f
+1160	4495	7690897485885578	CMakeFiles/37-DrawImage.dir/widget.cpp.obj	a7f447e7de6af0b
+4495	4738	7690897519234579	37-DrawImage.exe	1995f411825cc115

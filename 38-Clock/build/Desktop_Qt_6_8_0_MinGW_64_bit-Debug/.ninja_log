@@ -1,0 +1,21 @@
+# ninja log v6
+7	1062	7690904362119276	38-Clock_autogen/timestamp	b80e5eb816e56e46
+7	1062	7690904362119276	38-Clock_autogen/mocs_compilation.cpp	b80e5eb816e56e46
+7	1062	7690904362119276	E:/PERSONAL/Learning/QT DEVELOPMENT/38-Clock/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/38-Clock_autogen/timestamp	b80e5eb816e56e46
+7	1062	7690904362119276	E:/PERSONAL/Learning/QT DEVELOPMENT/38-Clock/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/38-Clock_autogen/mocs_compilation.cpp	b80e5eb816e56e46
+1070	4355	7690904363490630	CMakeFiles/38-Clock.dir/38-Clock_autogen/mocs_compilation.cpp.obj	71325193812ab82c
+1077	4365	7690904363563109	CMakeFiles/38-Clock.dir/main.cpp.obj	c107a699d31263e2
+1085	4536	7690904363640306	CMakeFiles/38-Clock.dir/widget.cpp.obj	b4bae8f3b3cb24f1
+4537	4863	7690904398157996	38-Clock.exe	5d96744300a44176
+39	240	7690905384372606	38-Clock_autogen/timestamp	b80e5eb816e56e46
+39	240	7690905384372606	38-Clock_autogen/mocs_compilation.cpp	b80e5eb816e56e46
+39	240	7690905384372606	E:/PERSONAL/Learning/QT DEVELOPMENT/38-Clock/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/38-Clock_autogen/timestamp	b80e5eb816e56e46
+39	240	7690905384372606	E:/PERSONAL/Learning/QT DEVELOPMENT/38-Clock/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/38-Clock_autogen/mocs_compilation.cpp	b80e5eb816e56e46
+241	2493	7690905386395382	CMakeFiles/38-Clock.dir/widget.cpp.obj	b4bae8f3b3cb24f1
+2494	2687	7690905408919182	38-Clock.exe	5d96744300a44176
+38	204	7690905854561409	38-Clock_autogen/timestamp	b80e5eb816e56e46
+38	204	7690905854561409	38-Clock_autogen/mocs_compilation.cpp	b80e5eb816e56e46
+38	204	7690905854561409	E:/PERSONAL/Learning/QT DEVELOPMENT/38-Clock/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/38-Clock_autogen/timestamp	b80e5eb816e56e46
+38	204	7690905854561409	E:/PERSONAL/Learning/QT DEVELOPMENT/38-Clock/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/38-Clock_autogen/mocs_compilation.cpp	b80e5eb816e56e46
+205	2250	7690905856220205	CMakeFiles/38-Clock.dir/widget.cpp.obj	b4bae8f3b3cb24f1
+2250	2445	7690905876669787	38-Clock.exe	5d96744300a44176
