@@ -1,0 +1,37 @@
+# ninja log v6
+6	816	7690910691024038	build.ninja	120cf328c41a2901
+28	762	7690910698850643	39-GraphicEffects_autogen/timestamp	ad547de9fba8266a
+28	762	7690910698850643	39-GraphicEffects_autogen/mocs_compilation.cpp	ad547de9fba8266a
+28	762	7690910698850643	E:/PERSONAL/Learning/QT DEVELOPMENT/39-GraphicEffects/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/39-GraphicEffects_autogen/timestamp	ad547de9fba8266a
+28	762	7690910698850643	E:/PERSONAL/Learning/QT DEVELOPMENT/39-GraphicEffects/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/39-GraphicEffects_autogen/mocs_compilation.cpp	ad547de9fba8266a
+766	855	7690910700507671	39-GraphicEffects_autogen/EWIEGA46WW/qrc_res.cpp	6157adc7bc99a231
+766	855	7690910700507671	E:/PERSONAL/Learning/QT DEVELOPMENT/39-GraphicEffects/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/39-GraphicEffects_autogen/EWIEGA46WW/qrc_res.cpp	6157adc7bc99a231
+870	973	7690910700799823	CMakeFiles/39-GraphicEffects.dir/39-GraphicEffects_autogen/EWIEGA46WW/qrc_res.cpp.obj	871ce97848b5afe8
+855	6297	7690910700653038	CMakeFiles/39-GraphicEffects.dir/39-GraphicEffects_autogen/mocs_compilation.cpp.obj	24a4fc152c865167
+860	6359	7690910700699696	CMakeFiles/39-GraphicEffects.dir/main.cpp.obj	759c34817e015ee2
+865	6669	7690910700734707	CMakeFiles/39-GraphicEffects.dir/widget.cpp.obj	d049f0dd6649d556
+6670	7115	7690910758793747	39-GraphicEffects.exe	f773e9164498aef
+40	243	7690912075339857	39-GraphicEffects_autogen/timestamp	ad547de9fba8266a
+40	243	7690912075339857	39-GraphicEffects_autogen/mocs_compilation.cpp	ad547de9fba8266a
+40	243	7690912075339857	E:/PERSONAL/Learning/QT DEVELOPMENT/39-GraphicEffects/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/39-GraphicEffects_autogen/timestamp	ad547de9fba8266a
+40	243	7690912075339857	E:/PERSONAL/Learning/QT DEVELOPMENT/39-GraphicEffects/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/39-GraphicEffects_autogen/mocs_compilation.cpp	ad547de9fba8266a
+244	2352	7690912077372897	CMakeFiles/39-GraphicEffects.dir/widget.cpp.obj	d049f0dd6649d556
+2352	2547	7690912098450680	39-GraphicEffects.exe	f773e9164498aef
+32	203	7690913334401150	39-GraphicEffects_autogen/timestamp	ad547de9fba8266a
+32	203	7690913334401150	39-GraphicEffects_autogen/mocs_compilation.cpp	ad547de9fba8266a
+32	203	7690913334401150	E:/PERSONAL/Learning/QT DEVELOPMENT/39-GraphicEffects/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/39-GraphicEffects_autogen/timestamp	ad547de9fba8266a
+32	203	7690913334401150	E:/PERSONAL/Learning/QT DEVELOPMENT/39-GraphicEffects/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/39-GraphicEffects_autogen/mocs_compilation.cpp	ad547de9fba8266a
+204	2161	7690913336112931	CMakeFiles/39-GraphicEffects.dir/widget.cpp.obj	d049f0dd6649d556
+2161	2364	7690913355687203	39-GraphicEffects.exe	f773e9164498aef
+32	198	7690914193827724	39-GraphicEffects_autogen/timestamp	ad547de9fba8266a
+32	198	7690914193827724	39-GraphicEffects_autogen/mocs_compilation.cpp	ad547de9fba8266a
+32	198	7690914193827724	E:/PERSONAL/Learning/QT DEVELOPMENT/39-GraphicEffects/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/39-GraphicEffects_autogen/timestamp	ad547de9fba8266a
+32	198	7690914193827724	E:/PERSONAL/Learning/QT DEVELOPMENT/39-GraphicEffects/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/39-GraphicEffects_autogen/mocs_compilation.cpp	ad547de9fba8266a
+198	2186	7690914195498933	CMakeFiles/39-GraphicEffects.dir/widget.cpp.obj	d049f0dd6649d556
+2186	2383	7690914215370051	39-GraphicEffects.exe	f773e9164498aef
+30	190	7690915451107011	39-GraphicEffects_autogen/timestamp	ad547de9fba8266a
+30	190	7690915451107011	39-GraphicEffects_autogen/mocs_compilation.cpp	ad547de9fba8266a
+30	190	7690915451107011	E:/PERSONAL/Learning/QT DEVELOPMENT/39-GraphicEffects/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/39-GraphicEffects_autogen/timestamp	ad547de9fba8266a
+30	190	7690915451107011	E:/PERSONAL/Learning/QT DEVELOPMENT/39-GraphicEffects/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/39-GraphicEffects_autogen/mocs_compilation.cpp	ad547de9fba8266a
+191	2174	7690915452717070	CMakeFiles/39-GraphicEffects.dir/widget.cpp.obj	d049f0dd6649d556
+2174	2370	7690915472545699	39-GraphicEffects.exe	f773e9164498aef
