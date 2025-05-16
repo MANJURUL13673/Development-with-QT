@@ -1,0 +1,21 @@
+# ninja log v6
+39	931	7691280367372731	42-CreateTable_autogen/timestamp	d1b1addb84911b4b
+39	931	7691280367372731	42-CreateTable_autogen/mocs_compilation.cpp	d1b1addb84911b4b
+39	931	7691280367372731	E:/PERSONAL/Learning/QT DEVELOPMENT/42-CreateTable/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/42-CreateTable_autogen/timestamp	d1b1addb84911b4b
+39	931	7691280367372731	E:/PERSONAL/Learning/QT DEVELOPMENT/42-CreateTable/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/42-CreateTable_autogen/mocs_compilation.cpp	d1b1addb84911b4b
+936	4664	7691280368392781	CMakeFiles/42-CreateTable.dir/42-CreateTable_autogen/mocs_compilation.cpp.obj	4871cef158b9bcca
+942	4670	7691280368444087	CMakeFiles/42-CreateTable.dir/main.cpp.obj	58f689ef57b22355
+28	902	7691288317020673	42-CreateTable_autogen/timestamp	d1b1addb84911b4b
+28	902	7691288317020673	42-CreateTable_autogen/mocs_compilation.cpp	d1b1addb84911b4b
+28	902	7691288317020673	E:/PERSONAL/Learning/QT DEVELOPMENT/42-CreateTable/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/42-CreateTable_autogen/timestamp	d1b1addb84911b4b
+28	902	7691288317020673	E:/PERSONAL/Learning/QT DEVELOPMENT/42-CreateTable/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/42-CreateTable_autogen/mocs_compilation.cpp	d1b1addb84911b4b
+903	3813	7691288317944285	CMakeFiles/42-CreateTable.dir/42-CreateTable_autogen/mocs_compilation.cpp.obj	37705ed7030302c5
+908	3820	7691288317995644	CMakeFiles/42-CreateTable.dir/main.cpp.obj	aa56b022d418c1bd
+913	3896	7691288318038407	CMakeFiles/42-CreateTable.dir/widget.cpp.obj	c77e103c403de7a
+3896	4425	7691288347865645	42-CreateTable.exe	8bdd3bb8c542099b
+36	214	7691288468597025	42-CreateTable_autogen/timestamp	d1b1addb84911b4b
+36	214	7691288468597025	42-CreateTable_autogen/mocs_compilation.cpp	d1b1addb84911b4b
+36	214	7691288468597025	E:/PERSONAL/Learning/QT DEVELOPMENT/42-CreateTable/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/42-CreateTable_autogen/timestamp	d1b1addb84911b4b
+36	214	7691288468597025	E:/PERSONAL/Learning/QT DEVELOPMENT/42-CreateTable/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/42-CreateTable_autogen/mocs_compilation.cpp	d1b1addb84911b4b
+214	2175	7691288470385915	CMakeFiles/42-CreateTable.dir/widget.cpp.obj	c77e103c403de7a
+2175	2362	7691288489980403	42-CreateTable.exe	8bdd3bb8c542099b
