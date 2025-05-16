@@ -1,0 +1,21 @@
+# ninja log v6
+12	1151	7690957464536271	41-SqliteConnection_autogen/timestamp	1c71f0a0026d2644
+12	1151	7690957464536271	E:/PERSONAL/Learning/QT DEVELOPMENT/41-SqliteConnection/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/41-SqliteConnection_autogen/timestamp	1c71f0a0026d2644
+12	1151	7690957464536271	41-SqliteConnection_autogen/mocs_compilation.cpp	1c71f0a0026d2644
+12	1151	7690957464536271	E:/PERSONAL/Learning/QT DEVELOPMENT/41-SqliteConnection/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/41-SqliteConnection_autogen/mocs_compilation.cpp	1c71f0a0026d2644
+1158	4814	7690957465884841	CMakeFiles/41-SqliteConnection.dir/41-SqliteConnection_autogen/mocs_compilation.cpp.obj	f37047221ffdab3a
+1165	4824	7690957465955005	CMakeFiles/41-SqliteConnection.dir/main.cpp.obj	c50f23efcd39b725
+41	855	7690961670496748	41-SqliteConnection_autogen/timestamp	1c71f0a0026d2644
+41	855	7690961670496748	41-SqliteConnection_autogen/mocs_compilation.cpp	1c71f0a0026d2644
+41	855	7690961670496748	E:/PERSONAL/Learning/QT DEVELOPMENT/41-SqliteConnection/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/41-SqliteConnection_autogen/timestamp	1c71f0a0026d2644
+41	855	7690961670496748	E:/PERSONAL/Learning/QT DEVELOPMENT/41-SqliteConnection/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/41-SqliteConnection_autogen/mocs_compilation.cpp	1c71f0a0026d2644
+856	3936	7690961671474635	CMakeFiles/41-SqliteConnection.dir/41-SqliteConnection_autogen/mocs_compilation.cpp.obj	79ea2ec71afafb3b
+861	3944	7690961671520296	CMakeFiles/41-SqliteConnection.dir/main.cpp.obj	5eb9ebdb4c72529b
+866	4125	7690961671581098	CMakeFiles/41-SqliteConnection.dir/widget.cpp.obj	b6834082f10a7c30
+4126	4432	7690961704173488	41-SqliteConnection.exe	8d1100d8882b517d
+42	258	7690961807618791	41-SqliteConnection_autogen/timestamp	1c71f0a0026d2644
+42	258	7690961807618791	41-SqliteConnection_autogen/mocs_compilation.cpp	1c71f0a0026d2644
+42	258	7690961807618791	E:/PERSONAL/Learning/QT DEVELOPMENT/41-SqliteConnection/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/41-SqliteConnection_autogen/timestamp	1c71f0a0026d2644
+42	258	7690961807618791	E:/PERSONAL/Learning/QT DEVELOPMENT/41-SqliteConnection/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/41-SqliteConnection_autogen/mocs_compilation.cpp	1c71f0a0026d2644
+259	2673	7690961809792252	CMakeFiles/41-SqliteConnection.dir/widget.cpp.obj	b6834082f10a7c30
+2673	2868	7690961833932279	41-SqliteConnection.exe	8d1100d8882b517d
