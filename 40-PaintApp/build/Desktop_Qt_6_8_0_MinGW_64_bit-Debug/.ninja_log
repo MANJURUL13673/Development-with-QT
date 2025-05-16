@@ -1,0 +1,67 @@
+# ninja log v6
+3171	3356	7690916613435564	40-PaintApp.exe	68babea7779c99dc
+692	3171	7690916588646848	CMakeFiles/40-PaintApp.dir/mainwindow.cpp.obj	8bb6061be4bfabc0
+6	680	7690916587695523	E:/PERSONAL/Learning/QT DEVELOPMENT/40-PaintApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/40-PaintApp_autogen/timestamp	713a1fe75649dd46
+6	680	7690916587695523	40-PaintApp_autogen/timestamp	713a1fe75649dd46
+6	680	7690916587695523	40-PaintApp_autogen/mocs_compilation.cpp	713a1fe75649dd46
+6	680	7690916587695523	E:/PERSONAL/Learning/QT DEVELOPMENT/40-PaintApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/40-PaintApp_autogen/mocs_compilation.cpp	713a1fe75649dd46
+684	3012	7690916588565340	CMakeFiles/40-PaintApp.dir/40-PaintApp_autogen/mocs_compilation.cpp.obj	b22f6243e5e7d429
+688	3078	7690916588606459	CMakeFiles/40-PaintApp.dir/main.cpp.obj	ee203a5ddda7e081
+19	799	7690928931947576	build.ninja	acf495694178a058
+52	325	7690928933416413	40-PaintApp_autogen/timestamp	713a1fe75649dd46
+52	325	7690928933416413	40-PaintApp_autogen/mocs_compilation.cpp	713a1fe75649dd46
+52	325	7690928933416413	E:/PERSONAL/Learning/QT DEVELOPMENT/40-PaintApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/40-PaintApp_autogen/timestamp	713a1fe75649dd46
+52	325	7690928933416413	E:/PERSONAL/Learning/QT DEVELOPMENT/40-PaintApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/40-PaintApp_autogen/mocs_compilation.cpp	713a1fe75649dd46
+326	432	7690928937054668	40-PaintApp_autogen/EWIEGA46WW/qrc_res.cpp	5934986d6e07d9a2
+326	432	7690928937054668	E:/PERSONAL/Learning/QT DEVELOPMENT/40-PaintApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/40-PaintApp_autogen/EWIEGA46WW/qrc_res.cpp	5934986d6e07d9a2
+438	548	7690928937274046	CMakeFiles/40-PaintApp.dir/40-PaintApp_autogen/EWIEGA46WW/qrc_res.cpp.obj	c44d5ecf4fe8fdec
+432	3209	7690928937219482	CMakeFiles/40-PaintApp.dir/mainwindow.cpp.obj	8bb6061be4bfabc0
+3209	3506	7690928964986966	40-PaintApp.exe	60ee662c26e13cc6
+41	257	7690930390591228	40-PaintApp_autogen/timestamp	713a1fe75649dd46
+41	257	7690930390591228	40-PaintApp_autogen/mocs_compilation.cpp	713a1fe75649dd46
+41	257	7690930390591228	E:/PERSONAL/Learning/QT DEVELOPMENT/40-PaintApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/40-PaintApp_autogen/timestamp	713a1fe75649dd46
+41	257	7690930390591228	E:/PERSONAL/Learning/QT DEVELOPMENT/40-PaintApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/40-PaintApp_autogen/mocs_compilation.cpp	713a1fe75649dd46
+258	2446	7690930392752268	CMakeFiles/40-PaintApp.dir/mainwindow.cpp.obj	8bb6061be4bfabc0
+2447	2643	7690930414642753	40-PaintApp.exe	60ee662c26e13cc6
+42	834	7690940317331065	40-PaintApp_autogen/timestamp	713a1fe75649dd46
+42	834	7690940317331065	40-PaintApp_autogen/mocs_compilation.cpp	713a1fe75649dd46
+42	834	7690940317331065	E:/PERSONAL/Learning/QT DEVELOPMENT/40-PaintApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/40-PaintApp_autogen/timestamp	713a1fe75649dd46
+42	834	7690940317331065	E:/PERSONAL/Learning/QT DEVELOPMENT/40-PaintApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/40-PaintApp_autogen/mocs_compilation.cpp	713a1fe75649dd46
+835	4107	7690940318318290	CMakeFiles/40-PaintApp.dir/40-PaintApp_autogen/mocs_compilation.cpp.obj	b22f6243e5e7d429
+839	4109	7690940318370357	CMakeFiles/40-PaintApp.dir/main.cpp.obj	ee203a5ddda7e081
+846	4296	7690940318437722	CMakeFiles/40-PaintApp.dir/mainwindow.cpp.obj	8bb6061be4bfabc0
+4297	4600	7690940352945723	40-PaintApp.exe	60ee662c26e13cc6
+42	209	7690940671280967	40-PaintApp_autogen/timestamp	713a1fe75649dd46
+42	209	7690940671280967	40-PaintApp_autogen/mocs_compilation.cpp	713a1fe75649dd46
+42	209	7690940671280967	E:/PERSONAL/Learning/QT DEVELOPMENT/40-PaintApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/40-PaintApp_autogen/timestamp	713a1fe75649dd46
+42	209	7690940671280967	E:/PERSONAL/Learning/QT DEVELOPMENT/40-PaintApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/40-PaintApp_autogen/mocs_compilation.cpp	713a1fe75649dd46
+210	2405	7690940672960430	CMakeFiles/40-PaintApp.dir/mainwindow.cpp.obj	8bb6061be4bfabc0
+2405	2612	7690940694920851	40-PaintApp.exe	60ee662c26e13cc6
+14	201	7690944650034754	40-PaintApp_autogen/timestamp	713a1fe75649dd46
+14	201	7690944650034754	40-PaintApp_autogen/mocs_compilation.cpp	713a1fe75649dd46
+14	201	7690944650034754	E:/PERSONAL/Learning/QT DEVELOPMENT/40-PaintApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/40-PaintApp_autogen/timestamp	713a1fe75649dd46
+14	201	7690944650034754	E:/PERSONAL/Learning/QT DEVELOPMENT/40-PaintApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/40-PaintApp_autogen/mocs_compilation.cpp	713a1fe75649dd46
+202	2417	7690944651912539	CMakeFiles/40-PaintApp.dir/mainwindow.cpp.obj	8bb6061be4bfabc0
+2417	2639	7690944674066587	40-PaintApp.exe	60ee662c26e13cc6
+17	207	7690945379325110	40-PaintApp_autogen/timestamp	713a1fe75649dd46
+17	207	7690945379325110	40-PaintApp_autogen/mocs_compilation.cpp	713a1fe75649dd46
+17	207	7690945379325110	E:/PERSONAL/Learning/QT DEVELOPMENT/40-PaintApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/40-PaintApp_autogen/timestamp	713a1fe75649dd46
+17	207	7690945379325110	E:/PERSONAL/Learning/QT DEVELOPMENT/40-PaintApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/40-PaintApp_autogen/mocs_compilation.cpp	713a1fe75649dd46
+208	3592	7690945381241485	CMakeFiles/40-PaintApp.dir/mainwindow.cpp.obj	8bb6061be4bfabc0
+3592	3869	7690945415079831	40-PaintApp.exe	60ee662c26e13cc6
+14	949	7690948004793543	40-PaintApp_autogen/timestamp	713a1fe75649dd46
+14	949	7690948004793543	40-PaintApp_autogen/mocs_compilation.cpp	713a1fe75649dd46
+14	949	7690948004793543	E:/PERSONAL/Learning/QT DEVELOPMENT/40-PaintApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/40-PaintApp_autogen/timestamp	713a1fe75649dd46
+14	949	7690948004793543	E:/PERSONAL/Learning/QT DEVELOPMENT/40-PaintApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/40-PaintApp_autogen/mocs_compilation.cpp	713a1fe75649dd46
+950	4954	7690948005936256	CMakeFiles/40-PaintApp.dir/40-PaintApp_autogen/mocs_compilation.cpp.obj	b22f6243e5e7d429
+955	4967	7690948005992728	CMakeFiles/40-PaintApp.dir/main.cpp.obj	ee203a5ddda7e081
+967	5547	7690948006117583	CMakeFiles/40-PaintApp.dir/mainwindow.cpp.obj	8bb6061be4bfabc0
+5547	5806	7690948051912453	40-PaintApp.exe	60ee662c26e13cc6
+46	1126	7690950419334501	40-PaintApp_autogen/timestamp	713a1fe75649dd46
+46	1126	7690950419334501	40-PaintApp_autogen/mocs_compilation.cpp	713a1fe75649dd46
+46	1126	7690950419334501	E:/PERSONAL/Learning/QT DEVELOPMENT/40-PaintApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/40-PaintApp_autogen/timestamp	713a1fe75649dd46
+46	1126	7690950419334501	E:/PERSONAL/Learning/QT DEVELOPMENT/40-PaintApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/40-PaintApp_autogen/mocs_compilation.cpp	713a1fe75649dd46
+1127	4743	7690950420571460	CMakeFiles/40-PaintApp.dir/40-PaintApp_autogen/mocs_compilation.cpp.obj	b22f6243e5e7d429
+1133	4785	7690950420639415	CMakeFiles/40-PaintApp.dir/main.cpp.obj	ee203a5ddda7e081
+1140	5370	7690950420704629	CMakeFiles/40-PaintApp.dir/mainwindow.cpp.obj	8bb6061be4bfabc0
+5370	5587	7690950463007976	40-PaintApp.exe	60ee662c26e13cc6
