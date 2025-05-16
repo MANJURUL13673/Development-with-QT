@@ -1,0 +1,37 @@
+# ninja log v6
+34	777	7689094910962449	36-PainterPath_autogen/timestamp	180060405fee0653
+34	777	7689094910962449	36-PainterPath_autogen/mocs_compilation.cpp	180060405fee0653
+34	777	7689094910962449	E:/PERSONAL/Learning/QT DEVELOPMENT/36-PainterPath/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/36-PainterPath_autogen/timestamp	180060405fee0653
+34	777	7689094910962449	E:/PERSONAL/Learning/QT DEVELOPMENT/36-PainterPath/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/36-PainterPath_autogen/mocs_compilation.cpp	180060405fee0653
+782	3373	7689094911947030	CMakeFiles/36-PainterPath.dir/36-PainterPath_autogen/mocs_compilation.cpp.obj	556c91b0c59714ab
+787	3385	7689094911997351	CMakeFiles/36-PainterPath.dir/main.cpp.obj	d2bcbd6a8393eb9a
+791	3386	7689094912037294	CMakeFiles/36-PainterPath.dir/widget.cpp.obj	4b18a2986aedacf1
+3386	4073	7689094937987617	36-PainterPath.exe	d18b026a55844b02
+67	1067	7690887160163079	36-PainterPath_autogen/timestamp	180060405fee0653
+67	1067	7690887160163079	36-PainterPath_autogen/mocs_compilation.cpp	180060405fee0653
+67	1067	7690887160163079	E:/PERSONAL/Learning/QT DEVELOPMENT/36-PainterPath/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/36-PainterPath_autogen/timestamp	180060405fee0653
+67	1067	7690887160163079	E:/PERSONAL/Learning/QT DEVELOPMENT/36-PainterPath/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/36-PainterPath_autogen/mocs_compilation.cpp	180060405fee0653
+1068	4578	7690887161141845	CMakeFiles/36-PainterPath.dir/36-PainterPath_autogen/mocs_compilation.cpp.obj	556c91b0c59714ab
+1074	4585	7690887161211656	CMakeFiles/36-PainterPath.dir/main.cpp.obj	d2bcbd6a8393eb9a
+42	249	7690887664345370	36-PainterPath_autogen/timestamp	180060405fee0653
+42	249	7690887664345370	36-PainterPath_autogen/mocs_compilation.cpp	180060405fee0653
+42	249	7690887664345370	E:/PERSONAL/Learning/QT DEVELOPMENT/36-PainterPath/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/36-PainterPath_autogen/timestamp	180060405fee0653
+42	249	7690887664345370	E:/PERSONAL/Learning/QT DEVELOPMENT/36-PainterPath/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/36-PainterPath_autogen/mocs_compilation.cpp	180060405fee0653
+43	224	7690888726139332	36-PainterPath_autogen/timestamp	180060405fee0653
+43	224	7690888726139332	36-PainterPath_autogen/mocs_compilation.cpp	180060405fee0653
+43	224	7690888726139332	E:/PERSONAL/Learning/QT DEVELOPMENT/36-PainterPath/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/36-PainterPath_autogen/timestamp	180060405fee0653
+43	224	7690888726139332	E:/PERSONAL/Learning/QT DEVELOPMENT/36-PainterPath/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/36-PainterPath_autogen/mocs_compilation.cpp	180060405fee0653
+224	3347	7690888727951818	CMakeFiles/36-PainterPath.dir/widget.cpp.obj	4b18a2986aedacf1
+3347	3970	7690888759180752	36-PainterPath.exe	d18b026a55844b02
+48	257	7690890005459865	36-PainterPath_autogen/timestamp	180060405fee0653
+48	257	7690890005459865	36-PainterPath_autogen/mocs_compilation.cpp	180060405fee0653
+48	257	7690890005459865	E:/PERSONAL/Learning/QT DEVELOPMENT/36-PainterPath/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/36-PainterPath_autogen/timestamp	180060405fee0653
+48	257	7690890005459865	E:/PERSONAL/Learning/QT DEVELOPMENT/36-PainterPath/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/36-PainterPath_autogen/mocs_compilation.cpp	180060405fee0653
+258	2745	7690890007546247	CMakeFiles/36-PainterPath.dir/widget.cpp.obj	4b18a2986aedacf1
+2745	2962	7690890032430805	36-PainterPath.exe	d18b026a55844b02
+37	257	7690891830024246	36-PainterPath_autogen/timestamp	180060405fee0653
+37	257	7690891830024246	36-PainterPath_autogen/mocs_compilation.cpp	180060405fee0653
+37	257	7690891830024246	E:/PERSONAL/Learning/QT DEVELOPMENT/36-PainterPath/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/36-PainterPath_autogen/timestamp	180060405fee0653
+37	257	7690891830024246	E:/PERSONAL/Learning/QT DEVELOPMENT/36-PainterPath/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/36-PainterPath_autogen/mocs_compilation.cpp	180060405fee0653
+258	2702	7690891832225935	CMakeFiles/36-PainterPath.dir/widget.cpp.obj	4b18a2986aedacf1
+2702	2923	7690891856666715	36-PainterPath.exe	d18b026a55844b02
