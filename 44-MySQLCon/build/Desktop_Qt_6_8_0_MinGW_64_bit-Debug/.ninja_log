@@ -1,0 +1,51 @@
+# ninja log v6
+107	410	7691661834504953	44-MySQLCon_autogen/timestamp	3f6ec415a99c7227
+107	410	7691661834504953	44-MySQLCon_autogen/mocs_compilation.cpp	3f6ec415a99c7227
+107	410	7691661834504953	E:/PERSONAL/Learning/QT DEVELOPMENT/44-MySQLCon/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/44-MySQLCon_autogen/timestamp	3f6ec415a99c7227
+107	410	7691661834504953	E:/PERSONAL/Learning/QT DEVELOPMENT/44-MySQLCon/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/44-MySQLCon_autogen/mocs_compilation.cpp	3f6ec415a99c7227
+874	4334	7691658245296933	CMakeFiles/44-MySQLCon.dir/44-MySQLCon_autogen/mocs_compilation.cpp.obj	f293e4b448c8a5d8
+879	4344	7691658245347077	CMakeFiles/44-MySQLCon.dir/main.cpp.obj	2d8fa3f35fc4d5fb
+412	3884	7691661837544064	CMakeFiles/44-MySQLCon.dir/dialog.cpp.obj	217855d7da3d010
+3884	4190	7691661872274936	44-MySQLCon.exe	eab9f9cdebe9747e
+61	388	7691672136101088	44-MySQLCon_autogen/timestamp	3f6ec415a99c7227
+61	388	7691672136101088	44-MySQLCon_autogen/mocs_compilation.cpp	3f6ec415a99c7227
+61	388	7691672136101088	E:/PERSONAL/Learning/QT DEVELOPMENT/44-MySQLCon/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/44-MySQLCon_autogen/timestamp	3f6ec415a99c7227
+61	388	7691672136101088	E:/PERSONAL/Learning/QT DEVELOPMENT/44-MySQLCon/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/44-MySQLCon_autogen/mocs_compilation.cpp	3f6ec415a99c7227
+390	4422	7691672139388573	CMakeFiles/44-MySQLCon.dir/dialog.cpp.obj	217855d7da3d010
+4422	4650	7691672179710479	44-MySQLCon.exe	eab9f9cdebe9747e
+12	187	7691676054398222	44-MySQLCon_autogen/timestamp	3f6ec415a99c7227
+12	187	7691676054398222	44-MySQLCon_autogen/mocs_compilation.cpp	3f6ec415a99c7227
+12	187	7691676054398222	E:/PERSONAL/Learning/QT DEVELOPMENT/44-MySQLCon/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/44-MySQLCon_autogen/timestamp	3f6ec415a99c7227
+12	187	7691676054398222	E:/PERSONAL/Learning/QT DEVELOPMENT/44-MySQLCon/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/44-MySQLCon_autogen/mocs_compilation.cpp	3f6ec415a99c7227
+188	2203	7691676056157753	CMakeFiles/44-MySQLCon.dir/dialog.cpp.obj	217855d7da3d010
+2203	2402	7691676076305845	44-MySQLCon.exe	eab9f9cdebe9747e
+13	205	7691714607370230	44-MySQLCon_autogen/timestamp	3f6ec415a99c7227
+13	205	7691714607370230	44-MySQLCon_autogen/mocs_compilation.cpp	3f6ec415a99c7227
+13	205	7691714607370230	E:/PERSONAL/Learning/QT DEVELOPMENT/44-MySQLCon/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/44-MySQLCon_autogen/timestamp	3f6ec415a99c7227
+13	205	7691714607370230	E:/PERSONAL/Learning/QT DEVELOPMENT/44-MySQLCon/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/44-MySQLCon_autogen/mocs_compilation.cpp	3f6ec415a99c7227
+207	2868	7691714609308851	CMakeFiles/44-MySQLCon.dir/dialog.cpp.obj	217855d7da3d010
+2868	3115	7691714635917063	44-MySQLCon.exe	eab9f9cdebe9747e
+30	195	7691715465248236	44-MySQLCon_autogen/timestamp	3f6ec415a99c7227
+30	195	7691715465248236	44-MySQLCon_autogen/mocs_compilation.cpp	3f6ec415a99c7227
+30	195	7691715465248236	E:/PERSONAL/Learning/QT DEVELOPMENT/44-MySQLCon/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/44-MySQLCon_autogen/timestamp	3f6ec415a99c7227
+30	195	7691715465248236	E:/PERSONAL/Learning/QT DEVELOPMENT/44-MySQLCon/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/44-MySQLCon_autogen/mocs_compilation.cpp	3f6ec415a99c7227
+195	2126	7691715466903955	CMakeFiles/44-MySQLCon.dir/dialog.cpp.obj	217855d7da3d010
+2126	2315	7691715486210725	44-MySQLCon.exe	eab9f9cdebe9747e
+15	181	7691716736347186	44-MySQLCon_autogen/timestamp	3f6ec415a99c7227
+15	181	7691716736347186	44-MySQLCon_autogen/mocs_compilation.cpp	3f6ec415a99c7227
+15	181	7691716736347186	E:/PERSONAL/Learning/QT DEVELOPMENT/44-MySQLCon/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/44-MySQLCon_autogen/timestamp	3f6ec415a99c7227
+15	181	7691716736347186	E:/PERSONAL/Learning/QT DEVELOPMENT/44-MySQLCon/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/44-MySQLCon_autogen/mocs_compilation.cpp	3f6ec415a99c7227
+182	2477	7691716738017510	CMakeFiles/44-MySQLCon.dir/dialog.cpp.obj	217855d7da3d010
+2477	2691	7691716760973000	44-MySQLCon.exe	eab9f9cdebe9747e
+37	233	7691718063053082	44-MySQLCon_autogen/timestamp	3f6ec415a99c7227
+37	233	7691718063053082	44-MySQLCon_autogen/mocs_compilation.cpp	3f6ec415a99c7227
+37	233	7691718063053082	E:/PERSONAL/Learning/QT DEVELOPMENT/44-MySQLCon/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/44-MySQLCon_autogen/timestamp	3f6ec415a99c7227
+37	233	7691718063053082	E:/PERSONAL/Learning/QT DEVELOPMENT/44-MySQLCon/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/44-MySQLCon_autogen/mocs_compilation.cpp	3f6ec415a99c7227
+234	2313	7691718065030393	CMakeFiles/44-MySQLCon.dir/dialog.cpp.obj	217855d7da3d010
+2313	2500	7691718085822940	44-MySQLCon.exe	eab9f9cdebe9747e
+17	202	7691722534205053	44-MySQLCon_autogen/timestamp	3f6ec415a99c7227
+17	202	7691722534205053	44-MySQLCon_autogen/mocs_compilation.cpp	3f6ec415a99c7227
+17	202	7691722534205053	E:/PERSONAL/Learning/QT DEVELOPMENT/44-MySQLCon/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/44-MySQLCon_autogen/timestamp	3f6ec415a99c7227
+17	202	7691722534205053	E:/PERSONAL/Learning/QT DEVELOPMENT/44-MySQLCon/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/44-MySQLCon_autogen/mocs_compilation.cpp	3f6ec415a99c7227
+203	2638	7691722536064810	CMakeFiles/44-MySQLCon.dir/dialog.cpp.obj	217855d7da3d010
+2639	2861	7691722560421966	44-MySQLCon.exe	eab9f9cdebe9747e
