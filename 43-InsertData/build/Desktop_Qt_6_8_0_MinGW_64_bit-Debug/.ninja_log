@@ -1,0 +1,35 @@
+# ninja log v6
+6	704	7691295211814279	43-InsertData_autogen/timestamp	8efbf7887c3c3b69
+715	2824	7691295212772640	CMakeFiles/43-InsertData.dir/main.cpp.obj	f92a5b3a7f59d4c3
+6	704	7691295211814279	43-InsertData_autogen/mocs_compilation.cpp	8efbf7887c3c3b69
+6	704	7691295211814279	E:/PERSONAL/Learning/QT DEVELOPMENT/43-InsertData/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/43-InsertData_autogen/timestamp	8efbf7887c3c3b69
+3103	3357	7691295236655998	43-InsertData.exe	776b1e441c9e5687
+6	704	7691295211814279	E:/PERSONAL/Learning/QT DEVELOPMENT/43-InsertData/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/43-InsertData_autogen/mocs_compilation.cpp	8efbf7887c3c3b69
+710	2787	7691295212722153	CMakeFiles/43-InsertData.dir/43-InsertData_autogen/mocs_compilation.cpp.obj	926ce759c21f801
+720	3102	7691295212817740	CMakeFiles/43-InsertData.dir/dialog.cpp.obj	a8b1df89dca77843
+51	978	7691300460174733	43-InsertData_autogen/timestamp	8efbf7887c3c3b69
+51	978	7691300460174733	43-InsertData_autogen/mocs_compilation.cpp	8efbf7887c3c3b69
+51	978	7691300460174733	E:/PERSONAL/Learning/QT DEVELOPMENT/43-InsertData/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/43-InsertData_autogen/timestamp	8efbf7887c3c3b69
+51	978	7691300460174733	E:/PERSONAL/Learning/QT DEVELOPMENT/43-InsertData/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/43-InsertData_autogen/mocs_compilation.cpp	8efbf7887c3c3b69
+979	3877	7691300461437356	CMakeFiles/43-InsertData.dir/43-InsertData_autogen/mocs_compilation.cpp.obj	837e8063d2a78d00
+984	3957	7691300461490877	CMakeFiles/43-InsertData.dir/main.cpp.obj	9df5f7f18b4eb430
+989	4250	7691300461534953	CMakeFiles/43-InsertData.dir/dialog.cpp.obj	b4bbff537e5245c5
+4250	4477	7691300494148204	43-InsertData.exe	2f69c2096880ad42
+36	217	7691301787945718	43-InsertData_autogen/timestamp	8efbf7887c3c3b69
+36	217	7691301787945718	43-InsertData_autogen/mocs_compilation.cpp	8efbf7887c3c3b69
+36	217	7691301787945718	E:/PERSONAL/Learning/QT DEVELOPMENT/43-InsertData/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/43-InsertData_autogen/timestamp	8efbf7887c3c3b69
+36	217	7691301787945718	E:/PERSONAL/Learning/QT DEVELOPMENT/43-InsertData/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/43-InsertData_autogen/mocs_compilation.cpp	8efbf7887c3c3b69
+217	2321	7691301789764219	CMakeFiles/43-InsertData.dir/dialog.cpp.obj	b4bbff537e5245c5
+2321	2518	7691301810795637	43-InsertData.exe	2f69c2096880ad42
+31	185	7691302453148206	43-InsertData_autogen/timestamp	8efbf7887c3c3b69
+31	185	7691302453148206	43-InsertData_autogen/mocs_compilation.cpp	8efbf7887c3c3b69
+31	185	7691302453148206	E:/PERSONAL/Learning/QT DEVELOPMENT/43-InsertData/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/43-InsertData_autogen/timestamp	8efbf7887c3c3b69
+31	185	7691302453148206	E:/PERSONAL/Learning/QT DEVELOPMENT/43-InsertData/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/43-InsertData_autogen/mocs_compilation.cpp	8efbf7887c3c3b69
+186	2225	7691302454700338	CMakeFiles/43-InsertData.dir/dialog.cpp.obj	b4bbff537e5245c5
+2226	2419	7691302475102297	43-InsertData.exe	2f69c2096880ad42
+40	200	7691303486065569	43-InsertData_autogen/timestamp	8efbf7887c3c3b69
+40	200	7691303486065569	43-InsertData_autogen/mocs_compilation.cpp	8efbf7887c3c3b69
+40	200	7691303486065569	E:/PERSONAL/Learning/QT DEVELOPMENT/43-InsertData/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/43-InsertData_autogen/timestamp	8efbf7887c3c3b69
+40	200	7691303486065569	E:/PERSONAL/Learning/QT DEVELOPMENT/43-InsertData/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/43-InsertData_autogen/mocs_compilation.cpp	8efbf7887c3c3b69
+201	2831	7691303487669937	CMakeFiles/43-InsertData.dir/dialog.cpp.obj	b4bbff537e5245c5
+2832	3039	7691303513978657	43-InsertData.exe	2f69c2096880ad42
