@@ -1,0 +1,41 @@
+# ninja log v6
+7	889	7691868117625429	45-InsertMyData_autogen/timestamp	72dcf87faae21bec
+7	889	7691868117625429	45-InsertMyData_autogen/mocs_compilation.cpp	72dcf87faae21bec
+7	889	7691868117625429	E:/PERSONAL/Learning/QT DEVELOPMENT/45-InsertMyData/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/45-InsertMyData_autogen/timestamp	72dcf87faae21bec
+7	889	7691868117625429	E:/PERSONAL/Learning/QT DEVELOPMENT/45-InsertMyData/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/45-InsertMyData_autogen/mocs_compilation.cpp	72dcf87faae21bec
+893	3570	7691868118553595	CMakeFiles/45-InsertMyData.dir/45-InsertMyData_autogen/mocs_compilation.cpp.obj	ce7c1b07ab61e786
+898	3584	7691868118609989	CMakeFiles/45-InsertMyData.dir/main.cpp.obj	bf145ff3a381ba20
+903	3601	7691868118650204	CMakeFiles/45-InsertMyData.dir/widget.cpp.obj	87a6587a4976783e
+3601	4005	7691868145642678	45-InsertMyData.exe	d0c5c8e863d309b0
+45	266	7691868429863691	45-InsertMyData_autogen/timestamp	72dcf87faae21bec
+45	266	7691868429863691	45-InsertMyData_autogen/mocs_compilation.cpp	72dcf87faae21bec
+45	266	7691868429863691	E:/PERSONAL/Learning/QT DEVELOPMENT/45-InsertMyData/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/45-InsertMyData_autogen/timestamp	72dcf87faae21bec
+45	266	7691868429863691	E:/PERSONAL/Learning/QT DEVELOPMENT/45-InsertMyData/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/45-InsertMyData_autogen/mocs_compilation.cpp	72dcf87faae21bec
+266	2531	7691868432070944	CMakeFiles/45-InsertMyData.dir/widget.cpp.obj	87a6587a4976783e
+2531	2717	7691868454708660	45-InsertMyData.exe	d0c5c8e863d309b0
+37	225	7691868555725094	45-InsertMyData_autogen/timestamp	72dcf87faae21bec
+37	225	7691868555725094	45-InsertMyData_autogen/mocs_compilation.cpp	72dcf87faae21bec
+37	225	7691868555725094	E:/PERSONAL/Learning/QT DEVELOPMENT/45-InsertMyData/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/45-InsertMyData_autogen/timestamp	72dcf87faae21bec
+37	225	7691868555725094	E:/PERSONAL/Learning/QT DEVELOPMENT/45-InsertMyData/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/45-InsertMyData_autogen/mocs_compilation.cpp	72dcf87faae21bec
+226	2316	7691868557612405	CMakeFiles/45-InsertMyData.dir/widget.cpp.obj	87a6587a4976783e
+2316	2497	7691868578518351	45-InsertMyData.exe	d0c5c8e863d309b0
+37	225	7691869000932597	45-InsertMyData_autogen/timestamp	72dcf87faae21bec
+37	225	7691869000932597	45-InsertMyData_autogen/mocs_compilation.cpp	72dcf87faae21bec
+37	225	7691869000932597	E:/PERSONAL/Learning/QT DEVELOPMENT/45-InsertMyData/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/45-InsertMyData_autogen/timestamp	72dcf87faae21bec
+37	225	7691869000932597	E:/PERSONAL/Learning/QT DEVELOPMENT/45-InsertMyData/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/45-InsertMyData_autogen/mocs_compilation.cpp	72dcf87faae21bec
+226	2289	7691869002813440	CMakeFiles/45-InsertMyData.dir/widget.cpp.obj	87a6587a4976783e
+2289	2494	7691869023445093	45-InsertMyData.exe	d0c5c8e863d309b0
+35	832	7691875424963803	45-InsertMyData_autogen/timestamp	72dcf87faae21bec
+35	832	7691875424963803	45-InsertMyData_autogen/mocs_compilation.cpp	72dcf87faae21bec
+35	832	7691875424963803	E:/PERSONAL/Learning/QT DEVELOPMENT/45-InsertMyData/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/45-InsertMyData_autogen/timestamp	72dcf87faae21bec
+35	832	7691875424963803	E:/PERSONAL/Learning/QT DEVELOPMENT/45-InsertMyData/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/45-InsertMyData_autogen/mocs_compilation.cpp	72dcf87faae21bec
+833	3997	7691875426153950	CMakeFiles/45-InsertMyData.dir/45-InsertMyData_autogen/mocs_compilation.cpp.obj	ce7c1b07ab61e786
+839	4001	7691875426202810	CMakeFiles/45-InsertMyData.dir/main.cpp.obj	bf145ff3a381ba20
+845	4208	7691875426271227	CMakeFiles/45-InsertMyData.dir/widget.cpp.obj	87a6587a4976783e
+4208	4459	7691875459892288	45-InsertMyData.exe	d0c5c8e863d309b0
+41	248	7691881362038080	45-InsertMyData_autogen/timestamp	72dcf87faae21bec
+41	248	7691881362038080	45-InsertMyData_autogen/mocs_compilation.cpp	72dcf87faae21bec
+41	248	7691881362038080	E:/PERSONAL/Learning/QT DEVELOPMENT/45-InsertMyData/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/45-InsertMyData_autogen/timestamp	72dcf87faae21bec
+41	248	7691881362038080	E:/PERSONAL/Learning/QT DEVELOPMENT/45-InsertMyData/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/45-InsertMyData_autogen/mocs_compilation.cpp	72dcf87faae21bec
+248	2426	7691881364112985	CMakeFiles/45-InsertMyData.dir/widget.cpp.obj	87a6587a4976783e
+2426	2632	7691881385883517	45-InsertMyData.exe	d0c5c8e863d309b0
