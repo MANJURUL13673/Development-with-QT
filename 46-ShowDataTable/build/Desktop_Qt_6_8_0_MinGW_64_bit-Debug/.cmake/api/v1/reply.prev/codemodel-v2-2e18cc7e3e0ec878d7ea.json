@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ffd85b1ff997f21efed7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "46-ShowDataTable",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "46-ShowDataTable::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-46-ShowDataTable-Debug-720e21eb1cf36d3c19d6.json",
+					"name" : "46-ShowDataTable",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "46-ShowDataTable_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-46-ShowDataTable_autogen-Debug-eedb470fe7cffee90250.json",
+					"name" : "46-ShowDataTable_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "46-ShowDataTable_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-46-ShowDataTable_autogen_timestamp_deps-Debug-b75875cd6433b3a0adca.json",
+					"name" : "46-ShowDataTable_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/46-ShowDataTable/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/46-ShowDataTable"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
