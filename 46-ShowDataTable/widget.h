@@ -2,6 +2,7 @@
 #define WIDGET_H
 
 #include <QWidget>
+#include <QTableWidgetItem>
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -16,6 +17,9 @@ class Widget : public QWidget
 public:
     Widget(QWidget *parent = nullptr);
     ~Widget();
+
+private slots:
+    void on_tableWidget_itemChanged(QTableWidgetItem *item);
 
 private:
     Ui::Widget *ui;

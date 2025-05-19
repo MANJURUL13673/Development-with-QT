@@ -2,7 +2,6 @@
 #include "./ui_widget.h"
 #include <QSqlDatabase>
 #include <QSqlQuery>
-#include <QTableWidgetItem>
 #include <QMessageBox>
 
 Widget::Widget(QWidget *parent)
@@ -54,3 +53,23 @@ Widget::~Widget()
 {
     delete ui;
 }
+
+void Widget::on_tableWidget_itemChanged(QTableWidgetItem *item)
+{
+    QSqlQuery query;
+    if(hasInit) {
+        QString id = ui->tableWidget->item(item->row(), 0)->data(0).toString();
+        QString name = ui->tableWidget->item(item->row(), 1)->data(0).toString();
+        QString age = ui->tableWidget->item(item->row(), 2)->data(0).toString();
+        QString email = ui->tableWidget->item(item->row(), 3)->data(0).toString();
+
+        if(query.exec("UPDATE employee SET name = '" + name + "', age = '" + age + "', email = '" + email + "' WHERE id = " + id)) {
+            QMessageBox::information(this, "Update Data", "Data is updated");
+        } else {
+            QMessageBox::information(this, "Not Updated", "Data is not updated");
+        }
+    } else  {
+        //QMessageBox::information(this, "Not Updated", "Database is not initialized");
+    }
+}
+
