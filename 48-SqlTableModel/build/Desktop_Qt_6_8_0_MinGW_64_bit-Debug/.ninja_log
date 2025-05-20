@@ -1,0 +1,9 @@
+# ninja log v6
+8	1134	7694057270837954	48-SqlTableModel_autogen/timestamp	c39f0ccc14a4efea
+8	1134	7694057270837954	48-SqlTableModel_autogen/mocs_compilation.cpp	c39f0ccc14a4efea
+8	1134	7694057270837954	E:/PERSONAL/Learning/QT DEVELOPMENT/48-SqlTableModel/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/48-SqlTableModel_autogen/timestamp	c39f0ccc14a4efea
+8	1134	7694057270837954	E:/PERSONAL/Learning/QT DEVELOPMENT/48-SqlTableModel/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/48-SqlTableModel_autogen/mocs_compilation.cpp	c39f0ccc14a4efea
+1140	4837	7694057271983753	CMakeFiles/48-SqlTableModel.dir/48-SqlTableModel_autogen/mocs_compilation.cpp.obj	7e827be345240120
+1145	4840	7694057272032623	CMakeFiles/48-SqlTableModel.dir/main.cpp.obj	622fc211a33a5dc1
+1152	4854	7694057272101413	CMakeFiles/48-SqlTableModel.dir/widget.cpp.obj	51eacdabb6384a13
+4854	5154	7694057309121977	48-SqlTableModel.exe	99983a8375b3569d
