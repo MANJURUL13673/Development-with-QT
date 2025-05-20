@@ -1,0 +1,9 @@
+# ninja log v6
+12	1203	7694051947130928	47-SqlQueryModelExample_autogen/timestamp	de1b030ffe267405
+12	1203	7694051947130928	47-SqlQueryModelExample_autogen/mocs_compilation.cpp	de1b030ffe267405
+12	1203	7694051947130928	E:/PERSONAL/Learning/QT DEVELOPMENT/47-SqlQueryModelExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/47-SqlQueryModelExample_autogen/timestamp	de1b030ffe267405
+12	1203	7694051947130928	E:/PERSONAL/Learning/QT DEVELOPMENT/47-SqlQueryModelExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/47-SqlQueryModelExample_autogen/mocs_compilation.cpp	de1b030ffe267405
+1211	6667	7694051948797596	CMakeFiles/47-SqlQueryModelExample.dir/47-SqlQueryModelExample_autogen/mocs_compilation.cpp.obj	af087b3152001afa
+1219	6669	7694051948879220	CMakeFiles/47-SqlQueryModelExample.dir/main.cpp.obj	c5b05825549bd7e
+1229	6713	7694051948980455	CMakeFiles/47-SqlQueryModelExample.dir/widget.cpp.obj	edaa5d6d05cdf2ad
+6713	7073	7694052003816182	47-SqlQueryModelExample.exe	75692f5005a0388a

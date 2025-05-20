@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9663ff077ed75e74ff1a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "47-SqlQueryModelExample",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "47-SqlQueryModelExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-47-SqlQueryModelExample-Debug-4980bed0f8b91397a3ed.json",
+					"name" : "47-SqlQueryModelExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "47-SqlQueryModelExample_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-47-SqlQueryModelExample_autogen-Debug-ad1feaebb81100871b76.json",
+					"name" : "47-SqlQueryModelExample_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "47-SqlQueryModelExample_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-47-SqlQueryModelExample_autogen_timestamp_deps-Debug-89b27b2a2262fdb23ff5.json",
+					"name" : "47-SqlQueryModelExample_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/47-SqlQueryModelExample/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/47-SqlQueryModelExample"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
