@@ -1,0 +1,9 @@
+# ninja log v6
+10	1202	7695266285040556	52-DonutChart_autogen/timestamp	99be08896bace479
+10	1202	7695266285040556	52-DonutChart_autogen/mocs_compilation.cpp	99be08896bace479
+10	1202	7695266285040556	E:/PERSONAL/Learning/QT DEVELOPMENT/52-DonutChart/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/52-DonutChart_autogen/timestamp	99be08896bace479
+10	1202	7695266285040556	E:/PERSONAL/Learning/QT DEVELOPMENT/52-DonutChart/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/52-DonutChart_autogen/mocs_compilation.cpp	99be08896bace479
+1209	4769	7695266286588470	CMakeFiles/52-DonutChart.dir/52-DonutChart_autogen/mocs_compilation.cpp.obj	61f0c90c1a7a4dbf
+1215	4781	7695266286648662	CMakeFiles/52-DonutChart.dir/main.cpp.obj	f5172580f74e1a07
+1222	10279	7695266286720000	CMakeFiles/52-DonutChart.dir/widget.cpp.obj	102cff3114c3269c
+10284	10619	7695266377334257	52-DonutChart.exe	640bb716f911bd78
