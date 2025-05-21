@@ -1,0 +1,21 @@
+# ninja log v6
+11	1127	7695235477981617	50-LineCharts_autogen/timestamp	5a098fc2d4ed3b76
+11	1127	7695235477981617	50-LineCharts_autogen/mocs_compilation.cpp	5a098fc2d4ed3b76
+11	1127	7695235477981617	E:/PERSONAL/Learning/QT DEVELOPMENT/50-LineCharts/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/50-LineCharts_autogen/timestamp	5a098fc2d4ed3b76
+11	1127	7695235477981617	E:/PERSONAL/Learning/QT DEVELOPMENT/50-LineCharts/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/50-LineCharts_autogen/mocs_compilation.cpp	5a098fc2d4ed3b76
+1135	4486	7695235479261455	CMakeFiles/50-LineCharts.dir/50-LineCharts_autogen/mocs_compilation.cpp.obj	291b271a5574bb6a
+1140	4497	7695235479304191	CMakeFiles/50-LineCharts.dir/main.cpp.obj	ad580130b82ba118
+1147	8786	7695235479380299	CMakeFiles/50-LineCharts.dir/widget.cpp.obj	2671a2c391c5ba80
+8790	9055	7695235555810476	50-LineCharts.exe	70b695b6986b282
+47	264	7695235863914173	50-LineCharts_autogen/timestamp	5a098fc2d4ed3b76
+47	264	7695235863914173	50-LineCharts_autogen/mocs_compilation.cpp	5a098fc2d4ed3b76
+47	264	7695235863914173	E:/PERSONAL/Learning/QT DEVELOPMENT/50-LineCharts/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/50-LineCharts_autogen/timestamp	5a098fc2d4ed3b76
+47	264	7695235863914173	E:/PERSONAL/Learning/QT DEVELOPMENT/50-LineCharts/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/50-LineCharts_autogen/mocs_compilation.cpp	5a098fc2d4ed3b76
+265	8287	7695235866082111	CMakeFiles/50-LineCharts.dir/widget.cpp.obj	2671a2c391c5ba80
+8287	8514	7695235946314415	50-LineCharts.exe	70b695b6986b282
+23	265	7695236241304256	50-LineCharts_autogen/timestamp	5a098fc2d4ed3b76
+23	265	7695236241304256	50-LineCharts_autogen/mocs_compilation.cpp	5a098fc2d4ed3b76
+23	265	7695236241304256	E:/PERSONAL/Learning/QT DEVELOPMENT/50-LineCharts/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/50-LineCharts_autogen/timestamp	5a098fc2d4ed3b76
+23	265	7695236241304256	E:/PERSONAL/Learning/QT DEVELOPMENT/50-LineCharts/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/50-LineCharts_autogen/mocs_compilation.cpp	5a098fc2d4ed3b76
+267	9765	7695236243733858	CMakeFiles/50-LineCharts.dir/widget.cpp.obj	2671a2c391c5ba80
+9765	10017	7695236338720266	50-LineCharts.exe	70b695b6986b282
