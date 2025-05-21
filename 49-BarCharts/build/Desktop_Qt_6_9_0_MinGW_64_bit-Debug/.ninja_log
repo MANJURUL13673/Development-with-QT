@@ -1,0 +1,27 @@
+# ninja log v6
+6	912	7695217654591491	49-BarCharts_autogen/timestamp	8f6669b3b484e472
+6	912	7695217654591491	49-BarCharts_autogen/mocs_compilation.cpp	8f6669b3b484e472
+6	912	7695217654591491	E:/PERSONAL/Learning/QT DEVELOPMENT/49-BarCharts/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/49-BarCharts_autogen/timestamp	8f6669b3b484e472
+6	912	7695217654591491	E:/PERSONAL/Learning/QT DEVELOPMENT/49-BarCharts/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/49-BarCharts_autogen/mocs_compilation.cpp	8f6669b3b484e472
+921	4598	7695217655623012	CMakeFiles/49-BarCharts.dir/49-BarCharts_autogen/mocs_compilation.cpp.obj	60c1bffd1b732b86
+927	4608	7695217655679598	CMakeFiles/49-BarCharts.dir/main.cpp.obj	d69c8539580df528
+934	9987	7695217655744974	CMakeFiles/49-BarCharts.dir/widget.cpp.obj	145eb3fec3b49120
+9991	10365	7695217746321086	49-BarCharts.exe	87d214c83d3810a0
+46	253	7695221320909573	49-BarCharts_autogen/timestamp	8f6669b3b484e472
+46	253	7695221320909573	49-BarCharts_autogen/mocs_compilation.cpp	8f6669b3b484e472
+46	253	7695221320909573	E:/PERSONAL/Learning/QT DEVELOPMENT/49-BarCharts/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/49-BarCharts_autogen/timestamp	8f6669b3b484e472
+46	253	7695221320909573	E:/PERSONAL/Learning/QT DEVELOPMENT/49-BarCharts/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/49-BarCharts_autogen/mocs_compilation.cpp	8f6669b3b484e472
+254	7009	7695221322991427	CMakeFiles/49-BarCharts.dir/widget.cpp.obj	145eb3fec3b49120
+7009	7212	7695221390542387	49-BarCharts.exe	87d214c83d3810a0
+53	274	7695227992106197	49-BarCharts_autogen/timestamp	8f6669b3b484e472
+53	274	7695227992106197	49-BarCharts_autogen/mocs_compilation.cpp	8f6669b3b484e472
+53	274	7695227992106197	E:/PERSONAL/Learning/QT DEVELOPMENT/49-BarCharts/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/49-BarCharts_autogen/timestamp	8f6669b3b484e472
+53	274	7695227992106197	E:/PERSONAL/Learning/QT DEVELOPMENT/49-BarCharts/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/49-BarCharts_autogen/mocs_compilation.cpp	8f6669b3b484e472
+274	6758	7695227994325761	CMakeFiles/49-BarCharts.dir/widget.cpp.obj	145eb3fec3b49120
+6759	6979	7695228059156699	49-BarCharts.exe	87d214c83d3810a0
+61	282	7695229566280527	49-BarCharts_autogen/timestamp	8f6669b3b484e472
+61	282	7695229566280527	49-BarCharts_autogen/mocs_compilation.cpp	8f6669b3b484e472
+61	282	7695229566280527	E:/PERSONAL/Learning/QT DEVELOPMENT/49-BarCharts/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/49-BarCharts_autogen/timestamp	8f6669b3b484e472
+61	282	7695229566280527	E:/PERSONAL/Learning/QT DEVELOPMENT/49-BarCharts/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/49-BarCharts_autogen/mocs_compilation.cpp	8f6669b3b484e472
+283	8365	7695229568492948	CMakeFiles/49-BarCharts.dir/widget.cpp.obj	145eb3fec3b49120
+8366	8634	7695229649329667	49-BarCharts.exe	87d214c83d3810a0

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-46527fe807330457ba10.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "49-BarCharts",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "49-BarCharts::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-49-BarCharts-Debug-b4034a93d012f77a9647.json",
+					"name" : "49-BarCharts",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "49-BarCharts_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-49-BarCharts_autogen-Debug-d969d30c01406feb0c23.json",
+					"name" : "49-BarCharts_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "49-BarCharts_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-49-BarCharts_autogen_timestamp_deps-Debug-210a1e489e3a6c062fdc.json",
+					"name" : "49-BarCharts_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/49-BarCharts/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/49-BarCharts"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
