@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Widget</class>
+ <widget class="QWidget" name="Widget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Widget</string>
+  </property>
+  <layout class="QHBoxLayout" name="horizontalLayout">
+   <item>
+    <widget class="QListWidget" name="listWidget">
+     <item>
+      <property name="text">
+       <string>C++</string>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="icon">
+       <iconset resource="res.qrc">
+        <normaloff>:/images/cpp.png</normaloff>:/images/cpp.png</iconset>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Java</string>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="icon">
+       <iconset resource="res.qrc">
+        <normaloff>:/images/java.png</normaloff>:/images/java.png</iconset>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>CSharp</string>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="icon">
+       <iconset resource="res.qrc">
+        <normaloff>:/images/csharp.png</normaloff>:/images/csharp.png</iconset>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Python</string>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="icon">
+       <iconset resource="res.qrc">
+        <normaloff>:/images/pythonicon.png</normaloff>:/images/pythonicon.png</iconset>
+      </property>
+     </item>
+    </widget>
+   </item>
+   <item>
+    <widget class="QListWidget" name="listWidget_2">
+     <item>
+      <property name="text">
+       <string>HTML</string>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="icon">
+       <iconset resource="res.qrc">
+        <normaloff>:/images/html.png</normaloff>:/images/html.png</iconset>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>JavaScript</string>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="icon">
+       <iconset resource="res.qrc">
+        <normaloff>:/images/javascript.png</normaloff>:/images/javascript.png</iconset>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>CSS</string>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="icon">
+       <iconset resource="res.qrc">
+        <normaloff>:/images/css.png</normaloff>:/images/css.png</iconset>
+      </property>
+     </item>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources>
+  <include location="res.qrc"/>
+ </resources>
+ <connections/>
+</ui>

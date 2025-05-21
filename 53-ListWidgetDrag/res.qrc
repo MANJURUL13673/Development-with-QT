@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>cpp.png</file>
+        <file>csharp.png</file>
+        <file>css.png</file>
+        <file>html.png</file>
+        <file>java.png</file>
+        <file>javascript.png</file>
+        <file>pythonicon.png</file>
+    </qresource>
+</RCC>

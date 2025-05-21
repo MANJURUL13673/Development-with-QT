@@ -1,0 +1,18 @@
+# ninja log v6
+9	835	7695275705180747	53-ListWidgetDrag_autogen/timestamp	d66a104dafd2356c
+9	835	7695275705180747	53-ListWidgetDrag_autogen/mocs_compilation.cpp	d66a104dafd2356c
+9	835	7695275705180747	E:/PERSONAL/Learning/QT DEVELOPMENT/53-ListWidgetDrag/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/53-ListWidgetDrag_autogen/timestamp	d66a104dafd2356c
+9	835	7695275705180747	E:/PERSONAL/Learning/QT DEVELOPMENT/53-ListWidgetDrag/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/53-ListWidgetDrag_autogen/mocs_compilation.cpp	d66a104dafd2356c
+841	952	7695275707070319	53-ListWidgetDrag_autogen/EWIEGA46WW/qrc_res.cpp	34dbac914eb614ed
+841	952	7695275707070319	E:/PERSONAL/Learning/QT DEVELOPMENT/53-ListWidgetDrag/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/53-ListWidgetDrag_autogen/EWIEGA46WW/qrc_res.cpp	34dbac914eb614ed
+967	1196	7695275707378008	CMakeFiles/53-ListWidgetDrag.dir/53-ListWidgetDrag_autogen/EWIEGA46WW/qrc_res.cpp.obj	f8eb53747c3e6ea
+952	3895	7695275707228845	CMakeFiles/53-ListWidgetDrag.dir/53-ListWidgetDrag_autogen/mocs_compilation.cpp.obj	a4457023647c5d0e
+958	3936	7695275707290321	CMakeFiles/53-ListWidgetDrag.dir/main.cpp.obj	ab44d21d25705186
+962	4332	7695275707332904	CMakeFiles/53-ListWidgetDrag.dir/widget.cpp.obj	4133f86a80fbb77f
+4332	4631	7695275741031788	53-ListWidgetDrag.exe	f9416bdde9a74b23
+40	242	7695276486023327	53-ListWidgetDrag_autogen/timestamp	d66a104dafd2356c
+40	242	7695276486023327	53-ListWidgetDrag_autogen/mocs_compilation.cpp	d66a104dafd2356c
+40	242	7695276486023327	E:/PERSONAL/Learning/QT DEVELOPMENT/53-ListWidgetDrag/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/53-ListWidgetDrag_autogen/timestamp	d66a104dafd2356c
+40	242	7695276486023327	E:/PERSONAL/Learning/QT DEVELOPMENT/53-ListWidgetDrag/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/53-ListWidgetDrag_autogen/mocs_compilation.cpp	d66a104dafd2356c
+243	3260	7695276488044910	CMakeFiles/53-ListWidgetDrag.dir/widget.cpp.obj	4133f86a80fbb77f
+3260	3468	7695276518215355	53-ListWidgetDrag.exe	f9416bdde9a74b23
