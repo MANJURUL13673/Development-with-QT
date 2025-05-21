@@ -1,0 +1,15 @@
+# ninja log v6
+14	1145	7695252835478831	51-PieChart_autogen/timestamp	176dd5738909bae1
+14	1145	7695252835478831	51-PieChart_autogen/mocs_compilation.cpp	176dd5738909bae1
+14	1145	7695252835478831	E:/PERSONAL/Learning/QT DEVELOPMENT/51-PieChart/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/51-PieChart_autogen/timestamp	176dd5738909bae1
+14	1145	7695252835478831	E:/PERSONAL/Learning/QT DEVELOPMENT/51-PieChart/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/51-PieChart_autogen/mocs_compilation.cpp	176dd5738909bae1
+1152	5179	7695252836680502	CMakeFiles/51-PieChart.dir/51-PieChart_autogen/mocs_compilation.cpp.obj	c69db7afc94a492c
+1157	5192	7695252836729698	CMakeFiles/51-PieChart.dir/main.cpp.obj	95e172278234eac4
+1163	9890	7695252836782303	CMakeFiles/51-PieChart.dir/widget.cpp.obj	7b0aec6250fbd06f
+9894	10197	7695252924101467	51-PieChart.exe	50cf5f5d49331cc6
+49	273	7695254147930581	51-PieChart_autogen/timestamp	176dd5738909bae1
+49	273	7695254147930581	51-PieChart_autogen/mocs_compilation.cpp	176dd5738909bae1
+49	273	7695254147930581	E:/PERSONAL/Learning/QT DEVELOPMENT/51-PieChart/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/51-PieChart_autogen/timestamp	176dd5738909bae1
+49	273	7695254147930581	E:/PERSONAL/Learning/QT DEVELOPMENT/51-PieChart/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/51-PieChart_autogen/mocs_compilation.cpp	176dd5738909bae1
+273	8898	7695254150178303	CMakeFiles/51-PieChart.dir/widget.cpp.obj	7b0aec6250fbd06f
+8898	9141	7695254236419976	51-PieChart.exe	50cf5f5d49331cc6
