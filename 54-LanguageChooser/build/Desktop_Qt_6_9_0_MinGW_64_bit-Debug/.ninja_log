@@ -1,0 +1,35 @@
+# ninja log v6
+34	208	7696121211981894	54-LanguageChooser_autogen/timestamp	337eaa5660d4e533
+34	208	7696121211981894	E:/PERSONAL/Learning/QT DEVELOPMENT/54-LanguageChooser/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/54-LanguageChooser_autogen/timestamp	337eaa5660d4e533
+34	208	7696121211981894	54-LanguageChooser_autogen/mocs_compilation.cpp	337eaa5660d4e533
+996	1081	7696103740850962	54-LanguageChooser_autogen/EWIEGA46WW/qrc_res.cpp	4c54f38e7f1b6433
+1103	1458	7696103741199661	CMakeFiles/54-LanguageChooser.dir/54-LanguageChooser_autogen/EWIEGA46WW/qrc_res.cpp.obj	e866e100af9c0070
+34	208	7696121211981894	E:/PERSONAL/Learning/QT DEVELOPMENT/54-LanguageChooser/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/54-LanguageChooser_autogen/mocs_compilation.cpp	337eaa5660d4e533
+996	1081	7696103740850962	E:/PERSONAL/Learning/QT DEVELOPMENT/54-LanguageChooser/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/54-LanguageChooser_autogen/EWIEGA46WW/qrc_res.cpp	4c54f38e7f1b6433
+1086	3905	7696103741031784	CMakeFiles/54-LanguageChooser.dir/main.cpp.obj	262034472678ced9
+236	3776	7696115729349514	CMakeFiles/54-LanguageChooser.dir/dialog.cpp.obj	fc684ab0fe7ea7f
+788	3667	7696116851960277	CMakeFiles/54-LanguageChooser.dir/54-LanguageChooser_autogen/mocs_compilation.cpp.obj	1428679fd27555ac
+796	3645	7696116852038656	CMakeFiles/54-LanguageChooser.dir/projectlistwidget.cpp.obj	112b5d7ca46562f
+3963	4359	7696115766620089	54-LanguageChooser.exe	8c5e5b9c1a1f3a1f
+33	239	7696123046635660	54-LanguageChooser_autogen/timestamp	337eaa5660d4e533
+33	239	7696123046635660	54-LanguageChooser_autogen/mocs_compilation.cpp	337eaa5660d4e533
+33	239	7696123046635660	E:/PERSONAL/Learning/QT DEVELOPMENT/54-LanguageChooser/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/54-LanguageChooser_autogen/timestamp	337eaa5660d4e533
+33	239	7696123046635660	E:/PERSONAL/Learning/QT DEVELOPMENT/54-LanguageChooser/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/54-LanguageChooser_autogen/mocs_compilation.cpp	337eaa5660d4e533
+34	2755	7696132050742051	CMakeFiles/54-LanguageChooser.dir/dialog.cpp.obj	fc684ab0fe7ea7f
+2755	3000	7696132077959217	54-LanguageChooser.exe	8c5e5b9c1a1f3a1f
+37	1045	7696133280134842	54-LanguageChooser_autogen/timestamp	337eaa5660d4e533
+37	1045	7696133280134842	54-LanguageChooser_autogen/mocs_compilation.cpp	337eaa5660d4e533
+37	1045	7696133280134842	E:/PERSONAL/Learning/QT DEVELOPMENT/54-LanguageChooser/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/54-LanguageChooser_autogen/timestamp	337eaa5660d4e533
+37	1045	7696133280134842	E:/PERSONAL/Learning/QT DEVELOPMENT/54-LanguageChooser/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/54-LanguageChooser_autogen/mocs_compilation.cpp	337eaa5660d4e533
+1046	5880	7696133281428990	CMakeFiles/54-LanguageChooser.dir/54-LanguageChooser_autogen/mocs_compilation.cpp.obj	1428679fd27555ac
+1051	5885	7696133281479530	CMakeFiles/54-LanguageChooser.dir/dialog.cpp.obj	fc684ab0fe7ea7f
+1057	5897	7696133281538275	CMakeFiles/54-LanguageChooser.dir/projectlistwidget.cpp.obj	112b5d7ca46562f
+5897	6229	7696133329947715	54-LanguageChooser.exe	8c5e5b9c1a1f3a1f
+49	1261	7696136339233573	54-LanguageChooser_autogen/timestamp	337eaa5660d4e533
+49	1261	7696136339233573	54-LanguageChooser_autogen/mocs_compilation.cpp	337eaa5660d4e533
+49	1261	7696136339233573	E:/PERSONAL/Learning/QT DEVELOPMENT/54-LanguageChooser/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/54-LanguageChooser_autogen/timestamp	337eaa5660d4e533
+49	1261	7696136339233573	E:/PERSONAL/Learning/QT DEVELOPMENT/54-LanguageChooser/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/54-LanguageChooser_autogen/mocs_compilation.cpp	337eaa5660d4e533
+1269	5824	7696136340580814	CMakeFiles/54-LanguageChooser.dir/main.cpp.obj	262034472678ced9
+1276	5916	7696136340643159	CMakeFiles/54-LanguageChooser.dir/dialog.cpp.obj	fc684ab0fe7ea7f
+1262	5968	7696136340512432	CMakeFiles/54-LanguageChooser.dir/54-LanguageChooser_autogen/mocs_compilation.cpp.obj	1428679fd27555ac
+5968	6238	7696136387575129	54-LanguageChooser.exe	8c5e5b9c1a1f3a1f

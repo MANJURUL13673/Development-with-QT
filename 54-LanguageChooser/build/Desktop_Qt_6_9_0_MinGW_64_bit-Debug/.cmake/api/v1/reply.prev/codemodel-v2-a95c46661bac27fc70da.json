@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-168fdbcfb84cf034cdab.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "54-LanguageChooser",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "54-LanguageChooser::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-54-LanguageChooser-Debug-43263ec119e5246771dd.json",
+					"name" : "54-LanguageChooser",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "54-LanguageChooser_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-54-LanguageChooser_autogen-Debug-dc86d302841a93f1d302.json",
+					"name" : "54-LanguageChooser_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "54-LanguageChooser_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-54-LanguageChooser_autogen_timestamp_deps-Debug-fba110cca924bb4a032a.json",
+					"name" : "54-LanguageChooser_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/54-LanguageChooser/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/54-LanguageChooser"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
