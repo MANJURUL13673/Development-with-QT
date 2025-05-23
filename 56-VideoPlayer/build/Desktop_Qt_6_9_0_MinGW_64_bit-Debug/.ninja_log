@@ -1,0 +1,32 @@
+# ninja log v6
+15	1104	7697014250839530	56-VideoPlayer_autogen/timestamp	77b09e6f71d5d22
+15	1104	7697014250839530	56-VideoPlayer_autogen/mocs_compilation.cpp	77b09e6f71d5d22
+15	1104	7697014250839530	E:/PERSONAL/Learning/QT DEVELOPMENT/56-VideoPlayer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/56-VideoPlayer_autogen/timestamp	77b09e6f71d5d22
+15	1104	7697014250839530	E:/PERSONAL/Learning/QT DEVELOPMENT/56-VideoPlayer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/56-VideoPlayer_autogen/mocs_compilation.cpp	77b09e6f71d5d22
+1110	1209	7697014252892440	56-VideoPlayer_autogen/EWIEGA46WW/qrc_res.cpp	bd90e59d48f606fc
+1110	1209	7697014252892440	E:/PERSONAL/Learning/QT DEVELOPMENT/56-VideoPlayer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/56-VideoPlayer_autogen/EWIEGA46WW/qrc_res.cpp	bd90e59d48f606fc
+1230	1546	7697014253269669	CMakeFiles/56-VideoPlayer.dir/56-VideoPlayer_autogen/EWIEGA46WW/qrc_res.cpp.obj	1d03d57ffb5d12d9
+1209	4543	7697014253063603	CMakeFiles/56-VideoPlayer.dir/56-VideoPlayer_autogen/mocs_compilation.cpp.obj	cd75025f88ccc229
+1215	4570	7697014253120166	CMakeFiles/56-VideoPlayer.dir/main.cpp.obj	641dbbd32460324a
+32	729	7697019042621130	56-VideoPlayer_autogen/timestamp	77b09e6f71d5d22
+32	729	7697019042621130	56-VideoPlayer_autogen/mocs_compilation.cpp	77b09e6f71d5d22
+32	729	7697019042621130	E:/PERSONAL/Learning/QT DEVELOPMENT/56-VideoPlayer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/56-VideoPlayer_autogen/timestamp	77b09e6f71d5d22
+32	729	7697019042621130	E:/PERSONAL/Learning/QT DEVELOPMENT/56-VideoPlayer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/56-VideoPlayer_autogen/mocs_compilation.cpp	77b09e6f71d5d22
+735	3100	7697019043554992	CMakeFiles/56-VideoPlayer.dir/main.cpp.obj	641dbbd32460324a
+730	3153	7697019043500638	CMakeFiles/56-VideoPlayer.dir/56-VideoPlayer_autogen/mocs_compilation.cpp.obj	cd75025f88ccc229
+740	3954	7697019043597401	CMakeFiles/56-VideoPlayer.dir/mainwindow.cpp.obj	3c88dbb0958b7877
+3955	4202	7697019075751211	56-VideoPlayer.exe	de20482b0094c442
+41	230	7697025470308325	56-VideoPlayer_autogen/timestamp	77b09e6f71d5d22
+41	230	7697025470308325	56-VideoPlayer_autogen/mocs_compilation.cpp	77b09e6f71d5d22
+41	230	7697025470308325	E:/PERSONAL/Learning/QT DEVELOPMENT/56-VideoPlayer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/56-VideoPlayer_autogen/timestamp	77b09e6f71d5d22
+41	230	7697025470308325	E:/PERSONAL/Learning/QT DEVELOPMENT/56-VideoPlayer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/56-VideoPlayer_autogen/mocs_compilation.cpp	77b09e6f71d5d22
+231	3321	7697025472207637	CMakeFiles/56-VideoPlayer.dir/mainwindow.cpp.obj	3c88dbb0958b7877
+3321	3563	7697025503108815	56-VideoPlayer.exe	de20482b0094c442
+15	682	7697028626000218	56-VideoPlayer_autogen/timestamp	77b09e6f71d5d22
+15	682	7697028626000218	56-VideoPlayer_autogen/mocs_compilation.cpp	77b09e6f71d5d22
+15	682	7697028626000218	E:/PERSONAL/Learning/QT DEVELOPMENT/56-VideoPlayer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/56-VideoPlayer_autogen/timestamp	77b09e6f71d5d22
+15	682	7697028626000218	E:/PERSONAL/Learning/QT DEVELOPMENT/56-VideoPlayer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/56-VideoPlayer_autogen/mocs_compilation.cpp	77b09e6f71d5d22
+683	2976	7697028626883399	CMakeFiles/56-VideoPlayer.dir/56-VideoPlayer_autogen/mocs_compilation.cpp.obj	cd75025f88ccc229
+687	3083	7697028626923786	CMakeFiles/56-VideoPlayer.dir/main.cpp.obj	641dbbd32460324a
+696	3835	7697028627015358	CMakeFiles/56-VideoPlayer.dir/mainwindow.cpp.obj	3c88dbb0958b7877
+3835	4094	7697028658396420	56-VideoPlayer.exe	de20482b0094c442
