@@ -1,0 +1,45 @@
+# ninja log v6
+36	246	7696935208399009	55-MusicPlayer_autogen/timestamp	81d3366f8ef58793
+36	246	7696935208399009	55-MusicPlayer_autogen/mocs_compilation.cpp	81d3366f8ef58793
+789	875	7696934452098568	55-MusicPlayer_autogen/EWIEGA46WW/qrc_res.cpp	6424f52ae3385001
+36	246	7696935208399009	E:/PERSONAL/Learning/QT DEVELOPMENT/55-MusicPlayer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/55-MusicPlayer_autogen/timestamp	81d3366f8ef58793
+789	875	7696934452098568	E:/PERSONAL/Learning/QT DEVELOPMENT/55-MusicPlayer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/55-MusicPlayer_autogen/EWIEGA46WW/qrc_res.cpp	6424f52ae3385001
+36	246	7696935208399009	E:/PERSONAL/Learning/QT DEVELOPMENT/55-MusicPlayer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/55-MusicPlayer_autogen/mocs_compilation.cpp	81d3366f8ef58793
+889	1011	7696934452372482	CMakeFiles/55-MusicPlayer.dir/55-MusicPlayer_autogen/EWIEGA46WW/qrc_res.cpp.obj	e52d0aabbab9a2a2
+875	3694	7696934452239271	CMakeFiles/55-MusicPlayer.dir/55-MusicPlayer_autogen/mocs_compilation.cpp.obj	4c92f8b6904bd076
+880	3772	7696934452287468	CMakeFiles/55-MusicPlayer.dir/main.cpp.obj	c99911d84d49fdfd
+246	2633	7696935210509313	CMakeFiles/55-MusicPlayer.dir/mainwindow.cpp.obj	c4f7debedd937be6
+2634	2832	7696935234368124	55-MusicPlayer.exe	4ef580871aff39fe
+42	1166	7696949062954294	55-MusicPlayer_autogen/timestamp	81d3366f8ef58793
+42	1166	7696949062954294	55-MusicPlayer_autogen/mocs_compilation.cpp	81d3366f8ef58793
+42	1166	7696949062954294	E:/PERSONAL/Learning/QT DEVELOPMENT/55-MusicPlayer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/55-MusicPlayer_autogen/timestamp	81d3366f8ef58793
+42	1166	7696949062954294	E:/PERSONAL/Learning/QT DEVELOPMENT/55-MusicPlayer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/55-MusicPlayer_autogen/mocs_compilation.cpp	81d3366f8ef58793
+1184	1646	7696949064201141	CMakeFiles/55-MusicPlayer.dir/55-MusicPlayer_autogen/EWIEGA46WW/qrc_res.cpp.obj	d2b568cae86f725d
+1168	5095	7696949064052538	CMakeFiles/55-MusicPlayer.dir/55-MusicPlayer_autogen/mocs_compilation.cpp.obj	218016f6b4dd7ccc
+1173	5102	7696949064100862	CMakeFiles/55-MusicPlayer.dir/main.cpp.obj	cbc0c5d110a8e7e6
+46	276	7696949460543118	55-MusicPlayer_autogen/timestamp	81d3366f8ef58793
+46	276	7696949460543118	55-MusicPlayer_autogen/mocs_compilation.cpp	81d3366f8ef58793
+46	276	7696949460543118	E:/PERSONAL/Learning/QT DEVELOPMENT/55-MusicPlayer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/55-MusicPlayer_autogen/timestamp	81d3366f8ef58793
+46	276	7696949460543118	E:/PERSONAL/Learning/QT DEVELOPMENT/55-MusicPlayer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/55-MusicPlayer_autogen/mocs_compilation.cpp	81d3366f8ef58793
+277	3966	7696949462851740	CMakeFiles/55-MusicPlayer.dir/mainwindow.cpp.obj	ee8565d5053dc8f7
+3967	4282	7696949499748950	55-MusicPlayer.exe	13e1566906671a42
+35	697	7696952922456040	55-MusicPlayer_autogen/timestamp	81d3366f8ef58793
+35	697	7696952922456040	55-MusicPlayer_autogen/mocs_compilation.cpp	81d3366f8ef58793
+35	697	7696952922456040	E:/PERSONAL/Learning/QT DEVELOPMENT/55-MusicPlayer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/55-MusicPlayer_autogen/timestamp	81d3366f8ef58793
+35	697	7696952922456040	E:/PERSONAL/Learning/QT DEVELOPMENT/55-MusicPlayer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/55-MusicPlayer_autogen/mocs_compilation.cpp	81d3366f8ef58793
+697	3666	7696952923305069	CMakeFiles/55-MusicPlayer.dir/55-MusicPlayer_autogen/mocs_compilation.cpp.obj	218016f6b4dd7ccc
+701	3673	7696952923344800	CMakeFiles/55-MusicPlayer.dir/main.cpp.obj	cbc0c5d110a8e7e6
+705	4553	7696952923389636	CMakeFiles/55-MusicPlayer.dir/mainwindow.cpp.obj	ee8565d5053dc8f7
+4553	4815	7696952961863991	55-MusicPlayer.exe	13e1566906671a42
+15	186	7696953741416098	55-MusicPlayer_autogen/timestamp	81d3366f8ef58793
+15	186	7696953741416098	55-MusicPlayer_autogen/mocs_compilation.cpp	81d3366f8ef58793
+15	186	7696953741416098	E:/PERSONAL/Learning/QT DEVELOPMENT/55-MusicPlayer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/55-MusicPlayer_autogen/timestamp	81d3366f8ef58793
+15	186	7696953741416098	E:/PERSONAL/Learning/QT DEVELOPMENT/55-MusicPlayer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/55-MusicPlayer_autogen/mocs_compilation.cpp	81d3366f8ef58793
+187	2930	7696953743149227	CMakeFiles/55-MusicPlayer.dir/mainwindow.cpp.obj	ee8565d5053dc8f7
+2930	3180	7696953770570099	55-MusicPlayer.exe	13e1566906671a42
+17	196	7696962533238681	55-MusicPlayer_autogen/timestamp	81d3366f8ef58793
+17	196	7696962533238681	55-MusicPlayer_autogen/mocs_compilation.cpp	81d3366f8ef58793
+17	196	7696962533238681	E:/PERSONAL/Learning/QT DEVELOPMENT/55-MusicPlayer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/55-MusicPlayer_autogen/timestamp	81d3366f8ef58793
+17	196	7696962533238681	E:/PERSONAL/Learning/QT DEVELOPMENT/55-MusicPlayer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/55-MusicPlayer_autogen/mocs_compilation.cpp	81d3366f8ef58793
+197	2932	7696962535025449	CMakeFiles/55-MusicPlayer.dir/mainwindow.cpp.obj	ee8565d5053dc8f7
+2932	3169	7696962562381234	55-MusicPlayer.exe	13e1566906671a42
