@@ -1,0 +1,23 @@
+# ninja log v6
+7	744	7697967871396334	58-MDIApp_autogen/timestamp	729d228bcca8d941
+7	744	7697967871396334	58-MDIApp_autogen/mocs_compilation.cpp	729d228bcca8d941
+7	744	7697967871396334	E:/PERSONAL/Learning/QT DEVELOPMENT/58-MDIApp/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/58-MDIApp_autogen/timestamp	729d228bcca8d941
+7	744	7697967871396334	E:/PERSONAL/Learning/QT DEVELOPMENT/58-MDIApp/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/58-MDIApp_autogen/mocs_compilation.cpp	729d228bcca8d941
+749	3077	7697967872295518	CMakeFiles/58-MDIApp.dir/58-MDIApp_autogen/mocs_compilation.cpp.obj	1714b3cfc09577ec
+753	3220	7697967872341103	CMakeFiles/58-MDIApp.dir/main.cpp.obj	312459ccf6a3632e
+758	3346	7697967872393765	CMakeFiles/58-MDIApp.dir/mainwindow.cpp.obj	9118f5a44f90e7c0
+3346	3564	7697967898279378	58-MDIApp.exe	3629f1b32f5ed2a
+41	209	7697969762915225	58-MDIApp_autogen/timestamp	729d228bcca8d941
+41	209	7697969762915225	58-MDIApp_autogen/mocs_compilation.cpp	729d228bcca8d941
+41	209	7697969762915225	E:/PERSONAL/Learning/QT DEVELOPMENT/58-MDIApp/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/58-MDIApp_autogen/timestamp	729d228bcca8d941
+41	209	7697969762915225	E:/PERSONAL/Learning/QT DEVELOPMENT/58-MDIApp/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/58-MDIApp_autogen/mocs_compilation.cpp	729d228bcca8d941
+210	3143	7697969764595020	CMakeFiles/58-MDIApp.dir/mainwindow.cpp.obj	9118f5a44f90e7c0
+3144	3358	7697969793944363	58-MDIApp.exe	3629f1b32f5ed2a
+36	858	7697979078845706	58-MDIApp_autogen/timestamp	729d228bcca8d941
+36	858	7697979078845706	58-MDIApp_autogen/mocs_compilation.cpp	729d228bcca8d941
+36	858	7697979078845706	E:/PERSONAL/Learning/QT DEVELOPMENT/58-MDIApp/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/58-MDIApp_autogen/timestamp	729d228bcca8d941
+36	858	7697979078845706	E:/PERSONAL/Learning/QT DEVELOPMENT/58-MDIApp/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/58-MDIApp_autogen/mocs_compilation.cpp	729d228bcca8d941
+859	3975	7697979079933622	CMakeFiles/58-MDIApp.dir/58-MDIApp_autogen/mocs_compilation.cpp.obj	1714b3cfc09577ec
+864	4051	7697979079989340	CMakeFiles/58-MDIApp.dir/main.cpp.obj	312459ccf6a3632e
+871	4317	7697979080051664	CMakeFiles/58-MDIApp.dir/mainwindow.cpp.obj	9118f5a44f90e7c0
+4317	4548	7697979114508057	58-MDIApp.exe	3629f1b32f5ed2a
