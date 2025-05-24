@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-633897f405da9adaa454.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "60-PropertyAnimation",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "60-PropertyAnimation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-60-PropertyAnimation-Debug-e9bf641ee26ad1a6405f.json",
+					"name" : "60-PropertyAnimation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "60-PropertyAnimation_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-60-PropertyAnimation_autogen-Debug-02dd680e99d0c4266e13.json",
+					"name" : "60-PropertyAnimation_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "60-PropertyAnimation_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-60-PropertyAnimation_autogen_timestamp_deps-Debug-1ea411411a5e94c1b6be.json",
+					"name" : "60-PropertyAnimation_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/60-PropertyAnimation/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/60-PropertyAnimation"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

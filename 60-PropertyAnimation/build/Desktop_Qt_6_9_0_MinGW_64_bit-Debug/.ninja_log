@@ -1,0 +1,19 @@
+# ninja log v6
+9	781	7698070551569797	60-PropertyAnimation_autogen/timestamp	d3bd00999f9af318
+9	781	7698070551569797	60-PropertyAnimation_autogen/mocs_compilation.cpp	d3bd00999f9af318
+9	781	7698070551569797	E:/PERSONAL/Learning/QT DEVELOPMENT/60-PropertyAnimation/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/60-PropertyAnimation_autogen/timestamp	d3bd00999f9af318
+9	781	7698070551569797	E:/PERSONAL/Learning/QT DEVELOPMENT/60-PropertyAnimation/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/60-PropertyAnimation_autogen/mocs_compilation.cpp	d3bd00999f9af318
+785	3276	7698070552566475	CMakeFiles/60-PropertyAnimation.dir/60-PropertyAnimation_autogen/mocs_compilation.cpp.obj	2bb6eec81f4b9653
+790	3283	7698070552607164	CMakeFiles/60-PropertyAnimation.dir/main.cpp.obj	569aaea7dea7c71c
+45	271	7698071230994105	60-PropertyAnimation_autogen/timestamp	d3bd00999f9af318
+45	271	7698071230994105	60-PropertyAnimation_autogen/mocs_compilation.cpp	d3bd00999f9af318
+45	271	7698071230994105	E:/PERSONAL/Learning/QT DEVELOPMENT/60-PropertyAnimation/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/60-PropertyAnimation_autogen/timestamp	d3bd00999f9af318
+45	271	7698071230994105	E:/PERSONAL/Learning/QT DEVELOPMENT/60-PropertyAnimation/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/60-PropertyAnimation_autogen/mocs_compilation.cpp	d3bd00999f9af318
+272	2802	7698071233266886	CMakeFiles/60-PropertyAnimation.dir/widget.cpp.obj	d631e3a08b3947e9
+2802	3045	7698071258560979	60-PropertyAnimation.exe	efd2c77ef2043ab3
+45	219	7698072602928593	60-PropertyAnimation_autogen/timestamp	d3bd00999f9af318
+45	219	7698072602928593	60-PropertyAnimation_autogen/mocs_compilation.cpp	d3bd00999f9af318
+45	219	7698072602928593	E:/PERSONAL/Learning/QT DEVELOPMENT/60-PropertyAnimation/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/60-PropertyAnimation_autogen/timestamp	d3bd00999f9af318
+45	219	7698072602928593	E:/PERSONAL/Learning/QT DEVELOPMENT/60-PropertyAnimation/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/60-PropertyAnimation_autogen/mocs_compilation.cpp	d3bd00999f9af318
+220	2379	7698072604685422	CMakeFiles/60-PropertyAnimation.dir/widget.cpp.obj	d631e3a08b3947e9
+2379	2597	7698072626275174	60-PropertyAnimation.exe	efd2c77ef2043ab3
