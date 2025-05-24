@@ -1,0 +1,42 @@
+# ninja log v6
+41	826	7697705116489684	57-SDIApp_autogen/timestamp	51e096b2dd42b043
+41	826	7697705116489684	57-SDIApp_autogen/mocs_compilation.cpp	51e096b2dd42b043
+41	826	7697705116489684	E:/PERSONAL/Learning/QT DEVELOPMENT/57-SDIApp/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/57-SDIApp_autogen/mocs_compilation.cpp	51e096b2dd42b043
+832	4081	7697705117610338	CMakeFiles/57-SDIApp.dir/main.cpp.obj	462cd8332b77ee62
+41	826	7697705116489684	E:/PERSONAL/Learning/QT DEVELOPMENT/57-SDIApp/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/57-SDIApp_autogen/timestamp	51e096b2dd42b043
+837	3999	7697705117651142	CMakeFiles/57-SDIApp.dir/mainwindow.cpp.obj	29e702bd5dfbbaf0
+827	3981	7697705117549239	CMakeFiles/57-SDIApp.dir/57-SDIApp_autogen/mocs_compilation.cpp.obj	79aa68eacaf7719
+4081	4334	7697705150094140	57-SDIApp.exe	144eec08ea2e8e1f
+134	1200	7697773538372992	57-SDIApp_autogen/timestamp	51e096b2dd42b043
+134	1200	7697773538372992	57-SDIApp_autogen/mocs_compilation.cpp	51e096b2dd42b043
+134	1200	7697773538372992	E:/PERSONAL/Learning/QT DEVELOPMENT/57-SDIApp/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/57-SDIApp_autogen/timestamp	51e096b2dd42b043
+134	1200	7697773538372992	E:/PERSONAL/Learning/QT DEVELOPMENT/57-SDIApp/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/57-SDIApp_autogen/mocs_compilation.cpp	51e096b2dd42b043
+1201	1374	7697773540911211	57-SDIApp_autogen/EWIEGA46WW/qrc_res.cpp	c037fc4447a3258d
+1201	1374	7697773540911211	E:/PERSONAL/Learning/QT DEVELOPMENT/57-SDIApp/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/57-SDIApp_autogen/EWIEGA46WW/qrc_res.cpp	c037fc4447a3258d
+1393	1880	7697773541263474	CMakeFiles/57-SDIApp.dir/57-SDIApp_autogen/EWIEGA46WW/qrc_res.cpp.obj	dcb11b8c64223ae4
+1374	5452	7697773541072325	CMakeFiles/57-SDIApp.dir/57-SDIApp_autogen/mocs_compilation.cpp.obj	79aa68eacaf7719
+1386	5500	7697773541187678	CMakeFiles/57-SDIApp.dir/mainwindow.cpp.obj	29e702bd5dfbbaf0
+1379	5523	7697773541123939	CMakeFiles/57-SDIApp.dir/main.cpp.obj	462cd8332b77ee62
+5523	6193	7697773582570090	57-SDIApp.exe	f0c3125c65c99bdc
+40	240	7697773882348386	57-SDIApp_autogen/timestamp	51e096b2dd42b043
+40	240	7697773882348386	57-SDIApp_autogen/mocs_compilation.cpp	51e096b2dd42b043
+40	240	7697773882348386	E:/PERSONAL/Learning/QT DEVELOPMENT/57-SDIApp/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/57-SDIApp_autogen/timestamp	51e096b2dd42b043
+40	240	7697773882348386	E:/PERSONAL/Learning/QT DEVELOPMENT/57-SDIApp/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/57-SDIApp_autogen/mocs_compilation.cpp	51e096b2dd42b043
+241	2800	7697773884356157	CMakeFiles/57-SDIApp.dir/mainwindow.cpp.obj	29e702bd5dfbbaf0
+2800	2999	7697773909945454	57-SDIApp.exe	f0c3125c65c99bdc
+46	3168	7697959387374625	57-SDIApp_autogen/timestamp	51e096b2dd42b043
+46	3168	7697959387374625	57-SDIApp_autogen/mocs_compilation.cpp	51e096b2dd42b043
+46	3168	7697959387374625	E:/PERSONAL/Learning/QT DEVELOPMENT/57-SDIApp/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/57-SDIApp_autogen/timestamp	51e096b2dd42b043
+46	3168	7697959387374625	E:/PERSONAL/Learning/QT DEVELOPMENT/57-SDIApp/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/57-SDIApp_autogen/mocs_compilation.cpp	51e096b2dd42b043
+3168	6442	7697959388480443	CMakeFiles/57-SDIApp.dir/57-SDIApp_autogen/mocs_compilation.cpp.obj	79aa68eacaf7719
+3174	6452	7697959388530969	CMakeFiles/57-SDIApp.dir/main.cpp.obj	462cd8332b77ee62
+3179	6459	7697959388581000	CMakeFiles/57-SDIApp.dir/mainwindow.cpp.obj	29e702bd5dfbbaf0
+6459	7018	7697959421385919	57-SDIApp.exe	f0c3125c65c99bdc
+44	835	7697963176988884	57-SDIApp_autogen/timestamp	51e096b2dd42b043
+44	835	7697963176988884	57-SDIApp_autogen/mocs_compilation.cpp	51e096b2dd42b043
+44	835	7697963176988884	E:/PERSONAL/Learning/QT DEVELOPMENT/57-SDIApp/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/57-SDIApp_autogen/timestamp	51e096b2dd42b043
+44	835	7697963176988884	E:/PERSONAL/Learning/QT DEVELOPMENT/57-SDIApp/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/57-SDIApp_autogen/mocs_compilation.cpp	51e096b2dd42b043
+836	4432	7697963177981417	CMakeFiles/57-SDIApp.dir/57-SDIApp_autogen/mocs_compilation.cpp.obj	79aa68eacaf7719
+841	4460	7697963178031434	CMakeFiles/57-SDIApp.dir/main.cpp.obj	462cd8332b77ee62
+848	4626	7697963178100674	CMakeFiles/57-SDIApp.dir/mainwindow.cpp.obj	29e702bd5dfbbaf0
+4626	4858	7697963215877644	57-SDIApp.exe	f0c3125c65c99bdc
