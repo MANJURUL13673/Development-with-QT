@@ -1,0 +1,52 @@
+# ninja log v6
+40	234	7697988426224817	59-SDIDock_autogen/timestamp	a3fb519825890b06
+40	234	7697988426224817	59-SDIDock_autogen/mocs_compilation.cpp	a3fb519825890b06
+40	234	7697988426224817	E:/PERSONAL/Learning/QT DEVELOPMENT/59-SDIDock/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/59-SDIDock_autogen/timestamp	a3fb519825890b06
+40	234	7697988426224817	E:/PERSONAL/Learning/QT DEVELOPMENT/59-SDIDock/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/59-SDIDock_autogen/mocs_compilation.cpp	a3fb519825890b06
+981	4918	7697988357451692	CMakeFiles/59-SDIDock.dir/59-SDIDock_autogen/mocs_compilation.cpp.obj	54ec6b78fff05b6b
+2690	2967	7697988452723813	59-SDIDock.exe	ad4d66ef8b47aeda
+988	4932	7697988357522656	CMakeFiles/59-SDIDock.dir/main.cpp.obj	df3e11b7ab4a9ad0
+235	2690	7697988428174833	CMakeFiles/59-SDIDock.dir/mainwindow.cpp.obj	5e498414d7ce565d
+61	836	7697993994639258	59-SDIDock_autogen/timestamp	a3fb519825890b06
+61	836	7697993994639258	59-SDIDock_autogen/mocs_compilation.cpp	a3fb519825890b06
+61	836	7697993994639258	E:/PERSONAL/Learning/QT DEVELOPMENT/59-SDIDock/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/59-SDIDock_autogen/timestamp	a3fb519825890b06
+61	836	7697993994639258	E:/PERSONAL/Learning/QT DEVELOPMENT/59-SDIDock/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/59-SDIDock_autogen/mocs_compilation.cpp	a3fb519825890b06
+846	3801	7697993995579506	CMakeFiles/59-SDIDock.dir/mainwindow.cpp.obj	5e498414d7ce565d
+851	3802	7697993995630148	CMakeFiles/59-SDIDock.dir/infowidget.cpp.obj	73713378c32296d9
+839	3888	7697993995507890	CMakeFiles/59-SDIDock.dir/59-SDIDock_autogen/mocs_compilation.cpp.obj	54ec6b78fff05b6b
+842	3898	7697993995543825	CMakeFiles/59-SDIDock.dir/main.cpp.obj	df3e11b7ab4a9ad0
+3899	4167	7697994026110845	59-SDIDock.exe	31c375f420696dae
+37	235	7697995476489281	59-SDIDock_autogen/timestamp	a3fb519825890b06
+37	235	7697995476489281	59-SDIDock_autogen/mocs_compilation.cpp	a3fb519825890b06
+37	235	7697995476489281	E:/PERSONAL/Learning/QT DEVELOPMENT/59-SDIDock/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/59-SDIDock_autogen/timestamp	a3fb519825890b06
+37	235	7697995476489281	E:/PERSONAL/Learning/QT DEVELOPMENT/59-SDIDock/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/59-SDIDock_autogen/mocs_compilation.cpp	a3fb519825890b06
+236	2898	7697995478486220	CMakeFiles/59-SDIDock.dir/mainwindow.cpp.obj	5e498414d7ce565d
+2898	3130	7697995505094831	59-SDIDock.exe	31c375f420696dae
+36	231	7697995739270900	59-SDIDock_autogen/timestamp	a3fb519825890b06
+36	231	7697995739270900	59-SDIDock_autogen/mocs_compilation.cpp	a3fb519825890b06
+36	231	7697995739270900	E:/PERSONAL/Learning/QT DEVELOPMENT/59-SDIDock/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/59-SDIDock_autogen/timestamp	a3fb519825890b06
+36	231	7697995739270900	E:/PERSONAL/Learning/QT DEVELOPMENT/59-SDIDock/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/59-SDIDock_autogen/mocs_compilation.cpp	a3fb519825890b06
+232	2455	7697995741221975	CMakeFiles/59-SDIDock.dir/mainwindow.cpp.obj	5e498414d7ce565d
+2455	2661	7697995763451416	59-SDIDock.exe	31c375f420696dae
+39	237	7697996071269320	59-SDIDock_autogen/timestamp	a3fb519825890b06
+39	237	7697996071269320	59-SDIDock_autogen/mocs_compilation.cpp	a3fb519825890b06
+39	237	7697996071269320	E:/PERSONAL/Learning/QT DEVELOPMENT/59-SDIDock/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/59-SDIDock_autogen/timestamp	a3fb519825890b06
+39	237	7697996071269320	E:/PERSONAL/Learning/QT DEVELOPMENT/59-SDIDock/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/59-SDIDock_autogen/mocs_compilation.cpp	a3fb519825890b06
+238	2499	7697996073250124	CMakeFiles/59-SDIDock.dir/mainwindow.cpp.obj	5e498414d7ce565d
+2500	2714	7697996095872268	59-SDIDock.exe	31c375f420696dae
+46	864	7698015134111192	59-SDIDock_autogen/timestamp	a3fb519825890b06
+46	864	7698015134111192	59-SDIDock_autogen/mocs_compilation.cpp	a3fb519825890b06
+46	864	7698015134111192	E:/PERSONAL/Learning/QT DEVELOPMENT/59-SDIDock/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/59-SDIDock_autogen/timestamp	a3fb519825890b06
+46	864	7698015134111192	E:/PERSONAL/Learning/QT DEVELOPMENT/59-SDIDock/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/59-SDIDock_autogen/mocs_compilation.cpp	a3fb519825890b06
+866	5064	7698015135157989	CMakeFiles/59-SDIDock.dir/59-SDIDock_autogen/mocs_compilation.cpp.obj	54ec6b78fff05b6b
+884	5097	7698015135343422	CMakeFiles/59-SDIDock.dir/mainwindow.cpp.obj	5e498414d7ce565d
+872	5131	7698015135226382	CMakeFiles/59-SDIDock.dir/main.cpp.obj	df3e11b7ab4a9ad0
+5131	5459	7698015177815385	59-SDIDock.exe	31c375f420696dae
+40	977	7698021125882691	59-SDIDock_autogen/timestamp	a3fb519825890b06
+40	977	7698021125882691	59-SDIDock_autogen/mocs_compilation.cpp	a3fb519825890b06
+40	977	7698021125882691	E:/PERSONAL/Learning/QT DEVELOPMENT/59-SDIDock/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/59-SDIDock_autogen/timestamp	a3fb519825890b06
+40	977	7698021125882691	E:/PERSONAL/Learning/QT DEVELOPMENT/59-SDIDock/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/59-SDIDock_autogen/mocs_compilation.cpp	a3fb519825890b06
+978	5246	7698021126952006	CMakeFiles/59-SDIDock.dir/59-SDIDock_autogen/mocs_compilation.cpp.obj	54ec6b78fff05b6b
+984	5250	7698021127011579	CMakeFiles/59-SDIDock.dir/main.cpp.obj	df3e11b7ab4a9ad0
+990	5297	7698021127070283	CMakeFiles/59-SDIDock.dir/mainwindow.cpp.obj	5e498414d7ce565d
+5297	5633	7698021170140352	59-SDIDock.exe	31c375f420696dae

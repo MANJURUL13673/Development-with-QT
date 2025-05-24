@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6bcc9610a1d4248b8f72.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "59-SDIDock",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "59-SDIDock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-59-SDIDock-Debug-57389c67e68e67d64274.json",
+					"name" : "59-SDIDock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "59-SDIDock_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-59-SDIDock_autogen-Debug-5fcf4cc99184e2243416.json",
+					"name" : "59-SDIDock_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "59-SDIDock_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-59-SDIDock_autogen_timestamp_deps-Debug-c0691a61ed8256598ca1.json",
+					"name" : "59-SDIDock_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/59-SDIDock/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/59-SDIDock"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
