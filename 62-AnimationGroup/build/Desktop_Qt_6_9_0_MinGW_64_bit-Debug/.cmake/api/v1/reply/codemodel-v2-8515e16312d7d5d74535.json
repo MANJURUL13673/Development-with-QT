@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-181cb216020d334422ff.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "62-AnimationGroup",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "62-AnimationGroup::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-62-AnimationGroup-Debug-7308e7f93267b2bba9f7.json",
+					"name" : "62-AnimationGroup",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "62-AnimationGroup_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-62-AnimationGroup_autogen-Debug-ec191c62ab5c5eb89659.json",
+					"name" : "62-AnimationGroup_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "62-AnimationGroup_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-62-AnimationGroup_autogen_timestamp_deps-Debug-d376b0fe5d70296baff6.json",
+					"name" : "62-AnimationGroup_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/62-AnimationGroup/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/62-AnimationGroup"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,21 @@
+# ninja log v6
+32	947	7699636172914253	62-AnimationGroup_autogen/timestamp	b86874ac2380891f
+32	947	7699636172914253	62-AnimationGroup_autogen/mocs_compilation.cpp	b86874ac2380891f
+32	947	7699636172914253	E:/PERSONAL/Learning/QT DEVELOPMENT/62-AnimationGroup/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/62-AnimationGroup_autogen/timestamp	b86874ac2380891f
+32	947	7699636172914253	E:/PERSONAL/Learning/QT DEVELOPMENT/62-AnimationGroup/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/62-AnimationGroup_autogen/mocs_compilation.cpp	b86874ac2380891f
+951	4208	7699636173823898	CMakeFiles/62-AnimationGroup.dir/62-AnimationGroup_autogen/mocs_compilation.cpp.obj	a755501056bd9ce3
+955	4213	7699636173867435	CMakeFiles/62-AnimationGroup.dir/main.cpp.obj	c1a312f0badfe4af
+960	4220	7699636173911619	CMakeFiles/62-AnimationGroup.dir/widget.cpp.obj	b7b99dc1859ff8ca
+4220	4704	7699636206508737	62-AnimationGroup.exe	7d1a23fb09170cc1
+33	229	7699636637900188	62-AnimationGroup_autogen/timestamp	b86874ac2380891f
+33	229	7699636637900188	62-AnimationGroup_autogen/mocs_compilation.cpp	b86874ac2380891f
+33	229	7699636637900188	E:/PERSONAL/Learning/QT DEVELOPMENT/62-AnimationGroup/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/62-AnimationGroup_autogen/timestamp	b86874ac2380891f
+33	229	7699636637900188	E:/PERSONAL/Learning/QT DEVELOPMENT/62-AnimationGroup/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/62-AnimationGroup_autogen/mocs_compilation.cpp	b86874ac2380891f
+230	2298	7699636639865836	CMakeFiles/62-AnimationGroup.dir/widget.cpp.obj	b7b99dc1859ff8ca
+2299	2483	7699636660556317	62-AnimationGroup.exe	7d1a23fb09170cc1
+53	242	7699637186423969	62-AnimationGroup_autogen/timestamp	b86874ac2380891f
+53	242	7699637186423969	62-AnimationGroup_autogen/mocs_compilation.cpp	b86874ac2380891f
+53	242	7699637186423969	E:/PERSONAL/Learning/QT DEVELOPMENT/62-AnimationGroup/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/62-AnimationGroup_autogen/timestamp	b86874ac2380891f
+53	242	7699637186423969	E:/PERSONAL/Learning/QT DEVELOPMENT/62-AnimationGroup/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/62-AnimationGroup_autogen/mocs_compilation.cpp	b86874ac2380891f
+243	3150	7699637188314958	CMakeFiles/62-AnimationGroup.dir/widget.cpp.obj	b7b99dc1859ff8ca
+3150	3362	7699637217381032	62-AnimationGroup.exe	7d1a23fb09170cc1
