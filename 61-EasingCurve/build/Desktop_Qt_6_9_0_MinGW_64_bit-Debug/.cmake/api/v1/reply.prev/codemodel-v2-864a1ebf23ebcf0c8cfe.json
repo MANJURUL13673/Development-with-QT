@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-abd9c97bfbb66fa538be.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "61-EasingCurve",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "61-EasingCurve::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-61-EasingCurve-Debug-467c92ca85a2711560f9.json",
+					"name" : "61-EasingCurve",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "61-EasingCurve_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-61-EasingCurve_autogen-Debug-7db9ce568f7ab692241b.json",
+					"name" : "61-EasingCurve_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "61-EasingCurve_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-61-EasingCurve_autogen_timestamp_deps-Debug-56d921adf6ce6630c4d4.json",
+					"name" : "61-EasingCurve_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/61-EasingCurve/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/61-EasingCurve"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
