@@ -1,0 +1,9 @@
+# ninja log v6
+9	983	7700278824728088	63-StateMachine_autogen/timestamp	d58f7c28a733a7a2
+9	983	7700278824728088	63-StateMachine_autogen/mocs_compilation.cpp	d58f7c28a733a7a2
+9	983	7700278824728088	E:/PERSONAL/Learning/QT DEVELOPMENT/63-StateMachine/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/63-StateMachine_autogen/timestamp	d58f7c28a733a7a2
+9	983	7700278824728088	E:/PERSONAL/Learning/QT DEVELOPMENT/63-StateMachine/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/63-StateMachine_autogen/mocs_compilation.cpp	d58f7c28a733a7a2
+989	4483	7700278825683382	CMakeFiles/63-StateMachine.dir/63-StateMachine_autogen/mocs_compilation.cpp.obj	c85461300dfde04
+994	4495	7700278825735051	CMakeFiles/63-StateMachine.dir/main.cpp.obj	b19ca5b130751b10
+1000	4504	7700278825786112	CMakeFiles/63-StateMachine.dir/widget.cpp.obj	ef0243b4043bfb01
+4504	5105	7700278860833738	63-StateMachine.exe	a5ef228c26ed6c2a
