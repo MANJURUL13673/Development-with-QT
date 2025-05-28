@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "E:/PERSONAL/Learning/QT DEVELOPMENT/66-RunJavaScript/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/66-RunJavaScript_autogen",
+	"CMAKE_BINARY_DIR" : "E:/PERSONAL/Learning/QT DEVELOPMENT/66-RunJavaScript/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/PERSONAL/Learning/QT DEVELOPMENT/66-RunJavaScript/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/PERSONAL/Learning/QT DEVELOPMENT/66-RunJavaScript",
+	"CMAKE_SOURCE_DIR" : "E:/PERSONAL/Learning/QT DEVELOPMENT/66-RunJavaScript",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "E:/PERSONAL/Learning/QT DEVELOPMENT/66-RunJavaScript/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/66-RunJavaScript_autogen/include",
+	"INPUTS" : [ "E:/PERSONAL/Learning/QT DEVELOPMENT/66-RunJavaScript/new.html" ],
+	"LOCK_FILE" : "E:/PERSONAL/Learning/QT DEVELOPMENT/66-RunJavaScript/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/CMakeFiles/66-RunJavaScript_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.9.0/msvc2022_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/PERSONAL/Learning/QT DEVELOPMENT/66-RunJavaScript/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/CMakeFiles/66-RunJavaScript_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/PERSONAL/Learning/QT DEVELOPMENT/66-RunJavaScript/res.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

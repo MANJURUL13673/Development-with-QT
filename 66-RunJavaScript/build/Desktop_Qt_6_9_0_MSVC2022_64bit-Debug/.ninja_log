@@ -1,0 +1,26 @@
+# ninja log v6
+65	2265	7701219614475409	build.ninja	1e82f4cb46c09730
+84	222	7701219618942193	.qt/qml_imports/66-RunJavaScript_build.cmake	4c7933db79e06759
+84	222	7701219618942193	E:/PERSONAL/Learning/QT DEVELOPMENT/66-RunJavaScript/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/.qt/qml_imports/66-RunJavaScript_build.cmake	4c7933db79e06759
+223	817	7701219623785652	66-RunJavaScript_autogen/timestamp	8bbde4c20ec21b2e
+223	817	7701219623785652	66-RunJavaScript_autogen/mocs_compilation.cpp	8bbde4c20ec21b2e
+223	817	7701219623785652	E:/PERSONAL/Learning/QT DEVELOPMENT/66-RunJavaScript/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/66-RunJavaScript_autogen/timestamp	8bbde4c20ec21b2e
+223	817	7701219623785652	E:/PERSONAL/Learning/QT DEVELOPMENT/66-RunJavaScript/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/66-RunJavaScript_autogen/mocs_compilation.cpp	8bbde4c20ec21b2e
+827	911	7701219625826681	66-RunJavaScript_autogen/EWIEGA46WW/qrc_res.cpp	924e53c23c25d5ee
+827	911	7701219625826681	E:/PERSONAL/Learning/QT DEVELOPMENT/66-RunJavaScript/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/66-RunJavaScript_autogen/EWIEGA46WW/qrc_res.cpp	924e53c23c25d5ee
+1149	1474	7701219628330431	CMakeFiles/66-RunJavaScript.dir/66-RunJavaScript_autogen/EWIEGA46WW/qrc_res.cpp.obj	e3f172c507a0acc9
+911	9467	7701219625956584	CMakeFiles/66-RunJavaScript.dir/66-RunJavaScript_autogen/mocs_compilation.cpp.obj	d36a5fc9a03f4177
+931	9487	7701219626152759	CMakeFiles/66-RunJavaScript.dir/mainwindow.cpp.obj	99293797adbc4183
+923	9611	7701219626082633	CMakeFiles/66-RunJavaScript.dir/main.cpp.obj	9bb846ec076b2e1d
+9612	10598	7701219712967686	66-RunJavaScript.exe	475258fedef6cee5
+230	1132	7701227697576721	66-RunJavaScript_autogen/timestamp	8bbde4c20ec21b2e
+230	1132	7701227697576721	66-RunJavaScript_autogen/mocs_compilation.cpp	8bbde4c20ec21b2e
+230	1132	7701227697576721	E:/PERSONAL/Learning/QT DEVELOPMENT/66-RunJavaScript/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/66-RunJavaScript_autogen/timestamp	8bbde4c20ec21b2e
+230	1132	7701227697576721	E:/PERSONAL/Learning/QT DEVELOPMENT/66-RunJavaScript/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/66-RunJavaScript_autogen/mocs_compilation.cpp	8bbde4c20ec21b2e
+1142	1462	7701227703460799	66-RunJavaScript_autogen/EWIEGA46WW/qrc_res.cpp	924e53c23c25d5ee
+1142	1462	7701227703460799	E:/PERSONAL/Learning/QT DEVELOPMENT/66-RunJavaScript/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/66-RunJavaScript_autogen/EWIEGA46WW/qrc_res.cpp	924e53c23c25d5ee
+1503	2132	7701227704126045	CMakeFiles/66-RunJavaScript.dir/66-RunJavaScript_autogen/EWIEGA46WW/qrc_res.cpp.obj	e3f172c507a0acc9
+1463	6025	7701227703743048	CMakeFiles/66-RunJavaScript.dir/66-RunJavaScript_autogen/mocs_compilation.cpp.obj	d36a5fc9a03f4177
+1485	6037	7701227703950039	CMakeFiles/66-RunJavaScript.dir/main.cpp.obj	9bb846ec076b2e1d
+1494	6049	7701227704050070	CMakeFiles/66-RunJavaScript.dir/mainwindow.cpp.obj	99293797adbc4183
+6050	6576	7701227749609641	66-RunJavaScript.exe	475258fedef6cee5
