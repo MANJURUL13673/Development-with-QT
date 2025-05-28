@@ -1,0 +1,54 @@
+# ninja log v6
+25	83	7701331381343670	.qt/appIntroductionQtQuick-67_res.txt	64ebb23f53302f7e
+25	83	7701331381343670	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionQtQuick-67/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appIntroductionQtQuick-67_res.txt	64ebb23f53302f7e
+17	87	7701331381343670	.qt/appIntroductionQtQuick-67_qml.txt	3fb4c6ebc0848377
+17	87	7701331381343670	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionQtQuick-67/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appIntroductionQtQuick-67_qml.txt	3fb4c6ebc0848377
+32	152	7701331382040491	.qt/qml_imports/appIntroductionQtQuick-67_build.cmake	34f96c52bb331376
+32	152	7701331382040491	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionQtQuick-67/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appIntroductionQtQuick-67_build.cmake	34f96c52bb331376
+153	393	7701331383547197	appIntroductionQtQuick-67_autogen/timestamp	b82c15b977d64e9d
+153	393	7701331383547197	appIntroductionQtQuick-67_autogen/mocs_compilation.cpp	b82c15b977d64e9d
+153	393	7701331383547197	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionQtQuick-67/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appIntroductionQtQuick-67_autogen/timestamp	b82c15b977d64e9d
+153	393	7701331383547197	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionQtQuick-67/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appIntroductionQtQuick-67_autogen/mocs_compilation.cpp	b82c15b977d64e9d
+405	460	7701331385094712	.qt/rcc/qrc_qmake_IntroductionQtQuick-67.cpp	c29cf6f75d4b036a
+405	460	7701331385094712	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionQtQuick-67/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_IntroductionQtQuick-67.cpp	c29cf6f75d4b036a
+424	472	7701331385221993	.qt/rcc/qrc_appIntroductionQtQuick-67_raw_qml_0.cpp	6cea99f5958a9baf
+424	472	7701331385221993	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionQtQuick-67/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appIntroductionQtQuick-67_raw_qml_0.cpp	6cea99f5958a9baf
+414	513	7701331385610366	.rcc/qmlcache/appIntroductionQtQuick-67_qmlcache_loader.cpp	28b10f5694904d67
+414	513	7701331385610366	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionQtQuick-67/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appIntroductionQtQuick-67_qmlcache_loader.cpp	28b10f5694904d67
+397	519	7701331385721936	meta_types/appIntroductionQtQuick-67_json_file_list.txt	fb39ff954f43c096
+397	519	7701331385721936	meta_types/appIntroductionQtQuick-67_json_file_list.txt.timestamp	fb39ff954f43c096
+397	519	7701331385721936	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionQtQuick-67/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appIntroductionQtQuick-67_json_file_list.txt	fb39ff954f43c096
+397	519	7701331385721936	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionQtQuick-67/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appIntroductionQtQuick-67_json_file_list.txt.timestamp	fb39ff954f43c096
+519	586	7701331386394802	meta_types/qt6appintroductionqtquick-67_debug_metatypes.json.gen	ebf044253b8ad487
+519	586	7701331386394802	meta_types/qt6appintroductionqtquick-67_debug_metatypes.json	ebf044253b8ad487
+519	586	7701331386394802	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionQtQuick-67/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appintroductionqtquick-67_debug_metatypes.json.gen	ebf044253b8ad487
+519	586	7701331386394802	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionQtQuick-67/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appintroductionqtquick-67_debug_metatypes.json	ebf044253b8ad487
+586	837	7701331388324779	appintroductionqtquick-67_qmltyperegistrations.cpp	62e3d44af0dd49e4
+586	837	7701331388324779	IntroductionQtQuick-67/appIntroductionQtQuick-67.qmltypes	62e3d44af0dd49e4
+586	837	7701331388324779	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionQtQuick-67/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appintroductionqtquick-67_qmltyperegistrations.cpp	62e3d44af0dd49e4
+586	837	7701331388324779	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionQtQuick-67/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/IntroductionQtQuick-67/appIntroductionQtQuick-67.qmltypes	62e3d44af0dd49e4
+837	975	7701331390187912	.rcc/qmlcache/appIntroductionQtQuick-67_Main_qml.cpp	78fca0053a78aaff
+837	975	7701331390187912	.rcc/qmlcache/appIntroductionQtQuick-67_Main_qml.cpp.aotstats	78fca0053a78aaff
+837	975	7701331390187912	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionQtQuick-67/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appIntroductionQtQuick-67_Main_qml.cpp	78fca0053a78aaff
+837	975	7701331390187912	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionQtQuick-67/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appIntroductionQtQuick-67_Main_qml.cpp.aotstats	78fca0053a78aaff
+975	1093	7701331390352830	CMakeFiles/appIntroductionQtQuick-67.dir/appIntroductionQtQuick-67_autogen/mocs_compilation.cpp.obj	cc0d9f04b6fd8853
+989	1107	7701331390487397	CMakeFiles/appIntroductionQtQuick-67.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_IntroductionQtQuick-67.cpp.obj	e42c3368729ce096
+1008	1120	7701331390671244	CMakeFiles/appIntroductionQtQuick-67.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appIntroductionQtQuick-67_raw_qml_0.cpp.obj	977f598ba39608a8
+1001	4524	7701331390610625	CMakeFiles/appIntroductionQtQuick-67.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appIntroductionQtQuick-67_Main_qml.cpp.obj	d6e1e819c1e1f669
+984	4527	7701331390435942	CMakeFiles/appIntroductionQtQuick-67.dir/appintroductionqtquick-67_qmltyperegistrations.cpp.obj	de1f0a4f901c6ad1
+980	4683	7701331390393814	CMakeFiles/appIntroductionQtQuick-67.dir/main.cpp.obj	a5b10a01c9e8478
+995	5403	7701331390544702	CMakeFiles/appIntroductionQtQuick-67.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appIntroductionQtQuick-67_qmlcache_loader.cpp.obj	14620a8286574f8d
+5403	5806	7701331434622595	appIntroductionQtQuick-67.exe	44ef99763b907cfa
+76	142	7701332739531108	.qt/appIntroductionQtQuick-67_qml.txt	3fb4c6ebc0848377
+76	142	7701332739531108	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionQtQuick-67/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appIntroductionQtQuick-67_qml.txt	3fb4c6ebc0848377
+84	220	7701332740313981	.qt/qml_imports/appIntroductionQtQuick-67_build.cmake	34f96c52bb331376
+84	220	7701332740313981	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionQtQuick-67/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appIntroductionQtQuick-67_build.cmake	34f96c52bb331376
+229	274	7701332740870582	.qt/rcc/qrc_appIntroductionQtQuick-67_raw_qml_0.cpp	6cea99f5958a9baf
+229	274	7701332740870582	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionQtQuick-67/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appIntroductionQtQuick-67_raw_qml_0.cpp	6cea99f5958a9baf
+220	362	7701332741676263	.rcc/qmlcache/appIntroductionQtQuick-67_Main_qml.cpp	78fca0053a78aaff
+220	362	7701332741676263	.rcc/qmlcache/appIntroductionQtQuick-67_Main_qml.cpp.aotstats	78fca0053a78aaff
+220	362	7701332741676263	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionQtQuick-67/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appIntroductionQtQuick-67_Main_qml.cpp	78fca0053a78aaff
+220	362	7701332741676263	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionQtQuick-67/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appIntroductionQtQuick-67_Main_qml.cpp.aotstats	78fca0053a78aaff
+367	438	7701332741872593	CMakeFiles/appIntroductionQtQuick-67.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appIntroductionQtQuick-67_raw_qml_0.cpp.obj	977f598ba39608a8
+362	2507	7701332741832481	CMakeFiles/appIntroductionQtQuick-67.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appIntroductionQtQuick-67_Main_qml.cpp.obj	d6e1e819c1e1f669
+2507	2731	7701332763275578	appIntroductionQtQuick-67.exe	44ef99763b907cfa
