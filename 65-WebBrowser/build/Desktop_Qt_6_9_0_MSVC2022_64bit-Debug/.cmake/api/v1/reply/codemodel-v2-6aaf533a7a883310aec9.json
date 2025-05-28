@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4a34a4a0b7c04eb5ad38.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "65-WebBrowser",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "65-WebBrowser::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-65-WebBrowser-Debug-56e065e2c3531c33a3c0.json",
+					"name" : "65-WebBrowser",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "65-WebBrowser_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-65-WebBrowser_autogen-Debug-767d43731dc97db1f06b.json",
+					"name" : "65-WebBrowser_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "65-WebBrowser_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-65-WebBrowser_autogen_timestamp_deps-Debug-97b5197a80d2e16ba116.json",
+					"name" : "65-WebBrowser_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "65-WebBrowser_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-65-WebBrowser_qmlimportscan-Debug-7cd950c873590c7d1fcf.json",
+					"name" : "65-WebBrowser_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/65-WebBrowser/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/65-WebBrowser"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
