@@ -1,0 +1,11 @@
+
+set(target "appTransform-80")
+set(working_dir "E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80")
+set(src_and_dest_list
+    "E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/Main.qml"
+    "E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/Transform-80/Main.qml"
+    "E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/Shape.qml"
+    "E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/Transform-80/Shape.qml"
+
+)
+set(timestamp_file "E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/appTransform-80_qml.txt")

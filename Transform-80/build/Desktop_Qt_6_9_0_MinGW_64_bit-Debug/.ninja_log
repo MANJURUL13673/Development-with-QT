@@ -1,0 +1,49 @@
+# ninja log v6
+18	70	7702230454424936	.qt/appTransform-80_qml.txt	7efd14c9c29c79dd
+18	70	7702230454424936	E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTransform-80_qml.txt	7efd14c9c29c79dd
+26	81	7702230454548562	.qt/appTransform-80_res.txt	b0e8ef95aaa9930b
+26	81	7702230454548562	E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTransform-80_res.txt	b0e8ef95aaa9930b
+35	135	7702230455070016	.qt/qml_imports/appTransform-80_build.cmake	3a842b7ec62e5423
+35	135	7702230455070016	E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTransform-80_build.cmake	3a842b7ec62e5423
+136	358	7702230456505389	appTransform-80_autogen/timestamp	70fc06b82075623c
+136	358	7702230456505389	appTransform-80_autogen/mocs_compilation.cpp	70fc06b82075623c
+136	358	7702230456505389	E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTransform-80_autogen/timestamp	70fc06b82075623c
+136	358	7702230456505389	E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTransform-80_autogen/mocs_compilation.cpp	70fc06b82075623c
+371	420	7702230457869364	.qt/rcc/qrc_qmake_Transform-80.cpp	a9a4b91dcbc69be8
+371	420	7702230457869364	E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Transform-80.cpp	a9a4b91dcbc69be8
+363	422	7702230457927614	meta_types/appTransform-80_json_file_list.txt	2de64d3c46256b80
+363	422	7702230457927614	meta_types/appTransform-80_json_file_list.txt.timestamp	2de64d3c46256b80
+363	422	7702230457927614	E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTransform-80_json_file_list.txt	2de64d3c46256b80
+363	422	7702230457927614	E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTransform-80_json_file_list.txt.timestamp	2de64d3c46256b80
+386	438	7702230458076119	.qt/rcc/qrc_appTransform-80_raw_qml_0.cpp	c9d80b24d64cbd98
+386	438	7702230458076119	E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTransform-80_raw_qml_0.cpp	c9d80b24d64cbd98
+378	442	7702230458086065	.rcc/qmlcache/appTransform-80_qmlcache_loader.cpp	1ee1f9ae811e9fdf
+378	442	7702230458086065	E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTransform-80_qmlcache_loader.cpp	1ee1f9ae811e9fdf
+423	489	7702230458614877	meta_types/qt6apptransform-80_debug_metatypes.json.gen	77a433aeecad806c
+423	489	7702230458614877	meta_types/qt6apptransform-80_debug_metatypes.json	77a433aeecad806c
+423	489	7702230458614877	E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptransform-80_debug_metatypes.json.gen	77a433aeecad806c
+423	489	7702230458614877	E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptransform-80_debug_metatypes.json	77a433aeecad806c
+395	499	7702230458668995	appTransform-80_autogen/EWIEGA46WW/qrc_res.cpp	43956f4a5f370830
+395	499	7702230458668995	E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTransform-80_autogen/EWIEGA46WW/qrc_res.cpp	43956f4a5f370830
+489	643	7702230459596966	apptransform-80_qmltyperegistrations.cpp	adcf5b482a789baa
+489	643	7702230459596966	Transform-80/appTransform-80.qmltypes	adcf5b482a789baa
+489	643	7702230459596966	E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apptransform-80_qmltyperegistrations.cpp	adcf5b482a789baa
+489	643	7702230459596966	E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Transform-80/appTransform-80.qmltypes	adcf5b482a789baa
+643	808	7702230461688751	.rcc/qmlcache/appTransform-80_Main_qml.cpp	97d0967e9a42556d
+643	808	7702230461688751	.rcc/qmlcache/appTransform-80_Main_qml.cpp.aotstats	97d0967e9a42556d
+643	808	7702230461688751	E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTransform-80_Main_qml.cpp	97d0967e9a42556d
+643	808	7702230461688751	E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTransform-80_Main_qml.cpp.aotstats	97d0967e9a42556d
+651	810	7702230461718589	.rcc/qmlcache/appTransform-80_Shape_qml.cpp	ec5c9acb0ee51ba
+651	810	7702230461718589	.rcc/qmlcache/appTransform-80_Shape_qml.cpp.aotstats	ec5c9acb0ee51ba
+651	810	7702230461718589	E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTransform-80_Shape_qml.cpp	ec5c9acb0ee51ba
+651	810	7702230461718589	E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTransform-80_Shape_qml.cpp.aotstats	ec5c9acb0ee51ba
+811	913	7702230461900171	CMakeFiles/appTransform-80.dir/appTransform-80_autogen/mocs_compilation.cpp.obj	f89117cc668ec858
+825	957	7702230462046092	CMakeFiles/appTransform-80.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Transform-80.cpp.obj	444f9d7d5553e008
+851	978	7702230462311416	CMakeFiles/appTransform-80.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTransform-80_raw_qml_0.cpp.obj	726583af8df6dd25
+860	1442	7702230462398996	CMakeFiles/appTransform-80.dir/appTransform-80_autogen/EWIEGA46WW/qrc_res.cpp.obj	2bbe71b792f0617d
+821	4487	7702230462001668	CMakeFiles/appTransform-80.dir/apptransform-80_qmltyperegistrations.cpp.obj	20b74cdb792c2bb2
+837	4556	7702230462167420	CMakeFiles/appTransform-80.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTransform-80_Main_qml.cpp.obj	5669314b2f9d930b
+842	4628	7702230462216296	CMakeFiles/appTransform-80.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTransform-80_Shape_qml.cpp.obj	7593a849020455d5
+815	4759	7702230461954662	CMakeFiles/appTransform-80.dir/main.cpp.obj	2c22d2ed236ef00e
+829	5079	7702230462087456	CMakeFiles/appTransform-80.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTransform-80_qmlcache_loader.cpp.obj	bc8988e265e636ee
+5079	5439	7702230504587330	appTransform-80.exe	4397453a0a550a54

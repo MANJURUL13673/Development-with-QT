@@ -1,0 +1,6 @@
+module Transform-80
+typeinfo appTransform-80.qmltypes
+prefer :/qt/qml/Transform-80/
+Main 1.0 Main.qml
+Shape 1.0 Shape.qml
+

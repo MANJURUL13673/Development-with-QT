@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/Transform-80/">
+    <file alias="Main.qml">E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/Main.qml</file>
+    <file alias="Shape.qml">E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/Shape.qml</file>
+    <file alias="res.qrc">E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/res.qrc</file>
+  </qresource>
+</RCC>
+

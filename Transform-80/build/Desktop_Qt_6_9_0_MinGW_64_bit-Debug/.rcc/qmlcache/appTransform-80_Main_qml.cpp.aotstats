@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 279,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 13
+                    }
+                ],
+                "filepath": "E:/PERSONAL/Learning/QT DEVELOPMENT/Transform-80/Main.qml"
+            }
+        ],
+        "moduleId": "Transform-80(appTransform-80)"
+    }
+]
