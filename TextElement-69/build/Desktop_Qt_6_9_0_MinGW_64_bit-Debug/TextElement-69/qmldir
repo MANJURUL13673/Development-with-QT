@@ -1,0 +1,5 @@
+module TextElement-69
+typeinfo appTextElement-69.qmltypes
+prefer :/qt/qml/TextElement-69/
+Main 1.0 Main.qml
+

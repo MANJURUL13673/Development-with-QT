@@ -1,0 +1,54 @@
+# ninja log v6
+26	104	7702101246600675	.qt/appTextElement-69_qml.txt	84eb7018801c1ee4
+26	104	7702101246600675	E:/PERSONAL/Learning/QT DEVELOPMENT/TextElement-69/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTextElement-69_qml.txt	84eb7018801c1ee4
+36	112	7702101246664449	.qt/appTextElement-69_res.txt	e083cc9b9d032fd7
+36	112	7702101246664449	E:/PERSONAL/Learning/QT DEVELOPMENT/TextElement-69/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTextElement-69_res.txt	e083cc9b9d032fd7
+46	174	7702101247301151	.qt/qml_imports/appTextElement-69_build.cmake	423cf39bff9511cb
+46	174	7702101247301151	E:/PERSONAL/Learning/QT DEVELOPMENT/TextElement-69/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTextElement-69_build.cmake	423cf39bff9511cb
+174	427	7702101248913115	appTextElement-69_autogen/timestamp	1c6483a5b7f85010
+174	427	7702101248913115	appTextElement-69_autogen/mocs_compilation.cpp	1c6483a5b7f85010
+174	427	7702101248913115	E:/PERSONAL/Learning/QT DEVELOPMENT/TextElement-69/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTextElement-69_autogen/timestamp	1c6483a5b7f85010
+174	427	7702101248913115	E:/PERSONAL/Learning/QT DEVELOPMENT/TextElement-69/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTextElement-69_autogen/mocs_compilation.cpp	1c6483a5b7f85010
+440	498	7702101250498098	.qt/rcc/qrc_qmake_TextElement-69.cpp	b7df3752f56e3169
+440	498	7702101250498098	E:/PERSONAL/Learning/QT DEVELOPMENT/TextElement-69/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_TextElement-69.cpp	b7df3752f56e3169
+432	500	7702101250544250	meta_types/appTextElement-69_json_file_list.txt	8255b41bd29de2b4
+432	500	7702101250544250	meta_types/appTextElement-69_json_file_list.txt.timestamp	8255b41bd29de2b4
+432	500	7702101250544250	E:/PERSONAL/Learning/QT DEVELOPMENT/TextElement-69/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTextElement-69_json_file_list.txt	8255b41bd29de2b4
+432	500	7702101250544250	E:/PERSONAL/Learning/QT DEVELOPMENT/TextElement-69/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTextElement-69_json_file_list.txt.timestamp	8255b41bd29de2b4
+458	514	7702101250685129	.qt/rcc/qrc_appTextElement-69_raw_qml_0.cpp	9a93d6c45af9b47d
+458	514	7702101250685129	E:/PERSONAL/Learning/QT DEVELOPMENT/TextElement-69/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTextElement-69_raw_qml_0.cpp	9a93d6c45af9b47d
+449	531	7702101250825541	.rcc/qmlcache/appTextElement-69_qmlcache_loader.cpp	b46900f21f879ee1
+449	531	7702101250825541	E:/PERSONAL/Learning/QT DEVELOPMENT/TextElement-69/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextElement-69_qmlcache_loader.cpp	b46900f21f879ee1
+500	567	7702101251217292	meta_types/qt6apptextelement-69_debug_metatypes.json.gen	73dd5c406dc9d1c8
+500	567	7702101251217292	meta_types/qt6apptextelement-69_debug_metatypes.json	73dd5c406dc9d1c8
+500	567	7702101251217292	E:/PERSONAL/Learning/QT DEVELOPMENT/TextElement-69/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptextelement-69_debug_metatypes.json.gen	73dd5c406dc9d1c8
+500	567	7702101251217292	E:/PERSONAL/Learning/QT DEVELOPMENT/TextElement-69/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptextelement-69_debug_metatypes.json	73dd5c406dc9d1c8
+567	720	7702101252196347	apptextelement-69_qmltyperegistrations.cpp	39e5dc3af4316b86
+567	720	7702101252196347	TextElement-69/appTextElement-69.qmltypes	39e5dc3af4316b86
+567	720	7702101252196347	E:/PERSONAL/Learning/QT DEVELOPMENT/TextElement-69/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apptextelement-69_qmltyperegistrations.cpp	39e5dc3af4316b86
+567	720	7702101252196347	E:/PERSONAL/Learning/QT DEVELOPMENT/TextElement-69/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/TextElement-69/appTextElement-69.qmltypes	39e5dc3af4316b86
+720	851	7702101253981503	.rcc/qmlcache/appTextElement-69_Main_qml.cpp	7785ea61e62810e4
+720	851	7702101253981503	.rcc/qmlcache/appTextElement-69_Main_qml.cpp.aotstats	7785ea61e62810e4
+720	851	7702101253981503	E:/PERSONAL/Learning/QT DEVELOPMENT/TextElement-69/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextElement-69_Main_qml.cpp	7785ea61e62810e4
+720	851	7702101253981503	E:/PERSONAL/Learning/QT DEVELOPMENT/TextElement-69/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextElement-69_Main_qml.cpp.aotstats	7785ea61e62810e4
+851	956	7702101254148480	CMakeFiles/appTextElement-69.dir/appTextElement-69_autogen/mocs_compilation.cpp.obj	c701b2efa6dc4a3c
+868	996	7702101254318360	CMakeFiles/appTextElement-69.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_TextElement-69.cpp.obj	7fdaf82d3e13178a
+887	1014	7702101254505779	CMakeFiles/appTextElement-69.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTextElement-69_raw_qml_0.cpp.obj	b48e1c85512a5f95
+863	3943	7702101254265027	CMakeFiles/appTextElement-69.dir/apptextelement-69_qmltyperegistrations.cpp.obj	94e36903c39246eb
+881	3998	7702101254439238	CMakeFiles/appTextElement-69.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextElement-69_Main_qml.cpp.obj	2e291d9b1d7633aa
+856	4150	7702101254190016	CMakeFiles/appTextElement-69.dir/main.cpp.obj	3caf8acae6d954b0
+872	4676	7702101254362233	CMakeFiles/appTextElement-69.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextElement-69_qmlcache_loader.cpp.obj	783fdbd911f54a0e
+4676	5004	7702101292396064	appTextElement-69.exe	5434f5c3614ad728
+46	92	7702101735906217	.qt/appTextElement-69_qml.txt	84eb7018801c1ee4
+46	92	7702101735906217	E:/PERSONAL/Learning/QT DEVELOPMENT/TextElement-69/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTextElement-69_qml.txt	84eb7018801c1ee4
+54	156	7702101736532769	.qt/qml_imports/appTextElement-69_build.cmake	423cf39bff9511cb
+54	156	7702101736532769	E:/PERSONAL/Learning/QT DEVELOPMENT/TextElement-69/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTextElement-69_build.cmake	423cf39bff9511cb
+164	206	7702101737054216	.qt/rcc/qrc_appTextElement-69_raw_qml_0.cpp	9a93d6c45af9b47d
+164	206	7702101737054216	E:/PERSONAL/Learning/QT DEVELOPMENT/TextElement-69/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTextElement-69_raw_qml_0.cpp	9a93d6c45af9b47d
+156	276	7702101737706587	.rcc/qmlcache/appTextElement-69_Main_qml.cpp	7785ea61e62810e4
+156	276	7702101737706587	.rcc/qmlcache/appTextElement-69_Main_qml.cpp.aotstats	7785ea61e62810e4
+156	276	7702101737706587	E:/PERSONAL/Learning/QT DEVELOPMENT/TextElement-69/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextElement-69_Main_qml.cpp	7785ea61e62810e4
+156	276	7702101737706587	E:/PERSONAL/Learning/QT DEVELOPMENT/TextElement-69/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextElement-69_Main_qml.cpp.aotstats	7785ea61e62810e4
+281	349	7702101737875668	CMakeFiles/appTextElement-69.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTextElement-69_raw_qml_0.cpp.obj	b48e1c85512a5f95
+277	2434	7702101737835038	CMakeFiles/appTextElement-69.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextElement-69_Main_qml.cpp.obj	2e291d9b1d7633aa
+2434	2661	7702101759412781	appTextElement-69.exe	5434f5c3614ad728
