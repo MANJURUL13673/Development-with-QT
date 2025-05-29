@@ -1,0 +1,54 @@
+# ninja log v6
+19	78	7702143517562589	.qt/appQMLDesigner-74_qml.txt	5ee4267014886f56
+19	78	7702143517562589	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesigner-74/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appQMLDesigner-74_qml.txt	5ee4267014886f56
+27	82	7702143517588644	.qt/appQMLDesigner-74_res.txt	587e646394525ae8
+27	82	7702143517588644	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesigner-74/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appQMLDesigner-74_res.txt	587e646394525ae8
+35	163	7702143518409184	.qt/qml_imports/appQMLDesigner-74_build.cmake	d753e77eb283943b
+35	163	7702143518409184	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesigner-74/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appQMLDesigner-74_build.cmake	d753e77eb283943b
+164	445	7702143520207493	appQMLDesigner-74_autogen/timestamp	7bf9cbd34e407bed
+164	445	7702143520207493	appQMLDesigner-74_autogen/mocs_compilation.cpp	7bf9cbd34e407bed
+164	445	7702143520207493	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesigner-74/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appQMLDesigner-74_autogen/timestamp	7bf9cbd34e407bed
+164	445	7702143520207493	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesigner-74/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appQMLDesigner-74_autogen/mocs_compilation.cpp	7bf9cbd34e407bed
+460	526	7702143522020262	.qt/rcc/qrc_qmake_QMLDesigner-74.cpp	f1bb065b3df97eb2
+460	526	7702143522020262	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesigner-74/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_QMLDesigner-74.cpp	f1bb065b3df97eb2
+450	528	7702143522053588	meta_types/appQMLDesigner-74_json_file_list.txt	e81905ef6fb0f5b5
+450	528	7702143522053588	meta_types/appQMLDesigner-74_json_file_list.txt.timestamp	e81905ef6fb0f5b5
+450	528	7702143522053588	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesigner-74/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appQMLDesigner-74_json_file_list.txt	e81905ef6fb0f5b5
+450	528	7702143522053588	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesigner-74/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appQMLDesigner-74_json_file_list.txt.timestamp	e81905ef6fb0f5b5
+478	543	7702143522169640	.qt/rcc/qrc_appQMLDesigner-74_raw_qml_0.cpp	e24e2251f4961e00
+478	543	7702143522169640	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesigner-74/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appQMLDesigner-74_raw_qml_0.cpp	e24e2251f4961e00
+469	565	7702143522391433	.rcc/qmlcache/appQMLDesigner-74_qmlcache_loader.cpp	37cac144e2482c37
+469	565	7702143522391433	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesigner-74/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appQMLDesigner-74_qmlcache_loader.cpp	37cac144e2482c37
+528	605	7702143522841431	meta_types/qt6appqmldesigner-74_debug_metatypes.json.gen	e7e20033edf8f659
+528	605	7702143522841431	meta_types/qt6appqmldesigner-74_debug_metatypes.json	e7e20033edf8f659
+528	605	7702143522841431	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesigner-74/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appqmldesigner-74_debug_metatypes.json.gen	e7e20033edf8f659
+528	605	7702143522841431	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesigner-74/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appqmldesigner-74_debug_metatypes.json	e7e20033edf8f659
+605	754	7702143523760376	appqmldesigner-74_qmltyperegistrations.cpp	3581ee9288b24175
+605	754	7702143523760376	QMLDesigner-74/appQMLDesigner-74.qmltypes	3581ee9288b24175
+605	754	7702143523760376	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesigner-74/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appqmldesigner-74_qmltyperegistrations.cpp	3581ee9288b24175
+605	754	7702143523760376	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesigner-74/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/QMLDesigner-74/appQMLDesigner-74.qmltypes	3581ee9288b24175
+754	894	7702143525648012	.rcc/qmlcache/appQMLDesigner-74_Main_qml.cpp	8c8864e6634f40db
+754	894	7702143525648012	.rcc/qmlcache/appQMLDesigner-74_Main_qml.cpp.aotstats	8c8864e6634f40db
+754	894	7702143525648012	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesigner-74/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appQMLDesigner-74_Main_qml.cpp	8c8864e6634f40db
+754	894	7702143525648012	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesigner-74/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appQMLDesigner-74_Main_qml.cpp.aotstats	8c8864e6634f40db
+895	1028	7702143525807211	CMakeFiles/appQMLDesigner-74.dir/appQMLDesigner-74_autogen/mocs_compilation.cpp.obj	a0e1537da855d7a9
+911	1051	7702143525966261	CMakeFiles/appQMLDesigner-74.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_QMLDesigner-74.cpp.obj	f01a69f3a26604c9
+932	1074	7702143526175288	CMakeFiles/appQMLDesigner-74.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appQMLDesigner-74_raw_qml_0.cpp.obj	27ff9dbe1f9df4ff
+904	4185	7702143525891771	CMakeFiles/appQMLDesigner-74.dir/appqmldesigner-74_qmltyperegistrations.cpp.obj	3de9ad372a3ceba2
+923	4229	7702143526090545	CMakeFiles/appQMLDesigner-74.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appQMLDesigner-74_Main_qml.cpp.obj	1555442bc86494b2
+898	4438	7702143525838130	CMakeFiles/appQMLDesigner-74.dir/main.cpp.obj	3915fda4f728f837
+917	4837	7702143526015754	CMakeFiles/appQMLDesigner-74.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appQMLDesigner-74_qmlcache_loader.cpp.obj	b8651f111e960495
+4837	5143	7702143565219120	appQMLDesigner-74.exe	9accb2c68b487a7
+56	108	7702143990955186	.qt/appQMLDesigner-74_qml.txt	5ee4267014886f56
+56	108	7702143990955186	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesigner-74/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appQMLDesigner-74_qml.txt	5ee4267014886f56
+66	184	7702143991712187	.qt/qml_imports/appQMLDesigner-74_build.cmake	d753e77eb283943b
+66	184	7702143991712187	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesigner-74/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appQMLDesigner-74_build.cmake	d753e77eb283943b
+193	239	7702143992264644	.qt/rcc/qrc_appQMLDesigner-74_raw_qml_0.cpp	e24e2251f4961e00
+193	239	7702143992264644	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesigner-74/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appQMLDesigner-74_raw_qml_0.cpp	e24e2251f4961e00
+184	320	7702143993018198	.rcc/qmlcache/appQMLDesigner-74_Main_qml.cpp	8c8864e6634f40db
+184	320	7702143993018198	.rcc/qmlcache/appQMLDesigner-74_Main_qml.cpp.aotstats	8c8864e6634f40db
+184	320	7702143993018198	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesigner-74/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appQMLDesigner-74_Main_qml.cpp	8c8864e6634f40db
+184	320	7702143993018198	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesigner-74/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appQMLDesigner-74_Main_qml.cpp.aotstats	8c8864e6634f40db
+326	396	7702143993218879	CMakeFiles/appQMLDesigner-74.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appQMLDesigner-74_raw_qml_0.cpp.obj	27ff9dbe1f9df4ff
+320	2648	7702143993157292	CMakeFiles/appQMLDesigner-74.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appQMLDesigner-74_Main_qml.cpp.obj	1555442bc86494b2
+2648	2903	7702144016435883	appQMLDesigner-74.exe	9accb2c68b487a7

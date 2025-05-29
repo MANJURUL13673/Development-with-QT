@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 2289,
+                        "errorMessage": "",
+                        "functionName": "visibility",
+                        "line": 8
+                    }
+                ],
+                "filepath": "E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesigner-74/Main.qml"
+            }
+        ],
+        "moduleId": "QMLDesigner-74(appQMLDesigner-74)"
+    }
+]

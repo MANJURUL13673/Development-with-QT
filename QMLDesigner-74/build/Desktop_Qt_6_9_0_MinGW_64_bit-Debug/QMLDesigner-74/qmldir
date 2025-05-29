@@ -1,0 +1,5 @@
+module QMLDesigner-74
+typeinfo appQMLDesigner-74.qmltypes
+prefer :/qt/qml/QMLDesigner-74/
+Main 1.0 Main.qml
+
