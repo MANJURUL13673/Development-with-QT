@@ -1,0 +1,106 @@
+# ninja log v6
+26	93	7702095595522656	.qt/appRectangle-68_res.txt	d45f36513a2fa12d
+26	93	7702095595522656	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appRectangle-68_res.txt	d45f36513a2fa12d
+17	96	7702095595543072	.qt/appRectangle-68_qml.txt	aaf5dcdba009894b
+17	96	7702095595543072	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appRectangle-68_qml.txt	aaf5dcdba009894b
+34	172	7702095596307841	.qt/qml_imports/appRectangle-68_build.cmake	7b178fc14150eff9
+34	172	7702095596307841	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appRectangle-68_build.cmake	7b178fc14150eff9
+173	411	7702095597851576	appRectangle-68_autogen/timestamp	47f2391388137387
+173	411	7702095597851576	appRectangle-68_autogen/mocs_compilation.cpp	47f2391388137387
+173	411	7702095597851576	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appRectangle-68_autogen/timestamp	47f2391388137387
+173	411	7702095597851576	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appRectangle-68_autogen/mocs_compilation.cpp	47f2391388137387
+423	479	7702095599375667	.qt/rcc/qrc_qmake_Rectangle-68.cpp	47bd7ca04e5b15ea
+423	479	7702095599375667	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Rectangle-68.cpp	47bd7ca04e5b15ea
+415	480	7702095599421571	meta_types/appRectangle-68_json_file_list.txt	a0c78c70026ef8b8
+415	480	7702095599421571	meta_types/appRectangle-68_json_file_list.txt.timestamp	a0c78c70026ef8b8
+415	480	7702095599421571	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appRectangle-68_json_file_list.txt	a0c78c70026ef8b8
+415	480	7702095599421571	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appRectangle-68_json_file_list.txt.timestamp	a0c78c70026ef8b8
+442	495	7702095599542452	.qt/rcc/qrc_appRectangle-68_raw_qml_0.cpp	8f501a9d71cd43c8
+442	495	7702095599542452	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appRectangle-68_raw_qml_0.cpp	8f501a9d71cd43c8
+431	517	7702095599742091	.rcc/qmlcache/appRectangle-68_qmlcache_loader.cpp	78e7e545da40ca83
+431	517	7702095599742091	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRectangle-68_qmlcache_loader.cpp	78e7e545da40ca83
+481	555	7702095600167657	meta_types/qt6apprectangle-68_debug_metatypes.json.gen	84b009644d46ea43
+481	555	7702095600167657	meta_types/qt6apprectangle-68_debug_metatypes.json	84b009644d46ea43
+481	555	7702095600167657	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apprectangle-68_debug_metatypes.json.gen	84b009644d46ea43
+481	555	7702095600167657	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apprectangle-68_debug_metatypes.json	84b009644d46ea43
+556	802	7702095602009448	apprectangle-68_qmltyperegistrations.cpp	d1d392638c9cd2af
+556	802	7702095602009448	Rectangle-68/appRectangle-68.qmltypes	d1d392638c9cd2af
+556	802	7702095602009448	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apprectangle-68_qmltyperegistrations.cpp	d1d392638c9cd2af
+556	802	7702095602009448	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Rectangle-68/appRectangle-68.qmltypes	d1d392638c9cd2af
+802	932	7702095603853630	.rcc/qmlcache/appRectangle-68_Main_qml.cpp	aea31a8c1ebbc9f2
+802	932	7702095603853630	.rcc/qmlcache/appRectangle-68_Main_qml.cpp.aotstats	aea31a8c1ebbc9f2
+802	932	7702095603853630	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRectangle-68_Main_qml.cpp	aea31a8c1ebbc9f2
+802	932	7702095603853630	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRectangle-68_Main_qml.cpp.aotstats	aea31a8c1ebbc9f2
+932	1061	7702095604004464	CMakeFiles/appRectangle-68.dir/appRectangle-68_autogen/mocs_compilation.cpp.obj	6550d70f74dcb75f
+954	1077	7702095604237326	CMakeFiles/appRectangle-68.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Rectangle-68.cpp.obj	fcd217f60defe50
+977	1090	7702095604444790	CMakeFiles/appRectangle-68.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appRectangle-68_raw_qml_0.cpp.obj	dde9892b3be113ef
+944	4360	7702095604123886	CMakeFiles/appRectangle-68.dir/apprectangle-68_qmltyperegistrations.cpp.obj	682ab5c0f6780136
+970	4364	7702095604389234	CMakeFiles/appRectangle-68.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRectangle-68_Main_qml.cpp.obj	8f27793aed8b5ddc
+938	4373	7702095604069151	CMakeFiles/appRectangle-68.dir/main.cpp.obj	cf71e538f3821074
+962	5184	7702095604306138	CMakeFiles/appRectangle-68.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRectangle-68_qmlcache_loader.cpp.obj	23581cd2211a0cb4
+5184	5580	7702095646532314	appRectangle-68.exe	4c7d6b3d22e78e85
+81	148	7702096007382824	.qt/appRectangle-68_qml.txt	aaf5dcdba009894b
+81	148	7702096007382824	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appRectangle-68_qml.txt	aaf5dcdba009894b
+91	197	7702096007853170	.qt/qml_imports/appRectangle-68_build.cmake	7b178fc14150eff9
+91	197	7702096007853170	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appRectangle-68_build.cmake	7b178fc14150eff9
+207	253	7702096008423466	.qt/rcc/qrc_appRectangle-68_raw_qml_0.cpp	8f501a9d71cd43c8
+207	253	7702096008423466	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appRectangle-68_raw_qml_0.cpp	8f501a9d71cd43c8
+197	329	7702096009121641	.rcc/qmlcache/appRectangle-68_Main_qml.cpp	aea31a8c1ebbc9f2
+197	329	7702096009121641	.rcc/qmlcache/appRectangle-68_Main_qml.cpp.aotstats	aea31a8c1ebbc9f2
+197	329	7702096009121641	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRectangle-68_Main_qml.cpp	aea31a8c1ebbc9f2
+197	329	7702096009121641	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRectangle-68_Main_qml.cpp.aotstats	aea31a8c1ebbc9f2
+335	409	7702096009312340	CMakeFiles/appRectangle-68.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appRectangle-68_raw_qml_0.cpp.obj	dde9892b3be113ef
+329	2810	7702096009256832	CMakeFiles/appRectangle-68.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRectangle-68_Main_qml.cpp.obj	8f27793aed8b5ddc
+2810	3047	7702096034066154	appRectangle-68.exe	4c7d6b3d22e78e85
+42	90	7702096528712237	.qt/appRectangle-68_qml.txt	aaf5dcdba009894b
+42	90	7702096528712237	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appRectangle-68_qml.txt	aaf5dcdba009894b
+50	146	7702096529256389	.qt/qml_imports/appRectangle-68_build.cmake	7b178fc14150eff9
+50	146	7702096529256389	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appRectangle-68_build.cmake	7b178fc14150eff9
+153	193	7702096529744963	.qt/rcc/qrc_appRectangle-68_raw_qml_0.cpp	8f501a9d71cd43c8
+153	193	7702096529744963	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appRectangle-68_raw_qml_0.cpp	8f501a9d71cd43c8
+146	266	7702096530403497	.rcc/qmlcache/appRectangle-68_Main_qml.cpp	aea31a8c1ebbc9f2
+146	266	7702096530403497	.rcc/qmlcache/appRectangle-68_Main_qml.cpp.aotstats	aea31a8c1ebbc9f2
+146	266	7702096530403497	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRectangle-68_Main_qml.cpp	aea31a8c1ebbc9f2
+146	266	7702096530403497	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRectangle-68_Main_qml.cpp.aotstats	aea31a8c1ebbc9f2
+271	341	7702096530585179	CMakeFiles/appRectangle-68.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appRectangle-68_raw_qml_0.cpp.obj	dde9892b3be113ef
+266	2535	7702096530539659	CMakeFiles/appRectangle-68.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRectangle-68_Main_qml.cpp.obj	8f27793aed8b5ddc
+2535	2774	7702096553222926	appRectangle-68.exe	4c7d6b3d22e78e85
+43	87	7702096862964207	.qt/appRectangle-68_qml.txt	aaf5dcdba009894b
+43	87	7702096862964207	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appRectangle-68_qml.txt	aaf5dcdba009894b
+52	149	7702096863566888	.qt/qml_imports/appRectangle-68_build.cmake	7b178fc14150eff9
+52	149	7702096863566888	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appRectangle-68_build.cmake	7b178fc14150eff9
+157	197	7702096864055102	.qt/rcc/qrc_appRectangle-68_raw_qml_0.cpp	8f501a9d71cd43c8
+157	197	7702096864055102	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appRectangle-68_raw_qml_0.cpp	8f501a9d71cd43c8
+149	275	7702096864786659	.rcc/qmlcache/appRectangle-68_Main_qml.cpp	aea31a8c1ebbc9f2
+149	275	7702096864786659	.rcc/qmlcache/appRectangle-68_Main_qml.cpp.aotstats	aea31a8c1ebbc9f2
+149	275	7702096864786659	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRectangle-68_Main_qml.cpp	aea31a8c1ebbc9f2
+149	275	7702096864786659	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRectangle-68_Main_qml.cpp.aotstats	aea31a8c1ebbc9f2
+280	347	7702096864953880	CMakeFiles/appRectangle-68.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appRectangle-68_raw_qml_0.cpp.obj	dde9892b3be113ef
+276	2352	7702096864913603	CMakeFiles/appRectangle-68.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRectangle-68_Main_qml.cpp.obj	8f27793aed8b5ddc
+2353	2571	7702096885682244	appRectangle-68.exe	4c7d6b3d22e78e85
+44	91	7702097052556105	.qt/appRectangle-68_qml.txt	aaf5dcdba009894b
+44	91	7702097052556105	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appRectangle-68_qml.txt	aaf5dcdba009894b
+53	155	7702097053175444	.qt/qml_imports/appRectangle-68_build.cmake	7b178fc14150eff9
+53	155	7702097053175444	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appRectangle-68_build.cmake	7b178fc14150eff9
+166	208	7702097053725748	.qt/rcc/qrc_appRectangle-68_raw_qml_0.cpp	8f501a9d71cd43c8
+166	208	7702097053725748	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appRectangle-68_raw_qml_0.cpp	8f501a9d71cd43c8
+155	288	7702097054437221	.rcc/qmlcache/appRectangle-68_Main_qml.cpp	aea31a8c1ebbc9f2
+155	288	7702097054437221	.rcc/qmlcache/appRectangle-68_Main_qml.cpp.aotstats	aea31a8c1ebbc9f2
+155	288	7702097054437221	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRectangle-68_Main_qml.cpp	aea31a8c1ebbc9f2
+155	288	7702097054437221	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRectangle-68_Main_qml.cpp.aotstats	aea31a8c1ebbc9f2
+293	366	7702097054644543	CMakeFiles/appRectangle-68.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appRectangle-68_raw_qml_0.cpp.obj	dde9892b3be113ef
+288	2505	7702097054601489	CMakeFiles/appRectangle-68.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRectangle-68_Main_qml.cpp.obj	8f27793aed8b5ddc
+2506	2727	7702097076774204	appRectangle-68.exe	4c7d6b3d22e78e85
+58	106	7702098087354039	.qt/appRectangle-68_qml.txt	aaf5dcdba009894b
+58	106	7702098087354039	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appRectangle-68_qml.txt	aaf5dcdba009894b
+68	164	7702098087941837	.qt/qml_imports/appRectangle-68_build.cmake	7b178fc14150eff9
+68	164	7702098087941837	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appRectangle-68_build.cmake	7b178fc14150eff9
+171	212	7702098088425096	.qt/rcc/qrc_appRectangle-68_raw_qml_0.cpp	8f501a9d71cd43c8
+171	212	7702098088425096	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appRectangle-68_raw_qml_0.cpp	8f501a9d71cd43c8
+164	288	7702098089117596	.rcc/qmlcache/appRectangle-68_Main_qml.cpp	aea31a8c1ebbc9f2
+164	288	7702098089117596	.rcc/qmlcache/appRectangle-68_Main_qml.cpp.aotstats	aea31a8c1ebbc9f2
+164	288	7702098089117596	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRectangle-68_Main_qml.cpp	aea31a8c1ebbc9f2
+164	288	7702098089117596	E:/PERSONAL/Learning/QT DEVELOPMENT/Rectangle-68/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRectangle-68_Main_qml.cpp.aotstats	aea31a8c1ebbc9f2
+293	362	7702098089308960	CMakeFiles/appRectangle-68.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appRectangle-68_raw_qml_0.cpp.obj	dde9892b3be113ef
+288	2404	7702098089259069	CMakeFiles/appRectangle-68.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRectangle-68_Main_qml.cpp.obj	8f27793aed8b5ddc
+2404	2628	7702098110416825	appRectangle-68.exe	4c7d6b3d22e78e85

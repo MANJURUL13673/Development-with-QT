@@ -1,0 +1,5 @@
+module Rectangle-68
+typeinfo appRectangle-68.qmltypes
+prefer :/qt/qml/Rectangle-68/
+Main 1.0 Main.qml
+
