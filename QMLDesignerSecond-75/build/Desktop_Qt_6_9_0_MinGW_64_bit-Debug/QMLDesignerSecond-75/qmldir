@@ -1,0 +1,5 @@
+module QMLDesignerSecond-75
+typeinfo appQMLDesignerSecond-75.qmltypes
+prefer :/qt/qml/QMLDesignerSecond-75/
+Main 1.0 Main.qml
+

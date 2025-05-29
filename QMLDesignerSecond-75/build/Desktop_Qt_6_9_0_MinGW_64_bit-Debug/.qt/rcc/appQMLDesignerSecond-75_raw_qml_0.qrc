@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/QMLDesignerSecond-75/">
+    <file alias="Main.qml">E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/Main.qml</file>
+    <file alias="res.qrc">E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/res.qrc</file>
+  </qresource>
+</RCC>
+

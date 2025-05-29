@@ -1,0 +1,83 @@
+# ninja log v6
+20	85	7702147318760776	.qt/appQMLDesignerSecond-75_qml.txt	145e294f732e991e
+20	85	7702147318760776	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appQMLDesignerSecond-75_qml.txt	145e294f732e991e
+31	93	7702147318872926	.qt/appQMLDesignerSecond-75_res.txt	14104c62b3aa4fe0
+31	93	7702147318872926	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appQMLDesignerSecond-75_res.txt	14104c62b3aa4fe0
+42	176	7702147319694182	.qt/qml_imports/appQMLDesignerSecond-75_build.cmake	f4c30855d0f10bb5
+42	176	7702147319694182	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appQMLDesignerSecond-75_build.cmake	f4c30855d0f10bb5
+176	409	7702147321224154	appQMLDesignerSecond-75_autogen/timestamp	fa373d8bd4397bde
+176	409	7702147321224154	appQMLDesignerSecond-75_autogen/mocs_compilation.cpp	fa373d8bd4397bde
+176	409	7702147321224154	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appQMLDesignerSecond-75_autogen/timestamp	fa373d8bd4397bde
+176	409	7702147321224154	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appQMLDesignerSecond-75_autogen/mocs_compilation.cpp	fa373d8bd4397bde
+420	478	7702147322712381	.qt/rcc/qrc_qmake_QMLDesignerSecond-75.cpp	4ccc431b5d3377e4
+420	478	7702147322712381	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_QMLDesignerSecond-75.cpp	4ccc431b5d3377e4
+413	484	7702147322781022	meta_types/appQMLDesignerSecond-75_json_file_list.txt	59c8c16bcebc3a57
+413	484	7702147322781022	meta_types/appQMLDesignerSecond-75_json_file_list.txt.timestamp	59c8c16bcebc3a57
+413	484	7702147322781022	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appQMLDesignerSecond-75_json_file_list.txt	59c8c16bcebc3a57
+413	484	7702147322781022	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appQMLDesignerSecond-75_json_file_list.txt.timestamp	59c8c16bcebc3a57
+431	517	7702147322999695	.rcc/qmlcache/appQMLDesignerSecond-75_qmlcache_loader.cpp	b8b386468bd53b5f
+431	517	7702147322999695	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appQMLDesignerSecond-75_qmlcache_loader.cpp	b8b386468bd53b5f
+444	517	7702147323048761	.qt/rcc/qrc_appQMLDesignerSecond-75_raw_qml_0.cpp	223bd9dd67cfe234
+444	517	7702147323048761	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appQMLDesignerSecond-75_raw_qml_0.cpp	223bd9dd67cfe234
+485	572	7702147323692422	meta_types/qt6appqmldesignersecond-75_debug_metatypes.json.gen	e0a4e6a1451bc129
+485	572	7702147323692422	meta_types/qt6appqmldesignersecond-75_debug_metatypes.json	e0a4e6a1451bc129
+485	572	7702147323692422	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appqmldesignersecond-75_debug_metatypes.json.gen	e0a4e6a1451bc129
+485	572	7702147323692422	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appqmldesignersecond-75_debug_metatypes.json	e0a4e6a1451bc129
+457	584	7702147323737169	appQMLDesignerSecond-75_autogen/EWIEGA46WW/qrc_res.cpp	2b08fcd9b7c422cb
+457	584	7702147323737169	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appQMLDesignerSecond-75_autogen/EWIEGA46WW/qrc_res.cpp	2b08fcd9b7c422cb
+572	728	7702147324618285	appqmldesignersecond-75_qmltyperegistrations.cpp	aceaecc4f53398a2
+572	728	7702147324618285	QMLDesignerSecond-75/appQMLDesignerSecond-75.qmltypes	aceaecc4f53398a2
+572	728	7702147324618285	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appqmldesignersecond-75_qmltyperegistrations.cpp	aceaecc4f53398a2
+572	728	7702147324618285	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/QMLDesignerSecond-75/appQMLDesignerSecond-75.qmltypes	aceaecc4f53398a2
+729	912	7702147326922393	.rcc/qmlcache/appQMLDesignerSecond-75_Main_qml.cpp	6e7a0debedbcbc5b
+729	912	7702147326922393	.rcc/qmlcache/appQMLDesignerSecond-75_Main_qml.cpp.aotstats	6e7a0debedbcbc5b
+729	912	7702147326922393	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appQMLDesignerSecond-75_Main_qml.cpp	6e7a0debedbcbc5b
+729	912	7702147326922393	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appQMLDesignerSecond-75_Main_qml.cpp.aotstats	6e7a0debedbcbc5b
+912	1058	7702147327157313	CMakeFiles/appQMLDesignerSecond-75.dir/appQMLDesignerSecond-75_autogen/mocs_compilation.cpp.obj	787b94b36c8620d6
+934	1114	7702147327374837	CMakeFiles/appQMLDesignerSecond-75.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_QMLDesignerSecond-75.cpp.obj	f071b1973ca73872
+975	1145	7702147327790421	CMakeFiles/appQMLDesignerSecond-75.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appQMLDesignerSecond-75_raw_qml_0.cpp.obj	e6b90a1ab60997f4
+987	1288	7702147327909823	CMakeFiles/appQMLDesignerSecond-75.dir/appQMLDesignerSecond-75_autogen/EWIEGA46WW/qrc_res.cpp.obj	e137c2582f9bf91b
+924	4424	7702147327272771	CMakeFiles/appQMLDesignerSecond-75.dir/appqmldesignersecond-75_qmltyperegistrations.cpp.obj	402bd7ac3b041e58
+961	4638	7702147327650089	CMakeFiles/appQMLDesignerSecond-75.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appQMLDesignerSecond-75_Main_qml.cpp.obj	46830502d36209f1
+919	4702	7702147327221725	CMakeFiles/appQMLDesignerSecond-75.dir/main.cpp.obj	61aa26a29f50b6f2
+950	5084	7702147327545352	CMakeFiles/appQMLDesignerSecond-75.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appQMLDesignerSecond-75_qmlcache_loader.cpp.obj	dcb05aa0a2e46782
+5084	5400	7702147368882899	appQMLDesignerSecond-75.exe	3240a90b7927f7ce
+46	92	7702148173731747	.qt/appQMLDesignerSecond-75_qml.txt	145e294f732e991e
+46	92	7702148173731747	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appQMLDesignerSecond-75_qml.txt	145e294f732e991e
+54	170	7702148174493397	.qt/qml_imports/appQMLDesignerSecond-75_build.cmake	f4c30855d0f10bb5
+54	170	7702148174493397	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appQMLDesignerSecond-75_build.cmake	f4c30855d0f10bb5
+177	235	7702148175110116	.qt/rcc/qrc_appQMLDesignerSecond-75_raw_qml_0.cpp	223bd9dd67cfe234
+177	235	7702148175110116	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appQMLDesignerSecond-75_raw_qml_0.cpp	223bd9dd67cfe234
+170	345	7702148176143509	.rcc/qmlcache/appQMLDesignerSecond-75_Main_qml.cpp	6e7a0debedbcbc5b
+170	345	7702148176143509	.rcc/qmlcache/appQMLDesignerSecond-75_Main_qml.cpp.aotstats	6e7a0debedbcbc5b
+170	345	7702148176143509	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appQMLDesignerSecond-75_Main_qml.cpp	6e7a0debedbcbc5b
+170	345	7702148176143509	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appQMLDesignerSecond-75_Main_qml.cpp.aotstats	6e7a0debedbcbc5b
+351	428	7702148176395491	CMakeFiles/appQMLDesignerSecond-75.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appQMLDesignerSecond-75_raw_qml_0.cpp.obj	e6b90a1ab60997f4
+345	3087	7702148176340000	CMakeFiles/appQMLDesignerSecond-75.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appQMLDesignerSecond-75_Main_qml.cpp.obj	46830502d36209f1
+3087	3330	7702148203750929	appQMLDesignerSecond-75.exe	3240a90b7927f7ce
+60	107	7702150299221776	.qt/appQMLDesignerSecond-75_qml.txt	145e294f732e991e
+60	107	7702150299221776	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appQMLDesignerSecond-75_qml.txt	145e294f732e991e
+69	172	7702150299873251	.qt/qml_imports/appQMLDesignerSecond-75_build.cmake	f4c30855d0f10bb5
+69	172	7702150299873251	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appQMLDesignerSecond-75_build.cmake	f4c30855d0f10bb5
+181	226	7702150300422066	.qt/rcc/qrc_appQMLDesignerSecond-75_raw_qml_0.cpp	223bd9dd67cfe234
+181	226	7702150300422066	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appQMLDesignerSecond-75_raw_qml_0.cpp	223bd9dd67cfe234
+173	307	7702150301161887	.rcc/qmlcache/appQMLDesignerSecond-75_Main_qml.cpp	6e7a0debedbcbc5b
+173	307	7702150301161887	.rcc/qmlcache/appQMLDesignerSecond-75_Main_qml.cpp.aotstats	6e7a0debedbcbc5b
+173	307	7702150301161887	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appQMLDesignerSecond-75_Main_qml.cpp	6e7a0debedbcbc5b
+173	307	7702150301161887	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appQMLDesignerSecond-75_Main_qml.cpp.aotstats	6e7a0debedbcbc5b
+313	387	7702150301369722	CMakeFiles/appQMLDesignerSecond-75.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appQMLDesignerSecond-75_raw_qml_0.cpp.obj	e6b90a1ab60997f4
+307	2613	7702150301313343	CMakeFiles/appQMLDesignerSecond-75.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appQMLDesignerSecond-75_Main_qml.cpp.obj	46830502d36209f1
+2613	2847	7702150324374420	appQMLDesignerSecond-75.exe	3240a90b7927f7ce
+62	110	7702151061743126	.qt/appQMLDesignerSecond-75_qml.txt	145e294f732e991e
+62	110	7702151061743126	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appQMLDesignerSecond-75_qml.txt	145e294f732e991e
+70	175	7702151062399204	.qt/qml_imports/appQMLDesignerSecond-75_build.cmake	f4c30855d0f10bb5
+70	175	7702151062399204	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appQMLDesignerSecond-75_build.cmake	f4c30855d0f10bb5
+184	229	7702151062931627	.qt/rcc/qrc_appQMLDesignerSecond-75_raw_qml_0.cpp	223bd9dd67cfe234
+184	229	7702151062931627	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appQMLDesignerSecond-75_raw_qml_0.cpp	223bd9dd67cfe234
+175	323	7702151063743458	.rcc/qmlcache/appQMLDesignerSecond-75_Main_qml.cpp	6e7a0debedbcbc5b
+175	323	7702151063743458	.rcc/qmlcache/appQMLDesignerSecond-75_Main_qml.cpp.aotstats	6e7a0debedbcbc5b
+175	323	7702151063743458	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appQMLDesignerSecond-75_Main_qml.cpp	6e7a0debedbcbc5b
+175	323	7702151063743458	E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appQMLDesignerSecond-75_Main_qml.cpp.aotstats	6e7a0debedbcbc5b
+328	425	7702151064012917	CMakeFiles/appQMLDesignerSecond-75.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appQMLDesignerSecond-75_raw_qml_0.cpp.obj	e6b90a1ab60997f4
+324	2810	7702151063963280	CMakeFiles/appQMLDesignerSecond-75.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appQMLDesignerSecond-75_Main_qml.cpp.obj	46830502d36209f1
+2810	3051	7702151088826648	appQMLDesignerSecond-75.exe	3240a90b7927f7ce

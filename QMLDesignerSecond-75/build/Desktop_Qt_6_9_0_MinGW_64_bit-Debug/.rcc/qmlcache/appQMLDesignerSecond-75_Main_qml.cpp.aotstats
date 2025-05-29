@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 407,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 16
+                    }
+                ],
+                "filepath": "E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/Main.qml"
+            }
+        ],
+        "moduleId": "QMLDesignerSecond-75(appQMLDesignerSecond-75)"
+    }
+]

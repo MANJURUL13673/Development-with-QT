@@ -1,0 +1,14 @@
+-rootPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75
+-cmake-output
+-output-file
+E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appQMLDesignerSecond-75_build.cmake
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/QMLDesignerSecond-75
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.0/mingw_64/qml
+-qrcFiles
+E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_QMLDesignerSecond-75.qrc
+E:/PERSONAL/Learning/QT DEVELOPMENT/QMLDesignerSecond-75/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appQMLDesignerSecond-75_raw_qml_0.qrc
