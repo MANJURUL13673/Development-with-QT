@@ -1,0 +1,54 @@
+# ninja log v6
+46	124	7702216741977874	.qt/appKeyElement-78_res.txt	69893d424341d5d5
+46	124	7702216741977874	E:/PERSONAL/Learning/QT DEVELOPMENT/KeyElement-78/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appKeyElement-78_res.txt	69893d424341d5d5
+34	133	7702216742099233	.qt/appKeyElement-78_qml.txt	3a4f08ba112f78fb
+34	133	7702216742099233	E:/PERSONAL/Learning/QT DEVELOPMENT/KeyElement-78/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appKeyElement-78_qml.txt	3a4f08ba112f78fb
+57	190	7702216742644989	.qt/qml_imports/appKeyElement-78_build.cmake	24992ce03f83e627
+57	190	7702216742644989	E:/PERSONAL/Learning/QT DEVELOPMENT/KeyElement-78/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appKeyElement-78_build.cmake	24992ce03f83e627
+190	475	7702216744537896	appKeyElement-78_autogen/timestamp	a447237bc8ddd5e1
+190	475	7702216744537896	appKeyElement-78_autogen/mocs_compilation.cpp	a447237bc8ddd5e1
+190	475	7702216744537896	E:/PERSONAL/Learning/QT DEVELOPMENT/KeyElement-78/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appKeyElement-78_autogen/timestamp	a447237bc8ddd5e1
+190	475	7702216744537896	E:/PERSONAL/Learning/QT DEVELOPMENT/KeyElement-78/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appKeyElement-78_autogen/mocs_compilation.cpp	a447237bc8ddd5e1
+489	544	7702216746186126	.qt/rcc/qrc_qmake_KeyElement-78.cpp	5c4b138487552f7
+489	544	7702216746186126	E:/PERSONAL/Learning/QT DEVELOPMENT/KeyElement-78/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_KeyElement-78.cpp	5c4b138487552f7
+481	550	7702216746252624	meta_types/appKeyElement-78_json_file_list.txt	59fd552a618efd43
+481	550	7702216746252624	meta_types/appKeyElement-78_json_file_list.txt.timestamp	59fd552a618efd43
+481	550	7702216746252624	E:/PERSONAL/Learning/QT DEVELOPMENT/KeyElement-78/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appKeyElement-78_json_file_list.txt	59fd552a618efd43
+481	550	7702216746252624	E:/PERSONAL/Learning/QT DEVELOPMENT/KeyElement-78/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appKeyElement-78_json_file_list.txt.timestamp	59fd552a618efd43
+506	563	7702216746380892	.qt/rcc/qrc_appKeyElement-78_raw_qml_0.cpp	fec9b9313c26b214
+506	563	7702216746380892	E:/PERSONAL/Learning/QT DEVELOPMENT/KeyElement-78/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appKeyElement-78_raw_qml_0.cpp	fec9b9313c26b214
+496	579	7702216746535765	.rcc/qmlcache/appKeyElement-78_qmlcache_loader.cpp	7dc63d8d713c159e
+496	579	7702216746535765	E:/PERSONAL/Learning/QT DEVELOPMENT/KeyElement-78/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appKeyElement-78_qmlcache_loader.cpp	7dc63d8d713c159e
+550	626	7702216747034788	meta_types/qt6appkeyelement-78_debug_metatypes.json.gen	54788a0826b093a0
+550	626	7702216747034788	meta_types/qt6appkeyelement-78_debug_metatypes.json	54788a0826b093a0
+550	626	7702216747034788	E:/PERSONAL/Learning/QT DEVELOPMENT/KeyElement-78/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appkeyelement-78_debug_metatypes.json.gen	54788a0826b093a0
+550	626	7702216747034788	E:/PERSONAL/Learning/QT DEVELOPMENT/KeyElement-78/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appkeyelement-78_debug_metatypes.json	54788a0826b093a0
+626	780	7702216747957942	appkeyelement-78_qmltyperegistrations.cpp	e71176878d80ac55
+626	780	7702216747957942	KeyElement-78/appKeyElement-78.qmltypes	e71176878d80ac55
+626	780	7702216747957942	E:/PERSONAL/Learning/QT DEVELOPMENT/KeyElement-78/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appkeyelement-78_qmltyperegistrations.cpp	e71176878d80ac55
+626	780	7702216747957942	E:/PERSONAL/Learning/QT DEVELOPMENT/KeyElement-78/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/KeyElement-78/appKeyElement-78.qmltypes	e71176878d80ac55
+780	929	7702216749866014	.rcc/qmlcache/appKeyElement-78_Main_qml.cpp	81937b4b874544e6
+780	929	7702216749866014	.rcc/qmlcache/appKeyElement-78_Main_qml.cpp.aotstats	81937b4b874544e6
+780	929	7702216749866014	E:/PERSONAL/Learning/QT DEVELOPMENT/KeyElement-78/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appKeyElement-78_Main_qml.cpp	81937b4b874544e6
+780	929	7702216749866014	E:/PERSONAL/Learning/QT DEVELOPMENT/KeyElement-78/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appKeyElement-78_Main_qml.cpp.aotstats	81937b4b874544e6
+930	1076	7702216750145583	CMakeFiles/appKeyElement-78.dir/appKeyElement-78_autogen/mocs_compilation.cpp.obj	91853f4150d339e4
+964	1112	7702216750487136	CMakeFiles/appKeyElement-78.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_KeyElement-78.cpp.obj	abcbcd3f516049bc
+994	1125	7702216750787188	CMakeFiles/appKeyElement-78.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appKeyElement-78_raw_qml_0.cpp.obj	5e9d27954344a948
+951	4339	7702216750359600	CMakeFiles/appKeyElement-78.dir/appkeyelement-78_qmltyperegistrations.cpp.obj	a0a5bcd9115f1be8
+986	4406	7702216750704702	CMakeFiles/appKeyElement-78.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appKeyElement-78_Main_qml.cpp.obj	52f898b8e1604e81
+940	4542	7702216750247141	CMakeFiles/appKeyElement-78.dir/main.cpp.obj	7a49147d6dddacda
+976	4937	7702216750616061	CMakeFiles/appKeyElement-78.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appKeyElement-78_qmlcache_loader.cpp.obj	a1983ea82d92d01a
+4937	5281	7702216790216926	appKeyElement-78.exe	3bd322df644a8081
+81	132	7702217580260788	.qt/appKeyElement-78_qml.txt	3a4f08ba112f78fb
+81	132	7702217580260788	E:/PERSONAL/Learning/QT DEVELOPMENT/KeyElement-78/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appKeyElement-78_qml.txt	3a4f08ba112f78fb
+90	197	7702217580911720	.qt/qml_imports/appKeyElement-78_build.cmake	24992ce03f83e627
+90	197	7702217580911720	E:/PERSONAL/Learning/QT DEVELOPMENT/KeyElement-78/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appKeyElement-78_build.cmake	24992ce03f83e627
+207	251	7702217581461021	.qt/rcc/qrc_appKeyElement-78_raw_qml_0.cpp	fec9b9313c26b214
+207	251	7702217581461021	E:/PERSONAL/Learning/QT DEVELOPMENT/KeyElement-78/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appKeyElement-78_raw_qml_0.cpp	fec9b9313c26b214
+197	336	7702217582223357	.rcc/qmlcache/appKeyElement-78_Main_qml.cpp	81937b4b874544e6
+197	336	7702217582223357	.rcc/qmlcache/appKeyElement-78_Main_qml.cpp.aotstats	81937b4b874544e6
+197	336	7702217582223357	E:/PERSONAL/Learning/QT DEVELOPMENT/KeyElement-78/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appKeyElement-78_Main_qml.cpp	81937b4b874544e6
+197	336	7702217582223357	E:/PERSONAL/Learning/QT DEVELOPMENT/KeyElement-78/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appKeyElement-78_Main_qml.cpp.aotstats	81937b4b874544e6
+341	428	7702217582441427	CMakeFiles/appKeyElement-78.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appKeyElement-78_raw_qml_0.cpp.obj	5e9d27954344a948
+337	2704	7702217582391265	CMakeFiles/appKeyElement-78.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appKeyElement-78_Main_qml.cpp.obj	52f898b8e1604e81
+2705	2940	7702217606069320	appKeyElement-78.exe	3bd322df644a8081

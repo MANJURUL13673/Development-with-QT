@@ -1,0 +1,5 @@
+module KeyElement-78
+typeinfo appKeyElement-78.qmltypes
+prefer :/qt/qml/KeyElement-78/
+Main 1.0 Main.qml
+

@@ -1,0 +1,44 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 2791,
+                        "errorMessage": "",
+                        "functionName": "onUpPressed",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 323,
+                        "errorMessage": "",
+                        "functionName": "onDownPressed",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 272,
+                        "errorMessage": "",
+                        "functionName": "onLeftPressed",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 246,
+                        "errorMessage": "",
+                        "functionName": "onRightPressed",
+                        "line": 21
+                    }
+                ],
+                "filepath": "E:/PERSONAL/Learning/QT DEVELOPMENT/KeyElement-78/Main.qml"
+            }
+        ],
+        "moduleId": "KeyElement-78(appKeyElement-78)"
+    }
+]
