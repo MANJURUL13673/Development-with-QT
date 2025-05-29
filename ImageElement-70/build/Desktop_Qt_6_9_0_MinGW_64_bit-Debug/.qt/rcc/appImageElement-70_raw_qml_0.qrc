@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/ImageElement-70/">
+    <file alias="Main.qml">E:/PERSONAL/Learning/QT DEVELOPMENT/ImageElement-70/Main.qml</file>
+    <file alias="res.qrc">E:/PERSONAL/Learning/QT DEVELOPMENT/ImageElement-70/res.qrc</file>
+  </qresource>
+</RCC>
+

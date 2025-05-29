@@ -1,0 +1,53 @@
+# ninja log v6
+20	68	7702104576159649	.qt/appImageElement-70_qml.txt	5dfffde9b6e125e6
+20	68	7702104576159649	E:/PERSONAL/Learning/QT DEVELOPMENT/ImageElement-70/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appImageElement-70_qml.txt	5dfffde9b6e125e6
+381	446	7702104579907355	.rcc/qmlcache/appImageElement-70_qmlcache_loader.cpp	6aecba20daa9e9b2
+141	362	7702104578286365	E:/PERSONAL/Learning/QT DEVELOPMENT/ImageElement-70/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appImageElement-70_autogen/timestamp	80077ccea575a359
+34	140	7702104576882690	.qt/qml_imports/appImageElement-70_build.cmake	6222d5e326bb1d5d
+27	79	7702104576238347	.qt/appImageElement-70_res.txt	812bb27c9de7d829
+394	446	7702104579938468	.qt/rcc/qrc_appImageElement-70_raw_qml_0.cpp	d5ed8947901b39bb
+27	79	7702104576238347	E:/PERSONAL/Learning/QT DEVELOPMENT/ImageElement-70/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appImageElement-70_res.txt	812bb27c9de7d829
+34	140	7702104576882690	E:/PERSONAL/Learning/QT DEVELOPMENT/ImageElement-70/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appImageElement-70_build.cmake	6222d5e326bb1d5d
+141	362	7702104578286365	appImageElement-70_autogen/mocs_compilation.cpp	80077ccea575a359
+141	362	7702104578286365	appImageElement-70_autogen/timestamp	80077ccea575a359
+625	748	7702104582911228	E:/PERSONAL/Learning/QT DEVELOPMENT/ImageElement-70/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appImageElement-70_Main_qml.cpp	9898370ef40d5238
+141	362	7702104578286365	E:/PERSONAL/Learning/QT DEVELOPMENT/ImageElement-70/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appImageElement-70_autogen/mocs_compilation.cpp	80077ccea575a359
+374	422	7702104579688890	.qt/rcc/qrc_qmake_ImageElement-70.cpp	9b97e0764d97e22
+374	422	7702104579688890	E:/PERSONAL/Learning/QT DEVELOPMENT/ImageElement-70/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_ImageElement-70.cpp	9b97e0764d97e22
+489	625	7702104581204277	ImageElement-70/appImageElement-70.qmltypes	e0ff8224c1ec9575
+489	625	7702104581204277	E:/PERSONAL/Learning/QT DEVELOPMENT/ImageElement-70/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/ImageElement-70/appImageElement-70.qmltypes	e0ff8224c1ec9575
+769	4053	7702104583260084	CMakeFiles/appImageElement-70.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appImageElement-70_qmlcache_loader.cpp.obj	f9721d2626ddb2fc
+4053	4288	7702104616109825	appImageElement-70.exe	371e8964d2363b67
+366	426	7702104579727746	meta_types/appImageElement-70_json_file_list.txt	d092f68e406f77cc
+366	426	7702104579727746	meta_types/appImageElement-70_json_file_list.txt.timestamp	d092f68e406f77cc
+366	426	7702104579727746	E:/PERSONAL/Learning/QT DEVELOPMENT/ImageElement-70/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appImageElement-70_json_file_list.txt	d092f68e406f77cc
+749	836	7702104583058405	CMakeFiles/appImageElement-70.dir/appImageElement-70_autogen/mocs_compilation.cpp.obj	652fad4767c7981
+366	426	7702104579727746	E:/PERSONAL/Learning/QT DEVELOPMENT/ImageElement-70/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appImageElement-70_json_file_list.txt.timestamp	d092f68e406f77cc
+381	446	7702104579907355	E:/PERSONAL/Learning/QT DEVELOPMENT/ImageElement-70/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appImageElement-70_qmlcache_loader.cpp	6aecba20daa9e9b2
+394	446	7702104579938468	E:/PERSONAL/Learning/QT DEVELOPMENT/ImageElement-70/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appImageElement-70_raw_qml_0.cpp	d5ed8947901b39bb
+426	489	7702104580395735	meta_types/qt6appimageelement-70_debug_metatypes.json.gen	1fdc6fd032962320
+426	489	7702104580395735	meta_types/qt6appimageelement-70_debug_metatypes.json	1fdc6fd032962320
+426	489	7702104580395735	E:/PERSONAL/Learning/QT DEVELOPMENT/ImageElement-70/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appimageelement-70_debug_metatypes.json.gen	1fdc6fd032962320
+489	625	7702104581204277	appimageelement-70_qmltyperegistrations.cpp	e0ff8224c1ec9575
+426	489	7702104580395735	E:/PERSONAL/Learning/QT DEVELOPMENT/ImageElement-70/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appimageelement-70_debug_metatypes.json	1fdc6fd032962320
+489	625	7702104581204277	E:/PERSONAL/Learning/QT DEVELOPMENT/ImageElement-70/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appimageelement-70_qmltyperegistrations.cpp	e0ff8224c1ec9575
+625	748	7702104582911228	.rcc/qmlcache/appImageElement-70_Main_qml.cpp	9898370ef40d5238
+763	871	7702104583203562	CMakeFiles/appImageElement-70.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_ImageElement-70.cpp.obj	fb0f076ca66fc953
+625	748	7702104582911228	.rcc/qmlcache/appImageElement-70_Main_qml.cpp.aotstats	9898370ef40d5238
+625	748	7702104582911228	E:/PERSONAL/Learning/QT DEVELOPMENT/ImageElement-70/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appImageElement-70_Main_qml.cpp.aotstats	9898370ef40d5238
+781	886	7702104583393946	CMakeFiles/appImageElement-70.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appImageElement-70_raw_qml_0.cpp.obj	2ba88397a54fd38d
+758	3470	7702104583149309	CMakeFiles/appImageElement-70.dir/appimageelement-70_qmltyperegistrations.cpp.obj	ffa10b6a84e7f424
+775	3548	7702104583325150	CMakeFiles/appImageElement-70.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appImageElement-70_Main_qml.cpp.obj	ea7e576d2f120a5
+753	3679	7702104583114104	CMakeFiles/appImageElement-70.dir/main.cpp.obj	82337f0fb5af7b9e
+44	212	7702104844992019	appImageElement-70_autogen/timestamp	80077ccea575a359
+44	212	7702104844992019	appImageElement-70_autogen/mocs_compilation.cpp	80077ccea575a359
+44	212	7702104844992019	E:/PERSONAL/Learning/QT DEVELOPMENT/ImageElement-70/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appImageElement-70_autogen/timestamp	80077ccea575a359
+44	212	7702104844992019	E:/PERSONAL/Learning/QT DEVELOPMENT/ImageElement-70/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appImageElement-70_autogen/mocs_compilation.cpp	80077ccea575a359
+213	251	7702104846674766	meta_types/appImageElement-70_json_file_list.txt	d092f68e406f77cc
+213	251	7702104846674766	meta_types/appImageElement-70_json_file_list.txt.timestamp	d092f68e406f77cc
+213	251	7702104846674766	E:/PERSONAL/Learning/QT DEVELOPMENT/ImageElement-70/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appImageElement-70_json_file_list.txt	d092f68e406f77cc
+213	251	7702104846674766	E:/PERSONAL/Learning/QT DEVELOPMENT/ImageElement-70/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appImageElement-70_json_file_list.txt.timestamp	d092f68e406f77cc
+220	297	7702104847394071	appImageElement-70_autogen/EWIEGA46WW/qrc_res.cpp	aa57181d90857eac
+220	297	7702104847394071	E:/PERSONAL/Learning/QT DEVELOPMENT/ImageElement-70/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appImageElement-70_autogen/EWIEGA46WW/qrc_res.cpp	aa57181d90857eac
+298	468	7702104847517392	CMakeFiles/appImageElement-70.dir/appImageElement-70_autogen/EWIEGA46WW/qrc_res.cpp.obj	f5f1398ce6068ec7
+469	690	7702104849229791	appImageElement-70.exe	4e51c843bf15cb5c

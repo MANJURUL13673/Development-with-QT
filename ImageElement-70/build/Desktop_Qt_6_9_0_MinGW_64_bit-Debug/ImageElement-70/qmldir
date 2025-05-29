@@ -1,0 +1,5 @@
+module ImageElement-70
+typeinfo appImageElement-70.qmltypes
+prefer :/qt/qml/ImageElement-70/
+Main 1.0 Main.qml
+
