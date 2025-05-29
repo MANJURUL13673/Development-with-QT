@@ -1,0 +1,54 @@
+# ninja log v6
+42	139	7702137380218894	.qt/appTextField-73_res.txt	8058fbf5c5faf07a
+42	139	7702137380218894	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTextField-73_res.txt	8058fbf5c5faf07a
+27	144	7702137380275652	.qt/appTextField-73_qml.txt	51d28b65cb5bcd5b
+27	144	7702137380275652	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTextField-73_qml.txt	51d28b65cb5bcd5b
+51	208	7702137380937402	.qt/qml_imports/appTextField-73_build.cmake	e56f60564dbaed75
+51	208	7702137380937402	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTextField-73_build.cmake	e56f60564dbaed75
+209	449	7702137382446849	appTextField-73_autogen/timestamp	be05a6b95cd8fbd9
+209	449	7702137382446849	appTextField-73_autogen/mocs_compilation.cpp	be05a6b95cd8fbd9
+209	449	7702137382446849	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTextField-73_autogen/timestamp	be05a6b95cd8fbd9
+209	449	7702137382446849	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTextField-73_autogen/mocs_compilation.cpp	be05a6b95cd8fbd9
+461	515	7702137384005145	.qt/rcc/qrc_qmake_TextField-73.cpp	79c67677ff54dbf1
+461	515	7702137384005145	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_TextField-73.cpp	79c67677ff54dbf1
+453	516	7702137384024763	meta_types/appTextField-73_json_file_list.txt	e330543eb7147d84
+453	516	7702137384024763	meta_types/appTextField-73_json_file_list.txt.timestamp	e330543eb7147d84
+453	516	7702137384024763	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTextField-73_json_file_list.txt	e330543eb7147d84
+453	516	7702137384024763	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTextField-73_json_file_list.txt.timestamp	e330543eb7147d84
+477	532	7702137384168527	.qt/rcc/qrc_appTextField-73_raw_qml_0.cpp	f4f3e45dedc8dfaf
+477	532	7702137384168527	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTextField-73_raw_qml_0.cpp	f4f3e45dedc8dfaf
+468	554	7702137384374583	.rcc/qmlcache/appTextField-73_qmlcache_loader.cpp	cc976a1c5e796107
+468	554	7702137384374583	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextField-73_qmlcache_loader.cpp	cc976a1c5e796107
+516	593	7702137384793331	meta_types/qt6apptextfield-73_debug_metatypes.json.gen	4b42af126bb095ac
+516	593	7702137384793331	meta_types/qt6apptextfield-73_debug_metatypes.json	4b42af126bb095ac
+516	593	7702137384793331	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptextfield-73_debug_metatypes.json.gen	4b42af126bb095ac
+516	593	7702137384793331	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptextfield-73_debug_metatypes.json	4b42af126bb095ac
+593	746	7702137385735701	apptextfield-73_qmltyperegistrations.cpp	33fb3c27ab791645
+593	746	7702137385735701	TextField-73/appTextField-73.qmltypes	33fb3c27ab791645
+593	746	7702137385735701	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apptextfield-73_qmltyperegistrations.cpp	33fb3c27ab791645
+593	746	7702137385735701	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/TextField-73/appTextField-73.qmltypes	33fb3c27ab791645
+747	876	7702137387573252	.rcc/qmlcache/appTextField-73_Main_qml.cpp	2e6bce702e177de2
+747	876	7702137387573252	.rcc/qmlcache/appTextField-73_Main_qml.cpp.aotstats	2e6bce702e177de2
+747	876	7702137387573252	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextField-73_Main_qml.cpp	2e6bce702e177de2
+747	876	7702137387573252	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextField-73_Main_qml.cpp.aotstats	2e6bce702e177de2
+876	984	7702137387703097	CMakeFiles/appTextField-73.dir/appTextField-73_autogen/mocs_compilation.cpp.obj	8af18dfb5c1bc257
+892	1040	7702137387870437	CMakeFiles/appTextField-73.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_TextField-73.cpp.obj	3174891125af43b9
+921	1050	7702137388156852	CMakeFiles/appTextField-73.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTextField-73_raw_qml_0.cpp.obj	ca1b544e8ecb8b64
+886	4069	7702137387807099	CMakeFiles/appTextField-73.dir/apptextfield-73_qmltyperegistrations.cpp.obj	3f74f68fafb8937a
+903	4105	7702137387972233	CMakeFiles/appTextField-73.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextField-73_Main_qml.cpp.obj	f806ddd63d115e8
+881	4321	7702137387756545	CMakeFiles/appTextField-73.dir/main.cpp.obj	4b0c74f52421a76e
+897	4732	7702137387920877	CMakeFiles/appTextField-73.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextField-73_qmlcache_loader.cpp.obj	ecc5ef1212168425
+4732	5121	7702137426261930	appTextField-73.exe	f85191df78d7ed0a
+48	107	7702138311423047	.qt/appTextField-73_qml.txt	51d28b65cb5bcd5b
+48	107	7702138311423047	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTextField-73_qml.txt	51d28b65cb5bcd5b
+55	165	7702138312004500	.qt/qml_imports/appTextField-73_build.cmake	e56f60564dbaed75
+55	165	7702138312004500	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTextField-73_build.cmake	e56f60564dbaed75
+176	229	7702138312647582	.qt/rcc/qrc_appTextField-73_raw_qml_0.cpp	f4f3e45dedc8dfaf
+176	229	7702138312647582	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTextField-73_raw_qml_0.cpp	f4f3e45dedc8dfaf
+165	317	7702138313447140	.rcc/qmlcache/appTextField-73_Main_qml.cpp	2e6bce702e177de2
+165	317	7702138313447140	.rcc/qmlcache/appTextField-73_Main_qml.cpp.aotstats	2e6bce702e177de2
+165	317	7702138313447140	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextField-73_Main_qml.cpp	2e6bce702e177de2
+165	317	7702138313447140	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextField-73_Main_qml.cpp.aotstats	2e6bce702e177de2
+323	398	7702138313669027	CMakeFiles/appTextField-73.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTextField-73_raw_qml_0.cpp.obj	ca1b544e8ecb8b64
+317	2813	7702138313603970	CMakeFiles/appTextField-73.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextField-73_Main_qml.cpp.obj	f806ddd63d115e8
+2813	3064	7702138338567613	appTextField-73.exe	f85191df78d7ed0a

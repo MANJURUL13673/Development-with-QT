@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 1946,
+                        "errorMessage": "",
+                        "functionName": "onAccepted",
+                        "line": 15
+                    }
+                ],
+                "filepath": "E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73/Main.qml"
+            }
+        ],
+        "moduleId": "TextField-73(appTextField-73)"
+    }
+]

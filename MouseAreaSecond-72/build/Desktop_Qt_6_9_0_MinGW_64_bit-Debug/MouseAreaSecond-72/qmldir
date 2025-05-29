@@ -1,0 +1,5 @@
+module MouseAreaSecond-72
+typeinfo appMouseAreaSecond-72.qmltypes
+prefer :/qt/qml/MouseAreaSecond-72/
+Main 1.0 Main.qml
+

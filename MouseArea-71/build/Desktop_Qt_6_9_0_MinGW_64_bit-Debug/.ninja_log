@@ -1,0 +1,54 @@
+# ninja log v6
+24	107	7702108018233150	.qt/appMouseArea-71_qml.txt	8e440286299a0999
+24	107	7702108018233150	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseArea-71/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appMouseArea-71_qml.txt	8e440286299a0999
+36	117	7702108018327963	.qt/appMouseArea-71_res.txt	76cb9516db67adea
+36	117	7702108018327963	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseArea-71/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appMouseArea-71_res.txt	76cb9516db67adea
+45	189	7702108019062655	.qt/qml_imports/appMouseArea-71_build.cmake	d2d343c5fea9aef2
+45	189	7702108019062655	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseArea-71/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appMouseArea-71_build.cmake	d2d343c5fea9aef2
+189	421	7702108020532157	appMouseArea-71_autogen/timestamp	9667d730ff4cc14
+189	421	7702108020532157	appMouseArea-71_autogen/mocs_compilation.cpp	9667d730ff4cc14
+189	421	7702108020532157	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseArea-71/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appMouseArea-71_autogen/timestamp	9667d730ff4cc14
+189	421	7702108020532157	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseArea-71/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appMouseArea-71_autogen/mocs_compilation.cpp	9667d730ff4cc14
+434	483	7702108021988899	.qt/rcc/qrc_qmake_MouseArea-71.cpp	cbcb09e2018caf92
+434	483	7702108021988899	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseArea-71/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_MouseArea-71.cpp	cbcb09e2018caf92
+426	485	7702108022023307	meta_types/appMouseArea-71_json_file_list.txt	cf8c364d5caadf93
+426	485	7702108022023307	meta_types/appMouseArea-71_json_file_list.txt.timestamp	cf8c364d5caadf93
+426	485	7702108022023307	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseArea-71/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appMouseArea-71_json_file_list.txt	cf8c364d5caadf93
+426	485	7702108022023307	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseArea-71/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appMouseArea-71_json_file_list.txt.timestamp	cf8c364d5caadf93
+454	504	7702108022205423	.qt/rcc/qrc_appMouseArea-71_raw_qml_0.cpp	bca5996bd5d28fc9
+454	504	7702108022205423	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseArea-71/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appMouseArea-71_raw_qml_0.cpp	bca5996bd5d28fc9
+442	523	7702108022397063	.rcc/qmlcache/appMouseArea-71_qmlcache_loader.cpp	9d25e939fe69de5d
+442	523	7702108022397063	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseArea-71/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appMouseArea-71_qmlcache_loader.cpp	9d25e939fe69de5d
+485	552	7702108022719709	meta_types/qt6appmousearea-71_debug_metatypes.json.gen	f0759e39b974d40f
+485	552	7702108022719709	meta_types/qt6appmousearea-71_debug_metatypes.json	f0759e39b974d40f
+485	552	7702108022719709	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseArea-71/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appmousearea-71_debug_metatypes.json.gen	f0759e39b974d40f
+485	552	7702108022719709	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseArea-71/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appmousearea-71_debug_metatypes.json	f0759e39b974d40f
+552	695	7702108023583875	appmousearea-71_qmltyperegistrations.cpp	8a712c65fe6abfa6
+552	695	7702108023583875	MouseArea-71/appMouseArea-71.qmltypes	8a712c65fe6abfa6
+552	695	7702108023583875	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseArea-71/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appmousearea-71_qmltyperegistrations.cpp	8a712c65fe6abfa6
+552	695	7702108023583875	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseArea-71/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/MouseArea-71/appMouseArea-71.qmltypes	8a712c65fe6abfa6
+695	815	7702108025277334	.rcc/qmlcache/appMouseArea-71_Main_qml.cpp	95235540c52f268f
+695	815	7702108025277334	.rcc/qmlcache/appMouseArea-71_Main_qml.cpp.aotstats	95235540c52f268f
+695	815	7702108025277334	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseArea-71/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appMouseArea-71_Main_qml.cpp	95235540c52f268f
+695	815	7702108025277334	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseArea-71/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appMouseArea-71_Main_qml.cpp.aotstats	95235540c52f268f
+815	923	7702108025424351	CMakeFiles/appMouseArea-71.dir/appMouseArea-71_autogen/mocs_compilation.cpp.obj	d6b0c777558ee865
+830	999	7702108025567368	CMakeFiles/appMouseArea-71.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_MouseArea-71.cpp.obj	cfa66aaa08381e08
+849	1009	7702108025758957	CMakeFiles/appMouseArea-71.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appMouseArea-71_raw_qml_0.cpp.obj	5e1f53a0aa27fca
+823	3802	7702108025500531	CMakeFiles/appMouseArea-71.dir/appmousearea-71_qmltyperegistrations.cpp.obj	df9384cf03a50aea
+841	3885	7702108025677153	CMakeFiles/appMouseArea-71.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appMouseArea-71_Main_qml.cpp.obj	3c7f7661cd538dcf
+819	4068	7702108025464594	CMakeFiles/appMouseArea-71.dir/main.cpp.obj	588382e752141a98
+835	4363	7702108025618205	CMakeFiles/appMouseArea-71.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appMouseArea-71_qmlcache_loader.cpp.obj	ab0ad83b6c9df10d
+4364	4610	7702108060902325	appMouseArea-71.exe	80e38eb02dd3b0f5
+45	91	7702108927973799	.qt/appMouseArea-71_qml.txt	8e440286299a0999
+45	91	7702108927973799	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseArea-71/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appMouseArea-71_qml.txt	8e440286299a0999
+52	156	7702108928624376	.qt/qml_imports/appMouseArea-71_build.cmake	d2d343c5fea9aef2
+52	156	7702108928624376	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseArea-71/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appMouseArea-71_build.cmake	d2d343c5fea9aef2
+164	209	7702108929138327	.qt/rcc/qrc_appMouseArea-71_raw_qml_0.cpp	bca5996bd5d28fc9
+164	209	7702108929138327	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseArea-71/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appMouseArea-71_raw_qml_0.cpp	bca5996bd5d28fc9
+156	298	7702108929972504	.rcc/qmlcache/appMouseArea-71_Main_qml.cpp	95235540c52f268f
+156	298	7702108929972504	.rcc/qmlcache/appMouseArea-71_Main_qml.cpp.aotstats	95235540c52f268f
+156	298	7702108929972504	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseArea-71/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appMouseArea-71_Main_qml.cpp	95235540c52f268f
+156	298	7702108929972504	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseArea-71/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appMouseArea-71_Main_qml.cpp.aotstats	95235540c52f268f
+303	377	7702108930182321	CMakeFiles/appMouseArea-71.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appMouseArea-71_raw_qml_0.cpp.obj	5e1f53a0aa27fca
+299	2592	7702108930136426	CMakeFiles/appMouseArea-71.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appMouseArea-71_Main_qml.cpp.obj	3c7f7661cd538dcf
+2592	2821	7702108953065880	appMouseArea-71.exe	80e38eb02dd3b0f5

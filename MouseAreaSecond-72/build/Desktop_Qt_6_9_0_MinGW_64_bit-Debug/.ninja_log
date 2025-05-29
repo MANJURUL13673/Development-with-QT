@@ -1,0 +1,54 @@
+# ninja log v6
+36	103	7702123722267691	.qt/appMouseAreaSecond-72_res.txt	237b73f492f31e2b
+36	103	7702123722267691	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appMouseAreaSecond-72_res.txt	237b73f492f31e2b
+23	110	7702123722346075	.qt/appMouseAreaSecond-72_qml.txt	7bd33cfc6e6ea8
+23	110	7702123722346075	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appMouseAreaSecond-72_qml.txt	7bd33cfc6e6ea8
+44	178	7702123723023836	.qt/qml_imports/appMouseAreaSecond-72_build.cmake	1f8fd3ba5c4671aa
+44	178	7702123723023836	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appMouseAreaSecond-72_build.cmake	1f8fd3ba5c4671aa
+179	435	7702123724693121	appMouseAreaSecond-72_autogen/timestamp	4af6c1e8759c9930
+179	435	7702123724693121	appMouseAreaSecond-72_autogen/mocs_compilation.cpp	4af6c1e8759c9930
+179	435	7702123724693121	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appMouseAreaSecond-72_autogen/timestamp	4af6c1e8759c9930
+179	435	7702123724693121	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appMouseAreaSecond-72_autogen/mocs_compilation.cpp	4af6c1e8759c9930
+448	515	7702123726403020	.qt/rcc/qrc_qmake_MouseAreaSecond-72.cpp	946259f22eaaec42
+448	515	7702123726403020	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_MouseAreaSecond-72.cpp	946259f22eaaec42
+440	524	7702123726480011	meta_types/appMouseAreaSecond-72_json_file_list.txt	af68deed8eb5e417
+440	524	7702123726480011	meta_types/appMouseAreaSecond-72_json_file_list.txt.timestamp	af68deed8eb5e417
+440	524	7702123726480011	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appMouseAreaSecond-72_json_file_list.txt	af68deed8eb5e417
+440	524	7702123726480011	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appMouseAreaSecond-72_json_file_list.txt.timestamp	af68deed8eb5e417
+475	541	7702123726528609	.qt/rcc/qrc_appMouseAreaSecond-72_raw_qml_0.cpp	c362f3c4534c6d30
+475	541	7702123726528609	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appMouseAreaSecond-72_raw_qml_0.cpp	c362f3c4534c6d30
+456	548	7702123726715376	.rcc/qmlcache/appMouseAreaSecond-72_qmlcache_loader.cpp	69f2cc5a400a097c
+456	548	7702123726715376	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appMouseAreaSecond-72_qmlcache_loader.cpp	69f2cc5a400a097c
+525	625	7702123727465843	meta_types/qt6appmouseareasecond-72_debug_metatypes.json.gen	a69ab43c62324940
+525	625	7702123727465843	meta_types/qt6appmouseareasecond-72_debug_metatypes.json	a69ab43c62324940
+525	625	7702123727465843	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appmouseareasecond-72_debug_metatypes.json.gen	a69ab43c62324940
+525	625	7702123727465843	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appmouseareasecond-72_debug_metatypes.json	a69ab43c62324940
+625	782	7702123728527362	appmouseareasecond-72_qmltyperegistrations.cpp	cfb623fd400555c3
+625	782	7702123728527362	MouseAreaSecond-72/appMouseAreaSecond-72.qmltypes	cfb623fd400555c3
+625	782	7702123728527362	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appmouseareasecond-72_qmltyperegistrations.cpp	cfb623fd400555c3
+625	782	7702123728527362	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/MouseAreaSecond-72/appMouseAreaSecond-72.qmltypes	cfb623fd400555c3
+782	929	7702123730464966	.rcc/qmlcache/appMouseAreaSecond-72_Main_qml.cpp	b1b70d05ee4ab050
+782	929	7702123730464966	.rcc/qmlcache/appMouseAreaSecond-72_Main_qml.cpp.aotstats	b1b70d05ee4ab050
+782	929	7702123730464966	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appMouseAreaSecond-72_Main_qml.cpp	b1b70d05ee4ab050
+782	929	7702123730464966	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appMouseAreaSecond-72_Main_qml.cpp.aotstats	b1b70d05ee4ab050
+929	1061	7702123730625811	CMakeFiles/appMouseAreaSecond-72.dir/appMouseAreaSecond-72_autogen/mocs_compilation.cpp.obj	a2e4eb27406b3ccf
+945	1085	7702123730790088	CMakeFiles/appMouseAreaSecond-72.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_MouseAreaSecond-72.cpp.obj	a1bfa1a98cb2c2b2
+986	1104	7702123731196520	CMakeFiles/appMouseAreaSecond-72.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appMouseAreaSecond-72_raw_qml_0.cpp.obj	efdee9f670123bf8
+940	4257	7702123730725352	CMakeFiles/appMouseAreaSecond-72.dir/appmouseareasecond-72_qmltyperegistrations.cpp.obj	117efd92f6f83aaa
+972	4297	7702123731064094	CMakeFiles/appMouseAreaSecond-72.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appMouseAreaSecond-72_Main_qml.cpp.obj	3b4d75a5d8b61965
+935	4467	7702123730686848	CMakeFiles/appMouseAreaSecond-72.dir/main.cpp.obj	3c0258d9d68acd33
+961	4917	7702123730944860	CMakeFiles/appMouseAreaSecond-72.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appMouseAreaSecond-72_qmlcache_loader.cpp.obj	2bc2e1c44212bd84
+4917	5274	7702123770505457	appMouseAreaSecond-72.exe	52bebeba40052587
+64	139	7702124726722962	.qt/appMouseAreaSecond-72_qml.txt	7bd33cfc6e6ea8
+64	139	7702124726722962	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appMouseAreaSecond-72_qml.txt	7bd33cfc6e6ea8
+74	189	7702124727211927	.qt/qml_imports/appMouseAreaSecond-72_build.cmake	1f8fd3ba5c4671aa
+74	189	7702124727211927	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appMouseAreaSecond-72_build.cmake	1f8fd3ba5c4671aa
+197	241	7702124727738269	.qt/rcc/qrc_appMouseAreaSecond-72_raw_qml_0.cpp	c362f3c4534c6d30
+197	241	7702124727738269	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appMouseAreaSecond-72_raw_qml_0.cpp	c362f3c4534c6d30
+189	317	7702124728446552	.rcc/qmlcache/appMouseAreaSecond-72_Main_qml.cpp	b1b70d05ee4ab050
+189	317	7702124728446552	.rcc/qmlcache/appMouseAreaSecond-72_Main_qml.cpp.aotstats	b1b70d05ee4ab050
+189	317	7702124728446552	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appMouseAreaSecond-72_Main_qml.cpp	b1b70d05ee4ab050
+189	317	7702124728446552	E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appMouseAreaSecond-72_Main_qml.cpp.aotstats	b1b70d05ee4ab050
+322	429	7702124728622018	CMakeFiles/appMouseAreaSecond-72.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appMouseAreaSecond-72_raw_qml_0.cpp.obj	efdee9f670123bf8
+318	2572	7702124728581947	CMakeFiles/appMouseAreaSecond-72.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appMouseAreaSecond-72_Main_qml.cpp.obj	3b4d75a5d8b61965
+2572	2807	7702124751123696	appMouseAreaSecond-72.exe	52bebeba40052587

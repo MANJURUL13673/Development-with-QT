@@ -1,0 +1,10 @@
+-I
+E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-I
+C:/Qt/6.9.0/mingw_64/qml
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_MouseAreaSecond-72.qrc
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/MouseAreaSecond-72/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appMouseAreaSecond-72_raw_qml_0.qrc
+--module
+MouseAreaSecond-72

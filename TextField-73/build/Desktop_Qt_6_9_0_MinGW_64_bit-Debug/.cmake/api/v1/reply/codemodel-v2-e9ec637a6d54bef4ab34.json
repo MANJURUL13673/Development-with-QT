@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0d56cab8c33bc328014.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TextField-73",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-e3b18bd1473c7b6155d9.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-935aa6eb7b68fc6073fb.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-a11ce5a872647f347666.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-f079564d0eacc33d3a2a.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-bf67dbebe3f31aa1f757.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTextField-73::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTextField-73-Debug-c7439c8779dfacadd46b.json",
+					"name" : "appTextField-73",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTextField-73_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTextField-73_autogen-Debug-4fb765ae01ff82ab71a6.json",
+					"name" : "appTextField-73_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTextField-73_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTextField-73_autogen_timestamp_deps-Debug-f168a3af3a914c63f45a.json",
+					"name" : "appTextField-73_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTextField-73_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTextField-73_copy_qml-Debug-3e0db3a7554b34f8d71f.json",
+					"name" : "appTextField-73_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTextField-73_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTextField-73_copy_res-Debug-f551055f225d4459b76e.json",
+					"name" : "appTextField-73_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTextField-73_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTextField-73_qmlimportscan-Debug-5a90eee2d6cf89715de6.json",
+					"name" : "appTextField-73_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTextField-73_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTextField-73_qmllint-Debug-477f620d46601a36e0ea.json",
+					"name" : "appTextField-73_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTextField-73_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTextField-73_qmllint_json-Debug-77b675b06a940b7b87dc.json",
+					"name" : "appTextField-73_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTextField-73_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTextField-73_qmllint_module-Debug-d68c529810560a2bfc8a.json",
+					"name" : "appTextField-73_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTextField-73_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTextField-73_qmltyperegistration-Debug-ee8640898ed63d92c3fa.json",
+					"name" : "appTextField-73_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appTextField-73_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appTextField-73_aotstats_target-Debug-0d9615c95f2a0fe8fa13.json",
+					"name" : "module_appTextField-73_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-73"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
