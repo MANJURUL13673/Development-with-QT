@@ -1,0 +1,93 @@
+# ninja log v6
+26	83	7702210202870728	.qt/appAnchors-77_res.txt	35ba9086d62cf08c
+26	83	7702210202870728	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/appAnchors-77_res.txt	35ba9086d62cf08c
+18	86	7702210202885623	.qt/appAnchors-77_qml.txt	6e44fb21611b6538
+18	86	7702210202885623	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/appAnchors-77_qml.txt	6e44fb21611b6538
+34	173	7702210203735587	.qt/qml_imports/appAnchors-77_build.cmake	ad782c48ce5f63ca
+34	173	7702210203735587	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/qml_imports/appAnchors-77_build.cmake	ad782c48ce5f63ca
+173	412	7702210205281402	appAnchors-77_autogen/timestamp	2acd2366e507fdd9
+173	412	7702210205281402	appAnchors-77_autogen/mocs_compilation.cpp	2acd2366e507fdd9
+173	412	7702210205281402	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/appAnchors-77_autogen/timestamp	2acd2366e507fdd9
+173	412	7702210205281402	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/appAnchors-77_autogen/mocs_compilation.cpp	2acd2366e507fdd9
+417	476	7702210206767376	meta_types/appAnchors-77_json_file_list.txt	45c85d7fc67beef8
+417	476	7702210206767376	meta_types/appAnchors-77_json_file_list.txt.timestamp	45c85d7fc67beef8
+417	476	7702210206767376	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/meta_types/appAnchors-77_json_file_list.txt	45c85d7fc67beef8
+417	476	7702210206767376	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/meta_types/appAnchors-77_json_file_list.txt.timestamp	45c85d7fc67beef8
+426	491	7702210206875405	.qt/rcc/qrc_qmake_Anchors-77.cpp	785ed9ea6ba1be06
+426	491	7702210206875405	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_qmake_Anchors-77.cpp	785ed9ea6ba1be06
+444	506	7702210207051232	.qt/rcc/qrc_appAnchors-77_raw_qml_0.cpp	9ec61384469bac6
+444	506	7702210207051232	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_appAnchors-77_raw_qml_0.cpp	9ec61384469bac6
+433	527	7702210207276843	.rcc/qmlcache/appAnchors-77_qmlcache_loader.cpp	ba9a17ff9d21194
+433	527	7702210207276843	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appAnchors-77_qmlcache_loader.cpp	ba9a17ff9d21194
+477	556	7702210207580417	meta_types/qt6appanchors-77_release_metatypes.json.gen	94c453cd6177e2bf
+477	556	7702210207580417	meta_types/qt6appanchors-77_release_metatypes.json	94c453cd6177e2bf
+477	556	7702210207580417	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/meta_types/qt6appanchors-77_release_metatypes.json.gen	94c453cd6177e2bf
+477	556	7702210207580417	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/meta_types/qt6appanchors-77_release_metatypes.json	94c453cd6177e2bf
+556	702	7702210208491815	appanchors-77_qmltyperegistrations.cpp	4579a8368b0d5719
+556	702	7702210208491815	Anchors-77/appAnchors-77.qmltypes	4579a8368b0d5719
+556	702	7702210208491815	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/appanchors-77_qmltyperegistrations.cpp	4579a8368b0d5719
+556	702	7702210208491815	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/Anchors-77/appAnchors-77.qmltypes	4579a8368b0d5719
+703	830	7702210210257253	.rcc/qmlcache/appAnchors-77_Main_qml.cpp	497ae8a57d12f5ec
+703	830	7702210210257253	.rcc/qmlcache/appAnchors-77_Main_qml.cpp.aotstats	497ae8a57d12f5ec
+703	830	7702210210257253	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appAnchors-77_Main_qml.cpp	497ae8a57d12f5ec
+703	830	7702210210257253	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appAnchors-77_Main_qml.cpp.aotstats	497ae8a57d12f5ec
+830	926	7702210210406265	CMakeFiles/appAnchors-77.dir/appAnchors-77_autogen/mocs_compilation.cpp.obj	7b47bd127414fdd1
+863	1040	7702210210738023	CMakeFiles/appAnchors-77.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_appAnchors-77_raw_qml_0.cpp.obj	85c225b70da0b6f1
+846	1041	7702210210562562	CMakeFiles/appAnchors-77.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_qmake_Anchors-77.cpp.obj	f88ffb17b921c605
+857	4775	7702210210671032	CMakeFiles/appAnchors-77.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appAnchors-77_Main_qml.cpp.obj	f56e3190f3432bb5
+836	4779	7702210210461754	CMakeFiles/appAnchors-77.dir/main.cpp.obj	8136be88699ca046
+841	4780	7702210210514643	CMakeFiles/appAnchors-77.dir/appanchors-77_qmltyperegistrations.cpp.obj	46a95091d5e5687b
+851	5368	7702210210612353	CMakeFiles/appAnchors-77.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appAnchors-77_qmlcache_loader.cpp.obj	fdd9a7c012c56fd5
+5368	5592	7702210255795731	appAnchors-77.exe	a76794d1662a5123
+73	117	7702210638124275	.qt/appAnchors-77_qml.txt	6e44fb21611b6538
+73	117	7702210638124275	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/appAnchors-77_qml.txt	6e44fb21611b6538
+81	219	7702210639124273	.qt/qml_imports/appAnchors-77_build.cmake	ad782c48ce5f63ca
+81	219	7702210639124273	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/qml_imports/appAnchors-77_build.cmake	ad782c48ce5f63ca
+227	274	7702210639683653	.qt/rcc/qrc_appAnchors-77_raw_qml_0.cpp	9ec61384469bac6
+227	274	7702210639683653	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_appAnchors-77_raw_qml_0.cpp	9ec61384469bac6
+219	356	7702210640436277	.rcc/qmlcache/appAnchors-77_Main_qml.cpp	497ae8a57d12f5ec
+219	356	7702210640436277	.rcc/qmlcache/appAnchors-77_Main_qml.cpp.aotstats	497ae8a57d12f5ec
+219	356	7702210640436277	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appAnchors-77_Main_qml.cpp	497ae8a57d12f5ec
+219	356	7702210640436277	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appAnchors-77_Main_qml.cpp.aotstats	497ae8a57d12f5ec
+361	432	7702210640634725	CMakeFiles/appAnchors-77.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_appAnchors-77_raw_qml_0.cpp.obj	85c225b70da0b6f1
+356	2375	7702210640581578	CMakeFiles/appAnchors-77.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appAnchors-77_Main_qml.cpp.obj	f56e3190f3432bb5
+2376	2532	7702210660782587	appAnchors-77.exe	a76794d1662a5123
+63	112	7702211041049756	.qt/appAnchors-77_qml.txt	6e44fb21611b6538
+63	112	7702211041049756	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/appAnchors-77_qml.txt	6e44fb21611b6538
+75	209	7702211042010124	.qt/qml_imports/appAnchors-77_build.cmake	ad782c48ce5f63ca
+75	209	7702211042010124	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/qml_imports/appAnchors-77_build.cmake	ad782c48ce5f63ca
+218	259	7702211042530795	.qt/rcc/qrc_appAnchors-77_raw_qml_0.cpp	9ec61384469bac6
+218	259	7702211042530795	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_appAnchors-77_raw_qml_0.cpp	9ec61384469bac6
+210	349	7702211043351828	.rcc/qmlcache/appAnchors-77_Main_qml.cpp	497ae8a57d12f5ec
+210	349	7702211043351828	.rcc/qmlcache/appAnchors-77_Main_qml.cpp.aotstats	497ae8a57d12f5ec
+210	349	7702211043351828	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appAnchors-77_Main_qml.cpp	497ae8a57d12f5ec
+210	349	7702211043351828	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appAnchors-77_Main_qml.cpp.aotstats	497ae8a57d12f5ec
+355	431	7702211043560421	CMakeFiles/appAnchors-77.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_appAnchors-77_raw_qml_0.cpp.obj	85c225b70da0b6f1
+350	2388	7702211043508090	CMakeFiles/appAnchors-77.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appAnchors-77_Main_qml.cpp.obj	f56e3190f3432bb5
+2388	2560	7702211063892076	appAnchors-77.exe	a76794d1662a5123
+54	99	7702211159638009	.qt/appAnchors-77_qml.txt	6e44fb21611b6538
+54	99	7702211159638009	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/appAnchors-77_qml.txt	6e44fb21611b6538
+63	195	7702211160584410	.qt/qml_imports/appAnchors-77_build.cmake	ad782c48ce5f63ca
+63	195	7702211160584410	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/qml_imports/appAnchors-77_build.cmake	ad782c48ce5f63ca
+203	243	7702211161082687	.qt/rcc/qrc_appAnchors-77_raw_qml_0.cpp	9ec61384469bac6
+203	243	7702211161082687	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_appAnchors-77_raw_qml_0.cpp	9ec61384469bac6
+195	319	7702211161784426	.rcc/qmlcache/appAnchors-77_Main_qml.cpp	497ae8a57d12f5ec
+195	319	7702211161784426	.rcc/qmlcache/appAnchors-77_Main_qml.cpp.aotstats	497ae8a57d12f5ec
+195	319	7702211161784426	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appAnchors-77_Main_qml.cpp	497ae8a57d12f5ec
+195	319	7702211161784426	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appAnchors-77_Main_qml.cpp.aotstats	497ae8a57d12f5ec
+325	397	7702211161981192	CMakeFiles/appAnchors-77.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_appAnchors-77_raw_qml_0.cpp.obj	85c225b70da0b6f1
+319	2155	7702211161915504	CMakeFiles/appAnchors-77.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appAnchors-77_Main_qml.cpp.obj	f56e3190f3432bb5
+2155	2313	7702211180272669	appAnchors-77.exe	a76794d1662a5123
+43	88	7702211888529521	.qt/appAnchors-77_qml.txt	6e44fb21611b6538
+43	88	7702211888529521	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/appAnchors-77_qml.txt	6e44fb21611b6538
+51	177	7702211889425044	.qt/qml_imports/appAnchors-77_build.cmake	ad782c48ce5f63ca
+51	177	7702211889425044	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/qml_imports/appAnchors-77_build.cmake	ad782c48ce5f63ca
+185	221	7702211889858894	.qt/rcc/qrc_appAnchors-77_raw_qml_0.cpp	9ec61384469bac6
+185	221	7702211889858894	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_appAnchors-77_raw_qml_0.cpp	9ec61384469bac6
+177	312	7702211890693440	.rcc/qmlcache/appAnchors-77_Main_qml.cpp	497ae8a57d12f5ec
+177	312	7702211890693440	.rcc/qmlcache/appAnchors-77_Main_qml.cpp.aotstats	497ae8a57d12f5ec
+177	312	7702211890693440	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appAnchors-77_Main_qml.cpp	497ae8a57d12f5ec
+177	312	7702211890693440	E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appAnchors-77_Main_qml.cpp.aotstats	497ae8a57d12f5ec
+318	392	7702211890908400	CMakeFiles/appAnchors-77.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_appAnchors-77_raw_qml_0.cpp.obj	85c225b70da0b6f1
+313	2246	7702211890845492	CMakeFiles/appAnchors-77.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appAnchors-77_Main_qml.cpp.obj	f56e3190f3432bb5
+2247	2403	7702211910194310	appAnchors-77.exe	a76794d1662a5123

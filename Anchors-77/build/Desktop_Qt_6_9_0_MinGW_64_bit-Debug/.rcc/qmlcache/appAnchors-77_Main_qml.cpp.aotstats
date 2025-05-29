@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 182,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 13
+                    }
+                ],
+                "filepath": "E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/Main.qml"
+            }
+        ],
+        "moduleId": "Anchors-77(appAnchors-77)"
+    }
+]

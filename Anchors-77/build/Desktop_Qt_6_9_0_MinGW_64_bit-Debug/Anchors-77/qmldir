@@ -1,0 +1,5 @@
+module Anchors-77
+typeinfo appAnchors-77.qmltypes
+prefer :/qt/qml/Anchors-77/
+Main 1.0 Main.qml
+

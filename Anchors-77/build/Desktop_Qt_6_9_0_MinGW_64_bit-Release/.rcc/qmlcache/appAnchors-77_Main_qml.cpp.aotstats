@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 253,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 6845,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 234,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 28
+                    }
+                ],
+                "filepath": "E:/PERSONAL/Learning/QT DEVELOPMENT/Anchors-77/Main.qml"
+            }
+        ],
+        "moduleId": "Anchors-77(appAnchors-77)"
+    }
+]
