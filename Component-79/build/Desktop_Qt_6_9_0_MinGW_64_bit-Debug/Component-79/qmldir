@@ -1,0 +1,5 @@
+module Component-79
+typeinfo appComponent-79.qmltypes
+prefer :/qt/qml/Component-79/
+Main 1.0 Main.qml
+

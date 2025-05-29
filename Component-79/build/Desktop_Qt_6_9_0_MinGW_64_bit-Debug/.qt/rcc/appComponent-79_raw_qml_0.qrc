@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/Component-79/">
+    <file alias="Main.qml">E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/Main.qml</file>
+    <file alias="button.qml">E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/button.qml</file>
+  </qresource>
+</RCC>
+

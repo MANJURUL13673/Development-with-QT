@@ -1,0 +1,91 @@
+# ninja log v6
+858	4318	7702224475196413	CMakeFiles/appComponent-79.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appComponent-79_Main_qml.cpp.obj	594d30bd791f7fd0
+17	76	7702224467303993	.qt/appComponent-79_qml.txt	2c28efaf628409bf
+17	76	7702224467303993	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/appComponent-79_qml.txt	2c28efaf628409bf
+416	495	7702224471447095	.rcc/qmlcache/appComponent-79_qmlcache_loader.cpp	1378587fa2c6699e
+33	158	7702224468041954	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/qml_imports/appComponent-79_build.cmake	e9642d7636e998e5
+159	390	7702224469552893	appComponent-79_autogen/mocs_compilation.cpp	9f5a1b5716e909a9
+25	90	7702224467439234	.qt/appComponent-79_res.txt	f417b315707d5e27
+871	1024	7702224475331758	CMakeFiles/appComponent-79.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_appComponent-79_raw_qml_0.cpp.obj	ba29189d24fdef45
+513	674	7702224472635149	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/appcomponent-79_qmltyperegistrations.cpp	c879206108399a9d
+406	456	7702224471051359	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_qmake_Component-79.cpp	101dc77e32f01a7d
+159	390	7702224469552893	appComponent-79_autogen/timestamp	9f5a1b5716e909a9
+25	90	7702224467439234	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/appComponent-79_res.txt	f417b315707d5e27
+159	390	7702224469552893	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/appComponent-79_autogen/mocs_compilation.cpp	9f5a1b5716e909a9
+33	158	7702224468041954	.qt/qml_imports/appComponent-79_build.cmake	e9642d7636e998e5
+159	390	7702224469552893	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/appComponent-79_autogen/timestamp	9f5a1b5716e909a9
+397	441	7702224470962798	meta_types/appComponent-79_json_file_list.txt	fc8326e9e3195271
+397	441	7702224470962798	meta_types/appComponent-79_json_file_list.txt.timestamp	fc8326e9e3195271
+397	441	7702224470962798	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/meta_types/appComponent-79_json_file_list.txt	fc8326e9e3195271
+397	441	7702224470962798	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/meta_types/appComponent-79_json_file_list.txt.timestamp	fc8326e9e3195271
+441	513	7702224471674099	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/meta_types/qt6appcomponent-79_release_metatypes.json	2e594e07794b1e0
+406	456	7702224471051359	.qt/rcc/qrc_qmake_Component-79.cpp	101dc77e32f01a7d
+425	479	7702224471317056	.qt/rcc/qrc_appComponent-79_raw_qml_0.cpp	99427d27405d7572
+513	674	7702224472635149	appcomponent-79_qmltyperegistrations.cpp	c879206108399a9d
+425	479	7702224471317056	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_appComponent-79_raw_qml_0.cpp	99427d27405d7572
+416	495	7702224471447095	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appComponent-79_qmlcache_loader.cpp	1378587fa2c6699e
+441	513	7702224471674099	meta_types/qt6appcomponent-79_release_metatypes.json.gen	2e594e07794b1e0
+441	513	7702224471674099	meta_types/qt6appcomponent-79_release_metatypes.json	2e594e07794b1e0
+441	513	7702224471674099	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/meta_types/qt6appcomponent-79_release_metatypes.json.gen	2e594e07794b1e0
+513	674	7702224472635149	Component-79/appComponent-79.qmltypes	c879206108399a9d
+513	674	7702224472635149	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/Component-79/appComponent-79.qmltypes	c879206108399a9d
+674	814	7702224474574067	.rcc/qmlcache/appComponent-79_Main_qml.cpp	fbae5849d3460948
+674	814	7702224474574067	.rcc/qmlcache/appComponent-79_Main_qml.cpp.aotstats	fbae5849d3460948
+674	814	7702224474574067	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appComponent-79_Main_qml.cpp	fbae5849d3460948
+674	814	7702224474574067	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appComponent-79_Main_qml.cpp.aotstats	fbae5849d3460948
+682	832	7702224474724942	.rcc/qmlcache/appComponent-79_button_qml.cpp	bb91e24fb172ebcd
+682	832	7702224474724942	.rcc/qmlcache/appComponent-79_button_qml.cpp.aotstats	bb91e24fb172ebcd
+682	832	7702224474724942	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appComponent-79_button_qml.cpp	bb91e24fb172ebcd
+682	832	7702224474724942	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appComponent-79_button_qml.cpp.aotstats	bb91e24fb172ebcd
+833	952	7702224474942704	CMakeFiles/appComponent-79.dir/appComponent-79_autogen/mocs_compilation.cpp.obj	e2a1c328b9d541aa
+847	1025	7702224475087007	CMakeFiles/appComponent-79.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_qmake_Component-79.cpp.obj	74d9cd088c1732c4
+841	4092	7702224475029590	CMakeFiles/appComponent-79.dir/appcomponent-79_qmltyperegistrations.cpp.obj	59b37023c9e4f00
+865	4316	7702224475262520	CMakeFiles/appComponent-79.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appComponent-79_button_qml.cpp.obj	b1dc9cf897dd2e59
+837	4398	7702224474994267	CMakeFiles/appComponent-79.dir/main.cpp.obj	66728dff36bfff61
+853	4963	7702224475147162	CMakeFiles/appComponent-79.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appComponent-79_qmlcache_loader.cpp.obj	a62bde5390318442
+4964	5144	7702224516257640	appComponent-79.exe	b43011a00f1a982a
+43	90	7702224846817158	.qt/appComponent-79_qml.txt	2c28efaf628409bf
+43	90	7702224846817158	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/appComponent-79_qml.txt	2c28efaf628409bf
+51	187	7702224847792588	.qt/qml_imports/appComponent-79_build.cmake	e9642d7636e998e5
+51	187	7702224847792588	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/qml_imports/appComponent-79_build.cmake	e9642d7636e998e5
+188	362	7702224847873522	appComponent-79_autogen/timestamp	9f5a1b5716e909a9
+188	362	7702224847873522	appComponent-79_autogen/mocs_compilation.cpp	9f5a1b5716e909a9
+188	362	7702224847873522	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/appComponent-79_autogen/timestamp	9f5a1b5716e909a9
+188	362	7702224847873522	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/appComponent-79_autogen/mocs_compilation.cpp	9f5a1b5716e909a9
+363	405	7702224849624473	meta_types/appComponent-79_json_file_list.txt	fc8326e9e3195271
+363	405	7702224849624473	meta_types/appComponent-79_json_file_list.txt.timestamp	fc8326e9e3195271
+363	405	7702224849624473	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/meta_types/appComponent-79_json_file_list.txt	fc8326e9e3195271
+363	405	7702224849624473	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/meta_types/appComponent-79_json_file_list.txt.timestamp	fc8326e9e3195271
+370	431	7702224850113875	.qt/rcc/qrc_qmake_Component-79.cpp	101dc77e32f01a7d
+370	431	7702224850113875	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_qmake_Component-79.cpp	101dc77e32f01a7d
+387	438	7702224850290523	.qt/rcc/qrc_appComponent-79_raw_qml_0.cpp	99427d27405d7572
+387	438	7702224850290523	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_appComponent-79_raw_qml_0.cpp	99427d27405d7572
+378	449	7702224850353703	.rcc/qmlcache/appComponent-79_qmlcache_loader.cpp	1378587fa2c6699e
+378	449	7702224850353703	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appComponent-79_qmlcache_loader.cpp	1378587fa2c6699e
+405	551	7702224851312769	.rcc/qmlcache/appComponent-79_Main_qml.cpp	fbae5849d3460948
+405	551	7702224851312769	.rcc/qmlcache/appComponent-79_Main_qml.cpp.aotstats	fbae5849d3460948
+405	551	7702224851312769	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appComponent-79_Main_qml.cpp	fbae5849d3460948
+405	551	7702224851312769	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appComponent-79_Main_qml.cpp.aotstats	fbae5849d3460948
+417	562	7702224851439309	.rcc/qmlcache/appComponent-79_button_qml.cpp	851a633b283ce4c5
+417	562	7702224851439309	.rcc/qmlcache/appComponent-79_button_qml.cpp.aotstats	851a633b283ce4c5
+417	562	7702224851439309	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appComponent-79_button_qml.cpp	851a633b283ce4c5
+417	562	7702224851439309	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appComponent-79_button_qml.cpp.aotstats	851a633b283ce4c5
+563	652	7702224851629523	CMakeFiles/appComponent-79.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_qmake_Component-79.cpp.obj	74d9cd088c1732c4
+583	675	7702224851823711	CMakeFiles/appComponent-79.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_appComponent-79_raw_qml_0.cpp.obj	ba29189d24fdef45
+578	2746	7702224851773904	CMakeFiles/appComponent-79.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appComponent-79_button_qml.cpp.obj	b1dc9cf897dd2e59
+574	2832	7702224851738447	CMakeFiles/appComponent-79.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appComponent-79_Main_qml.cpp.obj	594d30bd791f7fd0
+569	3357	7702224851688159	CMakeFiles/appComponent-79.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appComponent-79_qmlcache_loader.cpp.obj	a62bde5390318442
+3357	3529	7702224879572322	appComponent-79.exe	b43011a00f1a982a
+64	119	7702227005720200	.qt/appComponent-79_qml.txt	2c28efaf628409bf
+64	119	7702227005720200	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/appComponent-79_qml.txt	2c28efaf628409bf
+72	218	7702227006729233	.qt/qml_imports/appComponent-79_build.cmake	e9642d7636e998e5
+72	218	7702227006729233	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/qml_imports/appComponent-79_build.cmake	e9642d7636e998e5
+226	280	7702227007330849	.qt/rcc/qrc_appComponent-79_raw_qml_0.cpp	99427d27405d7572
+226	280	7702227007330849	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_appComponent-79_raw_qml_0.cpp	99427d27405d7572
+218	362	7702227008095922	.rcc/qmlcache/appComponent-79_Main_qml.cpp	fbae5849d3460948
+218	362	7702227008095922	.rcc/qmlcache/appComponent-79_Main_qml.cpp.aotstats	fbae5849d3460948
+218	362	7702227008095922	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appComponent-79_Main_qml.cpp	fbae5849d3460948
+218	362	7702227008095922	E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appComponent-79_Main_qml.cpp.aotstats	fbae5849d3460948
+366	441	7702227008289680	CMakeFiles/appComponent-79.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_appComponent-79_raw_qml_0.cpp.obj	ba29189d24fdef45
+363	2578	7702227008254818	CMakeFiles/appComponent-79.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appComponent-79_Main_qml.cpp.obj	594d30bd791f7fd0
+2578	2743	7702227030410151	appComponent-79.exe	b43011a00f1a982a

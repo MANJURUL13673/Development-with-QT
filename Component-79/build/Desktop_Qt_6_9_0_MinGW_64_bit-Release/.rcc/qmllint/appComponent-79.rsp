@@ -1,0 +1,11 @@
+--bare
+-I
+E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release
+-I
+C:/Qt/6.9.0/mingw_64/qml
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qmake_Component-79.qrc
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/appComponent-79_raw_qml_0.qrc
+E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/Main.qml
+E:/PERSONAL/Learning/QT DEVELOPMENT/Component-79/Button.qml
