@@ -1,0 +1,93 @@
+# ninja log v6
+18	80	7702166581998292	.qt/appRowElement-76_qml.txt	5f8edf4ef5aee95
+18	80	7702166581998292	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appRowElement-76_qml.txt	5f8edf4ef5aee95
+25	81	7702166582027634	.qt/appRowElement-76_res.txt	220f7fae82e02542
+25	81	7702166582027634	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appRowElement-76_res.txt	220f7fae82e02542
+33	142	7702166582644129	.qt/qml_imports/appRowElement-76_build.cmake	9c86633c37daaf5d
+33	142	7702166582644129	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appRowElement-76_build.cmake	9c86633c37daaf5d
+142	397	7702166584240506	appRowElement-76_autogen/timestamp	6fc21c56eab1969e
+142	397	7702166584240506	appRowElement-76_autogen/mocs_compilation.cpp	6fc21c56eab1969e
+142	397	7702166584240506	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appRowElement-76_autogen/timestamp	6fc21c56eab1969e
+142	397	7702166584240506	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appRowElement-76_autogen/mocs_compilation.cpp	6fc21c56eab1969e
+410	474	7702166585900403	.qt/rcc/qrc_qmake_RowElement-76.cpp	80ad5b3d4a73be47
+410	474	7702166585900403	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_RowElement-76.cpp	80ad5b3d4a73be47
+401	478	7702166585987890	meta_types/appRowElement-76_json_file_list.txt	e3ef49fc8d565806
+401	478	7702166585987890	meta_types/appRowElement-76_json_file_list.txt.timestamp	e3ef49fc8d565806
+401	478	7702166585987890	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appRowElement-76_json_file_list.txt	e3ef49fc8d565806
+401	478	7702166585987890	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appRowElement-76_json_file_list.txt.timestamp	e3ef49fc8d565806
+428	497	7702166586133464	.qt/rcc/qrc_appRowElement-76_raw_qml_0.cpp	209560545dd69d7a
+428	497	7702166586133464	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appRowElement-76_raw_qml_0.cpp	209560545dd69d7a
+419	520	7702166586362271	.rcc/qmlcache/appRowElement-76_qmlcache_loader.cpp	35efc408b15f25c7
+419	520	7702166586362271	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRowElement-76_qmlcache_loader.cpp	35efc408b15f25c7
+478	561	7702166586824141	meta_types/qt6approwelement-76_debug_metatypes.json.gen	670526dd6ad8c2aa
+478	561	7702166586824141	meta_types/qt6approwelement-76_debug_metatypes.json	670526dd6ad8c2aa
+478	561	7702166586824141	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6approwelement-76_debug_metatypes.json.gen	670526dd6ad8c2aa
+478	561	7702166586824141	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6approwelement-76_debug_metatypes.json	670526dd6ad8c2aa
+561	722	7702166587823318	approwelement-76_qmltyperegistrations.cpp	c1fb067f2d1554b9
+561	722	7702166587823318	RowElement-76/appRowElement-76.qmltypes	c1fb067f2d1554b9
+561	722	7702166587823318	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/approwelement-76_qmltyperegistrations.cpp	c1fb067f2d1554b9
+561	722	7702166587823318	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/RowElement-76/appRowElement-76.qmltypes	c1fb067f2d1554b9
+723	855	7702166589704200	.rcc/qmlcache/appRowElement-76_Main_qml.cpp	df563815cc43a6b2
+723	855	7702166589704200	.rcc/qmlcache/appRowElement-76_Main_qml.cpp.aotstats	df563815cc43a6b2
+723	855	7702166589704200	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRowElement-76_Main_qml.cpp	df563815cc43a6b2
+723	855	7702166589704200	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRowElement-76_Main_qml.cpp.aotstats	df563815cc43a6b2
+856	947	7702166589848669	CMakeFiles/appRowElement-76.dir/appRowElement-76_autogen/mocs_compilation.cpp.obj	c47f15cd5a7c70f3
+875	986	7702166590048163	CMakeFiles/appRowElement-76.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_RowElement-76.cpp.obj	a23d815e1ab26990
+897	1003	7702166590263280	CMakeFiles/appRowElement-76.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appRowElement-76_raw_qml_0.cpp.obj	e7f9231fbc6b8f7b
+891	4161	7702166590198469	CMakeFiles/appRowElement-76.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRowElement-76_Main_qml.cpp.obj	e045113d2f9c86a1
+869	4164	7702166589980292	CMakeFiles/appRowElement-76.dir/approwelement-76_qmltyperegistrations.cpp.obj	27a7c5e5461b9ce4
+862	4356	7702166589923423	CMakeFiles/appRowElement-76.dir/main.cpp.obj	4cf9dc9f4dda19c3
+882	4672	7702166590114548	CMakeFiles/appRowElement-76.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRowElement-76_qmlcache_loader.cpp.obj	d712e8eddcfd06a2
+4672	4944	7702166628015954	appRowElement-76.exe	339c84c08a6c4452
+44	92	7702166990218503	.qt/appRowElement-76_qml.txt	5f8edf4ef5aee95
+44	92	7702166990218503	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appRowElement-76_qml.txt	5f8edf4ef5aee95
+53	165	7702166990915857	.qt/qml_imports/appRowElement-76_build.cmake	9c86633c37daaf5d
+53	165	7702166990915857	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appRowElement-76_build.cmake	9c86633c37daaf5d
+176	232	7702166991617660	.qt/rcc/qrc_appRowElement-76_raw_qml_0.cpp	209560545dd69d7a
+176	232	7702166991617660	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appRowElement-76_raw_qml_0.cpp	209560545dd69d7a
+165	328	7702166992487870	.rcc/qmlcache/appRowElement-76_Main_qml.cpp	df563815cc43a6b2
+165	328	7702166992487870	.rcc/qmlcache/appRowElement-76_Main_qml.cpp.aotstats	df563815cc43a6b2
+165	328	7702166992487870	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRowElement-76_Main_qml.cpp	df563815cc43a6b2
+165	328	7702166992487870	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRowElement-76_Main_qml.cpp.aotstats	df563815cc43a6b2
+334	412	7702166992718488	CMakeFiles/appRowElement-76.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appRowElement-76_raw_qml_0.cpp.obj	e7f9231fbc6b8f7b
+329	2739	7702166992665750	CMakeFiles/appRowElement-76.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRowElement-76_Main_qml.cpp.obj	e045113d2f9c86a1
+2739	2961	7702167016768233	appRowElement-76.exe	339c84c08a6c4452
+44	88	7702167196574729	.qt/appRowElement-76_qml.txt	5f8edf4ef5aee95
+44	88	7702167196574729	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appRowElement-76_qml.txt	5f8edf4ef5aee95
+52	154	7702167197212950	.qt/qml_imports/appRowElement-76_build.cmake	9c86633c37daaf5d
+52	154	7702167197212950	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appRowElement-76_build.cmake	9c86633c37daaf5d
+163	208	7702167197767697	.qt/rcc/qrc_appRowElement-76_raw_qml_0.cpp	209560545dd69d7a
+163	208	7702167197767697	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appRowElement-76_raw_qml_0.cpp	209560545dd69d7a
+154	301	7702167198587682	.rcc/qmlcache/appRowElement-76_Main_qml.cpp	df563815cc43a6b2
+154	301	7702167198587682	.rcc/qmlcache/appRowElement-76_Main_qml.cpp.aotstats	df563815cc43a6b2
+154	301	7702167198587682	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRowElement-76_Main_qml.cpp	df563815cc43a6b2
+154	301	7702167198587682	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRowElement-76_Main_qml.cpp.aotstats	df563815cc43a6b2
+305	385	7702167198802961	CMakeFiles/appRowElement-76.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appRowElement-76_raw_qml_0.cpp.obj	e7f9231fbc6b8f7b
+301	2632	7702167198768212	CMakeFiles/appRowElement-76.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRowElement-76_Main_qml.cpp.obj	e045113d2f9c86a1
+2632	2870	7702167222076105	appRowElement-76.exe	339c84c08a6c4452
+64	111	7702167647027379	.qt/appRowElement-76_qml.txt	5f8edf4ef5aee95
+64	111	7702167647027379	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appRowElement-76_qml.txt	5f8edf4ef5aee95
+72	181	7702167647739701	.qt/qml_imports/appRowElement-76_build.cmake	9c86633c37daaf5d
+72	181	7702167647739701	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appRowElement-76_build.cmake	9c86633c37daaf5d
+190	236	7702167648278556	.qt/rcc/qrc_appRowElement-76_raw_qml_0.cpp	209560545dd69d7a
+190	236	7702167648278556	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appRowElement-76_raw_qml_0.cpp	209560545dd69d7a
+182	317	7702167649032948	.rcc/qmlcache/appRowElement-76_Main_qml.cpp	df563815cc43a6b2
+182	317	7702167649032948	.rcc/qmlcache/appRowElement-76_Main_qml.cpp.aotstats	df563815cc43a6b2
+182	317	7702167649032948	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRowElement-76_Main_qml.cpp	df563815cc43a6b2
+182	317	7702167649032948	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRowElement-76_Main_qml.cpp.aotstats	df563815cc43a6b2
+323	393	7702167649236780	CMakeFiles/appRowElement-76.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appRowElement-76_raw_qml_0.cpp.obj	e7f9231fbc6b8f7b
+317	2395	7702167649185450	CMakeFiles/appRowElement-76.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRowElement-76_Main_qml.cpp.obj	e045113d2f9c86a1
+2396	2625	7702167669956838	appRowElement-76.exe	339c84c08a6c4452
+43	85	7702168114156560	.qt/appRowElement-76_qml.txt	5f8edf4ef5aee95
+43	85	7702168114156560	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appRowElement-76_qml.txt	5f8edf4ef5aee95
+50	147	7702168114764340	.qt/qml_imports/appRowElement-76_build.cmake	9c86633c37daaf5d
+50	147	7702168114764340	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appRowElement-76_build.cmake	9c86633c37daaf5d
+155	202	7702168115330971	.qt/rcc/qrc_appRowElement-76_raw_qml_0.cpp	209560545dd69d7a
+155	202	7702168115330971	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appRowElement-76_raw_qml_0.cpp	209560545dd69d7a
+147	277	7702168116019210	.rcc/qmlcache/appRowElement-76_Main_qml.cpp	df563815cc43a6b2
+147	277	7702168116019210	.rcc/qmlcache/appRowElement-76_Main_qml.cpp.aotstats	df563815cc43a6b2
+147	277	7702168116019210	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRowElement-76_Main_qml.cpp	df563815cc43a6b2
+147	277	7702168116019210	E:/PERSONAL/Learning/QT DEVELOPMENT/RowElement-76/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRowElement-76_Main_qml.cpp.aotstats	df563815cc43a6b2
+282	357	7702168116195234	CMakeFiles/appRowElement-76.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appRowElement-76_raw_qml_0.cpp.obj	e7f9231fbc6b8f7b
+277	2447	7702168116152791	CMakeFiles/appRowElement-76.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appRowElement-76_Main_qml.cpp.obj	e045113d2f9c86a1
+2447	2683	7702168137837933	appRowElement-76.exe	339c84c08a6c4452

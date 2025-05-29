@@ -1,0 +1,5 @@
+module RowElement-76
+typeinfo appRowElement-76.qmltypes
+prefer :/qt/qml/RowElement-76/
+Main 1.0 Main.qml
+
