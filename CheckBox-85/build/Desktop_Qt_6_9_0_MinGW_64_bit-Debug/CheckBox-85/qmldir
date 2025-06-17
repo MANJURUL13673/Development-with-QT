@@ -1,0 +1,5 @@
+module CheckBox-85
+typeinfo appCheckBox-85.qmltypes
+prefer :/qt/qml/CheckBox-85/
+Main 1.0 Main.qml
+

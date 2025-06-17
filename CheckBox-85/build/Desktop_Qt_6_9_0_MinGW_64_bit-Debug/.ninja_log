@@ -1,0 +1,80 @@
+# ninja log v6
+17	77	7718395543363560	.qt/appCheckBox-85_qml.txt	e1e47e832ad6d7fc
+17	77	7718395543363560	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appCheckBox-85_qml.txt	e1e47e832ad6d7fc
+26	89	7718395543484115	.qt/appCheckBox-85_res.txt	4223e3cdd8c823d8
+26	89	7718395543484115	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appCheckBox-85_res.txt	4223e3cdd8c823d8
+36	247	7718395545043856	.qt/qml_imports/appCheckBox-85_build.cmake	e5d7f73628d55bbc
+36	247	7718395545043856	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appCheckBox-85_build.cmake	e5d7f73628d55bbc
+247	493	7718395546689517	appCheckBox-85_autogen/timestamp	a6834cb9c1a7ae32
+247	493	7718395546689517	appCheckBox-85_autogen/mocs_compilation.cpp	a6834cb9c1a7ae32
+247	493	7718395546689517	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appCheckBox-85_autogen/timestamp	a6834cb9c1a7ae32
+247	493	7718395546689517	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appCheckBox-85_autogen/mocs_compilation.cpp	a6834cb9c1a7ae32
+506	557	7718395548148479	.qt/rcc/qrc_qmake_CheckBox-85.cpp	8f282b00ecc067ef
+506	557	7718395548148479	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_CheckBox-85.cpp	8f282b00ecc067ef
+498	563	7718395548209799	meta_types/appCheckBox-85_json_file_list.txt	3c4e771cd3099c3
+498	563	7718395548209799	meta_types/appCheckBox-85_json_file_list.txt.timestamp	3c4e771cd3099c3
+498	563	7718395548209799	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appCheckBox-85_json_file_list.txt	3c4e771cd3099c3
+498	563	7718395548209799	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appCheckBox-85_json_file_list.txt.timestamp	3c4e771cd3099c3
+525	577	7718395548342963	.qt/rcc/qrc_appCheckBox-85_raw_qml_0.cpp	ae973ed6563225d2
+525	577	7718395548342963	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appCheckBox-85_raw_qml_0.cpp	ae973ed6563225d2
+515	596	7718395548534437	.rcc/qmlcache/appCheckBox-85_qmlcache_loader.cpp	1d6290ad705965be
+515	596	7718395548534437	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appCheckBox-85_qmlcache_loader.cpp	1d6290ad705965be
+563	630	7718395548905136	meta_types/qt6appcheckbox-85_debug_metatypes.json.gen	186c9888b4c81d14
+563	630	7718395548905136	meta_types/qt6appcheckbox-85_debug_metatypes.json	186c9888b4c81d14
+563	630	7718395548905136	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appcheckbox-85_debug_metatypes.json.gen	186c9888b4c81d14
+563	630	7718395548905136	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appcheckbox-85_debug_metatypes.json	186c9888b4c81d14
+630	780	7718395549746765	appcheckbox-85_qmltyperegistrations.cpp	5738c56c3334fc5e
+630	780	7718395549746765	CheckBox-85/appCheckBox-85.qmltypes	5738c56c3334fc5e
+630	780	7718395549746765	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appcheckbox-85_qmltyperegistrations.cpp	5738c56c3334fc5e
+630	780	7718395549746765	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CheckBox-85/appCheckBox-85.qmltypes	5738c56c3334fc5e
+780	909	7718395551634710	.rcc/qmlcache/appCheckBox-85_Main_qml.cpp	c15fd39f99d29313
+780	909	7718395551634710	.rcc/qmlcache/appCheckBox-85_Main_qml.cpp.aotstats	c15fd39f99d29313
+780	909	7718395551634710	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appCheckBox-85_Main_qml.cpp	c15fd39f99d29313
+780	909	7718395551634710	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appCheckBox-85_Main_qml.cpp.aotstats	c15fd39f99d29313
+910	1004	7718395551770417	CMakeFiles/appCheckBox-85.dir/appCheckBox-85_autogen/mocs_compilation.cpp.obj	4994485452725616
+928	1037	7718395551950088	CMakeFiles/appCheckBox-85.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_CheckBox-85.cpp.obj	fdaa9e7b804a27af
+944	1067	7718395552113313	CMakeFiles/appCheckBox-85.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appCheckBox-85_raw_qml_0.cpp.obj	f3b0f3a35ccc8047
+919	3953	7718395551868022	CMakeFiles/appCheckBox-85.dir/appcheckbox-85_qmltyperegistrations.cpp.obj	b98c802e4dc2f255
+938	4063	7718395552054544	CMakeFiles/appCheckBox-85.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appCheckBox-85_Main_qml.cpp.obj	fe376fb684f5362f
+915	4230	7718395551827418	CMakeFiles/appCheckBox-85.dir/main.cpp.obj	3799cab7fd6e3697
+933	4631	7718395552005848	CMakeFiles/appCheckBox-85.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appCheckBox-85_qmlcache_loader.cpp.obj	d013aeb821d34d93
+4631	4953	7718395588982201	appCheckBox-85.exe	5b8014b719037af8
+55	127	7718395904196902	.qt/appCheckBox-85_qml.txt	e1e47e832ad6d7fc
+55	127	7718395904196902	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appCheckBox-85_qml.txt	e1e47e832ad6d7fc
+67	288	7718395905835217	.qt/qml_imports/appCheckBox-85_build.cmake	e5d7f73628d55bbc
+67	288	7718395905835217	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appCheckBox-85_build.cmake	e5d7f73628d55bbc
+296	342	7718395906392528	.qt/rcc/qrc_appCheckBox-85_raw_qml_0.cpp	ae973ed6563225d2
+296	342	7718395906392528	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appCheckBox-85_raw_qml_0.cpp	ae973ed6563225d2
+288	431	7718395907219233	.rcc/qmlcache/appCheckBox-85_Main_qml.cpp	c15fd39f99d29313
+288	431	7718395907219233	.rcc/qmlcache/appCheckBox-85_Main_qml.cpp.aotstats	c15fd39f99d29313
+288	431	7718395907219233	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appCheckBox-85_Main_qml.cpp	c15fd39f99d29313
+288	431	7718395907219233	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appCheckBox-85_Main_qml.cpp.aotstats	c15fd39f99d29313
+435	519	7718395907405543	CMakeFiles/appCheckBox-85.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appCheckBox-85_raw_qml_0.cpp.obj	f3b0f3a35ccc8047
+431	3203	7718395907366661	CMakeFiles/appCheckBox-85.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appCheckBox-85_Main_qml.cpp.obj	fe376fb684f5362f
+3203	3444	7718395935076043	appCheckBox-85.exe	5b8014b719037af8
+35	89	7718396650554618	.qt/appCheckBox-85_qml.txt	e1e47e832ad6d7fc
+35	89	7718396650554618	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appCheckBox-85_qml.txt	e1e47e832ad6d7fc
+44	243	7718396652073819	.qt/qml_imports/appCheckBox-85_build.cmake	e5d7f73628d55bbc
+44	243	7718396652073819	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appCheckBox-85_build.cmake	e5d7f73628d55bbc
+250	292	7718396652595862	.qt/rcc/qrc_appCheckBox-85_raw_qml_0.cpp	ae973ed6563225d2
+250	292	7718396652595862	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appCheckBox-85_raw_qml_0.cpp	ae973ed6563225d2
+243	377	7718396653371950	.rcc/qmlcache/appCheckBox-85_Main_qml.cpp	c15fd39f99d29313
+243	377	7718396653371950	.rcc/qmlcache/appCheckBox-85_Main_qml.cpp.aotstats	c15fd39f99d29313
+243	377	7718396653371950	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appCheckBox-85_Main_qml.cpp	c15fd39f99d29313
+243	377	7718396653371950	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appCheckBox-85_Main_qml.cpp.aotstats	c15fd39f99d29313
+381	457	7718396653556345	CMakeFiles/appCheckBox-85.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appCheckBox-85_raw_qml_0.cpp.obj	f3b0f3a35ccc8047
+377	2584	7718396653526195	CMakeFiles/appCheckBox-85.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appCheckBox-85_Main_qml.cpp.obj	fe376fb684f5362f
+2584	2815	7718396675593243	appCheckBox-85.exe	5b8014b719037af8
+43	85	7718397024569231	.qt/appCheckBox-85_qml.txt	e1e47e832ad6d7fc
+43	85	7718397024569231	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appCheckBox-85_qml.txt	e1e47e832ad6d7fc
+50	222	7718397025926404	.qt/qml_imports/appCheckBox-85_build.cmake	e5d7f73628d55bbc
+50	222	7718397025926404	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appCheckBox-85_build.cmake	e5d7f73628d55bbc
+231	272	7718397026437193	.qt/rcc/qrc_appCheckBox-85_raw_qml_0.cpp	ae973ed6563225d2
+231	272	7718397026437193	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appCheckBox-85_raw_qml_0.cpp	ae973ed6563225d2
+222	364	7718397027290602	.rcc/qmlcache/appCheckBox-85_Main_qml.cpp	c15fd39f99d29313
+222	364	7718397027290602	.rcc/qmlcache/appCheckBox-85_Main_qml.cpp.aotstats	c15fd39f99d29313
+222	364	7718397027290602	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appCheckBox-85_Main_qml.cpp	c15fd39f99d29313
+222	364	7718397027290602	E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appCheckBox-85_Main_qml.cpp.aotstats	c15fd39f99d29313
+369	442	7718397027482887	CMakeFiles/appCheckBox-85.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appCheckBox-85_raw_qml_0.cpp.obj	f3b0f3a35ccc8047
+365	2653	7718397027443208	CMakeFiles/appCheckBox-85.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appCheckBox-85_Main_qml.cpp.obj	fe376fb684f5362f
+2654	2894	7718397050329344	appCheckBox-85.exe	5b8014b719037af8

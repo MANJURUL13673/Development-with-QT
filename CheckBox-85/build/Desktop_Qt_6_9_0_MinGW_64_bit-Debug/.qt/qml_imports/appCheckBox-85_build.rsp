@@ -1,0 +1,14 @@
+-rootPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85
+-cmake-output
+-output-file
+E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appCheckBox-85_build.cmake
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CheckBox-85
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.0/mingw_64/qml
+-qrcFiles
+E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_CheckBox-85.qrc
+E:/PERSONAL/Learning/QT DEVELOPMENT/CheckBox-85/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appCheckBox-85_raw_qml_0.qrc
