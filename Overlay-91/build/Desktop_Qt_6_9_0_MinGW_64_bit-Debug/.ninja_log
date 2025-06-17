@@ -1,0 +1,54 @@
+# ninja log v6
+37	110	7718525751408449	.qt/appOverlay-91_res.txt	d82909a1b58839f6
+37	110	7718525751408449	E:/PERSONAL/Learning/QT DEVELOPMENT/Overlay-91/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appOverlay-91_res.txt	d82909a1b58839f6
+27	117	7718525751453532	.qt/appOverlay-91_qml.txt	98ecb6a5ebe3c2fb
+27	117	7718525751453532	E:/PERSONAL/Learning/QT DEVELOPMENT/Overlay-91/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appOverlay-91_qml.txt	98ecb6a5ebe3c2fb
+45	479	7718525755065904	.qt/qml_imports/appOverlay-91_build.cmake	d72b8f9826e599d9
+45	479	7718525755065904	E:/PERSONAL/Learning/QT DEVELOPMENT/Overlay-91/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appOverlay-91_build.cmake	d72b8f9826e599d9
+480	815	7718525757240355	appOverlay-91_autogen/timestamp	b423099014e5e63a
+480	815	7718525757240355	appOverlay-91_autogen/mocs_compilation.cpp	b423099014e5e63a
+480	815	7718525757240355	E:/PERSONAL/Learning/QT DEVELOPMENT/Overlay-91/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appOverlay-91_autogen/timestamp	b423099014e5e63a
+480	815	7718525757240355	E:/PERSONAL/Learning/QT DEVELOPMENT/Overlay-91/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appOverlay-91_autogen/mocs_compilation.cpp	b423099014e5e63a
+820	887	7718525759164924	meta_types/appOverlay-91_json_file_list.txt	5cfbb0f1d94160a0
+820	887	7718525759164924	meta_types/appOverlay-91_json_file_list.txt.timestamp	5cfbb0f1d94160a0
+820	887	7718525759164924	E:/PERSONAL/Learning/QT DEVELOPMENT/Overlay-91/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appOverlay-91_json_file_list.txt	5cfbb0f1d94160a0
+820	887	7718525759164924	E:/PERSONAL/Learning/QT DEVELOPMENT/Overlay-91/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appOverlay-91_json_file_list.txt.timestamp	5cfbb0f1d94160a0
+827	897	7718525759139506	.qt/rcc/qrc_qmake_Overlay-91.cpp	8c4b17f95f146467
+827	897	7718525759139506	E:/PERSONAL/Learning/QT DEVELOPMENT/Overlay-91/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Overlay-91.cpp	8c4b17f95f146467
+843	898	7718525759273460	.qt/rcc/qrc_appOverlay-91_raw_qml_0.cpp	5e2c455838f8d6a5
+843	898	7718525759273460	E:/PERSONAL/Learning/QT DEVELOPMENT/Overlay-91/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appOverlay-91_raw_qml_0.cpp	5e2c455838f8d6a5
+835	913	7718525759413194	.rcc/qmlcache/appOverlay-91_qmlcache_loader.cpp	1852abd1fc38b5d2
+835	913	7718525759413194	E:/PERSONAL/Learning/QT DEVELOPMENT/Overlay-91/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appOverlay-91_qmlcache_loader.cpp	1852abd1fc38b5d2
+887	961	7718525759936881	meta_types/qt6appoverlay-91_debug_metatypes.json.gen	e9c964e0ae9e13b8
+887	961	7718525759936881	meta_types/qt6appoverlay-91_debug_metatypes.json	e9c964e0ae9e13b8
+887	961	7718525759936881	E:/PERSONAL/Learning/QT DEVELOPMENT/Overlay-91/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appoverlay-91_debug_metatypes.json.gen	e9c964e0ae9e13b8
+887	961	7718525759936881	E:/PERSONAL/Learning/QT DEVELOPMENT/Overlay-91/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appoverlay-91_debug_metatypes.json	e9c964e0ae9e13b8
+961	1111	7718525760824808	appoverlay-91_qmltyperegistrations.cpp	96a75176f04476a
+961	1111	7718525760824808	Overlay-91/appOverlay-91.qmltypes	96a75176f04476a
+961	1111	7718525760824808	E:/PERSONAL/Learning/QT DEVELOPMENT/Overlay-91/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appoverlay-91_qmltyperegistrations.cpp	96a75176f04476a
+961	1111	7718525760824808	E:/PERSONAL/Learning/QT DEVELOPMENT/Overlay-91/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Overlay-91/appOverlay-91.qmltypes	96a75176f04476a
+1111	1245	7718525762686216	.rcc/qmlcache/appOverlay-91_Main_qml.cpp	b668fda3235b09e6
+1111	1245	7718525762686216	.rcc/qmlcache/appOverlay-91_Main_qml.cpp.aotstats	b668fda3235b09e6
+1111	1245	7718525762686216	E:/PERSONAL/Learning/QT DEVELOPMENT/Overlay-91/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appOverlay-91_Main_qml.cpp	b668fda3235b09e6
+1111	1245	7718525762686216	E:/PERSONAL/Learning/QT DEVELOPMENT/Overlay-91/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appOverlay-91_Main_qml.cpp.aotstats	b668fda3235b09e6
+1245	1401	7718525762839313	CMakeFiles/appOverlay-91.dir/appOverlay-91_autogen/mocs_compilation.cpp.obj	f500c60cfefc5d1e
+1287	1470	7718525763255719	CMakeFiles/appOverlay-91.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appOverlay-91_raw_qml_0.cpp.obj	c898a60b32f6136b
+1264	1471	7718525763022322	CMakeFiles/appOverlay-91.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Overlay-91.cpp.obj	b491401447e7acfe
+1256	4641	7718525762938679	CMakeFiles/appOverlay-91.dir/appoverlay-91_qmltyperegistrations.cpp.obj	978d4964229d9cca
+1276	4660	7718525763142686	CMakeFiles/appOverlay-91.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appOverlay-91_Main_qml.cpp.obj	3e54a4854a744502
+1251	4811	7718525762885825	CMakeFiles/appOverlay-91.dir/main.cpp.obj	a586e6f6f3962e27
+1270	5134	7718525763083795	CMakeFiles/appOverlay-91.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appOverlay-91_qmlcache_loader.cpp.obj	420b6303000e6865
+5135	5505	7718525801730295	appOverlay-91.exe	297f183bef53002b
+56	104	7718527024644054	.qt/appOverlay-91_qml.txt	98ecb6a5ebe3c2fb
+56	104	7718527024644054	E:/PERSONAL/Learning/QT DEVELOPMENT/Overlay-91/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appOverlay-91_qml.txt	98ecb6a5ebe3c2fb
+65	251	7718527026086599	.qt/qml_imports/appOverlay-91_build.cmake	d72b8f9826e599d9
+65	251	7718527026086599	E:/PERSONAL/Learning/QT DEVELOPMENT/Overlay-91/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appOverlay-91_build.cmake	d72b8f9826e599d9
+260	306	7718527026644028	.qt/rcc/qrc_appOverlay-91_raw_qml_0.cpp	5e2c455838f8d6a5
+260	306	7718527026644028	E:/PERSONAL/Learning/QT DEVELOPMENT/Overlay-91/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appOverlay-91_raw_qml_0.cpp	5e2c455838f8d6a5
+251	384	7718527027370760	.rcc/qmlcache/appOverlay-91_Main_qml.cpp	b668fda3235b09e6
+251	384	7718527027370760	.rcc/qmlcache/appOverlay-91_Main_qml.cpp.aotstats	b668fda3235b09e6
+251	384	7718527027370760	E:/PERSONAL/Learning/QT DEVELOPMENT/Overlay-91/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appOverlay-91_Main_qml.cpp	b668fda3235b09e6
+251	384	7718527027370760	E:/PERSONAL/Learning/QT DEVELOPMENT/Overlay-91/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appOverlay-91_Main_qml.cpp.aotstats	b668fda3235b09e6
+389	466	7718527027567771	CMakeFiles/appOverlay-91.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appOverlay-91_raw_qml_0.cpp.obj	c898a60b32f6136b
+384	2525	7718527027516712	CMakeFiles/appOverlay-91.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appOverlay-91_Main_qml.cpp.obj	3e54a4854a744502
+2525	2747	7718527048923503	appOverlay-91.exe	297f183bef53002b
