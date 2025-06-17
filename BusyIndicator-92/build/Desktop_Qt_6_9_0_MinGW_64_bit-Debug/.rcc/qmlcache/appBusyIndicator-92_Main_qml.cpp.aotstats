@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 3684,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 11
+                    }
+                ],
+                "filepath": "E:/PERSONAL/Learning/QT DEVELOPMENT/BusyIndicator-92/Main.qml"
+            }
+        ],
+        "moduleId": "BusyIndicator-92(appBusyIndicator-92)"
+    }
+]

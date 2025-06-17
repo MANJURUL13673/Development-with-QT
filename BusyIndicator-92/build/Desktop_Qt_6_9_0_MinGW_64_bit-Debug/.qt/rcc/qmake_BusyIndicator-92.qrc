@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/BusyIndicator-92">
+    <file alias="qmldir">E:/PERSONAL/Learning/QT DEVELOPMENT/BusyIndicator-92/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/BusyIndicator-92/qmldir</file>
+  </qresource>
+</RCC>
+

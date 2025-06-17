@@ -1,0 +1,41 @@
+# ninja log v6
+34	103	7718529926483254	.qt/appBusyIndicator-92_res.txt	671362f418b28735
+34	103	7718529926483254	E:/PERSONAL/Learning/QT DEVELOPMENT/BusyIndicator-92/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appBusyIndicator-92_res.txt	671362f418b28735
+23	104	7718529926493600	.qt/appBusyIndicator-92_qml.txt	97eec4687703ad1a
+23	104	7718529926493600	E:/PERSONAL/Learning/QT DEVELOPMENT/BusyIndicator-92/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appBusyIndicator-92_qml.txt	97eec4687703ad1a
+47	253	7718529927986388	.qt/qml_imports/appBusyIndicator-92_build.cmake	6c8998382326931d
+47	253	7718529927986388	E:/PERSONAL/Learning/QT DEVELOPMENT/BusyIndicator-92/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appBusyIndicator-92_build.cmake	6c8998382326931d
+254	485	7718529929478421	appBusyIndicator-92_autogen/timestamp	18bf10194be692c1
+254	485	7718529929478421	appBusyIndicator-92_autogen/mocs_compilation.cpp	18bf10194be692c1
+254	485	7718529929478421	E:/PERSONAL/Learning/QT DEVELOPMENT/BusyIndicator-92/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appBusyIndicator-92_autogen/timestamp	18bf10194be692c1
+254	485	7718529929478421	E:/PERSONAL/Learning/QT DEVELOPMENT/BusyIndicator-92/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appBusyIndicator-92_autogen/mocs_compilation.cpp	18bf10194be692c1
+502	551	7718529930959123	.qt/rcc/qrc_qmake_BusyIndicator-92.cpp	9803ff28bc51b768
+502	551	7718529930959123	E:/PERSONAL/Learning/QT DEVELOPMENT/BusyIndicator-92/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_BusyIndicator-92.cpp	9803ff28bc51b768
+495	556	7718529931031439	meta_types/appBusyIndicator-92_json_file_list.txt	ac4e12baf387b3b
+495	556	7718529931031439	meta_types/appBusyIndicator-92_json_file_list.txt.timestamp	ac4e12baf387b3b
+495	556	7718529931031439	E:/PERSONAL/Learning/QT DEVELOPMENT/BusyIndicator-92/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appBusyIndicator-92_json_file_list.txt	ac4e12baf387b3b
+495	556	7718529931031439	E:/PERSONAL/Learning/QT DEVELOPMENT/BusyIndicator-92/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appBusyIndicator-92_json_file_list.txt.timestamp	ac4e12baf387b3b
+518	570	7718529931167248	.qt/rcc/qrc_appBusyIndicator-92_raw_qml_0.cpp	cf4a36817a87ea53
+518	570	7718529931167248	E:/PERSONAL/Learning/QT DEVELOPMENT/BusyIndicator-92/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appBusyIndicator-92_raw_qml_0.cpp	cf4a36817a87ea53
+510	583	7718529931247541	.rcc/qmlcache/appBusyIndicator-92_qmlcache_loader.cpp	b6c9e852b301d51
+510	583	7718529931247541	E:/PERSONAL/Learning/QT DEVELOPMENT/BusyIndicator-92/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appBusyIndicator-92_qmlcache_loader.cpp	b6c9e852b301d51
+556	620	7718529931698856	meta_types/qt6appbusyindicator-92_debug_metatypes.json.gen	3e80dc78595943e
+556	620	7718529931698856	meta_types/qt6appbusyindicator-92_debug_metatypes.json	3e80dc78595943e
+556	620	7718529931698856	E:/PERSONAL/Learning/QT DEVELOPMENT/BusyIndicator-92/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appbusyindicator-92_debug_metatypes.json.gen	3e80dc78595943e
+556	620	7718529931698856	E:/PERSONAL/Learning/QT DEVELOPMENT/BusyIndicator-92/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appbusyindicator-92_debug_metatypes.json	3e80dc78595943e
+621	765	7718529932523305	appbusyindicator-92_qmltyperegistrations.cpp	5efa40f77cae55d
+621	765	7718529932523305	BusyIndicator-92/appBusyIndicator-92.qmltypes	5efa40f77cae55d
+621	765	7718529932523305	E:/PERSONAL/Learning/QT DEVELOPMENT/BusyIndicator-92/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appbusyindicator-92_qmltyperegistrations.cpp	5efa40f77cae55d
+621	765	7718529932523305	E:/PERSONAL/Learning/QT DEVELOPMENT/BusyIndicator-92/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/BusyIndicator-92/appBusyIndicator-92.qmltypes	5efa40f77cae55d
+765	900	7718529934372145	.rcc/qmlcache/appBusyIndicator-92_Main_qml.cpp	f498c1a2269a781a
+765	900	7718529934372145	.rcc/qmlcache/appBusyIndicator-92_Main_qml.cpp.aotstats	f498c1a2269a781a
+765	900	7718529934372145	E:/PERSONAL/Learning/QT DEVELOPMENT/BusyIndicator-92/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appBusyIndicator-92_Main_qml.cpp	f498c1a2269a781a
+765	900	7718529934372145	E:/PERSONAL/Learning/QT DEVELOPMENT/BusyIndicator-92/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appBusyIndicator-92_Main_qml.cpp.aotstats	f498c1a2269a781a
+900	986	7718529934557443	CMakeFiles/appBusyIndicator-92.dir/appBusyIndicator-92_autogen/mocs_compilation.cpp.obj	4a7cf2d8780f351
+917	1034	7718529934723721	CMakeFiles/appBusyIndicator-92.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_BusyIndicator-92.cpp.obj	4e4b2892cdf2538a
+935	1045	7718529934903255	CMakeFiles/appBusyIndicator-92.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appBusyIndicator-92_raw_qml_0.cpp.obj	bdfa30100d5a6aa3
+911	3859	7718529934660670	CMakeFiles/appBusyIndicator-92.dir/appbusyindicator-92_qmltyperegistrations.cpp.obj	47ce638731eb3ef6
+930	4023	7718529934851087	CMakeFiles/appBusyIndicator-92.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appBusyIndicator-92_Main_qml.cpp.obj	72c382e90f4da540
+904	4145	7718529934598030	CMakeFiles/appBusyIndicator-92.dir/main.cpp.obj	89ff72c074e40242
+923	4481	7718529934784808	CMakeFiles/appBusyIndicator-92.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appBusyIndicator-92_qmlcache_loader.cpp.obj	cec23e9aa1c9c09c
+4481	4729	7718529970370849	appBusyIndicator-92.exe	e2bd9c5b43f384a7

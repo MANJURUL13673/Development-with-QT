@@ -1,0 +1,5 @@
+module BusyIndicator-92
+typeinfo appBusyIndicator-92.qmltypes
+prefer :/qt/qml/BusyIndicator-92/
+Main 1.0 Main.qml
+
