@@ -1,0 +1,5 @@
+module DialogButton-93
+typeinfo appDialogButton-93.qmltypes
+prefer :/qt/qml/DialogButton-93/
+Main 1.0 Main.qml
+

@@ -1,0 +1,54 @@
+# ninja log v6
+29	103	7718531740145564	.qt/appDialogButton-93_qml.txt	d063c1977ee8c178
+29	103	7718531740145564	E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appDialogButton-93_qml.txt	d063c1977ee8c178
+39	109	7718531740178250	.qt/appDialogButton-93_res.txt	66f956e808fe4202
+39	109	7718531740178250	E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appDialogButton-93_res.txt	66f956e808fe4202
+48	277	7718531741853159	.qt/qml_imports/appDialogButton-93_build.cmake	481bf5e46eae0e50
+48	277	7718531741853159	E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appDialogButton-93_build.cmake	481bf5e46eae0e50
+278	515	7718531743365585	appDialogButton-93_autogen/timestamp	d83b8a29489ed679
+278	515	7718531743365585	appDialogButton-93_autogen/mocs_compilation.cpp	d83b8a29489ed679
+278	515	7718531743365585	E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appDialogButton-93_autogen/timestamp	d83b8a29489ed679
+278	515	7718531743365585	E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appDialogButton-93_autogen/mocs_compilation.cpp	d83b8a29489ed679
+526	589	7718531744997829	meta_types/appDialogButton-93_json_file_list.txt	9ea9f41b2f49b91f
+526	589	7718531744997829	meta_types/appDialogButton-93_json_file_list.txt.timestamp	9ea9f41b2f49b91f
+526	589	7718531744997829	E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appDialogButton-93_json_file_list.txt	9ea9f41b2f49b91f
+526	589	7718531744997829	E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appDialogButton-93_json_file_list.txt.timestamp	9ea9f41b2f49b91f
+533	598	7718531744973647	.qt/rcc/qrc_qmake_DialogButton-93.cpp	d9516cdf3ee944b3
+533	598	7718531744973647	E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_DialogButton-93.cpp	d9516cdf3ee944b3
+552	603	7718531745138501	.qt/rcc/qrc_appDialogButton-93_raw_qml_0.cpp	54a99f02ec5a8200
+552	603	7718531745138501	E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appDialogButton-93_raw_qml_0.cpp	54a99f02ec5a8200
+542	621	7718531745293445	.rcc/qmlcache/appDialogButton-93_qmlcache_loader.cpp	c69c7b6100d845b7
+542	621	7718531745293445	E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appDialogButton-93_qmlcache_loader.cpp	c69c7b6100d845b7
+589	657	7718531745696878	meta_types/qt6appdialogbutton-93_debug_metatypes.json.gen	8bfebe0c24d0acea
+589	657	7718531745696878	meta_types/qt6appdialogbutton-93_debug_metatypes.json	8bfebe0c24d0acea
+589	657	7718531745696878	E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appdialogbutton-93_debug_metatypes.json.gen	8bfebe0c24d0acea
+589	657	7718531745696878	E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appdialogbutton-93_debug_metatypes.json	8bfebe0c24d0acea
+658	799	7718531746535125	appdialogbutton-93_qmltyperegistrations.cpp	bf50f641cd92c8d9
+658	799	7718531746535125	DialogButton-93/appDialogButton-93.qmltypes	bf50f641cd92c8d9
+658	799	7718531746535125	E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appdialogbutton-93_qmltyperegistrations.cpp	bf50f641cd92c8d9
+658	799	7718531746535125	E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/DialogButton-93/appDialogButton-93.qmltypes	bf50f641cd92c8d9
+799	940	7718531748431965	.rcc/qmlcache/appDialogButton-93_Main_qml.cpp	5ff18222ddd6659
+799	940	7718531748431965	.rcc/qmlcache/appDialogButton-93_Main_qml.cpp.aotstats	5ff18222ddd6659
+799	940	7718531748431965	E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appDialogButton-93_Main_qml.cpp	5ff18222ddd6659
+799	940	7718531748431965	E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appDialogButton-93_Main_qml.cpp.aotstats	5ff18222ddd6659
+941	1038	7718531748597988	CMakeFiles/appDialogButton-93.dir/appDialogButton-93_autogen/mocs_compilation.cpp.obj	439e419b653332df
+961	1077	7718531748793368	CMakeFiles/appDialogButton-93.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_DialogButton-93.cpp.obj	18979a4cbf5112c5
+980	1096	7718531748996865	CMakeFiles/appDialogButton-93.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appDialogButton-93_raw_qml_0.cpp.obj	3291e7c6e17cecaf
+950	3804	7718531748697321	CMakeFiles/appDialogButton-93.dir/appdialogbutton-93_qmltyperegistrations.cpp.obj	93d0858e3ae50670
+975	3962	7718531748945183	CMakeFiles/appDialogButton-93.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appDialogButton-93_Main_qml.cpp.obj	e8ebd0b85185ab7d
+946	4092	7718531748648406	CMakeFiles/appDialogButton-93.dir/main.cpp.obj	41fa6306482c9430
+967	4429	7718531748858771	CMakeFiles/appDialogButton-93.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appDialogButton-93_qmlcache_loader.cpp.obj	fd5bb4c216443567
+4430	4685	7718531783494005	appDialogButton-93.exe	1fdc8905bb1deccc
+44	88	7718532222031973	.qt/appDialogButton-93_qml.txt	d063c1977ee8c178
+44	88	7718532222031973	E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appDialogButton-93_qml.txt	d063c1977ee8c178
+52	231	7718532223438170	.qt/qml_imports/appDialogButton-93_build.cmake	481bf5e46eae0e50
+52	231	7718532223438170	E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appDialogButton-93_build.cmake	481bf5e46eae0e50
+239	287	7718532224026945	.qt/rcc/qrc_appDialogButton-93_raw_qml_0.cpp	54a99f02ec5a8200
+239	287	7718532224026945	E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appDialogButton-93_raw_qml_0.cpp	54a99f02ec5a8200
+231	362	7718532224693705	.rcc/qmlcache/appDialogButton-93_Main_qml.cpp	5ff18222ddd6659
+231	362	7718532224693705	.rcc/qmlcache/appDialogButton-93_Main_qml.cpp.aotstats	5ff18222ddd6659
+231	362	7718532224693705	E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appDialogButton-93_Main_qml.cpp	5ff18222ddd6659
+231	362	7718532224693705	E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appDialogButton-93_Main_qml.cpp.aotstats	5ff18222ddd6659
+367	441	7718532224899553	CMakeFiles/appDialogButton-93.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appDialogButton-93_raw_qml_0.cpp.obj	3291e7c6e17cecaf
+362	2518	7718532224858851	CMakeFiles/appDialogButton-93.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appDialogButton-93_Main_qml.cpp.obj	e8ebd0b85185ab7d
+2518	2743	7718532246407310	appDialogButton-93.exe	1fdc8905bb1deccc

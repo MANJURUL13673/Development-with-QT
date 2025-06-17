@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-dd9c228dd775a2e66a47.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DialogButton-93",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-ff273a0b7f18eb3a1034.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-ed87adcd52ad9b132bed.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-7bafcda7f029227fe9ab.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-fccc9eac12182ead2ea6.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-2e949e6b256382847d0f.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDialogButton-93::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDialogButton-93-Debug-455b8d384ac966f2ea5c.json",
+					"name" : "appDialogButton-93",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDialogButton-93_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDialogButton-93_autogen-Debug-2917390e77931018bb5c.json",
+					"name" : "appDialogButton-93_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDialogButton-93_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDialogButton-93_autogen_timestamp_deps-Debug-7ff2f37352d7dd59e9fd.json",
+					"name" : "appDialogButton-93_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDialogButton-93_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDialogButton-93_copy_qml-Debug-aecf5418daa11836f9ca.json",
+					"name" : "appDialogButton-93_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDialogButton-93_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDialogButton-93_copy_res-Debug-8db0cc25f017bcd5f4db.json",
+					"name" : "appDialogButton-93_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDialogButton-93_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDialogButton-93_qmlimportscan-Debug-a88f0fb2a6ee4bc70506.json",
+					"name" : "appDialogButton-93_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDialogButton-93_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDialogButton-93_qmllint-Debug-be774ab43d82052d15ec.json",
+					"name" : "appDialogButton-93_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDialogButton-93_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDialogButton-93_qmllint_json-Debug-d43f185d688b19663b80.json",
+					"name" : "appDialogButton-93_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDialogButton-93_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDialogButton-93_qmllint_module-Debug-c7895e9fef1ab44b541f.json",
+					"name" : "appDialogButton-93_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDialogButton-93_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDialogButton-93_qmltyperegistration-Debug-d66a6c7b3076710f6bae.json",
+					"name" : "appDialogButton-93_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appDialogButton-93_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appDialogButton-93_aotstats_target-Debug-8c474d408dba67dcdcc9.json",
+					"name" : "module_appDialogButton-93_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

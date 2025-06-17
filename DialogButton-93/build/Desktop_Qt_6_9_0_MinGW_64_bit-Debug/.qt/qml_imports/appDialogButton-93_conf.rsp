@@ -1,0 +1,14 @@
+-rootPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93
+-cmake-output
+-output-file
+E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appDialogButton-93_conf.cmake
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/DialogButton-93
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.0/mingw_64/qml
+-qrcFiles
+E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_DialogButton-93.qrc
+E:/PERSONAL/Learning/QT DEVELOPMENT/DialogButton-93/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appDialogButton-93_raw_qml_0.qrc
