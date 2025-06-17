@@ -1,0 +1,5 @@
+module TextField-94
+typeinfo appTextField-94.qmltypes
+prefer :/qt/qml/TextField-94/
+Main 1.0 Main.qml
+

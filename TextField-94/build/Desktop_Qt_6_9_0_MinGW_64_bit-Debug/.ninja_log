@@ -1,0 +1,54 @@
+# ninja log v6
+17	77	7718534417332835	.qt/appTextField-94_qml.txt	6238c117436b523
+17	77	7718534417332835	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-94/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTextField-94_qml.txt	6238c117436b523
+25	88	7718534417453132	.qt/appTextField-94_res.txt	74be975c2804872a
+25	88	7718534417453132	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-94/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTextField-94_res.txt	74be975c2804872a
+33	223	7718534418772763	.qt/qml_imports/appTextField-94_build.cmake	9471072eb2622ff
+33	223	7718534418772763	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-94/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTextField-94_build.cmake	9471072eb2622ff
+223	451	7718534420211456	appTextField-94_autogen/timestamp	46e22a2f83e2482
+223	451	7718534420211456	appTextField-94_autogen/mocs_compilation.cpp	46e22a2f83e2482
+223	451	7718534420211456	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-94/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTextField-94_autogen/timestamp	46e22a2f83e2482
+223	451	7718534420211456	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-94/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTextField-94_autogen/mocs_compilation.cpp	46e22a2f83e2482
+464	511	7718534421652018	.qt/rcc/qrc_qmake_TextField-94.cpp	eb894d5f2c29000c
+464	511	7718534421652018	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-94/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_TextField-94.cpp	eb894d5f2c29000c
+457	513	7718534421689335	meta_types/appTextField-94_json_file_list.txt	42db5bc3325cba9c
+457	513	7718534421689335	meta_types/appTextField-94_json_file_list.txt.timestamp	42db5bc3325cba9c
+457	513	7718534421689335	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-94/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTextField-94_json_file_list.txt	42db5bc3325cba9c
+457	513	7718534421689335	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-94/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTextField-94_json_file_list.txt.timestamp	42db5bc3325cba9c
+482	534	7718534421889527	.qt/rcc/qrc_appTextField-94_raw_qml_0.cpp	9527a3963355b8ea
+482	534	7718534421889527	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-94/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTextField-94_raw_qml_0.cpp	9527a3963355b8ea
+471	546	7718534421990959	.rcc/qmlcache/appTextField-94_qmlcache_loader.cpp	c709f50b6ce7285f
+471	546	7718534421990959	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-94/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextField-94_qmlcache_loader.cpp	c709f50b6ce7285f
+513	578	7718534422355613	meta_types/qt6apptextfield-94_debug_metatypes.json.gen	ec6118e94a3ee515
+513	578	7718534422355613	meta_types/qt6apptextfield-94_debug_metatypes.json	ec6118e94a3ee515
+513	578	7718534422355613	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-94/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptextfield-94_debug_metatypes.json.gen	ec6118e94a3ee515
+513	578	7718534422355613	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-94/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptextfield-94_debug_metatypes.json	ec6118e94a3ee515
+578	721	7718534423180351	apptextfield-94_qmltyperegistrations.cpp	cf17bcd3e37baafb
+578	721	7718534423180351	TextField-94/appTextField-94.qmltypes	cf17bcd3e37baafb
+578	721	7718534423180351	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-94/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apptextfield-94_qmltyperegistrations.cpp	cf17bcd3e37baafb
+578	721	7718534423180351	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-94/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/TextField-94/appTextField-94.qmltypes	cf17bcd3e37baafb
+721	846	7718534424965289	.rcc/qmlcache/appTextField-94_Main_qml.cpp	c512112f28233ff1
+721	846	7718534424965289	.rcc/qmlcache/appTextField-94_Main_qml.cpp.aotstats	c512112f28233ff1
+721	846	7718534424965289	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-94/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextField-94_Main_qml.cpp	c512112f28233ff1
+721	846	7718534424965289	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-94/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextField-94_Main_qml.cpp.aotstats	c512112f28233ff1
+847	933	7718534425114267	CMakeFiles/appTextField-94.dir/appTextField-94_autogen/mocs_compilation.cpp.obj	f3ab2ede92f5a53
+863	969	7718534425279045	CMakeFiles/appTextField-94.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_TextField-94.cpp.obj	f8ce3a0433c0333
+881	984	7718534425455861	CMakeFiles/appTextField-94.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTextField-94_raw_qml_0.cpp.obj	21ea4c6f10728354
+856	3592	7718534425197848	CMakeFiles/appTextField-94.dir/apptextfield-94_qmltyperegistrations.cpp.obj	798d9f651258874b
+851	3711	7718534425156607	CMakeFiles/appTextField-94.dir/main.cpp.obj	2e0f14c910aa43c4
+875	3719	7718534425393144	CMakeFiles/appTextField-94.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextField-94_Main_qml.cpp.obj	c464fe897263c9a0
+869	4091	7718534425335068	CMakeFiles/appTextField-94.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextField-94_qmlcache_loader.cpp.obj	d7526315060e14c9
+4091	4308	7718534457555951	appTextField-94.exe	5db57f40cd597c61
+26	72	7718535967235380	.qt/appTextField-94_qml.txt	6238c117436b523
+26	72	7718535967235380	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-94/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTextField-94_qml.txt	6238c117436b523
+35	228	7718535968777971	.qt/qml_imports/appTextField-94_build.cmake	9471072eb2622ff
+35	228	7718535968777971	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-94/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTextField-94_build.cmake	9471072eb2622ff
+236	287	7718535969381243	.qt/rcc/qrc_appTextField-94_raw_qml_0.cpp	9527a3963355b8ea
+236	287	7718535969381243	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-94/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTextField-94_raw_qml_0.cpp	9527a3963355b8ea
+228	368	7718535970142865	.rcc/qmlcache/appTextField-94_Main_qml.cpp	c512112f28233ff1
+228	368	7718535970142865	.rcc/qmlcache/appTextField-94_Main_qml.cpp.aotstats	c512112f28233ff1
+228	368	7718535970142865	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-94/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextField-94_Main_qml.cpp	c512112f28233ff1
+228	368	7718535970142865	E:/PERSONAL/Learning/QT DEVELOPMENT/TextField-94/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextField-94_Main_qml.cpp.aotstats	c512112f28233ff1
+373	454	7718535970332114	CMakeFiles/appTextField-94.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTextField-94_raw_qml_0.cpp.obj	21ea4c6f10728354
+369	2815	7718535970285226	CMakeFiles/appTextField-94.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTextField-94_Main_qml.cpp.obj	c464fe897263c9a0
+2815	3063	7718535994761762	appTextField-94.exe	5db57f40cd597c61
