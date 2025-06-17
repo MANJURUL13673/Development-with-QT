@@ -1,0 +1,67 @@
+# ninja log v6
+58	114	7718443357482671	.qt/appPopUp-88_res.txt	9865d90643b777d9
+58	114	7718443357482671	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appPopUp-88_res.txt	9865d90643b777d9
+35	1641	7718444018199982	build.ninja	febb89beae06707c
+2889	3116	7718441314667319	appPopUp-88.exe	f74d9033b3069081
+532	584	7718440633168857	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_PopUp-88.cpp	58edd1c0e8da3c05
+51	99	7718443745664677	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appPopUp-88_qml.txt	4d662678ea9d9996
+660	808	7718440634838761	apppopup-88_qmltyperegistrations.cpp	23f39b8eb30d4f25
+51	99	7718443745664677	.qt/appPopUp-88_qml.txt	4d662678ea9d9996
+60	244	7718443747105138	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appPopUp-88_build.cmake	29a3e0efc1779875
+253	295	7718443747636017	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appPopUp-88_raw_qml_0.cpp	6681964759a08fa
+265	444	7718443359065392	appPopUp-88_autogen/timestamp	43bd4fc12251dcd9
+60	244	7718443747105138	.qt/qml_imports/appPopUp-88_build.cmake	29a3e0efc1779875
+265	444	7718443359065392	appPopUp-88_autogen/mocs_compilation.cpp	43bd4fc12251dcd9
+904	992	7718440636463122	CMakeFiles/appPopUp-88.dir/appPopUp-88_autogen/mocs_compilation.cpp.obj	fbc61ed05e7d5621
+265	444	7718443359065392	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appPopUp-88_autogen/timestamp	43bd4fc12251dcd9
+265	444	7718443359065392	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appPopUp-88_autogen/mocs_compilation.cpp	43bd4fc12251dcd9
+532	584	7718440633168857	.qt/rcc/qrc_qmake_PopUp-88.cpp	58edd1c0e8da3c05
+444	492	7718443360852348	meta_types/appPopUp-88_json_file_list.txt	3e822f3d4a576a4b
+588	660	7718440633946939	meta_types/qt6apppopup-88_debug_metatypes.json.gen	c8f6cef1023e5501
+444	492	7718443360852348	meta_types/appPopUp-88_json_file_list.txt.timestamp	3e822f3d4a576a4b
+444	492	7718443360852348	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appPopUp-88_json_file_list.txt	3e822f3d4a576a4b
+272	417	7718441289780884	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPopUp-88_Main_qml.cpp	7e2afc76b2cb7ede
+444	492	7718443360852348	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appPopUp-88_json_file_list.txt.timestamp	3e822f3d4a576a4b
+253	295	7718443747636017	.qt/rcc/qrc_appPopUp-88_raw_qml_0.cpp	6681964759a08fa
+451	512	7718443361411285	.rcc/qmlcache/appPopUp-88_qmlcache_loader.cpp	75221650bdb74a69
+451	512	7718443361411285	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPopUp-88_qmlcache_loader.cpp	75221650bdb74a69
+588	660	7718440633946939	meta_types/qt6apppopup-88_debug_metatypes.json	c8f6cef1023e5501
+417	2889	7718441289946119	CMakeFiles/appPopUp-88.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPopUp-88_Main_qml.cpp.obj	42ad4e92af4c58ce
+588	660	7718440633946939	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apppopup-88_debug_metatypes.json.gen	c8f6cef1023e5501
+466	559	7718443361873583	appPopUp-88_autogen/EWIEGA46WW/qrc_res.cpp	6287cdeea3da92e3
+660	808	7718440634838761	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apppopup-88_qmltyperegistrations.cpp	23f39b8eb30d4f25
+588	660	7718440633946939	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apppopup-88_debug_metatypes.json	c8f6cef1023e5501
+272	417	7718441289780884	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPopUp-88_Main_qml.cpp.aotstats	7e2afc76b2cb7ede
+272	417	7718441289780884	.rcc/qmlcache/appPopUp-88_Main_qml.cpp.aotstats	7e2afc76b2cb7ede
+660	808	7718440634838761	PopUp-88/appPopUp-88.qmltypes	23f39b8eb30d4f25
+926	4943	7718440636685407	CMakeFiles/appPopUp-88.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPopUp-88_qmlcache_loader.cpp.obj	f31b7e3cc31e4403
+660	808	7718440634838761	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/PopUp-88/appPopUp-88.qmltypes	23f39b8eb30d4f25
+272	417	7718441289780884	.rcc/qmlcache/appPopUp-88_Main_qml.cpp	7e2afc76b2cb7ede
+921	1043	7718440636630029	CMakeFiles/appPopUp-88.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_PopUp-88.cpp.obj	a75f0b8020e01da0
+421	498	7718441289986109	CMakeFiles/appPopUp-88.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appPopUp-88_raw_qml_0.cpp.obj	2c5181b76789dd1
+913	4448	7718440636557004	CMakeFiles/appPopUp-88.dir/apppopup-88_qmltyperegistrations.cpp.obj	c6251b1a2c66198c
+909	4526	7718440636510250	CMakeFiles/appPopUp-88.dir/main.cpp.obj	d10fa773ba374199
+466	559	7718443361873583	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appPopUp-88_autogen/EWIEGA46WW/qrc_res.cpp	6287cdeea3da92e3
+44	183	7718444149485861	appPopUp-88_autogen/timestamp	43bd4fc12251dcd9
+44	183	7718444149485861	appPopUp-88_autogen/mocs_compilation.cpp	43bd4fc12251dcd9
+44	183	7718444149485861	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appPopUp-88_autogen/timestamp	43bd4fc12251dcd9
+44	183	7718444149485861	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appPopUp-88_autogen/mocs_compilation.cpp	43bd4fc12251dcd9
+183	219	7718444150873456	meta_types/appPopUp-88_json_file_list.txt	3e822f3d4a576a4b
+183	219	7718444150873456	meta_types/appPopUp-88_json_file_list.txt.timestamp	3e822f3d4a576a4b
+183	219	7718444150873456	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appPopUp-88_json_file_list.txt	3e822f3d4a576a4b
+183	219	7718444150873456	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appPopUp-88_json_file_list.txt.timestamp	3e822f3d4a576a4b
+56	107	7718444619606560	.qt/appPopUp-88_qml.txt	4d662678ea9d9996
+56	107	7718444619606560	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appPopUp-88_qml.txt	4d662678ea9d9996
+66	258	7718444621093024	.qt/qml_imports/appPopUp-88_build.cmake	29a3e0efc1779875
+66	258	7718444621093024	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appPopUp-88_build.cmake	29a3e0efc1779875
+266	313	7718444621661099	.qt/rcc/qrc_appPopUp-88_raw_qml_0.cpp	6681964759a08fa
+266	313	7718444621661099	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appPopUp-88_raw_qml_0.cpp	6681964759a08fa
+258	387	7718444622341859	.rcc/qmlcache/appPopUp-88_Main_qml.cpp	7e2afc76b2cb7ede
+258	387	7718444622341859	.rcc/qmlcache/appPopUp-88_Main_qml.cpp.aotstats	7e2afc76b2cb7ede
+258	387	7718444622341859	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPopUp-88_Main_qml.cpp	7e2afc76b2cb7ede
+258	387	7718444622341859	E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPopUp-88_Main_qml.cpp.aotstats	7e2afc76b2cb7ede
+398	482	7718444622594560	CMakeFiles/appPopUp-88.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appPopUp-88_raw_qml_0.cpp.obj	2c5181b76789dd1
+403	603	7718444622645784	CMakeFiles/appPopUp-88.dir/appPopUp-88_autogen/EWIEGA46WW/qrc_res.cpp.obj	9ca6844c8d70a28a
+391	2804	7718444622521204	CMakeFiles/appPopUp-88.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPopUp-88_Main_qml.cpp.obj	42ad4e92af4c58ce
+387	3245	7718444622481000	CMakeFiles/appPopUp-88.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPopUp-88_qmlcache_loader.cpp.obj	f31b7e3cc31e4403
+3245	3482	7718444651064503	appPopUp-88.exe	85bf2eae366569f3

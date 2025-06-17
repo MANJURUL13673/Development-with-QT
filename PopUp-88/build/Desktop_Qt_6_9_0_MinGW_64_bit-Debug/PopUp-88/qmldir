@@ -1,0 +1,5 @@
+module PopUp-88
+typeinfo appPopUp-88.qmltypes
+prefer :/qt/qml/PopUp-88/
+Main 1.0 Main.qml
+

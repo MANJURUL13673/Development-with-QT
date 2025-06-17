@@ -1,0 +1,12 @@
+--bare
+-I
+E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-I
+C:/Qt/6.9.0/mingw_64/qml
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_PopUp-88.qrc
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appPopUp-88_raw_qml_0.qrc
+E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/Main.qml
+--json
+E:/PERSONAL/Learning/QT DEVELOPMENT/PopUp-88/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appPopUp-88_qmllint.json
