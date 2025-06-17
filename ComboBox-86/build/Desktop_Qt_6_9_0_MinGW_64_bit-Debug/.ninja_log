@@ -1,0 +1,93 @@
+# ninja log v6
+20	88	7718397892060255	.qt/appComboBox-86_qml.txt	d356bb940cda5b9c
+20	88	7718397892060255	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appComboBox-86_qml.txt	d356bb940cda5b9c
+28	95	7718397892151401	.qt/appComboBox-86_res.txt	b9a9add3f293b857
+28	95	7718397892151401	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appComboBox-86_res.txt	b9a9add3f293b857
+39	320	7718397894365947	.qt/qml_imports/appComboBox-86_build.cmake	2c70e5bfdef2d754
+39	320	7718397894365947	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appComboBox-86_build.cmake	2c70e5bfdef2d754
+320	558	7718397895917433	appComboBox-86_autogen/timestamp	9605bdd4b51798e8
+320	558	7718397895917433	appComboBox-86_autogen/mocs_compilation.cpp	9605bdd4b51798e8
+320	558	7718397895917433	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appComboBox-86_autogen/timestamp	9605bdd4b51798e8
+320	558	7718397895917433	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appComboBox-86_autogen/mocs_compilation.cpp	9605bdd4b51798e8
+571	624	7718397897415208	.qt/rcc/qrc_qmake_ComboBox-86.cpp	eeb4abc9ddc6c939
+571	624	7718397897415208	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_ComboBox-86.cpp	eeb4abc9ddc6c939
+563	633	7718397897505493	meta_types/appComboBox-86_json_file_list.txt	bceff25baee53739
+563	633	7718397897505493	meta_types/appComboBox-86_json_file_list.txt.timestamp	bceff25baee53739
+563	633	7718397897505493	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appComboBox-86_json_file_list.txt	bceff25baee53739
+563	633	7718397897505493	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appComboBox-86_json_file_list.txt.timestamp	bceff25baee53739
+591	652	7718397897678449	.qt/rcc/qrc_appComboBox-86_raw_qml_0.cpp	7cb083d99b473534
+591	652	7718397897678449	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appComboBox-86_raw_qml_0.cpp	7cb083d99b473534
+578	671	7718397897851881	.rcc/qmlcache/appComboBox-86_qmlcache_loader.cpp	782a12c71babe627
+578	671	7718397897851881	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appComboBox-86_qmlcache_loader.cpp	782a12c71babe627
+633	707	7718397898274924	meta_types/qt6appcombobox-86_debug_metatypes.json.gen	3fbe31b8ef22d8ad
+633	707	7718397898274924	meta_types/qt6appcombobox-86_debug_metatypes.json	3fbe31b8ef22d8ad
+633	707	7718397898274924	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appcombobox-86_debug_metatypes.json.gen	3fbe31b8ef22d8ad
+633	707	7718397898274924	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appcombobox-86_debug_metatypes.json	3fbe31b8ef22d8ad
+707	850	7718397899109880	appcombobox-86_qmltyperegistrations.cpp	2873c66edd3e783e
+707	850	7718397899109880	ComboBox-86/appComboBox-86.qmltypes	2873c66edd3e783e
+707	850	7718397899109880	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appcombobox-86_qmltyperegistrations.cpp	2873c66edd3e783e
+707	850	7718397899109880	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/ComboBox-86/appComboBox-86.qmltypes	2873c66edd3e783e
+850	994	7718397901037137	.rcc/qmlcache/appComboBox-86_Main_qml.cpp	218ae20f3d81fc6
+850	994	7718397901037137	.rcc/qmlcache/appComboBox-86_Main_qml.cpp.aotstats	218ae20f3d81fc6
+850	994	7718397901037137	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appComboBox-86_Main_qml.cpp	218ae20f3d81fc6
+850	994	7718397901037137	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appComboBox-86_Main_qml.cpp.aotstats	218ae20f3d81fc6
+995	1183	7718397901224452	CMakeFiles/appComboBox-86.dir/appComboBox-86_autogen/mocs_compilation.cpp.obj	efe7a844f9e83b25
+1026	1215	7718397901528950	CMakeFiles/appComboBox-86.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_ComboBox-86.cpp.obj	18f634d47e440d82
+1052	1235	7718397901797354	CMakeFiles/appComboBox-86.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appComboBox-86_raw_qml_0.cpp.obj	527e203687092ebd
+1012	4877	7718397901389310	CMakeFiles/appComboBox-86.dir/appcombobox-86_qmltyperegistrations.cpp.obj	d86aef7b6992ed49
+1043	4907	7718397901702132	CMakeFiles/appComboBox-86.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appComboBox-86_Main_qml.cpp.obj	b4aacbf2d827078b
+1004	5100	7718397901318538	CMakeFiles/appComboBox-86.dir/main.cpp.obj	ba25feffbc251da
+1035	5539	7718397901621678	CMakeFiles/appComboBox-86.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appComboBox-86_qmlcache_loader.cpp.obj	b7a6f6dd6f9f82
+5539	5798	7718397946664048	appComboBox-86.exe	b2a0ea78137ab5dd
+171	284	7718421802947286	.qt/appComboBox-86_qml.txt	d356bb940cda5b9c
+171	284	7718421802947286	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appComboBox-86_qml.txt	d356bb940cda5b9c
+183	2816	7718421828263062	.qt/qml_imports/appComboBox-86_build.cmake	2c70e5bfdef2d754
+183	2816	7718421828263062	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appComboBox-86_build.cmake	2c70e5bfdef2d754
+2825	2877	7718421828885062	.qt/rcc/qrc_appComboBox-86_raw_qml_0.cpp	7cb083d99b473534
+2825	2877	7718421828885062	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appComboBox-86_raw_qml_0.cpp	7cb083d99b473534
+2817	2958	7718421829650152	.rcc/qmlcache/appComboBox-86_Main_qml.cpp	218ae20f3d81fc6
+2817	2958	7718421829650152	.rcc/qmlcache/appComboBox-86_Main_qml.cpp.aotstats	218ae20f3d81fc6
+2817	2958	7718421829650152	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appComboBox-86_Main_qml.cpp	218ae20f3d81fc6
+2817	2958	7718421829650152	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appComboBox-86_Main_qml.cpp.aotstats	218ae20f3d81fc6
+2965	3463	7718421829871276	CMakeFiles/appComboBox-86.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appComboBox-86_raw_qml_0.cpp.obj	527e203687092ebd
+2959	8895	7718421829801266	CMakeFiles/appComboBox-86.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appComboBox-86_Main_qml.cpp.obj	b4aacbf2d827078b
+8895	9657	7718421889160858	appComboBox-86.exe	b2a0ea78137ab5dd
+59	105	7718422911890859	.qt/appComboBox-86_qml.txt	d356bb940cda5b9c
+59	105	7718422911890859	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appComboBox-86_qml.txt	d356bb940cda5b9c
+67	244	7718422913251182	.qt/qml_imports/appComboBox-86_build.cmake	2c70e5bfdef2d754
+67	244	7718422913251182	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appComboBox-86_build.cmake	2c70e5bfdef2d754
+252	298	7718422913817551	.qt/rcc/qrc_appComboBox-86_raw_qml_0.cpp	7cb083d99b473534
+252	298	7718422913817551	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appComboBox-86_raw_qml_0.cpp	7cb083d99b473534
+244	376	7718422914528910	.rcc/qmlcache/appComboBox-86_Main_qml.cpp	218ae20f3d81fc6
+244	376	7718422914528910	.rcc/qmlcache/appComboBox-86_Main_qml.cpp.aotstats	218ae20f3d81fc6
+244	376	7718422914528910	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appComboBox-86_Main_qml.cpp	218ae20f3d81fc6
+244	376	7718422914528910	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appComboBox-86_Main_qml.cpp.aotstats	218ae20f3d81fc6
+380	450	7718422914711869	CMakeFiles/appComboBox-86.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appComboBox-86_raw_qml_0.cpp.obj	527e203687092ebd
+376	2635	7718422914676284	CMakeFiles/appComboBox-86.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appComboBox-86_Main_qml.cpp.obj	b4aacbf2d827078b
+2635	2865	7718422937270982	appComboBox-86.exe	b2a0ea78137ab5dd
+49	95	7718423237050545	.qt/appComboBox-86_qml.txt	d356bb940cda5b9c
+49	95	7718423237050545	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appComboBox-86_qml.txt	d356bb940cda5b9c
+56	243	7718423238492976	.qt/qml_imports/appComboBox-86_build.cmake	2c70e5bfdef2d754
+56	243	7718423238492976	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appComboBox-86_build.cmake	2c70e5bfdef2d754
+251	292	7718423239031067	.qt/rcc/qrc_appComboBox-86_raw_qml_0.cpp	7cb083d99b473534
+251	292	7718423239031067	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appComboBox-86_raw_qml_0.cpp	7cb083d99b473534
+243	379	7718423239827159	.rcc/qmlcache/appComboBox-86_Main_qml.cpp	218ae20f3d81fc6
+243	379	7718423239827159	.rcc/qmlcache/appComboBox-86_Main_qml.cpp.aotstats	218ae20f3d81fc6
+243	379	7718423239827159	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appComboBox-86_Main_qml.cpp	218ae20f3d81fc6
+243	379	7718423239827159	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appComboBox-86_Main_qml.cpp.aotstats	218ae20f3d81fc6
+385	459	7718423240022410	CMakeFiles/appComboBox-86.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appComboBox-86_raw_qml_0.cpp.obj	527e203687092ebd
+380	2662	7718423239976861	CMakeFiles/appComboBox-86.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appComboBox-86_Main_qml.cpp.obj	b4aacbf2d827078b
+2662	2900	7718423262795521	appComboBox-86.exe	b2a0ea78137ab5dd
+48	93	7718423716890484	.qt/appComboBox-86_qml.txt	d356bb940cda5b9c
+48	93	7718423716890484	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appComboBox-86_qml.txt	d356bb940cda5b9c
+56	241	7718423718315595	.qt/qml_imports/appComboBox-86_build.cmake	2c70e5bfdef2d754
+56	241	7718423718315595	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appComboBox-86_build.cmake	2c70e5bfdef2d754
+251	294	7718423718895362	.qt/rcc/qrc_appComboBox-86_raw_qml_0.cpp	7cb083d99b473534
+251	294	7718423718895362	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appComboBox-86_raw_qml_0.cpp	7cb083d99b473534
+241	375	7718423719631460	.rcc/qmlcache/appComboBox-86_Main_qml.cpp	218ae20f3d81fc6
+241	375	7718423719631460	.rcc/qmlcache/appComboBox-86_Main_qml.cpp.aotstats	218ae20f3d81fc6
+241	375	7718423719631460	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appComboBox-86_Main_qml.cpp	218ae20f3d81fc6
+241	375	7718423719631460	E:/PERSONAL/Learning/QT DEVELOPMENT/ComboBox-86/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appComboBox-86_Main_qml.cpp.aotstats	218ae20f3d81fc6
+381	459	7718423719838262	CMakeFiles/appComboBox-86.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appComboBox-86_raw_qml_0.cpp.obj	527e203687092ebd
+375	2890	7718423719777460	CMakeFiles/appComboBox-86.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appComboBox-86_Main_qml.cpp.obj	b4aacbf2d827078b
+2890	3131	7718423744919965	appComboBox-86.exe	b2a0ea78137ab5dd
