@@ -1,0 +1,80 @@
+# ninja log v6
+26	86	7718592663123578	.qt/appSwipeView-98_res.txt	20a5420d8b220aea
+26	86	7718592663123578	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSwipeView-98_res.txt	20a5420d8b220aea
+17	90	7718592663154780	.qt/appSwipeView-98_qml.txt	c1f139c533479190
+17	90	7718592663154780	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSwipeView-98_qml.txt	c1f139c533479190
+36	260	7718592664814375	.qt/qml_imports/appSwipeView-98_build.cmake	da68c589ac535960
+36	260	7718592664814375	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSwipeView-98_build.cmake	da68c589ac535960
+261	574	7718592666968149	appSwipeView-98_autogen/timestamp	877eef82f779c8d2
+261	574	7718592666968149	appSwipeView-98_autogen/mocs_compilation.cpp	877eef82f779c8d2
+261	574	7718592666968149	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSwipeView-98_autogen/timestamp	877eef82f779c8d2
+261	574	7718592666968149	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSwipeView-98_autogen/mocs_compilation.cpp	877eef82f779c8d2
+588	663	7718592668828495	.qt/rcc/qrc_qmake_SwipeView-98.cpp	d71efc9c3bb81bb7
+588	663	7718592668828495	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_SwipeView-98.cpp	d71efc9c3bb81bb7
+582	665	7718592668860256	meta_types/appSwipeView-98_json_file_list.txt	681ec728dc1a03fe
+582	665	7718592668860256	meta_types/appSwipeView-98_json_file_list.txt.timestamp	681ec728dc1a03fe
+582	665	7718592668860256	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appSwipeView-98_json_file_list.txt	681ec728dc1a03fe
+582	665	7718592668860256	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appSwipeView-98_json_file_list.txt.timestamp	681ec728dc1a03fe
+616	691	7718592669101403	.qt/rcc/qrc_appSwipeView-98_raw_qml_0.cpp	c4b39307b0717b60
+616	691	7718592669101403	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSwipeView-98_raw_qml_0.cpp	c4b39307b0717b60
+599	719	7718592669348776	.rcc/qmlcache/appSwipeView-98_qmlcache_loader.cpp	c49814ee1616a85a
+599	719	7718592669348776	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwipeView-98_qmlcache_loader.cpp	c49814ee1616a85a
+665	761	7718592669858272	meta_types/qt6appswipeview-98_debug_metatypes.json.gen	ee4d7daf67cbff60
+665	761	7718592669858272	meta_types/qt6appswipeview-98_debug_metatypes.json	ee4d7daf67cbff60
+665	761	7718592669858272	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appswipeview-98_debug_metatypes.json.gen	ee4d7daf67cbff60
+665	761	7718592669858272	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appswipeview-98_debug_metatypes.json	ee4d7daf67cbff60
+761	935	7718592670937455	appswipeview-98_qmltyperegistrations.cpp	67f0c5f2a8ea114a
+761	935	7718592670937455	SwipeView-98/appSwipeView-98.qmltypes	67f0c5f2a8ea114a
+761	935	7718592670937455	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appswipeview-98_qmltyperegistrations.cpp	67f0c5f2a8ea114a
+761	935	7718592670937455	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/SwipeView-98/appSwipeView-98.qmltypes	67f0c5f2a8ea114a
+936	1078	7718592672945368	.rcc/qmlcache/appSwipeView-98_Main_qml.cpp	484a3ae8a941f09c
+936	1078	7718592672945368	.rcc/qmlcache/appSwipeView-98_Main_qml.cpp.aotstats	484a3ae8a941f09c
+936	1078	7718592672945368	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwipeView-98_Main_qml.cpp	484a3ae8a941f09c
+936	1078	7718592672945368	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwipeView-98_Main_qml.cpp.aotstats	484a3ae8a941f09c
+1078	1185	7718592673114940	CMakeFiles/appSwipeView-98.dir/appSwipeView-98_autogen/mocs_compilation.cpp.obj	29262dde2da766a3
+1101	1230	7718592673346626	CMakeFiles/appSwipeView-98.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_SwipeView-98.cpp.obj	79ed11589d240eab
+1121	1255	7718592673550867	CMakeFiles/appSwipeView-98.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSwipeView-98_raw_qml_0.cpp.obj	c958670459dece34
+1115	4794	7718592673482260	CMakeFiles/appSwipeView-98.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwipeView-98_Main_qml.cpp.obj	e03deb8336f33c86
+1087	4798	7718592673205877	CMakeFiles/appSwipeView-98.dir/appswipeview-98_qmltyperegistrations.cpp.obj	b1feb6de0093439a
+1083	4926	7718592673168021	CMakeFiles/appSwipeView-98.dir/main.cpp.obj	a4585ea5c3d7a5b1
+1107	5319	7718592673396178	CMakeFiles/appSwipeView-98.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwipeView-98_qmlcache_loader.cpp.obj	13f3943c054ac19b
+5320	5744	7718592715539186	appSwipeView-98.exe	a2b9b813a286291
+57	127	7718593578970736	.qt/appSwipeView-98_qml.txt	c1f139c533479190
+57	127	7718593578970736	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSwipeView-98_qml.txt	c1f139c533479190
+65	278	7718593580405201	.qt/qml_imports/appSwipeView-98_build.cmake	da68c589ac535960
+65	278	7718593580405201	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSwipeView-98_build.cmake	da68c589ac535960
+289	350	7718593581187230	.qt/rcc/qrc_appSwipeView-98_raw_qml_0.cpp	c4b39307b0717b60
+289	350	7718593581187230	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSwipeView-98_raw_qml_0.cpp	c4b39307b0717b60
+279	443	7718593582055023	.rcc/qmlcache/appSwipeView-98_Main_qml.cpp	484a3ae8a941f09c
+279	443	7718593582055023	.rcc/qmlcache/appSwipeView-98_Main_qml.cpp.aotstats	484a3ae8a941f09c
+279	443	7718593582055023	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwipeView-98_Main_qml.cpp	484a3ae8a941f09c
+279	443	7718593582055023	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwipeView-98_Main_qml.cpp.aotstats	484a3ae8a941f09c
+448	524	7718593582255417	CMakeFiles/appSwipeView-98.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSwipeView-98_raw_qml_0.cpp.obj	c958670459dece34
+443	2940	7718593582205612	CMakeFiles/appSwipeView-98.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwipeView-98_Main_qml.cpp.obj	e03deb8336f33c86
+2941	3166	7718593607185015	appSwipeView-98.exe	a2b9b813a286291
+49	96	7718593949811561	.qt/appSwipeView-98_qml.txt	c1f139c533479190
+49	96	7718593949811561	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSwipeView-98_qml.txt	c1f139c533479190
+57	239	7718593951222626	.qt/qml_imports/appSwipeView-98_build.cmake	da68c589ac535960
+57	239	7718593951222626	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSwipeView-98_build.cmake	da68c589ac535960
+247	298	7718593951815176	.qt/rcc/qrc_appSwipeView-98_raw_qml_0.cpp	c4b39307b0717b60
+247	298	7718593951815176	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSwipeView-98_raw_qml_0.cpp	c4b39307b0717b60
+239	401	7718593952763997	.rcc/qmlcache/appSwipeView-98_Main_qml.cpp	484a3ae8a941f09c
+239	401	7718593952763997	.rcc/qmlcache/appSwipeView-98_Main_qml.cpp.aotstats	484a3ae8a941f09c
+239	401	7718593952763997	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwipeView-98_Main_qml.cpp	484a3ae8a941f09c
+239	401	7718593952763997	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwipeView-98_Main_qml.cpp.aotstats	484a3ae8a941f09c
+407	484	7718593952985422	CMakeFiles/appSwipeView-98.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSwipeView-98_raw_qml_0.cpp.obj	c958670459dece34
+401	2588	7718593952933087	CMakeFiles/appSwipeView-98.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwipeView-98_Main_qml.cpp.obj	e03deb8336f33c86
+2588	2819	7718593974802035	appSwipeView-98.exe	a2b9b813a286291
+101	173	7718594331359624	.qt/appSwipeView-98_qml.txt	c1f139c533479190
+101	173	7718594331359624	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSwipeView-98_qml.txt	c1f139c533479190
+115	340	7718594333049760	.qt/qml_imports/appSwipeView-98_build.cmake	da68c589ac535960
+115	340	7718594333049760	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSwipeView-98_build.cmake	da68c589ac535960
+350	412	7718594333768534	.qt/rcc/qrc_appSwipeView-98_raw_qml_0.cpp	c4b39307b0717b60
+350	412	7718594333768534	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSwipeView-98_raw_qml_0.cpp	c4b39307b0717b60
+340	506	7718594334647749	.rcc/qmlcache/appSwipeView-98_Main_qml.cpp	484a3ae8a941f09c
+340	506	7718594334647749	.rcc/qmlcache/appSwipeView-98_Main_qml.cpp.aotstats	484a3ae8a941f09c
+340	506	7718594334647749	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwipeView-98_Main_qml.cpp	484a3ae8a941f09c
+340	506	7718594334647749	E:/PERSONAL/Learning/QT DEVELOPMENT/SwipeView-98/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwipeView-98_Main_qml.cpp.aotstats	484a3ae8a941f09c
+512	592	7718594334866475	CMakeFiles/appSwipeView-98.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSwipeView-98_raw_qml_0.cpp.obj	c958670459dece34
+506	2774	7718594334816394	CMakeFiles/appSwipeView-98.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwipeView-98_Main_qml.cpp.obj	e03deb8336f33c86
+2774	3008	7718594357490155	appSwipeView-98.exe	a2b9b813a286291

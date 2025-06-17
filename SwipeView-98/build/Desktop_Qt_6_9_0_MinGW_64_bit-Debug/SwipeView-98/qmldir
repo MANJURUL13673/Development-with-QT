@@ -1,0 +1,5 @@
+module SwipeView-98
+typeinfo appSwipeView-98.qmltypes
+prefer :/qt/qml/SwipeView-98/
+Main 1.0 Main.qml
+
