@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 246,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 12
+                    }
+                ],
+                "filepath": "E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/Main.qml"
+            }
+        ],
+        "moduleId": "TabButton-95(appTabButton-95)"
+    }
+]

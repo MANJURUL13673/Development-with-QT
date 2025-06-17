@@ -1,0 +1,14 @@
+-rootPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95
+-cmake-output
+-output-file
+E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTabButton-95_build.cmake
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/TabButton-95
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.0/mingw_64/qml
+-qrcFiles
+E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_TabButton-95.qrc
+E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appTabButton-95_raw_qml_0.qrc

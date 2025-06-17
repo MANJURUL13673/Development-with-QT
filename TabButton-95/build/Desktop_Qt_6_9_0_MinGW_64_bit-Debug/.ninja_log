@@ -1,0 +1,54 @@
+# ninja log v6
+31	116	7718552034968498	.qt/appTabButton-95_qml.txt	e6a1c0afa8fc3351
+31	116	7718552034968498	E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTabButton-95_qml.txt	e6a1c0afa8fc3351
+46	125	7718552035069362	.qt/appTabButton-95_res.txt	c5cda31aefc57fcf
+46	125	7718552035069362	E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTabButton-95_res.txt	c5cda31aefc57fcf
+56	288	7718552036696575	.qt/qml_imports/appTabButton-95_build.cmake	88d732ddd6d178ca
+56	288	7718552036696575	E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTabButton-95_build.cmake	88d732ddd6d178ca
+288	530	7718552038255888	appTabButton-95_autogen/timestamp	f71d7721aed8ea20
+288	530	7718552038255888	appTabButton-95_autogen/mocs_compilation.cpp	f71d7721aed8ea20
+288	530	7718552038255888	E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTabButton-95_autogen/timestamp	f71d7721aed8ea20
+288	530	7718552038255888	E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTabButton-95_autogen/mocs_compilation.cpp	f71d7721aed8ea20
+535	597	7718552039790543	meta_types/appTabButton-95_json_file_list.txt	6ed5cec85a0b777d
+535	597	7718552039790543	meta_types/appTabButton-95_json_file_list.txt.timestamp	6ed5cec85a0b777d
+535	597	7718552039790543	E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTabButton-95_json_file_list.txt	6ed5cec85a0b777d
+535	597	7718552039790543	E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTabButton-95_json_file_list.txt.timestamp	6ed5cec85a0b777d
+543	608	7718552039790543	.qt/rcc/qrc_qmake_TabButton-95.cpp	84f3189ee4ec2e5
+543	608	7718552039790543	E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_TabButton-95.cpp	84f3189ee4ec2e5
+564	624	7718552040003260	.qt/rcc/qrc_appTabButton-95_raw_qml_0.cpp	d452b8a9519341e8
+564	624	7718552040003260	E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTabButton-95_raw_qml_0.cpp	d452b8a9519341e8
+553	635	7718552040153401	.rcc/qmlcache/appTabButton-95_qmlcache_loader.cpp	fdce71d4c5d8485b
+553	635	7718552040153401	E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTabButton-95_qmlcache_loader.cpp	fdce71d4c5d8485b
+598	670	7718552040565877	meta_types/qt6apptabbutton-95_debug_metatypes.json.gen	73c67bbbf7932d6c
+598	670	7718552040565877	meta_types/qt6apptabbutton-95_debug_metatypes.json	73c67bbbf7932d6c
+598	670	7718552040565877	E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptabbutton-95_debug_metatypes.json.gen	73c67bbbf7932d6c
+598	670	7718552040565877	E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptabbutton-95_debug_metatypes.json	73c67bbbf7932d6c
+671	830	7718552041522275	apptabbutton-95_qmltyperegistrations.cpp	22855b519ff55433
+671	830	7718552041522275	TabButton-95/appTabButton-95.qmltypes	22855b519ff55433
+671	830	7718552041522275	E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apptabbutton-95_qmltyperegistrations.cpp	22855b519ff55433
+671	830	7718552041522275	E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/TabButton-95/appTabButton-95.qmltypes	22855b519ff55433
+830	970	7718552043462846	.rcc/qmlcache/appTabButton-95_Main_qml.cpp	b1eb0929b3502934
+830	970	7718552043462846	.rcc/qmlcache/appTabButton-95_Main_qml.cpp.aotstats	b1eb0929b3502934
+830	970	7718552043462846	E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTabButton-95_Main_qml.cpp	b1eb0929b3502934
+830	970	7718552043462846	E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTabButton-95_Main_qml.cpp.aotstats	b1eb0929b3502934
+970	1070	7718552043631317	CMakeFiles/appTabButton-95.dir/appTabButton-95_autogen/mocs_compilation.cpp.obj	cab65639c213fc8d
+988	1122	7718552043798183	CMakeFiles/appTabButton-95.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_TabButton-95.cpp.obj	62622c071bd383de
+1006	1132	7718552043985022	CMakeFiles/appTabButton-95.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTabButton-95_raw_qml_0.cpp.obj	d14d00330b7bb5da
+980	4251	7718552043733003	CMakeFiles/appTabButton-95.dir/apptabbutton-95_qmltyperegistrations.cpp.obj	86eff7b3178af2bf
+1000	4395	7718552043922446	CMakeFiles/appTabButton-95.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTabButton-95_Main_qml.cpp.obj	f00fa752b71579ba
+974	4466	7718552043664997	CMakeFiles/appTabButton-95.dir/main.cpp.obj	e63888d3bbc994f1
+992	4831	7718552043844505	CMakeFiles/appTabButton-95.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTabButton-95_qmlcache_loader.cpp.obj	e3dcadfda67a55ee
+4831	5414	7718552082231546	appTabButton-95.exe	540046be8768e27b
+59	101	7718552432361349	.qt/appTabButton-95_qml.txt	e6a1c0afa8fc3351
+59	101	7718552432361349	E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTabButton-95_qml.txt	e6a1c0afa8fc3351
+67	294	7718552434253677	.qt/qml_imports/appTabButton-95_build.cmake	88d732ddd6d178ca
+67	294	7718552434253677	E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTabButton-95_build.cmake	88d732ddd6d178ca
+302	345	7718552434794784	.qt/rcc/qrc_appTabButton-95_raw_qml_0.cpp	d452b8a9519341e8
+302	345	7718552434794784	E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTabButton-95_raw_qml_0.cpp	d452b8a9519341e8
+294	444	7718552435708930	.rcc/qmlcache/appTabButton-95_Main_qml.cpp	b1eb0929b3502934
+294	444	7718552435708930	.rcc/qmlcache/appTabButton-95_Main_qml.cpp.aotstats	b1eb0929b3502934
+294	444	7718552435708930	E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTabButton-95_Main_qml.cpp	b1eb0929b3502934
+294	444	7718552435708930	E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTabButton-95_Main_qml.cpp.aotstats	b1eb0929b3502934
+449	532	7718552435916030	CMakeFiles/appTabButton-95.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTabButton-95_raw_qml_0.cpp.obj	d14d00330b7bb5da
+445	2758	7718552435871933	CMakeFiles/appTabButton-95.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTabButton-95_Main_qml.cpp.obj	f00fa752b71579ba
+2758	2991	7718552459000660	appTabButton-95.exe	540046be8768e27b

@@ -1,0 +1,12 @@
+--bare
+-I
+E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-I
+C:/Qt/6.9.0/mingw_64/qml
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_TabButton-95.qrc
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appTabButton-95_raw_qml_0.qrc
+E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/Main.qml
+--json
+E:/PERSONAL/Learning/QT DEVELOPMENT/TabButton-95/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTabButton-95_qmllint.json

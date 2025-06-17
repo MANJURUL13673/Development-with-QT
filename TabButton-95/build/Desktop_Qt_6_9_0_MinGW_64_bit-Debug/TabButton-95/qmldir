@@ -1,0 +1,5 @@
+module TabButton-95
+typeinfo appTabButton-95.qmltypes
+prefer :/qt/qml/TabButton-95/
+Main 1.0 Main.qml
+
