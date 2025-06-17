@@ -1,0 +1,5 @@
+module ProgressBar-89
+typeinfo appProgressBar-89.qmltypes
+prefer :/qt/qml/ProgressBar-89/
+Main 1.0 Main.qml
+

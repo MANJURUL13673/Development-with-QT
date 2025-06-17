@@ -29,7 +29,6 @@ ApplicationWindow {
         }
 
         background: BorderImage {
-            id: borderImage
             source: "qrc:images/qml.png"
         }
     }
