@@ -1,0 +1,14 @@
+-rootPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87
+-cmake-output
+-output-file
+E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSlider-87_conf.cmake
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Slider-87
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.0/mingw_64/qml
+-qrcFiles
+E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_Slider-87.qrc
+E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appSlider-87_raw_qml_0.qrc

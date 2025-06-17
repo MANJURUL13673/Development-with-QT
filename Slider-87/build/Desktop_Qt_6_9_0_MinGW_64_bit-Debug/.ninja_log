@@ -1,0 +1,106 @@
+# ninja log v6
+17	78	7718425452838418	.qt/appSlider-87_qml.txt	84db5f1453565ab9
+17	78	7718425452838418	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSlider-87_qml.txt	84db5f1453565ab9
+26	85	7718425452908888	.qt/appSlider-87_res.txt	a2b17660e830db6b
+26	85	7718425452908888	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSlider-87_res.txt	a2b17660e830db6b
+34	232	7718425454357396	.qt/qml_imports/appSlider-87_build.cmake	a54a84053b96e546
+34	232	7718425454357396	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSlider-87_build.cmake	a54a84053b96e546
+232	471	7718425455875745	appSlider-87_autogen/timestamp	922c704901ff7193
+232	471	7718425455875745	appSlider-87_autogen/mocs_compilation.cpp	922c704901ff7193
+232	471	7718425455875745	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSlider-87_autogen/timestamp	922c704901ff7193
+232	471	7718425455875745	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSlider-87_autogen/mocs_compilation.cpp	922c704901ff7193
+484	534	7718425457378694	.qt/rcc/qrc_qmake_Slider-87.cpp	a7134b00de34a76
+484	534	7718425457378694	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Slider-87.cpp	a7134b00de34a76
+477	540	7718425457472745	meta_types/appSlider-87_json_file_list.txt	8e1a002c0267455c
+477	540	7718425457472745	meta_types/appSlider-87_json_file_list.txt.timestamp	8e1a002c0267455c
+477	540	7718425457472745	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appSlider-87_json_file_list.txt	8e1a002c0267455c
+477	540	7718425457472745	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appSlider-87_json_file_list.txt.timestamp	8e1a002c0267455c
+501	553	7718425457583767	.qt/rcc/qrc_appSlider-87_raw_qml_0.cpp	7ec71947825face9
+501	553	7718425457583767	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSlider-87_raw_qml_0.cpp	7ec71947825face9
+493	571	7718425457741048	.rcc/qmlcache/appSlider-87_qmlcache_loader.cpp	568c30c7fff7bc7d
+493	571	7718425457741048	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSlider-87_qmlcache_loader.cpp	568c30c7fff7bc7d
+541	605	7718425458138520	meta_types/qt6appslider-87_debug_metatypes.json.gen	c69adbb65fad52e4
+541	605	7718425458138520	meta_types/qt6appslider-87_debug_metatypes.json	c69adbb65fad52e4
+541	605	7718425458138520	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appslider-87_debug_metatypes.json.gen	c69adbb65fad52e4
+541	605	7718425458138520	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appslider-87_debug_metatypes.json	c69adbb65fad52e4
+605	837	7718425459851973	appslider-87_qmltyperegistrations.cpp	699ed8990b9b8d21
+605	837	7718425459851973	Slider-87/appSlider-87.qmltypes	699ed8990b9b8d21
+605	837	7718425459851973	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appslider-87_qmltyperegistrations.cpp	699ed8990b9b8d21
+605	837	7718425459851973	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Slider-87/appSlider-87.qmltypes	699ed8990b9b8d21
+837	971	7718425461695757	.rcc/qmlcache/appSlider-87_Main_qml.cpp	bc9379895753c516
+837	971	7718425461695757	.rcc/qmlcache/appSlider-87_Main_qml.cpp.aotstats	bc9379895753c516
+837	971	7718425461695757	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSlider-87_Main_qml.cpp	bc9379895753c516
+837	971	7718425461695757	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSlider-87_Main_qml.cpp.aotstats	bc9379895753c516
+971	1059	7718425461846190	CMakeFiles/appSlider-87.dir/appSlider-87_autogen/mocs_compilation.cpp.obj	d582552982035cf4
+987	1101	7718425462020150	CMakeFiles/appSlider-87.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Slider-87.cpp.obj	eb3e17d19f9225cf
+1005	1117	7718425462191487	CMakeFiles/appSlider-87.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSlider-87_raw_qml_0.cpp.obj	d42bebf727adae40
+981	3808	7718425461957569	CMakeFiles/appSlider-87.dir/appslider-87_qmltyperegistrations.cpp.obj	ebe65d4d1d9e1c80
+999	3892	7718425462137256	CMakeFiles/appSlider-87.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSlider-87_Main_qml.cpp.obj	578ad0bdbee81708
+976	4059	7718425461910777	CMakeFiles/appSlider-87.dir/main.cpp.obj	960351bcfa41ffcf
+993	4782	7718425462078206	CMakeFiles/appSlider-87.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSlider-87_qmlcache_loader.cpp.obj	e162c329e764034e
+4782	5047	7718425499961583	appSlider-87.exe	864a649e27215b90
+42	87	7718426526700614	.qt/appSlider-87_qml.txt	84db5f1453565ab9
+42	87	7718426526700614	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSlider-87_qml.txt	84db5f1453565ab9
+50	233	7718426528145557	.qt/qml_imports/appSlider-87_build.cmake	a54a84053b96e546
+50	233	7718426528145557	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSlider-87_build.cmake	a54a84053b96e546
+241	285	7718426528689110	.qt/rcc/qrc_appSlider-87_raw_qml_0.cpp	7ec71947825face9
+241	285	7718426528689110	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSlider-87_raw_qml_0.cpp	7ec71947825face9
+233	367	7718426529453740	.rcc/qmlcache/appSlider-87_Main_qml.cpp	bc9379895753c516
+233	367	7718426529453740	.rcc/qmlcache/appSlider-87_Main_qml.cpp.aotstats	bc9379895753c516
+233	367	7718426529453740	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSlider-87_Main_qml.cpp	bc9379895753c516
+233	367	7718426529453740	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSlider-87_Main_qml.cpp.aotstats	bc9379895753c516
+373	443	7718426529645085	CMakeFiles/appSlider-87.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSlider-87_raw_qml_0.cpp.obj	d42bebf727adae40
+368	2469	7718426529591670	CMakeFiles/appSlider-87.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSlider-87_Main_qml.cpp.obj	578ad0bdbee81708
+2469	2691	7718426550612742	appSlider-87.exe	864a649e27215b90
+42	86	7718427344222082	.qt/appSlider-87_qml.txt	84db5f1453565ab9
+42	86	7718427344222082	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSlider-87_qml.txt	84db5f1453565ab9
+50	226	7718427345619024	.qt/qml_imports/appSlider-87_build.cmake	a54a84053b96e546
+50	226	7718427345619024	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSlider-87_build.cmake	a54a84053b96e546
+233	281	7718427346187187	.qt/rcc/qrc_appSlider-87_raw_qml_0.cpp	7ec71947825face9
+233	281	7718427346187187	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSlider-87_raw_qml_0.cpp	7ec71947825face9
+226	357	7718427346880658	.rcc/qmlcache/appSlider-87_Main_qml.cpp	bc9379895753c516
+226	357	7718427346880658	.rcc/qmlcache/appSlider-87_Main_qml.cpp.aotstats	bc9379895753c516
+226	357	7718427346880658	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSlider-87_Main_qml.cpp	bc9379895753c516
+226	357	7718427346880658	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSlider-87_Main_qml.cpp.aotstats	bc9379895753c516
+363	436	7718427347073970	CMakeFiles/appSlider-87.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSlider-87_raw_qml_0.cpp.obj	d42bebf727adae40
+358	2461	7718427347025636	CMakeFiles/appSlider-87.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSlider-87_Main_qml.cpp.obj	578ad0bdbee81708
+2461	2689	7718427368061779	appSlider-87.exe	864a649e27215b90
+54	101	7718427725489414	.qt/appSlider-87_qml.txt	84db5f1453565ab9
+54	101	7718427725489414	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSlider-87_qml.txt	84db5f1453565ab9
+63	249	7718427726944845	.qt/qml_imports/appSlider-87_build.cmake	a54a84053b96e546
+63	249	7718427726944845	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSlider-87_build.cmake	a54a84053b96e546
+257	304	7718427727497831	.qt/rcc/qrc_appSlider-87_raw_qml_0.cpp	7ec71947825face9
+257	304	7718427727497831	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSlider-87_raw_qml_0.cpp	7ec71947825face9
+249	399	7718427728390403	.rcc/qmlcache/appSlider-87_Main_qml.cpp	bc9379895753c516
+249	399	7718427728390403	.rcc/qmlcache/appSlider-87_Main_qml.cpp.aotstats	bc9379895753c516
+249	399	7718427728390403	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSlider-87_Main_qml.cpp	bc9379895753c516
+249	399	7718427728390403	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSlider-87_Main_qml.cpp.aotstats	bc9379895753c516
+403	475	7718427728583583	CMakeFiles/appSlider-87.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSlider-87_raw_qml_0.cpp.obj	d42bebf727adae40
+399	2626	7718427728540132	CMakeFiles/appSlider-87.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSlider-87_Main_qml.cpp.obj	578ad0bdbee81708
+2626	2844	7718427750814145	appSlider-87.exe	864a649e27215b90
+43	88	7718433763642298	.qt/appSlider-87_qml.txt	84db5f1453565ab9
+43	88	7718433763642298	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSlider-87_qml.txt	84db5f1453565ab9
+52	237	7718433765107625	.qt/qml_imports/appSlider-87_build.cmake	a54a84053b96e546
+52	237	7718433765107625	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSlider-87_build.cmake	a54a84053b96e546
+245	293	7718433765686722	.qt/rcc/qrc_appSlider-87_raw_qml_0.cpp	7ec71947825face9
+245	293	7718433765686722	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSlider-87_raw_qml_0.cpp	7ec71947825face9
+237	381	7718433766494959	.rcc/qmlcache/appSlider-87_Main_qml.cpp	bc9379895753c516
+237	381	7718433766494959	.rcc/qmlcache/appSlider-87_Main_qml.cpp.aotstats	bc9379895753c516
+237	381	7718433766494959	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSlider-87_Main_qml.cpp	bc9379895753c516
+237	381	7718433766494959	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSlider-87_Main_qml.cpp.aotstats	bc9379895753c516
+387	466	7718433766710736	CMakeFiles/appSlider-87.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSlider-87_raw_qml_0.cpp.obj	d42bebf727adae40
+381	2692	7718433766660011	CMakeFiles/appSlider-87.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSlider-87_Main_qml.cpp.obj	578ad0bdbee81708
+2693	2927	7718433789765357	appSlider-87.exe	864a649e27215b90
+42	89	7718438195798737	.qt/appSlider-87_qml.txt	84db5f1453565ab9
+42	89	7718438195798737	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSlider-87_qml.txt	84db5f1453565ab9
+50	229	7718438197189867	.qt/qml_imports/appSlider-87_build.cmake	a54a84053b96e546
+50	229	7718438197189867	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSlider-87_build.cmake	a54a84053b96e546
+238	283	7718438197737591	.qt/rcc/qrc_appSlider-87_raw_qml_0.cpp	7ec71947825face9
+238	283	7718438197737591	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSlider-87_raw_qml_0.cpp	7ec71947825face9
+229	377	7718438198522301	.rcc/qmlcache/appSlider-87_Main_qml.cpp	bc9379895753c516
+229	377	7718438198522301	.rcc/qmlcache/appSlider-87_Main_qml.cpp.aotstats	bc9379895753c516
+229	377	7718438198522301	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSlider-87_Main_qml.cpp	bc9379895753c516
+229	377	7718438198522301	E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSlider-87_Main_qml.cpp.aotstats	bc9379895753c516
+383	457	7718438198806854	CMakeFiles/appSlider-87.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSlider-87_raw_qml_0.cpp.obj	d42bebf727adae40
+377	2519	7718438198763940	CMakeFiles/appSlider-87.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSlider-87_Main_qml.cpp.obj	578ad0bdbee81708
+2519	2747	7718438220180214	appSlider-87.exe	864a649e27215b90

@@ -1,0 +1,5 @@
+module Slider-87
+typeinfo appSlider-87.qmltypes
+prefer :/qt/qml/Slider-87/
+Main 1.0 Main.qml
+

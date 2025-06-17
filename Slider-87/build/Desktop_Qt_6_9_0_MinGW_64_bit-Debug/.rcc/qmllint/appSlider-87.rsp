@@ -1,0 +1,10 @@
+--bare
+-I
+E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-I
+C:/Qt/6.9.0/mingw_64/qml
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_Slider-87.qrc
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appSlider-87_raw_qml_0.qrc
+E:/PERSONAL/Learning/QT DEVELOPMENT/Slider-87/Main.qml
