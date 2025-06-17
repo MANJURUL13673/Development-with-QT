@@ -1,0 +1,67 @@
+# ninja log v6
+25	91	7717731948154332	.qt/appFirstWindow-81_res.txt	53ecf6f6a81b9d6b
+25	91	7717731948154332	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appFirstWindow-81_res.txt	53ecf6f6a81b9d6b
+17	94	7717731948164157	.qt/appFirstWindow-81_qml.txt	229551f63e3ccef7
+17	94	7717731948164157	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appFirstWindow-81_qml.txt	229551f63e3ccef7
+33	255	7717731949755233	.qt/qml_imports/appFirstWindow-81_build.cmake	6a4045e1074caa87
+33	255	7717731949755233	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appFirstWindow-81_build.cmake	6a4045e1074caa87
+255	486	7717731951290736	appFirstWindow-81_autogen/timestamp	4b4557a6c4eb8091
+255	486	7717731951290736	appFirstWindow-81_autogen/mocs_compilation.cpp	4b4557a6c4eb8091
+255	486	7717731951290736	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appFirstWindow-81_autogen/timestamp	4b4557a6c4eb8091
+255	486	7717731951290736	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appFirstWindow-81_autogen/mocs_compilation.cpp	4b4557a6c4eb8091
+499	550	7717731952725458	.qt/rcc/qrc_qmake_FirstWindow-81.cpp	d2d677c2ae00d7e5
+499	550	7717731952725458	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_FirstWindow-81.cpp	d2d677c2ae00d7e5
+490	555	7717731952797358	meta_types/appFirstWindow-81_json_file_list.txt	4e52867df7b702e
+490	555	7717731952797358	meta_types/appFirstWindow-81_json_file_list.txt.timestamp	4e52867df7b702e
+490	555	7717731952797358	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appFirstWindow-81_json_file_list.txt	4e52867df7b702e
+490	555	7717731952797358	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appFirstWindow-81_json_file_list.txt.timestamp	4e52867df7b702e
+517	565	7717731952862377	.qt/rcc/qrc_appFirstWindow-81_raw_qml_0.cpp	7065dbd3a5278c25
+517	565	7717731952862377	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appFirstWindow-81_raw_qml_0.cpp	7065dbd3a5278c25
+506	579	7717731952997976	.rcc/qmlcache/appFirstWindow-81_qmlcache_loader.cpp	eca732dd37989152
+506	579	7717731952997976	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFirstWindow-81_qmlcache_loader.cpp	eca732dd37989152
+555	625	7717731953496769	meta_types/qt6appfirstwindow-81_debug_metatypes.json.gen	e1a0a18510a52bd
+555	625	7717731953496769	meta_types/qt6appfirstwindow-81_debug_metatypes.json	e1a0a18510a52bd
+555	625	7717731953496769	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appfirstwindow-81_debug_metatypes.json.gen	e1a0a18510a52bd
+555	625	7717731953496769	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appfirstwindow-81_debug_metatypes.json	e1a0a18510a52bd
+625	856	7717731955244873	appfirstwindow-81_qmltyperegistrations.cpp	d38d7604607cf76b
+625	856	7717731955244873	FirstWindow-81/appFirstWindow-81.qmltypes	d38d7604607cf76b
+625	856	7717731955244873	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appfirstwindow-81_qmltyperegistrations.cpp	d38d7604607cf76b
+625	856	7717731955244873	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/FirstWindow-81/appFirstWindow-81.qmltypes	d38d7604607cf76b
+856	948	7717731956691067	.rcc/qmlcache/appFirstWindow-81_Main_qml.cpp	12e385849f42a6fe
+856	948	7717731956691067	.rcc/qmlcache/appFirstWindow-81_Main_qml.cpp.aotstats	12e385849f42a6fe
+856	948	7717731956691067	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFirstWindow-81_Main_qml.cpp	12e385849f42a6fe
+856	948	7717731956691067	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFirstWindow-81_Main_qml.cpp.aotstats	12e385849f42a6fe
+948	1069	7717731956789720	CMakeFiles/appFirstWindow-81.dir/appFirstWindow-81_autogen/mocs_compilation.cpp.obj	70229d8415d20298
+965	1084	7717731956963818	CMakeFiles/appFirstWindow-81.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_FirstWindow-81.cpp.obj	56c739f4b8121841
+980	1089	7717731957112948	CMakeFiles/appFirstWindow-81.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appFirstWindow-81_raw_qml_0.cpp.obj	d5237bfcce9c98cb
+974	4573	7717731957056611	CMakeFiles/appFirstWindow-81.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFirstWindow-81_Main_qml.cpp.obj	9af1d8159d868d6b
+957	4578	7717731956889866	CMakeFiles/appFirstWindow-81.dir/appfirstwindow-81_qmltyperegistrations.cpp.obj	7992dd895683304c
+953	4624	7717731956845531	CMakeFiles/appFirstWindow-81.dir/main.cpp.obj	bbd8944b3a9e576f
+969	5354	7717731957005512	CMakeFiles/appFirstWindow-81.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFirstWindow-81_qmlcache_loader.cpp.obj	fbfd9ee84298ba2c
+5354	5816	7717732000856910	appFirstWindow-81.exe	cf808cda2c552604
+65	138	7717732949881246	.qt/appFirstWindow-81_qml.txt	229551f63e3ccef7
+65	138	7717732949881246	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appFirstWindow-81_qml.txt	229551f63e3ccef7
+73	286	7717732951300381	.qt/qml_imports/appFirstWindow-81_build.cmake	6a4045e1074caa87
+73	286	7717732951300381	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appFirstWindow-81_build.cmake	6a4045e1074caa87
+294	343	7717732951923907	.qt/rcc/qrc_appFirstWindow-81_raw_qml_0.cpp	7065dbd3a5278c25
+294	343	7717732951923907	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appFirstWindow-81_raw_qml_0.cpp	7065dbd3a5278c25
+286	388	7717732952322581	.rcc/qmlcache/appFirstWindow-81_Main_qml.cpp	12e385849f42a6fe
+286	388	7717732952322581	.rcc/qmlcache/appFirstWindow-81_Main_qml.cpp.aotstats	12e385849f42a6fe
+286	388	7717732952322581	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFirstWindow-81_Main_qml.cpp	12e385849f42a6fe
+286	388	7717732952322581	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFirstWindow-81_Main_qml.cpp.aotstats	12e385849f42a6fe
+393	468	7717732952493121	CMakeFiles/appFirstWindow-81.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appFirstWindow-81_raw_qml_0.cpp.obj	d5237bfcce9c98cb
+388	2842	7717732952453039	CMakeFiles/appFirstWindow-81.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFirstWindow-81_Main_qml.cpp.obj	9af1d8159d868d6b
+2842	3083	7717732976980516	appFirstWindow-81.exe	cf808cda2c552604
+44	94	7717733156190779	.qt/appFirstWindow-81_qml.txt	229551f63e3ccef7
+44	94	7717733156190779	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appFirstWindow-81_qml.txt	229551f63e3ccef7
+53	252	7717733157723156	.qt/qml_imports/appFirstWindow-81_build.cmake	6a4045e1074caa87
+53	252	7717733157723156	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appFirstWindow-81_build.cmake	6a4045e1074caa87
+260	306	7717733158302151	.qt/rcc/qrc_appFirstWindow-81_raw_qml_0.cpp	7065dbd3a5278c25
+260	306	7717733158302151	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appFirstWindow-81_raw_qml_0.cpp	7065dbd3a5278c25
+252	391	7717733159074000	.rcc/qmlcache/appFirstWindow-81_Main_qml.cpp	12e385849f42a6fe
+252	391	7717733159074000	.rcc/qmlcache/appFirstWindow-81_Main_qml.cpp.aotstats	12e385849f42a6fe
+252	391	7717733159074000	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFirstWindow-81_Main_qml.cpp	12e385849f42a6fe
+252	391	7717733159074000	E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFirstWindow-81_Main_qml.cpp.aotstats	12e385849f42a6fe
+395	477	7717733159281933	CMakeFiles/appFirstWindow-81.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appFirstWindow-81_raw_qml_0.cpp.obj	d5237bfcce9c98cb
+391	2684	7717733159242961	CMakeFiles/appFirstWindow-81.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFirstWindow-81_Main_qml.cpp.obj	9af1d8159d868d6b
+2684	2915	7717733182172224	appFirstWindow-81.exe	cf808cda2c552604

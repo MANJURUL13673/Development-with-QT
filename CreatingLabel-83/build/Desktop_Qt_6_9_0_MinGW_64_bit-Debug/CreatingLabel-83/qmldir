@@ -1,0 +1,5 @@
+module CreatingLabel-83
+typeinfo appCreatingLabel-83.qmltypes
+prefer :/qt/qml/CreatingLabel-83/
+Main 1.0 Main.qml
+

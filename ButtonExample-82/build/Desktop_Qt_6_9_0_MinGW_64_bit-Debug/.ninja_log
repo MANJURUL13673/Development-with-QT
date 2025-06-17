@@ -1,0 +1,106 @@
+# ninja log v6
+25	80	7717734031284282	.qt/appButtonExample-82_res.txt	d1f8deac738c58af
+867	3704	7717734039242476	CMakeFiles/appButtonExample-82.dir/appbuttonexample-82_qmltyperegistrations.cpp.obj	7ebbb0886c9b93c5
+232	468	7717734034308240	appButtonExample-82_autogen/mocs_compilation.cpp	5b5e89ecf52a4a11
+25	80	7717734031284282	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appButtonExample-82_res.txt	d1f8deac738c58af
+262	302	7718382951624563	.qt/rcc/qrc_appButtonExample-82_raw_qml_0.cpp	d2fcbe974f66a4f1
+69	253	7718382951108919	.qt/qml_imports/appButtonExample-82_build.cmake	5753beb69a2c4b3d
+232	468	7717734034308240	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appButtonExample-82_autogen/timestamp	5b5e89ecf52a4a11
+59	107	7718382949672949	.qt/appButtonExample-82_qml.txt	6cd4efe090d1751f
+490	579	7717734036241954	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonExample-82_qmlcache_loader.cpp	7c1866fe02473bcd
+483	534	7717734035796656	.qt/rcc/qrc_qmake_ButtonExample-82.cpp	d785d2b5954f905d
+232	468	7717734034308240	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appButtonExample-82_autogen/mocs_compilation.cpp	5b5e89ecf52a4a11
+59	107	7718382949672949	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appButtonExample-82_qml.txt	6cd4efe090d1751f
+69	253	7718382951108919	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appButtonExample-82_build.cmake	5753beb69a2c4b3d
+232	468	7717734034308240	appButtonExample-82_autogen/timestamp	5b5e89ecf52a4a11
+483	534	7717734035796656	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_ButtonExample-82.cpp	d785d2b5954f905d
+614	762	7717734037530772	ButtonExample-82/appButtonExample-82.qmltypes	58b4d5ec86167535
+473	547	7717734035945319	meta_types/appButtonExample-82_json_file_list.txt	a675ab757182e000
+473	547	7717734035945319	meta_types/appButtonExample-82_json_file_list.txt.timestamp	a675ab757182e000
+473	547	7717734035945319	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appButtonExample-82_json_file_list.txt	a675ab757182e000
+473	547	7717734035945319	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appButtonExample-82_json_file_list.txt.timestamp	a675ab757182e000
+857	949	7717734039141426	CMakeFiles/appButtonExample-82.dir/appButtonExample-82_autogen/mocs_compilation.cpp.obj	91db23c96dff6bc5
+490	579	7717734036241954	.rcc/qmlcache/appButtonExample-82_qmlcache_loader.cpp	7c1866fe02473bcd
+262	302	7718382951624563	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appButtonExample-82_raw_qml_0.cpp	d2fcbe974f66a4f1
+548	614	7717734036621487	meta_types/qt6appbuttonexample-82_debug_metatypes.json.gen	b4d4bb5cdf04d85f
+548	614	7717734036621487	meta_types/qt6appbuttonexample-82_debug_metatypes.json	b4d4bb5cdf04d85f
+614	762	7717734037530772	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/ButtonExample-82/appButtonExample-82.qmltypes	58b4d5ec86167535
+548	614	7717734036621487	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appbuttonexample-82_debug_metatypes.json.gen	b4d4bb5cdf04d85f
+548	614	7717734036621487	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appbuttonexample-82_debug_metatypes.json	b4d4bb5cdf04d85f
+614	762	7717734037530772	appbuttonexample-82_qmltyperegistrations.cpp	58b4d5ec86167535
+383	2510	7718382952493118	CMakeFiles/appButtonExample-82.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonExample-82_Main_qml.cpp.obj	31896fa01004d5aa
+614	762	7717734037530772	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appbuttonexample-82_qmltyperegistrations.cpp	58b4d5ec86167535
+253	382	7718382952363836	.rcc/qmlcache/appButtonExample-82_Main_qml.cpp	7f40bbfc4a5f9431
+387	461	7718382952535412	CMakeFiles/appButtonExample-82.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appButtonExample-82_raw_qml_0.cpp.obj	23a1be96c8e1e516
+253	382	7718382952363836	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonExample-82_Main_qml.cpp	7f40bbfc4a5f9431
+253	382	7718382952363836	.rcc/qmlcache/appButtonExample-82_Main_qml.cpp.aotstats	7f40bbfc4a5f9431
+253	382	7718382952363836	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonExample-82_Main_qml.cpp.aotstats	7f40bbfc4a5f9431
+875	995	7717734039310686	CMakeFiles/appButtonExample-82.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_ButtonExample-82.cpp.obj	57b1ec9e5a368812
+863	3963	7717734039195482	CMakeFiles/appButtonExample-82.dir/main.cpp.obj	92ddbf9975118804
+880	4350	7717734039373844	CMakeFiles/appButtonExample-82.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonExample-82_qmlcache_loader.cpp.obj	368d35f6438047e1
+2510	2759	7718382973759226	appButtonExample-82.exe	342cf657c3c9df2c
+57	107	7718383093706864	.qt/appButtonExample-82_qml.txt	6cd4efe090d1751f
+57	107	7718383093706864	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appButtonExample-82_qml.txt	6cd4efe090d1751f
+67	255	7718383095171471	.qt/qml_imports/appButtonExample-82_build.cmake	5753beb69a2c4b3d
+67	255	7718383095171471	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appButtonExample-82_build.cmake	5753beb69a2c4b3d
+263	307	7718383095707391	.qt/rcc/qrc_appButtonExample-82_raw_qml_0.cpp	d2fcbe974f66a4f1
+263	307	7718383095707391	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appButtonExample-82_raw_qml_0.cpp	d2fcbe974f66a4f1
+255	379	7718383096371001	.rcc/qmlcache/appButtonExample-82_Main_qml.cpp	7f40bbfc4a5f9431
+255	379	7718383096371001	.rcc/qmlcache/appButtonExample-82_Main_qml.cpp.aotstats	7f40bbfc4a5f9431
+255	379	7718383096371001	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonExample-82_Main_qml.cpp	7f40bbfc4a5f9431
+255	379	7718383096371001	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonExample-82_Main_qml.cpp.aotstats	7f40bbfc4a5f9431
+383	453	7718383096530679	CMakeFiles/appButtonExample-82.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appButtonExample-82_raw_qml_0.cpp.obj	23a1be96c8e1e516
+379	2448	7718383096487972	CMakeFiles/appButtonExample-82.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonExample-82_Main_qml.cpp.obj	31896fa01004d5aa
+2448	2675	7718383117186804	appButtonExample-82.exe	342cf657c3c9df2c
+59	107	7718383724647167	.qt/appButtonExample-82_qml.txt	6cd4efe090d1751f
+59	107	7718383724647167	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appButtonExample-82_qml.txt	6cd4efe090d1751f
+67	239	7718383725940654	.qt/qml_imports/appButtonExample-82_build.cmake	5753beb69a2c4b3d
+67	239	7718383725940654	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appButtonExample-82_build.cmake	5753beb69a2c4b3d
+248	286	7718383726448942	.qt/rcc/qrc_appButtonExample-82_raw_qml_0.cpp	d2fcbe974f66a4f1
+248	286	7718383726448942	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appButtonExample-82_raw_qml_0.cpp	d2fcbe974f66a4f1
+239	374	7718383727263311	.rcc/qmlcache/appButtonExample-82_Main_qml.cpp	7f40bbfc4a5f9431
+239	374	7718383727263311	.rcc/qmlcache/appButtonExample-82_Main_qml.cpp.aotstats	7f40bbfc4a5f9431
+239	374	7718383727263311	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonExample-82_Main_qml.cpp	7f40bbfc4a5f9431
+239	374	7718383727263311	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonExample-82_Main_qml.cpp.aotstats	7f40bbfc4a5f9431
+379	450	7718383727449180	CMakeFiles/appButtonExample-82.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appButtonExample-82_raw_qml_0.cpp.obj	23a1be96c8e1e516
+375	2455	7718383727398536	CMakeFiles/appButtonExample-82.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonExample-82_Main_qml.cpp.obj	31896fa01004d5aa
+2455	2670	7718383748212627	appButtonExample-82.exe	342cf657c3c9df2c
+47	90	7718384096461400	.qt/appButtonExample-82_qml.txt	6cd4efe090d1751f
+47	90	7718384096461400	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appButtonExample-82_qml.txt	6cd4efe090d1751f
+54	237	7718384097901688	.qt/qml_imports/appButtonExample-82_build.cmake	5753beb69a2c4b3d
+54	237	7718384097901688	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appButtonExample-82_build.cmake	5753beb69a2c4b3d
+245	286	7718384098426779	.qt/rcc/qrc_appButtonExample-82_raw_qml_0.cpp	d2fcbe974f66a4f1
+245	286	7718384098426779	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appButtonExample-82_raw_qml_0.cpp	d2fcbe974f66a4f1
+237	366	7718384099149520	.rcc/qmlcache/appButtonExample-82_Main_qml.cpp	7f40bbfc4a5f9431
+237	366	7718384099149520	.rcc/qmlcache/appButtonExample-82_Main_qml.cpp.aotstats	7f40bbfc4a5f9431
+237	366	7718384099149520	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonExample-82_Main_qml.cpp	7f40bbfc4a5f9431
+237	366	7718384099149520	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonExample-82_Main_qml.cpp.aotstats	7f40bbfc4a5f9431
+371	444	7718384099339001	CMakeFiles/appButtonExample-82.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appButtonExample-82_raw_qml_0.cpp.obj	23a1be96c8e1e516
+367	2517	7718384099298761	CMakeFiles/appButtonExample-82.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonExample-82_Main_qml.cpp.obj	31896fa01004d5aa
+2517	2749	7718384120805705	appButtonExample-82.exe	342cf657c3c9df2c
+57	106	7718385305297931	.qt/appButtonExample-82_qml.txt	6cd4efe090d1751f
+57	106	7718385305297931	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appButtonExample-82_qml.txt	6cd4efe090d1751f
+65	267	7718385306890473	.qt/qml_imports/appButtonExample-82_build.cmake	5753beb69a2c4b3d
+65	267	7718385306890473	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appButtonExample-82_build.cmake	5753beb69a2c4b3d
+276	319	7718385307423334	.qt/rcc/qrc_appButtonExample-82_raw_qml_0.cpp	d2fcbe974f66a4f1
+276	319	7718385307423334	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appButtonExample-82_raw_qml_0.cpp	d2fcbe974f66a4f1
+267	411	7718385308254355	.rcc/qmlcache/appButtonExample-82_Main_qml.cpp	7f40bbfc4a5f9431
+267	411	7718385308254355	.rcc/qmlcache/appButtonExample-82_Main_qml.cpp.aotstats	7f40bbfc4a5f9431
+267	411	7718385308254355	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonExample-82_Main_qml.cpp	7f40bbfc4a5f9431
+267	411	7718385308254355	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonExample-82_Main_qml.cpp.aotstats	7f40bbfc4a5f9431
+415	485	7718385308465736	CMakeFiles/appButtonExample-82.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appButtonExample-82_raw_qml_0.cpp.obj	23a1be96c8e1e516
+411	2719	7718385308425592	CMakeFiles/appButtonExample-82.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonExample-82_Main_qml.cpp.obj	31896fa01004d5aa
+2719	2971	7718385331502294	appButtonExample-82.exe	342cf657c3c9df2c
+49	96	7718385712921527	.qt/appButtonExample-82_qml.txt	6cd4efe090d1751f
+49	96	7718385712921527	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appButtonExample-82_qml.txt	6cd4efe090d1751f
+56	256	7718385714487454	.qt/qml_imports/appButtonExample-82_build.cmake	5753beb69a2c4b3d
+56	256	7718385714487454	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appButtonExample-82_build.cmake	5753beb69a2c4b3d
+265	308	7718385715068607	.qt/rcc/qrc_appButtonExample-82_raw_qml_0.cpp	d2fcbe974f66a4f1
+265	308	7718385715068607	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appButtonExample-82_raw_qml_0.cpp	d2fcbe974f66a4f1
+257	388	7718385715796645	.rcc/qmlcache/appButtonExample-82_Main_qml.cpp	7f40bbfc4a5f9431
+257	388	7718385715796645	.rcc/qmlcache/appButtonExample-82_Main_qml.cpp.aotstats	7f40bbfc4a5f9431
+257	388	7718385715796645	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonExample-82_Main_qml.cpp	7f40bbfc4a5f9431
+257	388	7718385715796645	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonExample-82/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonExample-82_Main_qml.cpp.aotstats	7f40bbfc4a5f9431
+392	469	7718385715975391	CMakeFiles/appButtonExample-82.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appButtonExample-82_raw_qml_0.cpp.obj	23a1be96c8e1e516
+388	2582	7718385715934612	CMakeFiles/appButtonExample-82.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonExample-82_Main_qml.cpp.obj	31896fa01004d5aa
+2582	2827	7718385737875324	appButtonExample-82.exe	342cf657c3c9df2c

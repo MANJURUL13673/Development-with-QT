@@ -1,0 +1,67 @@
+# ninja log v6
+21	104	7718391952325765	.qt/appButtonClicked-84_qml.txt	f1487005f4a0ec40
+21	104	7718391952325765	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appButtonClicked-84_qml.txt	f1487005f4a0ec40
+33	110	7718391952404707	.qt/appButtonClicked-84_res.txt	b7ea0e00f3f80e23
+33	110	7718391952404707	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appButtonClicked-84_res.txt	b7ea0e00f3f80e23
+42	304	7718391954371945	.qt/qml_imports/appButtonClicked-84_build.cmake	33b53678c6cbd7fd
+42	304	7718391954371945	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appButtonClicked-84_build.cmake	33b53678c6cbd7fd
+310	539	7718391955859870	appButtonClicked-84_autogen/timestamp	8110e5e90aaba8ee
+310	539	7718391955859870	appButtonClicked-84_autogen/mocs_compilation.cpp	8110e5e90aaba8ee
+310	539	7718391955859870	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appButtonClicked-84_autogen/timestamp	8110e5e90aaba8ee
+310	539	7718391955859870	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appButtonClicked-84_autogen/mocs_compilation.cpp	8110e5e90aaba8ee
+550	598	7718391957289314	.qt/rcc/qrc_qmake_ButtonClicked-84.cpp	4cdebe5058cb33c9
+550	598	7718391957289314	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_ButtonClicked-84.cpp	4cdebe5058cb33c9
+543	605	7718391957399848	meta_types/appButtonClicked-84_json_file_list.txt	3c381527fcc7cd36
+543	605	7718391957399848	meta_types/appButtonClicked-84_json_file_list.txt.timestamp	3c381527fcc7cd36
+543	605	7718391957399848	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appButtonClicked-84_json_file_list.txt	3c381527fcc7cd36
+543	605	7718391957399848	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appButtonClicked-84_json_file_list.txt.timestamp	3c381527fcc7cd36
+568	622	7718391957555020	.qt/rcc/qrc_appButtonClicked-84_raw_qml_0.cpp	97e0ffe6daa1e9f2
+568	622	7718391957555020	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appButtonClicked-84_raw_qml_0.cpp	97e0ffe6daa1e9f2
+558	636	7718391957668649	.rcc/qmlcache/appButtonClicked-84_qmlcache_loader.cpp	2223a970139ec371
+558	636	7718391957668649	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonClicked-84_qmlcache_loader.cpp	2223a970139ec371
+606	680	7718391958145175	meta_types/qt6appbuttonclicked-84_debug_metatypes.json.gen	b07ce3d99134aff6
+606	680	7718391958145175	meta_types/qt6appbuttonclicked-84_debug_metatypes.json	b07ce3d99134aff6
+606	680	7718391958145175	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appbuttonclicked-84_debug_metatypes.json.gen	b07ce3d99134aff6
+606	680	7718391958145175	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appbuttonclicked-84_debug_metatypes.json	b07ce3d99134aff6
+680	830	7718391959080535	appbuttonclicked-84_qmltyperegistrations.cpp	3b2e9023fe05f5fe
+680	830	7718391959080535	ButtonClicked-84/appButtonClicked-84.qmltypes	3b2e9023fe05f5fe
+680	830	7718391959080535	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appbuttonclicked-84_qmltyperegistrations.cpp	3b2e9023fe05f5fe
+680	830	7718391959080535	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/ButtonClicked-84/appButtonClicked-84.qmltypes	3b2e9023fe05f5fe
+830	928	7718391960578013	.rcc/qmlcache/appButtonClicked-84_Main_qml.cpp	3a0781e2f3b7b556
+830	928	7718391960578013	.rcc/qmlcache/appButtonClicked-84_Main_qml.cpp.aotstats	3a0781e2f3b7b556
+830	928	7718391960578013	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonClicked-84_Main_qml.cpp	3a0781e2f3b7b556
+830	928	7718391960578013	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonClicked-84_Main_qml.cpp.aotstats	3a0781e2f3b7b556
+929	1025	7718391960704649	CMakeFiles/appButtonClicked-84.dir/appButtonClicked-84_autogen/mocs_compilation.cpp.obj	53361efa3d38eae3
+944	1062	7718391960859406	CMakeFiles/appButtonClicked-84.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_ButtonClicked-84.cpp.obj	c54e6eaf51318d15
+961	1070	7718391961028891	CMakeFiles/appButtonClicked-84.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appButtonClicked-84_raw_qml_0.cpp.obj	20115ce050d942de
+937	3672	7718391960787641	CMakeFiles/appButtonClicked-84.dir/appbuttonclicked-84_qmltyperegistrations.cpp.obj	b075939bb39f5c7c
+953	3759	7718391960946469	CMakeFiles/appButtonClicked-84.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonClicked-84_Main_qml.cpp.obj	66a420be825a5b85
+933	3897	7718391960747084	CMakeFiles/appButtonClicked-84.dir/main.cpp.obj	2bd161cbe4dbc6c0
+948	4257	7718391960898562	CMakeFiles/appButtonClicked-84.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonClicked-84_qmlcache_loader.cpp.obj	8652e189aae3ab0b
+4258	4509	7718391993995867	appButtonClicked-84.exe	eee7d77865055a34
+54	107	7718392318408398	.qt/appButtonClicked-84_qml.txt	f1487005f4a0ec40
+54	107	7718392318408398	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appButtonClicked-84_qml.txt	f1487005f4a0ec40
+64	257	7718392319878134	.qt/qml_imports/appButtonClicked-84_build.cmake	33b53678c6cbd7fd
+64	257	7718392319878134	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appButtonClicked-84_build.cmake	33b53678c6cbd7fd
+265	310	7718392320445394	.qt/rcc/qrc_appButtonClicked-84_raw_qml_0.cpp	97e0ffe6daa1e9f2
+265	310	7718392320445394	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appButtonClicked-84_raw_qml_0.cpp	97e0ffe6daa1e9f2
+257	366	7718392320965858	.rcc/qmlcache/appButtonClicked-84_Main_qml.cpp	3a0781e2f3b7b556
+257	366	7718392320965858	.rcc/qmlcache/appButtonClicked-84_Main_qml.cpp.aotstats	3a0781e2f3b7b556
+257	366	7718392320965858	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonClicked-84_Main_qml.cpp	3a0781e2f3b7b556
+257	366	7718392320965858	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonClicked-84_Main_qml.cpp.aotstats	3a0781e2f3b7b556
+372	462	7718392321148744	CMakeFiles/appButtonClicked-84.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appButtonClicked-84_raw_qml_0.cpp.obj	20115ce050d942de
+367	2567	7718392321098398	CMakeFiles/appButtonClicked-84.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonClicked-84_Main_qml.cpp.obj	66a420be825a5b85
+2567	2787	7718392343098959	appButtonClicked-84.exe	eee7d77865055a34
+41	85	7718392789380809	.qt/appButtonClicked-84_qml.txt	f1487005f4a0ec40
+41	85	7718392789380809	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appButtonClicked-84_qml.txt	f1487005f4a0ec40
+49	223	7718392790743940	.qt/qml_imports/appButtonClicked-84_build.cmake	33b53678c6cbd7fd
+49	223	7718392790743940	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appButtonClicked-84_build.cmake	33b53678c6cbd7fd
+232	270	7718392791232764	.qt/rcc/qrc_appButtonClicked-84_raw_qml_0.cpp	97e0ffe6daa1e9f2
+232	270	7718392791232764	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appButtonClicked-84_raw_qml_0.cpp	97e0ffe6daa1e9f2
+223	327	7718392791774450	.rcc/qmlcache/appButtonClicked-84_Main_qml.cpp	3a0781e2f3b7b556
+223	327	7718392791774450	.rcc/qmlcache/appButtonClicked-84_Main_qml.cpp.aotstats	3a0781e2f3b7b556
+223	327	7718392791774450	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonClicked-84_Main_qml.cpp	3a0781e2f3b7b556
+223	327	7718392791774450	E:/PERSONAL/Learning/QT DEVELOPMENT/ButtonClicked-84/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonClicked-84_Main_qml.cpp.aotstats	3a0781e2f3b7b556
+332	404	7718392791920847	CMakeFiles/appButtonClicked-84.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appButtonClicked-84_raw_qml_0.cpp.obj	20115ce050d942de
+327	2386	7718392791877807	CMakeFiles/appButtonClicked-84.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appButtonClicked-84_Main_qml.cpp.obj	66a420be825a5b85
+2386	2618	7718392812464167	appButtonClicked-84.exe	eee7d77865055a34

@@ -1,0 +1,14 @@
+-rootPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81
+-cmake-output
+-output-file
+E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appFirstWindow-81_build.cmake
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/FirstWindow-81
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.0/mingw_64/qml
+-qrcFiles
+E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_FirstWindow-81.qrc
+E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appFirstWindow-81_raw_qml_0.qrc

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/FirstWindow-81/">
+    <file alias="Main.qml">E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/Main.qml</file>
+  </qresource>
+</RCC>
+

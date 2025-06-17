@@ -1,0 +1,10 @@
+-I
+E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-I
+C:/Qt/6.9.0/mingw_64/qml
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_FirstWindow-81.qrc
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/FirstWindow-81/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appFirstWindow-81_raw_qml_0.qrc
+--module
+FirstWindow-81

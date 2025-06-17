@@ -1,0 +1,54 @@
+# ninja log v6
+39	117	7718390594907055	.qt/appCreatingLabel-83_res.txt	6b4dbfb3213a5ffd
+39	117	7718390594907055	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingLabel-83/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appCreatingLabel-83_res.txt	6b4dbfb3213a5ffd
+28	119	7718390594937005	.qt/appCreatingLabel-83_qml.txt	9d3e56840ae137e6
+28	119	7718390594937005	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingLabel-83/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appCreatingLabel-83_qml.txt	9d3e56840ae137e6
+48	278	7718390596504348	.qt/qml_imports/appCreatingLabel-83_build.cmake	c03a231d4e4c9ff3
+48	278	7718390596504348	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingLabel-83/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appCreatingLabel-83_build.cmake	c03a231d4e4c9ff3
+279	695	7718390599769249	appCreatingLabel-83_autogen/timestamp	44abfecdd0aa60ec
+279	695	7718390599769249	appCreatingLabel-83_autogen/mocs_compilation.cpp	44abfecdd0aa60ec
+279	695	7718390599769249	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingLabel-83/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appCreatingLabel-83_autogen/timestamp	44abfecdd0aa60ec
+279	695	7718390599769249	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingLabel-83/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appCreatingLabel-83_autogen/mocs_compilation.cpp	44abfecdd0aa60ec
+708	776	7718390601482832	.qt/rcc/qrc_qmake_CreatingLabel-83.cpp	d542449acddc862b
+708	776	7718390601482832	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingLabel-83/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_CreatingLabel-83.cpp	d542449acddc862b
+700	781	7718390601547733	meta_types/appCreatingLabel-83_json_file_list.txt	a3ef6f3519aa9015
+700	781	7718390601547733	meta_types/appCreatingLabel-83_json_file_list.txt.timestamp	a3ef6f3519aa9015
+700	781	7718390601547733	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingLabel-83/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appCreatingLabel-83_json_file_list.txt	a3ef6f3519aa9015
+700	781	7718390601547733	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingLabel-83/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appCreatingLabel-83_json_file_list.txt.timestamp	a3ef6f3519aa9015
+731	799	7718390601700251	.qt/rcc/qrc_appCreatingLabel-83_raw_qml_0.cpp	1cbb2f797a2fe6ca
+731	799	7718390601700251	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingLabel-83/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appCreatingLabel-83_raw_qml_0.cpp	1cbb2f797a2fe6ca
+718	828	7718390601968321	.rcc/qmlcache/appCreatingLabel-83_qmlcache_loader.cpp	9c487b88ab26cf06
+718	828	7718390601968321	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingLabel-83/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appCreatingLabel-83_qmlcache_loader.cpp	9c487b88ab26cf06
+782	871	7718390602481367	meta_types/qt6appcreatinglabel-83_debug_metatypes.json.gen	907f848e46d3fa89
+782	871	7718390602481367	meta_types/qt6appcreatinglabel-83_debug_metatypes.json	907f848e46d3fa89
+782	871	7718390602481367	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingLabel-83/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appcreatinglabel-83_debug_metatypes.json.gen	907f848e46d3fa89
+782	871	7718390602481367	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingLabel-83/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appcreatinglabel-83_debug_metatypes.json	907f848e46d3fa89
+871	1124	7718390604412603	appcreatinglabel-83_qmltyperegistrations.cpp	229d8cd72adb3c2d
+871	1124	7718390604412603	CreatingLabel-83/appCreatingLabel-83.qmltypes	229d8cd72adb3c2d
+871	1124	7718390604412603	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingLabel-83/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appcreatinglabel-83_qmltyperegistrations.cpp	229d8cd72adb3c2d
+871	1124	7718390604412603	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingLabel-83/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CreatingLabel-83/appCreatingLabel-83.qmltypes	229d8cd72adb3c2d
+1124	1217	7718390605890902	.rcc/qmlcache/appCreatingLabel-83_Main_qml.cpp	2050a24aed2d8216
+1124	1217	7718390605890902	.rcc/qmlcache/appCreatingLabel-83_Main_qml.cpp.aotstats	2050a24aed2d8216
+1124	1217	7718390605890902	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingLabel-83/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appCreatingLabel-83_Main_qml.cpp	2050a24aed2d8216
+1124	1217	7718390605890902	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingLabel-83/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appCreatingLabel-83_Main_qml.cpp.aotstats	2050a24aed2d8216
+1217	1584	7718390606011626	CMakeFiles/appCreatingLabel-83.dir/appCreatingLabel-83_autogen/mocs_compilation.cpp.obj	72ed6b76cf5d487f
+1253	1587	7718390606369498	CMakeFiles/appCreatingLabel-83.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appCreatingLabel-83_raw_qml_0.cpp.obj	86acc003fca6221f
+1235	1589	7718390606179730	CMakeFiles/appCreatingLabel-83.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_CreatingLabel-83.cpp.obj	b6b3e293c8b2c5c5
+1227	4894	7718390606104923	CMakeFiles/appCreatingLabel-83.dir/appcreatinglabel-83_qmltyperegistrations.cpp.obj	b995a229eb00d5ee
+1247	4928	7718390606311047	CMakeFiles/appCreatingLabel-83.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appCreatingLabel-83_Main_qml.cpp.obj	cddf8d242ad4f30d
+1222	5085	7718390606059002	CMakeFiles/appCreatingLabel-83.dir/main.cpp.obj	140026d414281945
+1241	5890	7718390606236385	CMakeFiles/appCreatingLabel-83.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appCreatingLabel-83_qmlcache_loader.cpp.obj	7ef1421a094bf918
+5891	6235	7718390652745879	appCreatingLabel-83.exe	3051adb7de584f6e
+47	92	7718390721520958	.qt/appCreatingLabel-83_qml.txt	9d3e56840ae137e6
+47	92	7718390721520958	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingLabel-83/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appCreatingLabel-83_qml.txt	9d3e56840ae137e6
+55	237	7718390722959912	.qt/qml_imports/appCreatingLabel-83_build.cmake	c03a231d4e4c9ff3
+55	237	7718390722959912	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingLabel-83/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appCreatingLabel-83_build.cmake	c03a231d4e4c9ff3
+245	288	7718390723492890	.qt/rcc/qrc_appCreatingLabel-83_raw_qml_0.cpp	1cbb2f797a2fe6ca
+245	288	7718390723492890	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingLabel-83/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appCreatingLabel-83_raw_qml_0.cpp	1cbb2f797a2fe6ca
+237	330	7718390723891476	.rcc/qmlcache/appCreatingLabel-83_Main_qml.cpp	2050a24aed2d8216
+237	330	7718390723891476	.rcc/qmlcache/appCreatingLabel-83_Main_qml.cpp.aotstats	2050a24aed2d8216
+237	330	7718390723891476	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingLabel-83/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appCreatingLabel-83_Main_qml.cpp	2050a24aed2d8216
+237	330	7718390723891476	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingLabel-83/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appCreatingLabel-83_Main_qml.cpp.aotstats	2050a24aed2d8216
+335	408	7718390724040649	CMakeFiles/appCreatingLabel-83.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appCreatingLabel-83_raw_qml_0.cpp.obj	86acc003fca6221f
+331	2402	7718390723986109	CMakeFiles/appCreatingLabel-83.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appCreatingLabel-83_Main_qml.cpp.obj	cddf8d242ad4f30d
+2402	2632	7718390744702121	appCreatingLabel-83.exe	3051adb7de584f6e

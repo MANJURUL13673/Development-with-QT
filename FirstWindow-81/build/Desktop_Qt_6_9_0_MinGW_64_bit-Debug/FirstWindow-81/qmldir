@@ -1,0 +1,5 @@
+module FirstWindow-81
+typeinfo appFirstWindow-81.qmltypes
+prefer :/qt/qml/FirstWindow-81/
+Main 1.0 Main.qml
+
