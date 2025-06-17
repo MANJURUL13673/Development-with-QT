@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/TabBar-96/">
+    <file alias="Main.qml">E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/Main.qml</file>
+  </qresource>
+</RCC>
+

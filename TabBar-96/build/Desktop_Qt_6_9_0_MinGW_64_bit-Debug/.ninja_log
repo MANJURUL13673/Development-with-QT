@@ -1,0 +1,80 @@
+# ninja log v6
+27	100	7718553647815762	.qt/appTabBar-96_qml.txt	b195b0677c223a00
+27	100	7718553647815762	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTabBar-96_qml.txt	b195b0677c223a00
+38	110	7718553647917428	.qt/appTabBar-96_res.txt	eea6411f3376cc70
+38	110	7718553647917428	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTabBar-96_res.txt	eea6411f3376cc70
+48	269	7718553649491460	.qt/qml_imports/appTabBar-96_build.cmake	2bb8d235df552b4d
+48	269	7718553649491460	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTabBar-96_build.cmake	2bb8d235df552b4d
+269	511	7718553651066630	appTabBar-96_autogen/timestamp	f923cbbb7a52a1f7
+269	511	7718553651066630	appTabBar-96_autogen/mocs_compilation.cpp	f923cbbb7a52a1f7
+269	511	7718553651066630	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTabBar-96_autogen/timestamp	f923cbbb7a52a1f7
+269	511	7718553651066630	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTabBar-96_autogen/mocs_compilation.cpp	f923cbbb7a52a1f7
+525	575	7718553652557426	.qt/rcc/qrc_qmake_TabBar-96.cpp	7b564d8632b9f351
+525	575	7718553652557426	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_TabBar-96.cpp	7b564d8632b9f351
+517	580	7718553652620551	meta_types/appTabBar-96_json_file_list.txt	45af6d6555decd1e
+517	580	7718553652620551	meta_types/appTabBar-96_json_file_list.txt.timestamp	45af6d6555decd1e
+517	580	7718553652620551	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTabBar-96_json_file_list.txt	45af6d6555decd1e
+517	580	7718553652620551	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTabBar-96_json_file_list.txt.timestamp	45af6d6555decd1e
+543	599	7718553652797908	.qt/rcc/qrc_appTabBar-96_raw_qml_0.cpp	4842380d16c43366
+543	599	7718553652797908	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTabBar-96_raw_qml_0.cpp	4842380d16c43366
+533	612	7718553652906917	.rcc/qmlcache/appTabBar-96_qmlcache_loader.cpp	9ec89df254382d52
+533	612	7718553652906917	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTabBar-96_qmlcache_loader.cpp	9ec89df254382d52
+580	648	7718553653316211	meta_types/qt6apptabbar-96_debug_metatypes.json.gen	d73e609d56a2d0d3
+580	648	7718553653316211	meta_types/qt6apptabbar-96_debug_metatypes.json	d73e609d56a2d0d3
+580	648	7718553653316211	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptabbar-96_debug_metatypes.json.gen	d73e609d56a2d0d3
+580	648	7718553653316211	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptabbar-96_debug_metatypes.json	d73e609d56a2d0d3
+649	798	7718553654198461	apptabbar-96_qmltyperegistrations.cpp	43a3a717665be24
+649	798	7718553654198461	TabBar-96/appTabBar-96.qmltypes	43a3a717665be24
+649	798	7718553654198461	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apptabbar-96_qmltyperegistrations.cpp	43a3a717665be24
+649	798	7718553654198461	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/TabBar-96/appTabBar-96.qmltypes	43a3a717665be24
+798	933	7718553656082443	.rcc/qmlcache/appTabBar-96_Main_qml.cpp	db308571ec2553b8
+798	933	7718553656082443	.rcc/qmlcache/appTabBar-96_Main_qml.cpp.aotstats	db308571ec2553b8
+798	933	7718553656082443	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTabBar-96_Main_qml.cpp	db308571ec2553b8
+798	933	7718553656082443	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTabBar-96_Main_qml.cpp.aotstats	db308571ec2553b8
+934	1025	7718553656234214	CMakeFiles/appTabBar-96.dir/appTabBar-96_autogen/mocs_compilation.cpp.obj	264b7e6560f834f6
+951	1069	7718553656412314	CMakeFiles/appTabBar-96.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_TabBar-96.cpp.obj	a12ba038b0019769
+968	1093	7718553656587205	CMakeFiles/appTabBar-96.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTabBar-96_raw_qml_0.cpp.obj	5a49077c6f538794
+942	3912	7718553656323894	CMakeFiles/appTabBar-96.dir/apptabbar-96_qmltyperegistrations.cpp.obj	963df58bf17274c9
+961	4035	7718553656512989	CMakeFiles/appTabBar-96.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTabBar-96_Main_qml.cpp.obj	8c1a277e4ec6dd1a
+938	4199	7718553656281947	CMakeFiles/appTabBar-96.dir/main.cpp.obj	c19123862c35e715
+955	4598	7718553656458840	CMakeFiles/appTabBar-96.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTabBar-96_qmlcache_loader.cpp.obj	45c54097310f19e3
+4599	4839	7718553692889126	appTabBar-96.exe	85479ec62faedbc5
+44	91	7718555032278047	.qt/appTabBar-96_qml.txt	b195b0677c223a00
+44	91	7718555032278047	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTabBar-96_qml.txt	b195b0677c223a00
+52	252	7718555033860894	.qt/qml_imports/appTabBar-96_build.cmake	2bb8d235df552b4d
+52	252	7718555033860894	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTabBar-96_build.cmake	2bb8d235df552b4d
+261	309	7718555034461874	.qt/rcc/qrc_appTabBar-96_raw_qml_0.cpp	4842380d16c43366
+261	309	7718555034461874	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTabBar-96_raw_qml_0.cpp	4842380d16c43366
+252	393	7718555035239539	.rcc/qmlcache/appTabBar-96_Main_qml.cpp	db308571ec2553b8
+252	393	7718555035239539	.rcc/qmlcache/appTabBar-96_Main_qml.cpp.aotstats	db308571ec2553b8
+252	393	7718555035239539	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTabBar-96_Main_qml.cpp	db308571ec2553b8
+252	393	7718555035239539	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTabBar-96_Main_qml.cpp.aotstats	db308571ec2553b8
+398	473	7718555035446536	CMakeFiles/appTabBar-96.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTabBar-96_raw_qml_0.cpp.obj	5a49077c6f538794
+393	2747	7718555035395411	CMakeFiles/appTabBar-96.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTabBar-96_Main_qml.cpp.obj	8c1a277e4ec6dd1a
+2747	2991	7718555058939751	appTabBar-96.exe	85479ec62faedbc5
+71	155	7718581043410316	.qt/appTabBar-96_qml.txt	b195b0677c223a00
+71	155	7718581043410316	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTabBar-96_qml.txt	b195b0677c223a00
+82	314	7718581044979013	.qt/qml_imports/appTabBar-96_build.cmake	2bb8d235df552b4d
+82	314	7718581044979013	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTabBar-96_build.cmake	2bb8d235df552b4d
+324	374	7718581045596735	.qt/rcc/qrc_appTabBar-96_raw_qml_0.cpp	4842380d16c43366
+324	374	7718581045596735	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTabBar-96_raw_qml_0.cpp	4842380d16c43366
+315	465	7718581046440191	.rcc/qmlcache/appTabBar-96_Main_qml.cpp	db308571ec2553b8
+315	465	7718581046440191	.rcc/qmlcache/appTabBar-96_Main_qml.cpp.aotstats	db308571ec2553b8
+315	465	7718581046440191	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTabBar-96_Main_qml.cpp	db308571ec2553b8
+315	465	7718581046440191	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTabBar-96_Main_qml.cpp.aotstats	db308571ec2553b8
+471	892	7718581046649466	CMakeFiles/appTabBar-96.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTabBar-96_raw_qml_0.cpp.obj	5a49077c6f538794
+465	3106	7718581046588508	CMakeFiles/appTabBar-96.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTabBar-96_Main_qml.cpp.obj	8c1a277e4ec6dd1a
+3106	3441	7718581073002034	appTabBar-96.exe	85479ec62faedbc5
+75	148	7718582132328804	.qt/appTabBar-96_qml.txt	b195b0677c223a00
+75	148	7718582132328804	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTabBar-96_qml.txt	b195b0677c223a00
+86	381	7718582134578984	.qt/qml_imports/appTabBar-96_build.cmake	2bb8d235df552b4d
+86	381	7718582134578984	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTabBar-96_build.cmake	2bb8d235df552b4d
+393	459	7718582135421289	.qt/rcc/qrc_appTabBar-96_raw_qml_0.cpp	4842380d16c43366
+393	459	7718582135421289	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTabBar-96_raw_qml_0.cpp	4842380d16c43366
+381	587	7718582136587074	.rcc/qmlcache/appTabBar-96_Main_qml.cpp	db308571ec2553b8
+381	587	7718582136587074	.rcc/qmlcache/appTabBar-96_Main_qml.cpp.aotstats	db308571ec2553b8
+381	587	7718582136587074	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTabBar-96_Main_qml.cpp	db308571ec2553b8
+381	587	7718582136587074	E:/PERSONAL/Learning/QT DEVELOPMENT/TabBar-96/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTabBar-96_Main_qml.cpp.aotstats	db308571ec2553b8
+593	739	7718582136857647	CMakeFiles/appTabBar-96.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTabBar-96_raw_qml_0.cpp.obj	5a49077c6f538794
+587	3770	7718582136806856	CMakeFiles/appTabBar-96.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTabBar-96_Main_qml.cpp.obj	8c1a277e4ec6dd1a
+3770	4171	7718582168630642	appTabBar-96.exe	85479ec62faedbc5
