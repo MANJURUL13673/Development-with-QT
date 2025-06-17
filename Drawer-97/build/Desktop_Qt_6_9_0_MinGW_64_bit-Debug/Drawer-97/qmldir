@@ -1,0 +1,5 @@
+module Drawer-97
+typeinfo appDrawer-97.qmltypes
+prefer :/qt/qml/Drawer-97/
+Main 1.0 Main.qml
+

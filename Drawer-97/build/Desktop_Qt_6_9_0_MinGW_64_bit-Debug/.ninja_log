@@ -1,0 +1,80 @@
+# ninja log v6
+17	71	7718583551429357	.qt/appDrawer-97_qml.txt	4ca6d3698bad7b5b
+17	71	7718583551429357	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appDrawer-97_qml.txt	4ca6d3698bad7b5b
+25	76	7718583551480540	.qt/appDrawer-97_res.txt	f35d2f7287bc89b0
+25	76	7718583551480540	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appDrawer-97_res.txt	f35d2f7287bc89b0
+32	241	7718583553084437	.qt/qml_imports/appDrawer-97_build.cmake	2841bacae8920a12
+32	241	7718583553084437	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appDrawer-97_build.cmake	2841bacae8920a12
+241	499	7718583554743755	appDrawer-97_autogen/timestamp	aaca0f5f190ee010
+241	499	7718583554743755	appDrawer-97_autogen/mocs_compilation.cpp	aaca0f5f190ee010
+241	499	7718583554743755	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appDrawer-97_autogen/timestamp	aaca0f5f190ee010
+241	499	7718583554743755	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appDrawer-97_autogen/mocs_compilation.cpp	aaca0f5f190ee010
+511	563	7718583556314423	.qt/rcc/qrc_qmake_Drawer-97.cpp	a052520a5549f15c
+511	563	7718583556314423	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Drawer-97.cpp	a052520a5549f15c
+504	565	7718583556356257	meta_types/appDrawer-97_json_file_list.txt	57e68c0d0cced878
+504	565	7718583556356257	meta_types/appDrawer-97_json_file_list.txt.timestamp	57e68c0d0cced878
+504	565	7718583556356257	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appDrawer-97_json_file_list.txt	57e68c0d0cced878
+504	565	7718583556356257	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appDrawer-97_json_file_list.txt.timestamp	57e68c0d0cced878
+527	580	7718583556504723	.qt/rcc/qrc_appDrawer-97_raw_qml_0.cpp	ac48555ce4c29fc8
+527	580	7718583556504723	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appDrawer-97_raw_qml_0.cpp	ac48555ce4c29fc8
+519	598	7718583556653157	.rcc/qmlcache/appDrawer-97_qmlcache_loader.cpp	9eedc4705ec63f54
+519	598	7718583556653157	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawer-97_qmlcache_loader.cpp	9eedc4705ec63f54
+565	644	7718583557164806	meta_types/qt6appdrawer-97_debug_metatypes.json.gen	e5ec6cbe9ec71761
+565	644	7718583557164806	meta_types/qt6appdrawer-97_debug_metatypes.json	e5ec6cbe9ec71761
+565	644	7718583557164806	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appdrawer-97_debug_metatypes.json.gen	e5ec6cbe9ec71761
+565	644	7718583557164806	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appdrawer-97_debug_metatypes.json	e5ec6cbe9ec71761
+644	806	7718583558195750	appdrawer-97_qmltyperegistrations.cpp	30bc15e9ed3f6b32
+644	806	7718583558195750	Drawer-97/appDrawer-97.qmltypes	30bc15e9ed3f6b32
+644	806	7718583558195750	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appdrawer-97_qmltyperegistrations.cpp	30bc15e9ed3f6b32
+644	806	7718583558195750	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Drawer-97/appDrawer-97.qmltypes	30bc15e9ed3f6b32
+807	936	7718583560026782	.rcc/qmlcache/appDrawer-97_Main_qml.cpp	edd0c3fee1cb7a49
+807	936	7718583560026782	.rcc/qmlcache/appDrawer-97_Main_qml.cpp.aotstats	edd0c3fee1cb7a49
+807	936	7718583560026782	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawer-97_Main_qml.cpp	edd0c3fee1cb7a49
+807	936	7718583560026782	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawer-97_Main_qml.cpp.aotstats	edd0c3fee1cb7a49
+936	1035	7718583560151836	CMakeFiles/appDrawer-97.dir/appDrawer-97_autogen/mocs_compilation.cpp.obj	9f59cd9fb6f83d1
+963	1075	7718583560426554	CMakeFiles/appDrawer-97.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Drawer-97.cpp.obj	292ea6492257805b
+979	1090	7718583560581676	CMakeFiles/appDrawer-97.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appDrawer-97_raw_qml_0.cpp.obj	8eeed1aaff6ab501
+956	5841	7718583560357255	CMakeFiles/appDrawer-97.dir/appdrawer-97_qmltyperegistrations.cpp.obj	205cc07bc1bcf84d
+973	5854	7718583560532286	CMakeFiles/appDrawer-97.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawer-97_Main_qml.cpp.obj	bbaca466faee4b32
+951	5993	7718583560307467	CMakeFiles/appDrawer-97.dir/main.cpp.obj	f239c5fb2f1624f5
+968	6550	7718583560477973	CMakeFiles/appDrawer-97.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawer-97_qmlcache_loader.cpp.obj	62eb3d16fe4753d3
+6551	6882	7718583616300318	appDrawer-97.exe	32956dc54411a675
+52	118	7718584344539387	.qt/appDrawer-97_qml.txt	4ca6d3698bad7b5b
+52	118	7718584344539387	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appDrawer-97_qml.txt	4ca6d3698bad7b5b
+60	259	7718584345929683	.qt/qml_imports/appDrawer-97_build.cmake	2841bacae8920a12
+60	259	7718584345929683	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appDrawer-97_build.cmake	2841bacae8920a12
+272	320	7718584346550665	.qt/rcc/qrc_appDrawer-97_raw_qml_0.cpp	ac48555ce4c29fc8
+272	320	7718584346550665	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appDrawer-97_raw_qml_0.cpp	ac48555ce4c29fc8
+259	401	7718584347301777	.rcc/qmlcache/appDrawer-97_Main_qml.cpp	edd0c3fee1cb7a49
+259	401	7718584347301777	.rcc/qmlcache/appDrawer-97_Main_qml.cpp.aotstats	edd0c3fee1cb7a49
+259	401	7718584347301777	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawer-97_Main_qml.cpp	edd0c3fee1cb7a49
+259	401	7718584347301777	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawer-97_Main_qml.cpp.aotstats	edd0c3fee1cb7a49
+407	519	7718584347511379	CMakeFiles/appDrawer-97.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appDrawer-97_raw_qml_0.cpp.obj	8eeed1aaff6ab501
+401	2757	7718584347452130	CMakeFiles/appDrawer-97.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawer-97_Main_qml.cpp.obj	bbaca466faee4b32
+2757	2986	7718584371000102	appDrawer-97.exe	32956dc54411a675
+50	92	7718585592448076	.qt/appDrawer-97_qml.txt	4ca6d3698bad7b5b
+50	92	7718585592448076	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appDrawer-97_qml.txt	4ca6d3698bad7b5b
+57	273	7718585594213402	.qt/qml_imports/appDrawer-97_build.cmake	2841bacae8920a12
+57	273	7718585594213402	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appDrawer-97_build.cmake	2841bacae8920a12
+281	327	7718585594799311	.qt/rcc/qrc_appDrawer-97_raw_qml_0.cpp	ac48555ce4c29fc8
+281	327	7718585594799311	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appDrawer-97_raw_qml_0.cpp	ac48555ce4c29fc8
+273	419	7718585595629414	.rcc/qmlcache/appDrawer-97_Main_qml.cpp	edd0c3fee1cb7a49
+273	419	7718585595629414	.rcc/qmlcache/appDrawer-97_Main_qml.cpp.aotstats	edd0c3fee1cb7a49
+273	419	7718585595629414	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawer-97_Main_qml.cpp	edd0c3fee1cb7a49
+273	419	7718585595629414	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawer-97_Main_qml.cpp.aotstats	edd0c3fee1cb7a49
+424	506	7718585595848662	CMakeFiles/appDrawer-97.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appDrawer-97_raw_qml_0.cpp.obj	8eeed1aaff6ab501
+419	2869	7718585595800465	CMakeFiles/appDrawer-97.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawer-97_Main_qml.cpp.obj	bbaca466faee4b32
+2869	3105	7718585620296168	appDrawer-97.exe	32956dc54411a675
+51	99	7718586233940217	.qt/appDrawer-97_qml.txt	4ca6d3698bad7b5b
+51	99	7718586233940217	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appDrawer-97_qml.txt	4ca6d3698bad7b5b
+60	256	7718586235489319	.qt/qml_imports/appDrawer-97_build.cmake	2841bacae8920a12
+60	256	7718586235489319	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appDrawer-97_build.cmake	2841bacae8920a12
+266	314	7718586236088133	.qt/rcc/qrc_appDrawer-97_raw_qml_0.cpp	ac48555ce4c29fc8
+266	314	7718586236088133	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appDrawer-97_raw_qml_0.cpp	ac48555ce4c29fc8
+256	406	7718586236952042	.rcc/qmlcache/appDrawer-97_Main_qml.cpp	edd0c3fee1cb7a49
+256	406	7718586236952042	.rcc/qmlcache/appDrawer-97_Main_qml.cpp.aotstats	edd0c3fee1cb7a49
+256	406	7718586236952042	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawer-97_Main_qml.cpp	edd0c3fee1cb7a49
+256	406	7718586236952042	E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawer-97_Main_qml.cpp.aotstats	edd0c3fee1cb7a49
+412	500	7718586237168027	CMakeFiles/appDrawer-97.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appDrawer-97_raw_qml_0.cpp.obj	8eeed1aaff6ab501
+407	2797	7718586237101826	CMakeFiles/appDrawer-97.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawer-97_Main_qml.cpp.obj	bbaca466faee4b32
+2797	3038	7718586261020367	appDrawer-97.exe	32956dc54411a675

@@ -1,0 +1,14 @@
+-rootPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97
+-cmake-output
+-output-file
+E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appDrawer-97_build.cmake
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Drawer-97
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.0/mingw_64/qml
+-qrcFiles
+E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_Drawer-97.qrc
+E:/PERSONAL/Learning/QT DEVELOPMENT/Drawer-97/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appDrawer-97_raw_qml_0.qrc
