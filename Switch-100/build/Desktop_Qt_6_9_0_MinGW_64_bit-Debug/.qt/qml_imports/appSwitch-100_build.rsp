@@ -1,0 +1,14 @@
+-rootPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100
+-cmake-output
+-output-file
+E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSwitch-100_build.cmake
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Switch-100
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.0/mingw_64/qml
+-qrcFiles
+E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_Switch-100.qrc
+E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appSwitch-100_raw_qml_0.qrc

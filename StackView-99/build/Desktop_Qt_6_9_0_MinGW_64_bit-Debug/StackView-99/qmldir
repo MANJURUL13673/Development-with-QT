@@ -1,0 +1,5 @@
+module StackView-99
+typeinfo appStackView-99.qmltypes
+prefer :/qt/qml/StackView-99/
+Main 1.0 Main.qml
+

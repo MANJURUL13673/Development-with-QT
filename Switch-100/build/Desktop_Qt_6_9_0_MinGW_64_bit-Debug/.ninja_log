@@ -1,0 +1,80 @@
+# ninja log v6
+59	192	7718600976154797	.qt/appSwitch-100_res.txt	b9f61c64f75f368b
+59	192	7718600976154797	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSwitch-100_res.txt	b9f61c64f75f368b
+36	194	7718600976218610	.qt/appSwitch-100_qml.txt	dda0a43fec625685
+36	194	7718600976218610	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSwitch-100_qml.txt	dda0a43fec625685
+83	442	7718600978671947	.qt/qml_imports/appSwitch-100_build.cmake	2361ea6fe9f33b12
+83	442	7718600978671947	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSwitch-100_build.cmake	2361ea6fe9f33b12
+442	820	7718600981361908	appSwitch-100_autogen/timestamp	b82a8d7fbd30237d
+442	820	7718600981361908	appSwitch-100_autogen/mocs_compilation.cpp	b82a8d7fbd30237d
+442	820	7718600981361908	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSwitch-100_autogen/timestamp	b82a8d7fbd30237d
+442	820	7718600981361908	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSwitch-100_autogen/mocs_compilation.cpp	b82a8d7fbd30237d
+826	909	7718600983355858	meta_types/appSwitch-100_json_file_list.txt	a5ef0ffc79aef0f
+826	909	7718600983355858	meta_types/appSwitch-100_json_file_list.txt.timestamp	a5ef0ffc79aef0f
+826	909	7718600983355858	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appSwitch-100_json_file_list.txt	a5ef0ffc79aef0f
+826	909	7718600983355858	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appSwitch-100_json_file_list.txt.timestamp	a5ef0ffc79aef0f
+837	928	7718600983410334	.qt/rcc/qrc_qmake_Switch-100.cpp	bcbc7fcd39b39215
+837	928	7718600983410334	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Switch-100.cpp	bcbc7fcd39b39215
+865	941	7718600983664288	.qt/rcc/qrc_appSwitch-100_raw_qml_0.cpp	9da772d2c8c81d90
+865	941	7718600983664288	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSwitch-100_raw_qml_0.cpp	9da772d2c8c81d90
+851	962	7718600983853020	.rcc/qmlcache/appSwitch-100_qmlcache_loader.cpp	81428307f22355b7
+851	962	7718600983853020	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwitch-100_qmlcache_loader.cpp	81428307f22355b7
+910	1011	7718600984420787	meta_types/qt6appswitch-100_debug_metatypes.json.gen	31c0073fa4a264ef
+910	1011	7718600984420787	meta_types/qt6appswitch-100_debug_metatypes.json	31c0073fa4a264ef
+910	1011	7718600984420787	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appswitch-100_debug_metatypes.json.gen	31c0073fa4a264ef
+910	1011	7718600984420787	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appswitch-100_debug_metatypes.json	31c0073fa4a264ef
+1011	1194	7718600985554086	appswitch-100_qmltyperegistrations.cpp	d230b46280537ce3
+1011	1194	7718600985554086	Switch-100/appSwitch-100.qmltypes	d230b46280537ce3
+1011	1194	7718600985554086	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appswitch-100_qmltyperegistrations.cpp	d230b46280537ce3
+1011	1194	7718600985554086	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Switch-100/appSwitch-100.qmltypes	d230b46280537ce3
+1195	1362	7718600987863181	.rcc/qmlcache/appSwitch-100_Main_qml.cpp	79e84daa01cbdf56
+1195	1362	7718600987863181	.rcc/qmlcache/appSwitch-100_Main_qml.cpp.aotstats	79e84daa01cbdf56
+1195	1362	7718600987863181	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwitch-100_Main_qml.cpp	79e84daa01cbdf56
+1195	1362	7718600987863181	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwitch-100_Main_qml.cpp.aotstats	79e84daa01cbdf56
+1362	1568	7718600988022063	CMakeFiles/appSwitch-100.dir/appSwitch-100_autogen/mocs_compilation.cpp.obj	793e557bcd5a966c
+1405	1650	7718600988448645	CMakeFiles/appSwitch-100.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSwitch-100_raw_qml_0.cpp.obj	4d0da1895c766134
+1384	1651	7718600988239599	CMakeFiles/appSwitch-100.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Switch-100.cpp.obj	3d1ea866c457f6c7
+1374	6402	7718600988125668	CMakeFiles/appSwitch-100.dir/appswitch-100_qmltyperegistrations.cpp.obj	5c7526f897960ac4
+1398	6475	7718600988376097	CMakeFiles/appSwitch-100.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwitch-100_Main_qml.cpp.obj	7c77b05c9a55bcb8
+1368	6699	7718600988074396	CMakeFiles/appSwitch-100.dir/main.cpp.obj	94e1d702c771d68c
+1392	7085	7718600988309245	CMakeFiles/appSwitch-100.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwitch-100_qmlcache_loader.cpp.obj	d4d77061975391
+7085	7438	7718601045241144	appSwitch-100.exe	4422bd4235f1d7e1
+53	102	7718601558652103	.qt/appSwitch-100_qml.txt	dda0a43fec625685
+53	102	7718601558652103	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSwitch-100_qml.txt	dda0a43fec625685
+61	292	7718601560537277	.qt/qml_imports/appSwitch-100_build.cmake	2361ea6fe9f33b12
+61	292	7718601560537277	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSwitch-100_build.cmake	2361ea6fe9f33b12
+301	368	7718601561303873	.qt/rcc/qrc_appSwitch-100_raw_qml_0.cpp	9da772d2c8c81d90
+301	368	7718601561303873	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSwitch-100_raw_qml_0.cpp	9da772d2c8c81d90
+293	483	7718601562387515	.rcc/qmlcache/appSwitch-100_Main_qml.cpp	79e84daa01cbdf56
+293	483	7718601562387515	.rcc/qmlcache/appSwitch-100_Main_qml.cpp.aotstats	79e84daa01cbdf56
+293	483	7718601562387515	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwitch-100_Main_qml.cpp	79e84daa01cbdf56
+293	483	7718601562387515	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwitch-100_Main_qml.cpp.aotstats	79e84daa01cbdf56
+488	573	7718601562627180	CMakeFiles/appSwitch-100.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSwitch-100_raw_qml_0.cpp.obj	4d0da1895c766134
+483	2974	7718601562572119	CMakeFiles/appSwitch-100.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwitch-100_Main_qml.cpp.obj	7c77b05c9a55bcb8
+2974	3225	7718601587481567	appSwitch-100.exe	4422bd4235f1d7e1
+30	83	7718603364365102	.qt/appSwitch-100_qml.txt	dda0a43fec625685
+30	83	7718603364365102	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSwitch-100_qml.txt	dda0a43fec625685
+38	271	7718603366180636	.qt/qml_imports/appSwitch-100_build.cmake	2361ea6fe9f33b12
+38	271	7718603366180636	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSwitch-100_build.cmake	2361ea6fe9f33b12
+281	340	7718603366934602	.qt/rcc/qrc_appSwitch-100_raw_qml_0.cpp	9da772d2c8c81d90
+281	340	7718603366934602	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSwitch-100_raw_qml_0.cpp	9da772d2c8c81d90
+271	453	7718603367938746	.rcc/qmlcache/appSwitch-100_Main_qml.cpp	79e84daa01cbdf56
+271	453	7718603367938746	.rcc/qmlcache/appSwitch-100_Main_qml.cpp.aotstats	79e84daa01cbdf56
+271	453	7718603367938746	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwitch-100_Main_qml.cpp	79e84daa01cbdf56
+271	453	7718603367938746	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwitch-100_Main_qml.cpp.aotstats	79e84daa01cbdf56
+459	544	7718603368211232	CMakeFiles/appSwitch-100.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSwitch-100_raw_qml_0.cpp.obj	4d0da1895c766134
+454	3087	7718603368150551	CMakeFiles/appSwitch-100.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwitch-100_Main_qml.cpp.obj	7c77b05c9a55bcb8
+3087	3334	7718603394487108	appSwitch-100.exe	4422bd4235f1d7e1
+52	96	7718604061781382	.qt/appSwitch-100_qml.txt	dda0a43fec625685
+52	96	7718604061781382	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSwitch-100_qml.txt	dda0a43fec625685
+59	273	7718604063499296	.qt/qml_imports/appSwitch-100_build.cmake	2361ea6fe9f33b12
+59	273	7718604063499296	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSwitch-100_build.cmake	2361ea6fe9f33b12
+282	341	7718604064185323	.qt/rcc/qrc_appSwitch-100_raw_qml_0.cpp	9da772d2c8c81d90
+282	341	7718604064185323	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSwitch-100_raw_qml_0.cpp	9da772d2c8c81d90
+273	445	7718604065178305	.rcc/qmlcache/appSwitch-100_Main_qml.cpp	79e84daa01cbdf56
+273	445	7718604065178305	.rcc/qmlcache/appSwitch-100_Main_qml.cpp.aotstats	79e84daa01cbdf56
+273	445	7718604065178305	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwitch-100_Main_qml.cpp	79e84daa01cbdf56
+273	445	7718604065178305	E:/PERSONAL/Learning/QT DEVELOPMENT/Switch-100/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwitch-100_Main_qml.cpp.aotstats	79e84daa01cbdf56
+451	532	7718604065397456	CMakeFiles/appSwitch-100.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSwitch-100_raw_qml_0.cpp.obj	4d0da1895c766134
+446	2844	7718604065352649	CMakeFiles/appSwitch-100.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSwitch-100_Main_qml.cpp.obj	7c77b05c9a55bcb8
+2844	3085	7718604089335060	appSwitch-100.exe	4422bd4235f1d7e1

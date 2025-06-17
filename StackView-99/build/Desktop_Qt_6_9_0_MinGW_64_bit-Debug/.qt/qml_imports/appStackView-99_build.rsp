@@ -1,0 +1,14 @@
+-rootPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99
+-cmake-output
+-output-file
+E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appStackView-99_build.cmake
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/StackView-99
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.0/mingw_64/qml
+-qrcFiles
+E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_StackView-99.qrc
+E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appStackView-99_raw_qml_0.qrc

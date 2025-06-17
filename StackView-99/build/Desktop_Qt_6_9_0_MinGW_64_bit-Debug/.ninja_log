@@ -1,0 +1,54 @@
+# ninja log v6
+30	99	7718597057639146	.qt/appStackView-99_res.txt	a22b9649b540dfaf
+30	99	7718597057639146	E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appStackView-99_res.txt	a22b9649b540dfaf
+20	100	7718597057671936	.qt/appStackView-99_qml.txt	a1df8354bee24af6
+20	100	7718597057671936	E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appStackView-99_qml.txt	a1df8354bee24af6
+37	277	7718597059395818	.qt/qml_imports/appStackView-99_build.cmake	2b95239756465dde
+37	277	7718597059395818	E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appStackView-99_build.cmake	2b95239756465dde
+278	634	7718597062130576	appStackView-99_autogen/timestamp	81d38b29c907d607
+278	634	7718597062130576	appStackView-99_autogen/mocs_compilation.cpp	81d38b29c907d607
+278	634	7718597062130576	E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appStackView-99_autogen/timestamp	81d38b29c907d607
+278	634	7718597062130576	E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appStackView-99_autogen/mocs_compilation.cpp	81d38b29c907d607
+639	706	7718597063713817	meta_types/appStackView-99_json_file_list.txt	9b34b5f191a3bbc
+639	706	7718597063713817	meta_types/appStackView-99_json_file_list.txt.timestamp	9b34b5f191a3bbc
+639	706	7718597063713817	E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appStackView-99_json_file_list.txt	9b34b5f191a3bbc
+639	706	7718597063713817	E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appStackView-99_json_file_list.txt.timestamp	9b34b5f191a3bbc
+647	716	7718597063702809	.qt/rcc/qrc_qmake_StackView-99.cpp	a2a24314dbfa86aa
+647	716	7718597063702809	E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_StackView-99.cpp	a2a24314dbfa86aa
+667	725	7718597063888522	.qt/rcc/qrc_appStackView-99_raw_qml_0.cpp	742b54f498e32624
+667	725	7718597063888522	E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appStackView-99_raw_qml_0.cpp	742b54f498e32624
+658	750	7718597064133971	.rcc/qmlcache/appStackView-99_qmlcache_loader.cpp	c9e98237dfdd7678
+658	750	7718597064133971	E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appStackView-99_qmlcache_loader.cpp	c9e98237dfdd7678
+706	788	7718597064564757	meta_types/qt6appstackview-99_debug_metatypes.json.gen	6b6738575e997bd6
+706	788	7718597064564757	meta_types/qt6appstackview-99_debug_metatypes.json	6b6738575e997bd6
+706	788	7718597064564757	E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appstackview-99_debug_metatypes.json.gen	6b6738575e997bd6
+706	788	7718597064564757	E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appstackview-99_debug_metatypes.json	6b6738575e997bd6
+788	960	7718597065615050	appstackview-99_qmltyperegistrations.cpp	15e2cbf82b0bec78
+788	960	7718597065615050	StackView-99/appStackView-99.qmltypes	15e2cbf82b0bec78
+788	960	7718597065615050	E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appstackview-99_qmltyperegistrations.cpp	15e2cbf82b0bec78
+788	960	7718597065615050	E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/StackView-99/appStackView-99.qmltypes	15e2cbf82b0bec78
+961	1099	7718597067559289	.rcc/qmlcache/appStackView-99_Main_qml.cpp	3aa3e3f7fad6cd1b
+961	1099	7718597067559289	.rcc/qmlcache/appStackView-99_Main_qml.cpp.aotstats	3aa3e3f7fad6cd1b
+961	1099	7718597067559289	E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appStackView-99_Main_qml.cpp	3aa3e3f7fad6cd1b
+961	1099	7718597067559289	E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appStackView-99_Main_qml.cpp.aotstats	3aa3e3f7fad6cd1b
+1099	1251	7718597067735925	CMakeFiles/appStackView-99.dir/appStackView-99_autogen/mocs_compilation.cpp.obj	fa5b2680c7ac2c0a
+1135	1308	7718597068103427	CMakeFiles/appStackView-99.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appStackView-99_raw_qml_0.cpp.obj	2ac1b87fd619f13f
+1118	1309	7718597067931818	CMakeFiles/appStackView-99.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_StackView-99.cpp.obj	182cf3a2df8b3b56
+1108	4847	7718597067830384	CMakeFiles/appStackView-99.dir/appstackview-99_qmltyperegistrations.cpp.obj	99a0a091a82639ca
+1130	4851	7718597068040067	CMakeFiles/appStackView-99.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appStackView-99_Main_qml.cpp.obj	47598dd5b96a735
+1104	5066	7718597067784417	CMakeFiles/appStackView-99.dir/main.cpp.obj	73a4d5ebb03eab5f
+1125	5473	7718597067997411	CMakeFiles/appStackView-99.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appStackView-99_qmlcache_loader.cpp.obj	21604cb4145e9d5e
+5473	5778	7718597111483355	appStackView-99.exe	1a7714153d1bc267
+69	157	7718597337269818	.qt/appStackView-99_qml.txt	a1df8354bee24af6
+69	157	7718597337269818	E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appStackView-99_qml.txt	a1df8354bee24af6
+79	300	7718597338643761	.qt/qml_imports/appStackView-99_build.cmake	2b95239756465dde
+79	300	7718597338643761	E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appStackView-99_build.cmake	2b95239756465dde
+308	356	7718597339269165	.qt/rcc/qrc_appStackView-99_raw_qml_0.cpp	742b54f498e32624
+308	356	7718597339269165	E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appStackView-99_raw_qml_0.cpp	742b54f498e32624
+300	441	7718597340051941	.rcc/qmlcache/appStackView-99_Main_qml.cpp	3aa3e3f7fad6cd1b
+300	441	7718597340051941	.rcc/qmlcache/appStackView-99_Main_qml.cpp.aotstats	3aa3e3f7fad6cd1b
+300	441	7718597340051941	E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appStackView-99_Main_qml.cpp	3aa3e3f7fad6cd1b
+300	441	7718597340051941	E:/PERSONAL/Learning/QT DEVELOPMENT/StackView-99/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appStackView-99_Main_qml.cpp.aotstats	3aa3e3f7fad6cd1b
+446	525	7718597340235365	CMakeFiles/appStackView-99.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appStackView-99_raw_qml_0.cpp.obj	2ac1b87fd619f13f
+441	2851	7718597340184981	CMakeFiles/appStackView-99.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appStackView-99_Main_qml.cpp.obj	47598dd5b96a735
+2851	3085	7718597364289515	appStackView-99.exe	1a7714153d1bc267
