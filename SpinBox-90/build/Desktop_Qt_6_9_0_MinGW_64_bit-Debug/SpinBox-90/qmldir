@@ -1,0 +1,5 @@
+module SpinBox-90
+typeinfo appSpinBox-90.qmltypes
+prefer :/qt/qml/SpinBox-90/
+Main 1.0 Main.qml
+

@@ -1,0 +1,54 @@
+# ninja log v6
+17	79	7718462661613546	.qt/appSpinBox-90_qml.txt	8ed727a1241197a4
+17	79	7718462661613546	E:/PERSONAL/Learning/QT DEVELOPMENT/SpinBox-90/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSpinBox-90_qml.txt	8ed727a1241197a4
+26	85	7718462661681072	.qt/appSpinBox-90_res.txt	eddd5e93537a5e
+26	85	7718462661681072	E:/PERSONAL/Learning/QT DEVELOPMENT/SpinBox-90/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSpinBox-90_res.txt	eddd5e93537a5e
+35	231	7718462663113672	.qt/qml_imports/appSpinBox-90_build.cmake	9be673ccda332f2b
+35	231	7718462663113672	E:/PERSONAL/Learning/QT DEVELOPMENT/SpinBox-90/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSpinBox-90_build.cmake	9be673ccda332f2b
+231	463	7718462664588197	appSpinBox-90_autogen/timestamp	859694d8e6dec1cf
+231	463	7718462664588197	appSpinBox-90_autogen/mocs_compilation.cpp	859694d8e6dec1cf
+231	463	7718462664588197	E:/PERSONAL/Learning/QT DEVELOPMENT/SpinBox-90/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSpinBox-90_autogen/timestamp	859694d8e6dec1cf
+231	463	7718462664588197	E:/PERSONAL/Learning/QT DEVELOPMENT/SpinBox-90/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSpinBox-90_autogen/mocs_compilation.cpp	859694d8e6dec1cf
+477	533	7718462666124114	.qt/rcc/qrc_qmake_SpinBox-90.cpp	c5736587f68f36bf
+477	533	7718462666124114	E:/PERSONAL/Learning/QT DEVELOPMENT/SpinBox-90/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_SpinBox-90.cpp	c5736587f68f36bf
+469	535	7718462666179473	meta_types/appSpinBox-90_json_file_list.txt	b77b1b8c91bd7d54
+469	535	7718462666179473	meta_types/appSpinBox-90_json_file_list.txt.timestamp	b77b1b8c91bd7d54
+469	535	7718462666179473	E:/PERSONAL/Learning/QT DEVELOPMENT/SpinBox-90/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appSpinBox-90_json_file_list.txt	b77b1b8c91bd7d54
+469	535	7718462666179473	E:/PERSONAL/Learning/QT DEVELOPMENT/SpinBox-90/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appSpinBox-90_json_file_list.txt.timestamp	b77b1b8c91bd7d54
+495	548	7718462666278313	.qt/rcc/qrc_appSpinBox-90_raw_qml_0.cpp	b1395a837bc4c1f4
+495	548	7718462666278313	E:/PERSONAL/Learning/QT DEVELOPMENT/SpinBox-90/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSpinBox-90_raw_qml_0.cpp	b1395a837bc4c1f4
+484	570	7718462666461523	.rcc/qmlcache/appSpinBox-90_qmlcache_loader.cpp	1da807f1034f6046
+484	570	7718462666461523	E:/PERSONAL/Learning/QT DEVELOPMENT/SpinBox-90/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSpinBox-90_qmlcache_loader.cpp	1da807f1034f6046
+536	605	7718462666881161	meta_types/qt6appspinbox-90_debug_metatypes.json.gen	adf4662f8e4f14c1
+536	605	7718462666881161	meta_types/qt6appspinbox-90_debug_metatypes.json	adf4662f8e4f14c1
+536	605	7718462666881161	E:/PERSONAL/Learning/QT DEVELOPMENT/SpinBox-90/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appspinbox-90_debug_metatypes.json.gen	adf4662f8e4f14c1
+536	605	7718462666881161	E:/PERSONAL/Learning/QT DEVELOPMENT/SpinBox-90/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appspinbox-90_debug_metatypes.json	adf4662f8e4f14c1
+606	762	7718462667833782	appspinbox-90_qmltyperegistrations.cpp	110b37637f3ed3d
+606	762	7718462667833782	SpinBox-90/appSpinBox-90.qmltypes	110b37637f3ed3d
+606	762	7718462667833782	E:/PERSONAL/Learning/QT DEVELOPMENT/SpinBox-90/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appspinbox-90_qmltyperegistrations.cpp	110b37637f3ed3d
+606	762	7718462667833782	E:/PERSONAL/Learning/QT DEVELOPMENT/SpinBox-90/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/SpinBox-90/appSpinBox-90.qmltypes	110b37637f3ed3d
+762	898	7718462669734324	.rcc/qmlcache/appSpinBox-90_Main_qml.cpp	f0833731270869fc
+762	898	7718462669734324	.rcc/qmlcache/appSpinBox-90_Main_qml.cpp.aotstats	f0833731270869fc
+762	898	7718462669734324	E:/PERSONAL/Learning/QT DEVELOPMENT/SpinBox-90/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSpinBox-90_Main_qml.cpp	f0833731270869fc
+762	898	7718462669734324	E:/PERSONAL/Learning/QT DEVELOPMENT/SpinBox-90/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSpinBox-90_Main_qml.cpp.aotstats	f0833731270869fc
+899	999	7718462669892844	CMakeFiles/appSpinBox-90.dir/appSpinBox-90_autogen/mocs_compilation.cpp.obj	5bced80e66534112
+917	1037	7718462670076556	CMakeFiles/appSpinBox-90.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_SpinBox-90.cpp.obj	1830ad0eff48e843
+936	1059	7718462670257632	CMakeFiles/appSpinBox-90.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSpinBox-90_raw_qml_0.cpp.obj	249851d3f8ffa481
+908	4805	7718462669988662	CMakeFiles/appSpinBox-90.dir/appspinbox-90_qmltyperegistrations.cpp.obj	67c11553d6c4cb24
+930	4921	7718462670198664	CMakeFiles/appSpinBox-90.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSpinBox-90_Main_qml.cpp.obj	ad8c33368958f1c3
+903	5041	7718462669934758	CMakeFiles/appSpinBox-90.dir/main.cpp.obj	e6071341bd0be813
+922	5662	7718462670132807	CMakeFiles/appSpinBox-90.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSpinBox-90_qmlcache_loader.cpp.obj	98df7ed347a7921e
+5662	6047	7718462717528477	appSpinBox-90.exe	df2ee7dd82577e74
+73	118	7718463502384850	.qt/appSpinBox-90_qml.txt	8ed727a1241197a4
+73	118	7718463502384850	E:/PERSONAL/Learning/QT DEVELOPMENT/SpinBox-90/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSpinBox-90_qml.txt	8ed727a1241197a4
+82	266	7718463503820199	.qt/qml_imports/appSpinBox-90_build.cmake	9be673ccda332f2b
+82	266	7718463503820199	E:/PERSONAL/Learning/QT DEVELOPMENT/SpinBox-90/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSpinBox-90_build.cmake	9be673ccda332f2b
+274	322	7718463504421419	.qt/rcc/qrc_appSpinBox-90_raw_qml_0.cpp	b1395a837bc4c1f4
+274	322	7718463504421419	E:/PERSONAL/Learning/QT DEVELOPMENT/SpinBox-90/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSpinBox-90_raw_qml_0.cpp	b1395a837bc4c1f4
+266	408	7718463505210619	.rcc/qmlcache/appSpinBox-90_Main_qml.cpp	f0833731270869fc
+266	408	7718463505210619	.rcc/qmlcache/appSpinBox-90_Main_qml.cpp.aotstats	f0833731270869fc
+266	408	7718463505210619	E:/PERSONAL/Learning/QT DEVELOPMENT/SpinBox-90/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSpinBox-90_Main_qml.cpp	f0833731270869fc
+266	408	7718463505210619	E:/PERSONAL/Learning/QT DEVELOPMENT/SpinBox-90/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSpinBox-90_Main_qml.cpp.aotstats	f0833731270869fc
+414	490	7718463505417033	CMakeFiles/appSpinBox-90.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSpinBox-90_raw_qml_0.cpp.obj	249851d3f8ffa481
+409	2637	7718463505367266	CMakeFiles/appSpinBox-90.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSpinBox-90_Main_qml.cpp.obj	ad8c33368958f1c3
+2637	2888	7718463527640404	appSpinBox-90.exe	df2ee7dd82577e74

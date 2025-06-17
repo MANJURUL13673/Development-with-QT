@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/SpinBox-90/">
+    <file alias="Main.qml">E:/PERSONAL/Learning/QT DEVELOPMENT/SpinBox-90/Main.qml</file>
+  </qresource>
+</RCC>
+
