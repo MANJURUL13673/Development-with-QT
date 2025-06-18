@@ -1,0 +1,44 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 694,
+                        "errorMessage": "",
+                        "functionName": "acceptedButtons",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 206,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: contextMenu",
+                        "functionName": "onClicked",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 102,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 11
+                    }
+                ],
+                "filepath": "E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/Main.qml"
+            }
+        ],
+        "moduleId": "ContextMenu-103(appContextMenu-103)"
+    }
+]

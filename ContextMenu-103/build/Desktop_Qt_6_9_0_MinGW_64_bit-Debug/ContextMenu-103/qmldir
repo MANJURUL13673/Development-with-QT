@@ -1,0 +1,5 @@
+module ContextMenu-103
+typeinfo appContextMenu-103.qmltypes
+prefer :/qt/qml/ContextMenu-103/
+Main 1.0 Main.qml
+

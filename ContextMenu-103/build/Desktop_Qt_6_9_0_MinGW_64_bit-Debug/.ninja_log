@@ -1,0 +1,93 @@
+# ninja log v6
+17	85	7719335854889373	.qt/appContextMenu-103_qml.txt	cccdc5e741602d59
+17	85	7719335854889373	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appContextMenu-103_qml.txt	cccdc5e741602d59
+27	91	7719335854924913	.qt/appContextMenu-103_res.txt	da025276fc90a5d7
+27	91	7719335854924913	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appContextMenu-103_res.txt	da025276fc90a5d7
+36	251	7719335856534298	.qt/qml_imports/appContextMenu-103_build.cmake	914812a7e9d835d5
+36	251	7719335856534298	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appContextMenu-103_build.cmake	914812a7e9d835d5
+251	495	7719335858099771	appContextMenu-103_autogen/timestamp	9bacd4298b43e687
+251	495	7719335858099771	appContextMenu-103_autogen/mocs_compilation.cpp	9bacd4298b43e687
+251	495	7719335858099771	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appContextMenu-103_autogen/timestamp	9bacd4298b43e687
+251	495	7719335858099771	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appContextMenu-103_autogen/mocs_compilation.cpp	9bacd4298b43e687
+508	556	7719335859573415	.qt/rcc/qrc_qmake_ContextMenu-103.cpp	d0a90f73b7811dd2
+508	556	7719335859573415	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_ContextMenu-103.cpp	d0a90f73b7811dd2
+499	563	7719335859691520	meta_types/appContextMenu-103_json_file_list.txt	c6c53b66e91c98cb
+499	563	7719335859691520	meta_types/appContextMenu-103_json_file_list.txt.timestamp	c6c53b66e91c98cb
+499	563	7719335859691520	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appContextMenu-103_json_file_list.txt	c6c53b66e91c98cb
+499	563	7719335859691520	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appContextMenu-103_json_file_list.txt.timestamp	c6c53b66e91c98cb
+527	581	7719335859851254	.qt/rcc/qrc_appContextMenu-103_raw_qml_0.cpp	3c5ed1b061101381
+527	581	7719335859851254	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appContextMenu-103_raw_qml_0.cpp	3c5ed1b061101381
+514	593	7719335859932715	.rcc/qmlcache/appContextMenu-103_qmlcache_loader.cpp	350327d88f794b4e
+514	593	7719335859932715	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appContextMenu-103_qmlcache_loader.cpp	350327d88f794b4e
+564	631	7719335860375678	meta_types/qt6appcontextmenu-103_debug_metatypes.json.gen	da2e178f244b08a6
+564	631	7719335860375678	meta_types/qt6appcontextmenu-103_debug_metatypes.json	da2e178f244b08a6
+564	631	7719335860375678	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appcontextmenu-103_debug_metatypes.json.gen	da2e178f244b08a6
+564	631	7719335860375678	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appcontextmenu-103_debug_metatypes.json	da2e178f244b08a6
+631	776	7719335861232757	appcontextmenu-103_qmltyperegistrations.cpp	28c7fe674f612e8f
+631	776	7719335861232757	ContextMenu-103/appContextMenu-103.qmltypes	28c7fe674f612e8f
+631	776	7719335861232757	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appcontextmenu-103_qmltyperegistrations.cpp	28c7fe674f612e8f
+631	776	7719335861232757	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/ContextMenu-103/appContextMenu-103.qmltypes	28c7fe674f612e8f
+776	914	7719335863111633	.rcc/qmlcache/appContextMenu-103_Main_qml.cpp	4d93315f3d143d81
+776	914	7719335863111633	.rcc/qmlcache/appContextMenu-103_Main_qml.cpp.aotstats	4d93315f3d143d81
+776	914	7719335863111633	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appContextMenu-103_Main_qml.cpp	4d93315f3d143d81
+776	914	7719335863111633	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appContextMenu-103_Main_qml.cpp.aotstats	4d93315f3d143d81
+914	1005	7719335863263464	CMakeFiles/appContextMenu-103.dir/appContextMenu-103_autogen/mocs_compilation.cpp.obj	b4263eff36b26900
+931	1043	7719335863430962	CMakeFiles/appContextMenu-103.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_ContextMenu-103.cpp.obj	e889e797dedc1b2d
+948	1062	7719335863610910	CMakeFiles/appContextMenu-103.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appContextMenu-103_raw_qml_0.cpp.obj	4622aa1196626077
+924	4303	7719335863368149	CMakeFiles/appContextMenu-103.dir/appcontextmenu-103_qmltyperegistrations.cpp.obj	10c316b51598c509
+943	4438	7719335863558584	CMakeFiles/appContextMenu-103.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appContextMenu-103_Main_qml.cpp.obj	98e12e3e648442d
+919	4524	7719335863311240	CMakeFiles/appContextMenu-103.dir/main.cpp.obj	f8df6aa00e4ff334
+938	4907	7719335863496994	CMakeFiles/appContextMenu-103.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appContextMenu-103_qmlcache_loader.cpp.obj	4ef117ca01d0bc57
+4908	5159	7719335903196530	appContextMenu-103.exe	1b7a978b66d97db3
+53	104	7719336243360512	.qt/appContextMenu-103_qml.txt	cccdc5e741602d59
+53	104	7719336243360512	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appContextMenu-103_qml.txt	cccdc5e741602d59
+62	242	7719336244735269	.qt/qml_imports/appContextMenu-103_build.cmake	914812a7e9d835d5
+62	242	7719336244735269	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appContextMenu-103_build.cmake	914812a7e9d835d5
+250	295	7719336245275428	.qt/rcc/qrc_appContextMenu-103_raw_qml_0.cpp	3c5ed1b061101381
+250	295	7719336245275428	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appContextMenu-103_raw_qml_0.cpp	3c5ed1b061101381
+242	373	7719336246017895	.rcc/qmlcache/appContextMenu-103_Main_qml.cpp	4d93315f3d143d81
+242	373	7719336246017895	.rcc/qmlcache/appContextMenu-103_Main_qml.cpp.aotstats	4d93315f3d143d81
+242	373	7719336246017895	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appContextMenu-103_Main_qml.cpp	4d93315f3d143d81
+242	373	7719336246017895	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appContextMenu-103_Main_qml.cpp.aotstats	4d93315f3d143d81
+379	449	7719336246199201	CMakeFiles/appContextMenu-103.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appContextMenu-103_raw_qml_0.cpp.obj	4622aa1196626077
+373	2526	7719336246148840	CMakeFiles/appContextMenu-103.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appContextMenu-103_Main_qml.cpp.obj	98e12e3e648442d
+2526	2750	7719336267674258	appContextMenu-103.exe	1b7a978b66d97db3
+46	88	7719336577791301	.qt/appContextMenu-103_qml.txt	cccdc5e741602d59
+46	88	7719336577791301	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appContextMenu-103_qml.txt	cccdc5e741602d59
+54	225	7719336579120891	.qt/qml_imports/appContextMenu-103_build.cmake	914812a7e9d835d5
+54	225	7719336579120891	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appContextMenu-103_build.cmake	914812a7e9d835d5
+232	273	7719336579613839	.qt/rcc/qrc_appContextMenu-103_raw_qml_0.cpp	3c5ed1b061101381
+232	273	7719336579613839	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appContextMenu-103_raw_qml_0.cpp	3c5ed1b061101381
+225	358	7719336580401008	.rcc/qmlcache/appContextMenu-103_Main_qml.cpp	4d93315f3d143d81
+225	358	7719336580401008	.rcc/qmlcache/appContextMenu-103_Main_qml.cpp.aotstats	4d93315f3d143d81
+225	358	7719336580401008	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appContextMenu-103_Main_qml.cpp	4d93315f3d143d81
+225	358	7719336580401008	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appContextMenu-103_Main_qml.cpp.aotstats	4d93315f3d143d81
+363	432	7719336580594049	CMakeFiles/appContextMenu-103.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appContextMenu-103_raw_qml_0.cpp.obj	4622aa1196626077
+358	2493	7719336580554246	CMakeFiles/appContextMenu-103.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appContextMenu-103_Main_qml.cpp.obj	98e12e3e648442d
+2493	2718	7719336601900297	appContextMenu-103.exe	1b7a978b66d97db3
+48	100	7719338427824371	.qt/appContextMenu-103_qml.txt	cccdc5e741602d59
+48	100	7719338427824371	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appContextMenu-103_qml.txt	cccdc5e741602d59
+56	253	7719338429321986	.qt/qml_imports/appContextMenu-103_build.cmake	914812a7e9d835d5
+56	253	7719338429321986	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appContextMenu-103_build.cmake	914812a7e9d835d5
+262	303	7719338429852118	.qt/rcc/qrc_appContextMenu-103_raw_qml_0.cpp	3c5ed1b061101381
+262	303	7719338429852118	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appContextMenu-103_raw_qml_0.cpp	3c5ed1b061101381
+253	384	7719338430603134	.rcc/qmlcache/appContextMenu-103_Main_qml.cpp	4d93315f3d143d81
+253	384	7719338430603134	.rcc/qmlcache/appContextMenu-103_Main_qml.cpp.aotstats	4d93315f3d143d81
+253	384	7719338430603134	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appContextMenu-103_Main_qml.cpp	4d93315f3d143d81
+253	384	7719338430603134	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appContextMenu-103_Main_qml.cpp.aotstats	4d93315f3d143d81
+389	464	7719338430779709	CMakeFiles/appContextMenu-103.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appContextMenu-103_raw_qml_0.cpp.obj	4622aa1196626077
+384	2486	7719338430736433	CMakeFiles/appContextMenu-103.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appContextMenu-103_Main_qml.cpp.obj	98e12e3e648442d
+2486	2716	7719338451756299	appContextMenu-103.exe	1b7a978b66d97db3
+28	70	7719343549852503	.qt/appContextMenu-103_qml.txt	cccdc5e741602d59
+28	70	7719343549852503	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appContextMenu-103_qml.txt	cccdc5e741602d59
+36	212	7719343551260448	.qt/qml_imports/appContextMenu-103_build.cmake	914812a7e9d835d5
+36	212	7719343551260448	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appContextMenu-103_build.cmake	914812a7e9d835d5
+221	260	7719343551740643	.qt/rcc/qrc_appContextMenu-103_raw_qml_0.cpp	3c5ed1b061101381
+221	260	7719343551740643	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appContextMenu-103_raw_qml_0.cpp	3c5ed1b061101381
+213	341	7719343552492342	.rcc/qmlcache/appContextMenu-103_Main_qml.cpp	4d93315f3d143d81
+213	341	7719343552492342	.rcc/qmlcache/appContextMenu-103_Main_qml.cpp.aotstats	4d93315f3d143d81
+213	341	7719343552492342	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appContextMenu-103_Main_qml.cpp	4d93315f3d143d81
+213	341	7719343552492342	E:/PERSONAL/Learning/QT DEVELOPMENT/ContextMenu-103/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appContextMenu-103_Main_qml.cpp.aotstats	4d93315f3d143d81
+345	417	7719343552673922	CMakeFiles/appContextMenu-103.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appContextMenu-103_raw_qml_0.cpp.obj	4622aa1196626077
+341	2592	7719343552632112	CMakeFiles/appContextMenu-103.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appContextMenu-103_Main_qml.cpp.obj	98e12e3e648442d
+2593	2824	7719343575145943	appContextMenu-103.exe	1b7a978b66d97db3
