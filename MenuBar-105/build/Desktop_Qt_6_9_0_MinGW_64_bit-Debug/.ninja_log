@@ -1,0 +1,41 @@
+# ninja log v6
+32	123	7719387309663244	.qt/appMenuBar-105_res.txt	56adfc03afbbca9e
+32	123	7719387309663244	E:/PERSONAL/Learning/QT DEVELOPMENT/MenuBar-105/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appMenuBar-105_res.txt	56adfc03afbbca9e
+22	127	7719387309755667	.qt/appMenuBar-105_qml.txt	c1f4138f2e56dc5e
+22	127	7719387309755667	E:/PERSONAL/Learning/QT DEVELOPMENT/MenuBar-105/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appMenuBar-105_qml.txt	c1f4138f2e56dc5e
+42	329	7719387311782839	.qt/qml_imports/appMenuBar-105_build.cmake	251e38e3dff66669
+42	329	7719387311782839	E:/PERSONAL/Learning/QT DEVELOPMENT/MenuBar-105/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appMenuBar-105_build.cmake	251e38e3dff66669
+330	702	7719387314651812	appMenuBar-105_autogen/timestamp	d2114b9e0760d47e
+330	702	7719387314651812	appMenuBar-105_autogen/mocs_compilation.cpp	d2114b9e0760d47e
+330	702	7719387314651812	E:/PERSONAL/Learning/QT DEVELOPMENT/MenuBar-105/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appMenuBar-105_autogen/timestamp	d2114b9e0760d47e
+330	702	7719387314651812	E:/PERSONAL/Learning/QT DEVELOPMENT/MenuBar-105/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appMenuBar-105_autogen/mocs_compilation.cpp	d2114b9e0760d47e
+714	775	7719387316249845	.qt/rcc/qrc_qmake_MenuBar-105.cpp	969a3c8e488da9b0
+714	775	7719387316249845	E:/PERSONAL/Learning/QT DEVELOPMENT/MenuBar-105/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_MenuBar-105.cpp	969a3c8e488da9b0
+706	776	7719387316278893	meta_types/appMenuBar-105_json_file_list.txt	7de5666097b674d6
+706	776	7719387316278893	meta_types/appMenuBar-105_json_file_list.txt.timestamp	7de5666097b674d6
+706	776	7719387316278893	E:/PERSONAL/Learning/QT DEVELOPMENT/MenuBar-105/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appMenuBar-105_json_file_list.txt	7de5666097b674d6
+706	776	7719387316278893	E:/PERSONAL/Learning/QT DEVELOPMENT/MenuBar-105/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appMenuBar-105_json_file_list.txt.timestamp	7de5666097b674d6
+733	790	7719387316424169	.qt/rcc/qrc_appMenuBar-105_raw_qml_0.cpp	cafa347281916dc
+733	790	7719387316424169	E:/PERSONAL/Learning/QT DEVELOPMENT/MenuBar-105/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appMenuBar-105_raw_qml_0.cpp	cafa347281916dc
+721	813	7719387316624777	.rcc/qmlcache/appMenuBar-105_qmlcache_loader.cpp	5f0414959e5b415a
+721	813	7719387316624777	E:/PERSONAL/Learning/QT DEVELOPMENT/MenuBar-105/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appMenuBar-105_qmlcache_loader.cpp	5f0414959e5b415a
+776	854	7719387317083462	meta_types/qt6appmenubar-105_debug_metatypes.json.gen	6a7fd2ed16f13f3f
+776	854	7719387317083462	meta_types/qt6appmenubar-105_debug_metatypes.json	6a7fd2ed16f13f3f
+776	854	7719387317083462	E:/PERSONAL/Learning/QT DEVELOPMENT/MenuBar-105/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appmenubar-105_debug_metatypes.json.gen	6a7fd2ed16f13f3f
+776	854	7719387317083462	E:/PERSONAL/Learning/QT DEVELOPMENT/MenuBar-105/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appmenubar-105_debug_metatypes.json	6a7fd2ed16f13f3f
+854	1017	7719387318082135	appmenubar-105_qmltyperegistrations.cpp	ecbc6f23f4ca5f4
+854	1017	7719387318082135	MenuBar-105/appMenuBar-105.qmltypes	ecbc6f23f4ca5f4
+854	1017	7719387318082135	E:/PERSONAL/Learning/QT DEVELOPMENT/MenuBar-105/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appmenubar-105_qmltyperegistrations.cpp	ecbc6f23f4ca5f4
+854	1017	7719387318082135	E:/PERSONAL/Learning/QT DEVELOPMENT/MenuBar-105/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/MenuBar-105/appMenuBar-105.qmltypes	ecbc6f23f4ca5f4
+1017	1153	7719387319983620	.rcc/qmlcache/appMenuBar-105_Main_qml.cpp	aae3a27a1565e896
+1017	1153	7719387319983620	.rcc/qmlcache/appMenuBar-105_Main_qml.cpp.aotstats	aae3a27a1565e896
+1017	1153	7719387319983620	E:/PERSONAL/Learning/QT DEVELOPMENT/MenuBar-105/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appMenuBar-105_Main_qml.cpp	aae3a27a1565e896
+1017	1153	7719387319983620	E:/PERSONAL/Learning/QT DEVELOPMENT/MenuBar-105/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appMenuBar-105_Main_qml.cpp.aotstats	aae3a27a1565e896
+1153	1329	7719387320149837	CMakeFiles/appMenuBar-105.dir/appMenuBar-105_autogen/mocs_compilation.cpp.obj	6c98c7f19c096525
+1172	1399	7719387320330871	CMakeFiles/appMenuBar-105.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_MenuBar-105.cpp.obj	a84e0c4f509cbac7
+1191	1399	7719387320521209	CMakeFiles/appMenuBar-105.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appMenuBar-105_raw_qml_0.cpp.obj	f06d2a2f7d39d691
+1184	5488	7719387320456588	CMakeFiles/appMenuBar-105.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appMenuBar-105_Main_qml.cpp.obj	2f387134ad398844
+1165	5505	7719387320252634	CMakeFiles/appMenuBar-105.dir/appmenubar-105_qmltyperegistrations.cpp.obj	82d2606bb5de909e
+1158	5613	7719387320193587	CMakeFiles/appMenuBar-105.dir/main.cpp.obj	2fdb57fb5867056d
+1176	6034	7719387320372418	CMakeFiles/appMenuBar-105.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appMenuBar-105_qmlcache_loader.cpp.obj	8f9788443df1d979
+6034	6398	7719387368956003	appMenuBar-105.exe	18b257c6632c24ee

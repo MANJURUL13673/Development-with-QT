@@ -1,0 +1,5 @@
+module MenuBar-105
+typeinfo appMenuBar-105.qmltypes
+prefer :/qt/qml/MenuBar-105/
+Main 1.0 Main.qml
+

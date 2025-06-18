@@ -1,0 +1,12 @@
+--bare
+-I
+E:/PERSONAL/Learning/QT DEVELOPMENT/MenuBar-105/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-I
+C:/Qt/6.9.0/mingw_64/qml
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/MenuBar-105/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_MenuBar-105.qrc
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/MenuBar-105/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appMenuBar-105_raw_qml_0.qrc
+E:/PERSONAL/Learning/QT DEVELOPMENT/MenuBar-105/Main.qml
+--json
+E:/PERSONAL/Learning/QT DEVELOPMENT/MenuBar-105/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appMenuBar-105_qmllint.json
