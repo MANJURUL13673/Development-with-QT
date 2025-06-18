@@ -1,0 +1,14 @@
+-rootPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/PopupMenu-104
+-cmake-output
+-output-file
+E:/PERSONAL/Learning/QT DEVELOPMENT/PopupMenu-104/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appPopupMenu-104_build.cmake
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/PopupMenu-104/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/PopupMenu-104
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/PopupMenu-104/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.0/mingw_64/qml
+-qrcFiles
+E:/PERSONAL/Learning/QT DEVELOPMENT/PopupMenu-104/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_PopupMenu-104.qrc
+E:/PERSONAL/Learning/QT DEVELOPMENT/PopupMenu-104/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appPopupMenu-104_raw_qml_0.qrc

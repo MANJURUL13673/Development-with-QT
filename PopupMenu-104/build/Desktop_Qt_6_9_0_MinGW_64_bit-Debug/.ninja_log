@@ -1,0 +1,41 @@
+# ninja log v6
+27	90	7719346123094586	.qt/appPopupMenu-104_res.txt	d2af346a789ad660
+27	90	7719346123094586	E:/PERSONAL/Learning/QT DEVELOPMENT/PopupMenu-104/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appPopupMenu-104_res.txt	d2af346a789ad660
+18	99	7719346123211524	.qt/appPopupMenu-104_qml.txt	a4d26a6e414e18c2
+18	99	7719346123211524	E:/PERSONAL/Learning/QT DEVELOPMENT/PopupMenu-104/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appPopupMenu-104_qml.txt	a4d26a6e414e18c2
+36	268	7719346124883493	.qt/qml_imports/appPopupMenu-104_build.cmake	153eb0aed5d92ab4
+36	268	7719346124883493	E:/PERSONAL/Learning/QT DEVELOPMENT/PopupMenu-104/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appPopupMenu-104_build.cmake	153eb0aed5d92ab4
+268	528	7719346126644157	appPopupMenu-104_autogen/timestamp	a2d0490b87f08a9a
+268	528	7719346126644157	appPopupMenu-104_autogen/mocs_compilation.cpp	a2d0490b87f08a9a
+268	528	7719346126644157	E:/PERSONAL/Learning/QT DEVELOPMENT/PopupMenu-104/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appPopupMenu-104_autogen/timestamp	a2d0490b87f08a9a
+268	528	7719346126644157	E:/PERSONAL/Learning/QT DEVELOPMENT/PopupMenu-104/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appPopupMenu-104_autogen/mocs_compilation.cpp	a2d0490b87f08a9a
+541	595	7719346128162857	.qt/rcc/qrc_qmake_PopupMenu-104.cpp	f31010aec50a1dbc
+541	595	7719346128162857	E:/PERSONAL/Learning/QT DEVELOPMENT/PopupMenu-104/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_PopupMenu-104.cpp	f31010aec50a1dbc
+533	598	7719346128212726	meta_types/appPopupMenu-104_json_file_list.txt	eb2856925f98657d
+533	598	7719346128212726	meta_types/appPopupMenu-104_json_file_list.txt.timestamp	eb2856925f98657d
+533	598	7719346128212726	E:/PERSONAL/Learning/QT DEVELOPMENT/PopupMenu-104/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appPopupMenu-104_json_file_list.txt	eb2856925f98657d
+533	598	7719346128212726	E:/PERSONAL/Learning/QT DEVELOPMENT/PopupMenu-104/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appPopupMenu-104_json_file_list.txt.timestamp	eb2856925f98657d
+561	617	7719346128388132	.qt/rcc/qrc_appPopupMenu-104_raw_qml_0.cpp	a0c2be3f962d8629
+561	617	7719346128388132	E:/PERSONAL/Learning/QT DEVELOPMENT/PopupMenu-104/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appPopupMenu-104_raw_qml_0.cpp	a0c2be3f962d8629
+548	637	7719346128563385	.rcc/qmlcache/appPopupMenu-104_qmlcache_loader.cpp	6d275ffb62082ff5
+548	637	7719346128563385	E:/PERSONAL/Learning/QT DEVELOPMENT/PopupMenu-104/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPopupMenu-104_qmlcache_loader.cpp	6d275ffb62082ff5
+598	676	7719346128985709	meta_types/qt6apppopupmenu-104_debug_metatypes.json.gen	af744a8b0bac4249
+598	676	7719346128985709	meta_types/qt6apppopupmenu-104_debug_metatypes.json	af744a8b0bac4249
+598	676	7719346128985709	E:/PERSONAL/Learning/QT DEVELOPMENT/PopupMenu-104/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apppopupmenu-104_debug_metatypes.json.gen	af744a8b0bac4249
+598	676	7719346128985709	E:/PERSONAL/Learning/QT DEVELOPMENT/PopupMenu-104/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apppopupmenu-104_debug_metatypes.json	af744a8b0bac4249
+676	832	7719346129951574	apppopupmenu-104_qmltyperegistrations.cpp	b73d7e79401d5057
+676	832	7719346129951574	PopupMenu-104/appPopupMenu-104.qmltypes	b73d7e79401d5057
+676	832	7719346129951574	E:/PERSONAL/Learning/QT DEVELOPMENT/PopupMenu-104/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apppopupmenu-104_qmltyperegistrations.cpp	b73d7e79401d5057
+676	832	7719346129951574	E:/PERSONAL/Learning/QT DEVELOPMENT/PopupMenu-104/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/PopupMenu-104/appPopupMenu-104.qmltypes	b73d7e79401d5057
+832	990	7719346132045507	.rcc/qmlcache/appPopupMenu-104_Main_qml.cpp	a760820a840264a
+832	990	7719346132045507	.rcc/qmlcache/appPopupMenu-104_Main_qml.cpp.aotstats	a760820a840264a
+832	990	7719346132045507	E:/PERSONAL/Learning/QT DEVELOPMENT/PopupMenu-104/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPopupMenu-104_Main_qml.cpp	a760820a840264a
+832	990	7719346132045507	E:/PERSONAL/Learning/QT DEVELOPMENT/PopupMenu-104/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPopupMenu-104_Main_qml.cpp.aotstats	a760820a840264a
+990	1111	7719346132215246	CMakeFiles/appPopupMenu-104.dir/appPopupMenu-104_autogen/mocs_compilation.cpp.obj	44e1c9cdb6834970
+1017	1168	7719346132482117	CMakeFiles/appPopupMenu-104.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_PopupMenu-104.cpp.obj	4e579f239ef0e994
+1039	1194	7719346132702939	CMakeFiles/appPopupMenu-104.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appPopupMenu-104_raw_qml_0.cpp.obj	e2c0a6775d2b676a
+1009	5102	7719346132403451	CMakeFiles/appPopupMenu-104.dir/apppopupmenu-104_qmltyperegistrations.cpp.obj	e0e24aaca0b81024
+1004	5110	7719346132348752	CMakeFiles/appPopupMenu-104.dir/main.cpp.obj	1a8f50936ba3fb6b
+1032	5112	7719346132624399	CMakeFiles/appPopupMenu-104.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPopupMenu-104_Main_qml.cpp.obj	354fa08983e948a7
+1024	5485	7719346132557364	CMakeFiles/appPopupMenu-104.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPopupMenu-104_qmlcache_loader.cpp.obj	2fa9bffce02813bb
+5485	5819	7719346177163753	appPopupMenu-104.exe	3c4196cd61894c59

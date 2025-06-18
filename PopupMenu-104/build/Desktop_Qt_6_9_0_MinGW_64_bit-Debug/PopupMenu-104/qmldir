@@ -1,0 +1,5 @@
+module PopupMenu-104
+typeinfo appPopupMenu-104.qmltypes
+prefer :/qt/qml/PopupMenu-104/
+Main 1.0 Main.qml
+
