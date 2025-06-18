@@ -1,0 +1,5 @@
+module ToolTip-106
+typeinfo appToolTip-106.qmltypes
+prefer :/qt/qml/ToolTip-106/
+Main 1.0 Main.qml
+

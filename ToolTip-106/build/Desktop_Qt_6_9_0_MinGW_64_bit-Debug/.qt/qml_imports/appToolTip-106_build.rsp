@@ -1,0 +1,14 @@
+-rootPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106
+-cmake-output
+-output-file
+E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appToolTip-106_build.cmake
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/ToolTip-106
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.0/mingw_64/qml
+-qrcFiles
+E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_ToolTip-106.qrc
+E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appToolTip-106_raw_qml_0.qrc

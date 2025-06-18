@@ -1,0 +1,54 @@
+# ninja log v6
+18	77	7719388780093086	.qt/appToolTip-106_qml.txt	4a30ffad696e0406
+18	77	7719388780093086	E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appToolTip-106_qml.txt	4a30ffad696e0406
+25	82	7719388780138911	.qt/appToolTip-106_res.txt	47e9061bb1ae9cc0
+25	82	7719388780138911	E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appToolTip-106_res.txt	47e9061bb1ae9cc0
+35	243	7719388781730305	.qt/qml_imports/appToolTip-106_build.cmake	b9bb40b5927e02bf
+35	243	7719388781730305	E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appToolTip-106_build.cmake	b9bb40b5927e02bf
+243	486	7719388783313338	appToolTip-106_autogen/timestamp	d6ef8f545293ae10
+243	486	7719388783313338	appToolTip-106_autogen/mocs_compilation.cpp	d6ef8f545293ae10
+243	486	7719388783313338	E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appToolTip-106_autogen/timestamp	d6ef8f545293ae10
+243	486	7719388783313338	E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appToolTip-106_autogen/mocs_compilation.cpp	d6ef8f545293ae10
+491	552	7719388784818425	meta_types/appToolTip-106_json_file_list.txt	e6e653b40847f538
+491	552	7719388784818425	meta_types/appToolTip-106_json_file_list.txt.timestamp	e6e653b40847f538
+491	552	7719388784818425	E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appToolTip-106_json_file_list.txt	e6e653b40847f538
+491	552	7719388784818425	E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appToolTip-106_json_file_list.txt.timestamp	e6e653b40847f538
+499	564	7719388784878034	.qt/rcc/qrc_qmake_ToolTip-106.cpp	e1b4e4d521d7709c
+499	564	7719388784878034	E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_ToolTip-106.cpp	e1b4e4d521d7709c
+518	569	7719388784984874	.qt/rcc/qrc_appToolTip-106_raw_qml_0.cpp	e82029f162b0ae
+518	569	7719388784984874	E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appToolTip-106_raw_qml_0.cpp	e82029f162b0ae
+507	588	7719388785162925	.rcc/qmlcache/appToolTip-106_qmlcache_loader.cpp	fd8b9524aa00797f
+507	588	7719388785162925	E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appToolTip-106_qmlcache_loader.cpp	fd8b9524aa00797f
+553	619	7719388785527981	meta_types/qt6apptooltip-106_debug_metatypes.json.gen	f7bca417a1e5472f
+553	619	7719388785527981	meta_types/qt6apptooltip-106_debug_metatypes.json	f7bca417a1e5472f
+553	619	7719388785527981	E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptooltip-106_debug_metatypes.json.gen	f7bca417a1e5472f
+553	619	7719388785527981	E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptooltip-106_debug_metatypes.json	f7bca417a1e5472f
+620	780	7719388786455110	apptooltip-106_qmltyperegistrations.cpp	c6b104afc8729e6d
+620	780	7719388786455110	ToolTip-106/appToolTip-106.qmltypes	c6b104afc8729e6d
+620	780	7719388786455110	E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apptooltip-106_qmltyperegistrations.cpp	c6b104afc8729e6d
+620	780	7719388786455110	E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/ToolTip-106/appToolTip-106.qmltypes	c6b104afc8729e6d
+780	917	7719388788411496	.rcc/qmlcache/appToolTip-106_Main_qml.cpp	dfc850d91c439a4d
+780	917	7719388788411496	.rcc/qmlcache/appToolTip-106_Main_qml.cpp.aotstats	dfc850d91c439a4d
+780	917	7719388788411496	E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appToolTip-106_Main_qml.cpp	dfc850d91c439a4d
+780	917	7719388788411496	E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appToolTip-106_Main_qml.cpp.aotstats	dfc850d91c439a4d
+917	1005	7719388788569713	CMakeFiles/appToolTip-106.dir/appToolTip-106_autogen/mocs_compilation.cpp.obj	94551a1920c8f98c
+935	1042	7719388788745179	CMakeFiles/appToolTip-106.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_ToolTip-106.cpp.obj	18c717610f7eb96c
+953	1060	7719388788938197	CMakeFiles/appToolTip-106.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appToolTip-106_raw_qml_0.cpp.obj	3d79ab6b7c18d738
+927	4233	7719388788672281	CMakeFiles/appToolTip-106.dir/apptooltip-106_qmltyperegistrations.cpp.obj	d7c1309af15578c9
+948	4396	7719388788873606	CMakeFiles/appToolTip-106.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appToolTip-106_Main_qml.cpp.obj	a7c0645235400789
+922	4523	7719388788621940	CMakeFiles/appToolTip-106.dir/main.cpp.obj	a5d1e4241db0e2bd
+939	4904	7719388788794221	CMakeFiles/appToolTip-106.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appToolTip-106_qmlcache_loader.cpp.obj	65ddbeeae1ede28a
+4904	5217	7719388828438843	appToolTip-106.exe	88032627bb525d31
+70	120	7719389496904732	.qt/appToolTip-106_qml.txt	4a30ffad696e0406
+70	120	7719389496904732	E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appToolTip-106_qml.txt	4a30ffad696e0406
+79	296	7719389498647923	.qt/qml_imports/appToolTip-106_build.cmake	b9bb40b5927e02bf
+79	296	7719389498647923	E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appToolTip-106_build.cmake	b9bb40b5927e02bf
+304	350	7719389499221864	.qt/rcc/qrc_appToolTip-106_raw_qml_0.cpp	e82029f162b0ae
+304	350	7719389499221864	E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appToolTip-106_raw_qml_0.cpp	e82029f162b0ae
+296	435	7719389499997840	.rcc/qmlcache/appToolTip-106_Main_qml.cpp	dfc850d91c439a4d
+296	435	7719389499997840	.rcc/qmlcache/appToolTip-106_Main_qml.cpp.aotstats	dfc850d91c439a4d
+296	435	7719389499997840	E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appToolTip-106_Main_qml.cpp	dfc850d91c439a4d
+296	435	7719389499997840	E:/PERSONAL/Learning/QT DEVELOPMENT/ToolTip-106/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appToolTip-106_Main_qml.cpp.aotstats	dfc850d91c439a4d
+440	518	7719389500191527	CMakeFiles/appToolTip-106.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appToolTip-106_raw_qml_0.cpp.obj	3d79ab6b7c18d738
+435	2692	7719389500140852	CMakeFiles/appToolTip-106.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appToolTip-106_Main_qml.cpp.obj	a7c0645235400789
+2692	2918	7719389522703249	appToolTip-106.exe	88032627bb525d31
