@@ -1,0 +1,5 @@
+module Frame-102
+typeinfo appFrame-102.qmltypes
+prefer :/qt/qml/Frame-102/
+Main 1.0 Main.qml
+

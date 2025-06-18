@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/ScrollView-101/">
+    <file alias="Main.qml">E:/PERSONAL/Learning/QT DEVELOPMENT/ScrollView-101/Main.qml</file>
+  </qresource>
+</RCC>
+

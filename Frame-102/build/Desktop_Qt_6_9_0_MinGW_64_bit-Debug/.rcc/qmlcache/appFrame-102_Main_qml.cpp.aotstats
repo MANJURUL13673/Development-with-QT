@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 4131,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 13
+                    }
+                ],
+                "filepath": "E:/PERSONAL/Learning/QT DEVELOPMENT/Frame-102/Main.qml"
+            }
+        ],
+        "moduleId": "Frame-102(appFrame-102)"
+    }
+]

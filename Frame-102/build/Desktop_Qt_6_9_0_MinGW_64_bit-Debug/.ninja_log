@@ -1,0 +1,54 @@
+# ninja log v6
+27	93	7719333161395217	.qt/appFrame-102_res.txt	def1484a8a7b4760
+27	93	7719333161395217	E:/PERSONAL/Learning/QT DEVELOPMENT/Frame-102/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appFrame-102_res.txt	def1484a8a7b4760
+17	99	7719333161414916	.qt/appFrame-102_qml.txt	71f499323eb49795
+17	99	7719333161414916	E:/PERSONAL/Learning/QT DEVELOPMENT/Frame-102/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appFrame-102_qml.txt	71f499323eb49795
+37	265	7719333163114041	.qt/qml_imports/appFrame-102_build.cmake	1ed24bb01dec89d0
+37	265	7719333163114041	E:/PERSONAL/Learning/QT DEVELOPMENT/Frame-102/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appFrame-102_build.cmake	1ed24bb01dec89d0
+265	509	7719333164776639	appFrame-102_autogen/timestamp	8cc95db9c84cf774
+265	509	7719333164776639	appFrame-102_autogen/mocs_compilation.cpp	8cc95db9c84cf774
+265	509	7719333164776639	E:/PERSONAL/Learning/QT DEVELOPMENT/Frame-102/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appFrame-102_autogen/timestamp	8cc95db9c84cf774
+265	509	7719333164776639	E:/PERSONAL/Learning/QT DEVELOPMENT/Frame-102/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appFrame-102_autogen/mocs_compilation.cpp	8cc95db9c84cf774
+521	575	7719333166220066	.qt/rcc/qrc_qmake_Frame-102.cpp	bdcb21b8a2ae1eb7
+521	575	7719333166220066	E:/PERSONAL/Learning/QT DEVELOPMENT/Frame-102/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Frame-102.cpp	bdcb21b8a2ae1eb7
+514	577	7719333166254989	meta_types/appFrame-102_json_file_list.txt	7e4825ab295edb3b
+514	577	7719333166254989	meta_types/appFrame-102_json_file_list.txt.timestamp	7e4825ab295edb3b
+514	577	7719333166254989	E:/PERSONAL/Learning/QT DEVELOPMENT/Frame-102/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appFrame-102_json_file_list.txt	7e4825ab295edb3b
+514	577	7719333166254989	E:/PERSONAL/Learning/QT DEVELOPMENT/Frame-102/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appFrame-102_json_file_list.txt.timestamp	7e4825ab295edb3b
+537	587	7719333166320584	.qt/rcc/qrc_appFrame-102_raw_qml_0.cpp	501118ce34b5176b
+537	587	7719333166320584	E:/PERSONAL/Learning/QT DEVELOPMENT/Frame-102/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appFrame-102_raw_qml_0.cpp	501118ce34b5176b
+528	594	7719333166391561	.rcc/qmlcache/appFrame-102_qmlcache_loader.cpp	fc17e2d9feffff5
+528	594	7719333166391561	E:/PERSONAL/Learning/QT DEVELOPMENT/Frame-102/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFrame-102_qmlcache_loader.cpp	fc17e2d9feffff5
+577	642	7719333166916858	meta_types/qt6appframe-102_debug_metatypes.json.gen	8116ee3f2f37bcaf
+577	642	7719333166916858	meta_types/qt6appframe-102_debug_metatypes.json	8116ee3f2f37bcaf
+577	642	7719333166916858	E:/PERSONAL/Learning/QT DEVELOPMENT/Frame-102/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appframe-102_debug_metatypes.json.gen	8116ee3f2f37bcaf
+577	642	7719333166916858	E:/PERSONAL/Learning/QT DEVELOPMENT/Frame-102/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appframe-102_debug_metatypes.json	8116ee3f2f37bcaf
+642	867	7719333168554027	appframe-102_qmltyperegistrations.cpp	9a74b43e88cc534c
+642	867	7719333168554027	Frame-102/appFrame-102.qmltypes	9a74b43e88cc534c
+642	867	7719333168554027	E:/PERSONAL/Learning/QT DEVELOPMENT/Frame-102/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appframe-102_qmltyperegistrations.cpp	9a74b43e88cc534c
+642	867	7719333168554027	E:/PERSONAL/Learning/QT DEVELOPMENT/Frame-102/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Frame-102/appFrame-102.qmltypes	9a74b43e88cc534c
+867	990	7719333170322226	.rcc/qmlcache/appFrame-102_Main_qml.cpp	2017388c76aff80
+867	990	7719333170322226	.rcc/qmlcache/appFrame-102_Main_qml.cpp.aotstats	2017388c76aff80
+867	990	7719333170322226	E:/PERSONAL/Learning/QT DEVELOPMENT/Frame-102/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFrame-102_Main_qml.cpp	2017388c76aff80
+867	990	7719333170322226	E:/PERSONAL/Learning/QT DEVELOPMENT/Frame-102/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFrame-102_Main_qml.cpp.aotstats	2017388c76aff80
+990	1102	7719333170456139	CMakeFiles/appFrame-102.dir/appFrame-102_autogen/mocs_compilation.cpp.obj	e38a73ca84611dca
+1007	1120	7719333170633890	CMakeFiles/appFrame-102.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Frame-102.cpp.obj	5b74b05fe0c2eee5
+1026	1129	7719333170826847	CMakeFiles/appFrame-102.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appFrame-102_raw_qml_0.cpp.obj	bce2cbf8955be993
+1000	3996	7719333170561159	CMakeFiles/appFrame-102.dir/appframe-102_qmltyperegistrations.cpp.obj	12c8ee0c8e3e4cd6
+1020	4039	7719333170760421	CMakeFiles/appFrame-102.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFrame-102_Main_qml.cpp.obj	75feb2e95ec98b92
+996	4162	7719333170519472	CMakeFiles/appFrame-102.dir/main.cpp.obj	efa9242014b94dfc
+1013	4857	7719333170691243	CMakeFiles/appFrame-102.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFrame-102_qmlcache_loader.cpp.obj	3f2882bb289dbad0
+4858	5255	7719333209136830	appFrame-102.exe	790225d541614708
+70	114	7719333459202702	.qt/appFrame-102_qml.txt	71f499323eb49795
+70	114	7719333459202702	E:/PERSONAL/Learning/QT DEVELOPMENT/Frame-102/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appFrame-102_qml.txt	71f499323eb49795
+78	259	7719333460630796	.qt/qml_imports/appFrame-102_build.cmake	1ed24bb01dec89d0
+78	259	7719333460630796	E:/PERSONAL/Learning/QT DEVELOPMENT/Frame-102/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appFrame-102_build.cmake	1ed24bb01dec89d0
+267	310	7719333461168353	.qt/rcc/qrc_appFrame-102_raw_qml_0.cpp	501118ce34b5176b
+267	310	7719333461168353	E:/PERSONAL/Learning/QT DEVELOPMENT/Frame-102/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appFrame-102_raw_qml_0.cpp	501118ce34b5176b
+259	397	7719333461971610	.rcc/qmlcache/appFrame-102_Main_qml.cpp	2017388c76aff80
+259	397	7719333461971610	.rcc/qmlcache/appFrame-102_Main_qml.cpp.aotstats	2017388c76aff80
+259	397	7719333461971610	E:/PERSONAL/Learning/QT DEVELOPMENT/Frame-102/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFrame-102_Main_qml.cpp	2017388c76aff80
+259	397	7719333461971610	E:/PERSONAL/Learning/QT DEVELOPMENT/Frame-102/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFrame-102_Main_qml.cpp.aotstats	2017388c76aff80
+401	473	7719333462144763	CMakeFiles/appFrame-102.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appFrame-102_raw_qml_0.cpp.obj	bce2cbf8955be993
+397	2538	7719333462111239	CMakeFiles/appFrame-102.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFrame-102_Main_qml.cpp.obj	75feb2e95ec98b92
+2538	2766	7719333483527169	appFrame-102.exe	790225d541614708

@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 22
+                    }
+                ],
+                "filepath": "E:/PERSONAL/Learning/QT DEVELOPMENT/ScrollView-101/Main.qml"
+            }
+        ],
+        "moduleId": "ScrollView-101(appScrollView-101)"
+    }
+]
