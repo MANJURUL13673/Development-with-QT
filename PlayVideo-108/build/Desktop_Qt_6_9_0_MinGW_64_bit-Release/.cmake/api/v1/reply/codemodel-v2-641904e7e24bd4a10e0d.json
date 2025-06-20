@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-b30a79e268b66f5e6460.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PlayVideo-108",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Release-a97db44c9a63106c898e.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Release-9a24deeb764ed53de036.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Release-57a7ac9fb0e0eb141b67.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Release-8de757d1628d09a8eb96.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Release-34e39e327a4c65a74a45.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPlayVideo-108::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPlayVideo-108-Release-91dff641b1fe51a32e4d.json",
+					"name" : "appPlayVideo-108",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPlayVideo-108_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPlayVideo-108_autogen-Release-3f413e9bfc2bd9c4acb7.json",
+					"name" : "appPlayVideo-108_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPlayVideo-108_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPlayVideo-108_autogen_timestamp_deps-Release-2f1f5277548e1f30704f.json",
+					"name" : "appPlayVideo-108_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPlayVideo-108_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPlayVideo-108_copy_qml-Release-63a2fa297d727eb36ab9.json",
+					"name" : "appPlayVideo-108_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPlayVideo-108_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPlayVideo-108_copy_res-Release-8a01fefd1b23191396b0.json",
+					"name" : "appPlayVideo-108_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPlayVideo-108_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPlayVideo-108_qmlimportscan-Release-b439eee56858b411493b.json",
+					"name" : "appPlayVideo-108_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPlayVideo-108_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPlayVideo-108_qmllint-Release-34f74a487aebe58f90aa.json",
+					"name" : "appPlayVideo-108_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPlayVideo-108_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPlayVideo-108_qmllint_json-Release-bbf92461550eea189080.json",
+					"name" : "appPlayVideo-108_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPlayVideo-108_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPlayVideo-108_qmllint_module-Release-f6210c4b307ca9998564.json",
+					"name" : "appPlayVideo-108_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPlayVideo-108_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPlayVideo-108_qmltyperegistration-Release-2b4d42fa0f9ce92fac51.json",
+					"name" : "appPlayVideo-108_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appPlayVideo-108_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appPlayVideo-108_aotstats_target-Release-ea42135f682c1af6b70a.json",
+					"name" : "module_appPlayVideo-108_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

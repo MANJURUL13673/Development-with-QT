@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-36b3a1bb95dc8bab567d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SimpleMediaPlayer-109",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-cf923d61189472398b8d.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-00efe91679b4b6df3192.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-899bd216db0d1322d580.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-b93c05c326c9a062e9d1.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-18f869dcb00fd033e6fc.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleMediaPlayer-109::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleMediaPlayer-109-Debug-90956d8cb9147ee651b6.json",
+					"name" : "appSimpleMediaPlayer-109",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleMediaPlayer-109_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleMediaPlayer-109_autogen-Debug-e576115e0f7bdc89b35c.json",
+					"name" : "appSimpleMediaPlayer-109_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleMediaPlayer-109_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleMediaPlayer-109_autogen_timestamp_deps-Debug-bd0a8d61923c31d695ba.json",
+					"name" : "appSimpleMediaPlayer-109_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleMediaPlayer-109_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleMediaPlayer-109_copy_qml-Debug-d2edc4977e60eba918db.json",
+					"name" : "appSimpleMediaPlayer-109_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleMediaPlayer-109_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleMediaPlayer-109_copy_res-Debug-5297c675b6f1c42c7eec.json",
+					"name" : "appSimpleMediaPlayer-109_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleMediaPlayer-109_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleMediaPlayer-109_qmlimportscan-Debug-c1612dc25572b520938c.json",
+					"name" : "appSimpleMediaPlayer-109_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleMediaPlayer-109_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleMediaPlayer-109_qmllint-Debug-ea0fc18b4f0bebed940d.json",
+					"name" : "appSimpleMediaPlayer-109_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleMediaPlayer-109_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleMediaPlayer-109_qmllint_json-Debug-4009576e0e6a30cfe003.json",
+					"name" : "appSimpleMediaPlayer-109_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleMediaPlayer-109_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleMediaPlayer-109_qmllint_module-Debug-317fb677dcdc99c6db32.json",
+					"name" : "appSimpleMediaPlayer-109_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleMediaPlayer-109_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleMediaPlayer-109_qmltyperegistration-Debug-c7cf3dbe8365dd6ec2b5.json",
+					"name" : "appSimpleMediaPlayer-109_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appSimpleMediaPlayer-109_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appSimpleMediaPlayer-109_aotstats_target-Debug-0e5b37442a0cd8cf1b67.json",
+					"name" : "module_appSimpleMediaPlayer-109_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 3099,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 601,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 25
+                    }
+                ],
+                "filepath": "E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/Main.qml"
+            }
+        ],
+        "moduleId": "PlayVideo-108(appPlayVideo-108)"
+    }
+]

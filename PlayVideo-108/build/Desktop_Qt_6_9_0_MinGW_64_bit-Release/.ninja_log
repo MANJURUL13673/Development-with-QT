@@ -1,0 +1,70 @@
+# ninja log v6
+20	100	7721154388719917	.qt/appPlayVideo-108_qml.txt	743b7d8a716efb8c
+20	100	7721154388719917	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/appPlayVideo-108_qml.txt	743b7d8a716efb8c
+28	112	7721154388871906	.qt/appPlayVideo-108_res.txt	612bbfd610391538
+28	112	7721154388871906	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/appPlayVideo-108_res.txt	612bbfd610391538
+40	343	7721154391162386	.qt/qml_imports/appPlayVideo-108_build.cmake	58a009fb93b3c7fc
+40	343	7721154391162386	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/qml_imports/appPlayVideo-108_build.cmake	58a009fb93b3c7fc
+344	659	7721154393176267	appPlayVideo-108_autogen/timestamp	c115f0ad8a279338
+344	659	7721154393176267	appPlayVideo-108_autogen/mocs_compilation.cpp	c115f0ad8a279338
+344	659	7721154393176267	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/appPlayVideo-108_autogen/timestamp	c115f0ad8a279338
+344	659	7721154393176267	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/appPlayVideo-108_autogen/mocs_compilation.cpp	c115f0ad8a279338
+665	748	7721154395203619	meta_types/appPlayVideo-108_json_file_list.txt	b8f6eb6dab92acbe
+665	748	7721154395203619	meta_types/appPlayVideo-108_json_file_list.txt.timestamp	b8f6eb6dab92acbe
+665	748	7721154395203619	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/meta_types/appPlayVideo-108_json_file_list.txt	b8f6eb6dab92acbe
+665	748	7721154395203619	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/meta_types/appPlayVideo-108_json_file_list.txt.timestamp	b8f6eb6dab92acbe
+676	768	7721154395365287	.qt/rcc/qrc_qmake_PlayVideo-108.cpp	4aad0d804889824f
+676	768	7721154395365287	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_qmake_PlayVideo-108.cpp	4aad0d804889824f
+705	810	7721154395729216	.qt/rcc/qrc_appPlayVideo-108_raw_qml_0.cpp	38abf9b469a495e8
+705	810	7721154395729216	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_appPlayVideo-108_raw_qml_0.cpp	38abf9b469a495e8
+689	838	7721154396070857	.rcc/qmlcache/appPlayVideo-108_qmlcache_loader.cpp	a22418fe85847d83
+689	838	7721154396070857	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appPlayVideo-108_qmlcache_loader.cpp	a22418fe85847d83
+748	872	7721154396431406	meta_types/qt6appplayvideo-108_release_metatypes.json.gen	88af967c1754d40c
+748	872	7721154396431406	meta_types/qt6appplayvideo-108_release_metatypes.json	88af967c1754d40c
+748	872	7721154396431406	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/meta_types/qt6appplayvideo-108_release_metatypes.json.gen	88af967c1754d40c
+748	872	7721154396431406	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/meta_types/qt6appplayvideo-108_release_metatypes.json	88af967c1754d40c
+872	1139	7721154398231163	appplayvideo-108_qmltyperegistrations.cpp	41929b86708c30e1
+872	1139	7721154398231163	PlayVideo-108/appPlayVideo-108.qmltypes	41929b86708c30e1
+872	1139	7721154398231163	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/appplayvideo-108_qmltyperegistrations.cpp	41929b86708c30e1
+872	1139	7721154398231163	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/PlayVideo-108/appPlayVideo-108.qmltypes	41929b86708c30e1
+1140	1341	7721154401037031	.rcc/qmlcache/appPlayVideo-108_Main_qml.cpp	9b1c43bca811ef17
+1140	1341	7721154401037031	.rcc/qmlcache/appPlayVideo-108_Main_qml.cpp.aotstats	9b1c43bca811ef17
+1140	1341	7721154401037031	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appPlayVideo-108_Main_qml.cpp	9b1c43bca811ef17
+1140	1341	7721154401037031	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appPlayVideo-108_Main_qml.cpp.aotstats	9b1c43bca811ef17
+725	4372	7721154431004386	appPlayVideo-108_autogen/EWIEGA46WW/qrc_res.cpp	ecf9bf2f5ca396e0
+725	4372	7721154431004386	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/appPlayVideo-108_autogen/EWIEGA46WW/qrc_res.cpp	ecf9bf2f5ca396e0
+4373	4573	7721154431578746	CMakeFiles/appPlayVideo-108.dir/appPlayVideo-108_autogen/mocs_compilation.cpp.obj	7adac003ebc48b47
+4426	4772	7721154432114150	CMakeFiles/appPlayVideo-108.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_appPlayVideo-108_raw_qml_0.cpp.obj	6e4236a08ea5abfb
+4400	4783	7721154431850770	CMakeFiles/appPlayVideo-108.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_qmake_PlayVideo-108.cpp.obj	7eccca4adf21d9fe
+4417	11830	7721154432019775	CMakeFiles/appPlayVideo-108.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appPlayVideo-108_Main_qml.cpp.obj	c255c119e9425aba
+4388	11836	7721154431726893	CMakeFiles/appPlayVideo-108.dir/appplayvideo-108_qmltyperegistrations.cpp.obj	e74959f8fa8ef760
+4382	11838	7721154431667700	CMakeFiles/appPlayVideo-108.dir/main.cpp.obj	d3f11820bf0719ee
+4406	12563	7721154431909377	CMakeFiles/appPlayVideo-108.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appPlayVideo-108_qmlcache_loader.cpp.obj	fcc3e342dcbe2aaa
+4439	210499	7721154432240965	CMakeFiles/appPlayVideo-108.dir/appPlayVideo-108_autogen/EWIEGA46WW/qrc_res.cpp.obj	b0536551539af04e
+210508	212323	7721156492936231	appPlayVideo-108.exe	24fdf8ba37046840
+180	254	7721156961111606	.qt/appPlayVideo-108_qml.txt	743b7d8a716efb8c
+180	254	7721156961111606	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/appPlayVideo-108_qml.txt	743b7d8a716efb8c
+188	458	7721156963148300	.qt/qml_imports/appPlayVideo-108_build.cmake	58a009fb93b3c7fc
+188	458	7721156963148300	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/qml_imports/appPlayVideo-108_build.cmake	58a009fb93b3c7fc
+467	522	7721156963819514	.qt/rcc/qrc_appPlayVideo-108_raw_qml_0.cpp	38abf9b469a495e8
+467	522	7721156963819514	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_appPlayVideo-108_raw_qml_0.cpp	38abf9b469a495e8
+458	604	7721156964592406	.rcc/qmlcache/appPlayVideo-108_Main_qml.cpp	9b1c43bca811ef17
+458	604	7721156964592406	.rcc/qmlcache/appPlayVideo-108_Main_qml.cpp.aotstats	9b1c43bca811ef17
+458	604	7721156964592406	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appPlayVideo-108_Main_qml.cpp	9b1c43bca811ef17
+458	604	7721156964592406	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appPlayVideo-108_Main_qml.cpp.aotstats	9b1c43bca811ef17
+609	732	7721156964791407	CMakeFiles/appPlayVideo-108.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_appPlayVideo-108_raw_qml_0.cpp.obj	6e4236a08ea5abfb
+604	3240	7721156964736055	CMakeFiles/appPlayVideo-108.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appPlayVideo-108_Main_qml.cpp.obj	c255c119e9425aba
+3240	4292	7721156991099148	appPlayVideo-108.exe	24fdf8ba37046840
+44	87	7721158330560827	.qt/appPlayVideo-108_qml.txt	743b7d8a716efb8c
+44	87	7721158330560827	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/appPlayVideo-108_qml.txt	743b7d8a716efb8c
+52	261	7721158332280425	.qt/qml_imports/appPlayVideo-108_build.cmake	58a009fb93b3c7fc
+52	261	7721158332280425	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/qml_imports/appPlayVideo-108_build.cmake	58a009fb93b3c7fc
+270	311	7721158332800460	.qt/rcc/qrc_appPlayVideo-108_raw_qml_0.cpp	38abf9b469a495e8
+270	311	7721158332800460	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_appPlayVideo-108_raw_qml_0.cpp	38abf9b469a495e8
+261	395	7721158333553425	.rcc/qmlcache/appPlayVideo-108_Main_qml.cpp	9b1c43bca811ef17
+261	395	7721158333553425	.rcc/qmlcache/appPlayVideo-108_Main_qml.cpp.aotstats	9b1c43bca811ef17
+261	395	7721158333553425	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appPlayVideo-108_Main_qml.cpp	9b1c43bca811ef17
+261	395	7721158333553425	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appPlayVideo-108_Main_qml.cpp.aotstats	9b1c43bca811ef17
+400	476	7721158333762098	CMakeFiles/appPlayVideo-108.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.qt/rcc/qrc_appPlayVideo-108_raw_qml_0.cpp.obj	6e4236a08ea5abfb
+395	2403	7721158333717726	CMakeFiles/appPlayVideo-108.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/.rcc/qmlcache/appPlayVideo-108_Main_qml.cpp.obj	c255c119e9425aba
+2403	3435	7721158353790177	appPlayVideo-108.exe	24fdf8ba37046840

@@ -1,0 +1,135 @@
+# ninja log v6
+17	79	7721158059173604	.qt/appSimpleMediaPlayer-109_qml.txt	e4f2ec51c3e750c9
+17	79	7721158059173604	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSimpleMediaPlayer-109_qml.txt	e4f2ec51c3e750c9
+26	86	7721158059247645	.qt/appSimpleMediaPlayer-109_res.txt	951af49b5bcb2f47
+26	86	7721158059247645	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSimpleMediaPlayer-109_res.txt	951af49b5bcb2f47
+507	555	7721158063921045	.qt/rcc/qrc_appSimpleMediaPlayer-109_raw_qml_0.cpp	bb92ec27886b643
+33	237	7721158060747680	.qt/qml_imports/appSimpleMediaPlayer-109_build.cmake	f828d76c07fe9221
+507	555	7721158063921045	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSimpleMediaPlayer-109_raw_qml_0.cpp	bb92ec27886b643
+33	237	7721158060747680	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSimpleMediaPlayer-109_build.cmake	f828d76c07fe9221
+237	478	7721158062339256	appSimpleMediaPlayer-109_autogen/timestamp	5a7bd40746c17a38
+237	478	7721158062339256	appSimpleMediaPlayer-109_autogen/mocs_compilation.cpp	5a7bd40746c17a38
+497	573	7721158064088943	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_qmlcache_loader.cpp	da76d39d4ae6bc6
+603	753	7721158065369198	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appsimplemediaplayer-109_qmltyperegistrations.cpp	27b0faeacaaa9bbf
+237	478	7721158062339256	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSimpleMediaPlayer-109_autogen/timestamp	5a7bd40746c17a38
+237	478	7721158062339256	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSimpleMediaPlayer-109_autogen/mocs_compilation.cpp	5a7bd40746c17a38
+483	540	7721158063786482	meta_types/appSimpleMediaPlayer-109_json_file_list.txt	d6663e70ef784b75
+603	753	7721158065369198	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/SimpleMediaPlayer-109/appSimpleMediaPlayer-109.qmltypes	27b0faeacaaa9bbf
+483	540	7721158063786482	meta_types/appSimpleMediaPlayer-109_json_file_list.txt.timestamp	d6663e70ef784b75
+753	879	7721158067134317	.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp.aotstats	194be27ba3143a3a
+879	963	7721158067268415	CMakeFiles/appSimpleMediaPlayer-109.dir/appSimpleMediaPlayer-109_autogen/mocs_compilation.cpp.obj	143520e3b0ab22e5
+483	540	7721158063786482	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appSimpleMediaPlayer-109_json_file_list.txt	d6663e70ef784b75
+483	540	7721158063786482	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appSimpleMediaPlayer-109_json_file_list.txt.timestamp	d6663e70ef784b75
+491	549	7721158063796315	.qt/rcc/qrc_qmake_SimpleMediaPlayer-109.cpp	a27824ef6730d7f2
+540	603	7721158064442768	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appsimplemediaplayer-109_debug_metatypes.json	9c7d98d82ac57542
+491	549	7721158063796315	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_SimpleMediaPlayer-109.cpp	a27824ef6730d7f2
+497	573	7721158064088943	.rcc/qmlcache/appSimpleMediaPlayer-109_qmlcache_loader.cpp	da76d39d4ae6bc6
+540	603	7721158064442768	meta_types/qt6appsimplemediaplayer-109_debug_metatypes.json.gen	9c7d98d82ac57542
+919	1022	7721158067664550	CMakeFiles/appSimpleMediaPlayer-109.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSimpleMediaPlayer-109_raw_qml_0.cpp.obj	79999d4f8d3e4d2c
+540	603	7721158064442768	meta_types/qt6appsimplemediaplayer-109_debug_metatypes.json	9c7d98d82ac57542
+540	603	7721158064442768	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appsimplemediaplayer-109_debug_metatypes.json.gen	9c7d98d82ac57542
+603	753	7721158065369198	appsimplemediaplayer-109_qmltyperegistrations.cpp	27b0faeacaaa9bbf
+603	753	7721158065369198	SimpleMediaPlayer-109/appSimpleMediaPlayer-109.qmltypes	27b0faeacaaa9bbf
+753	879	7721158067134317	.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp	194be27ba3143a3a
+753	879	7721158067134317	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp	194be27ba3143a3a
+753	879	7721158067134317	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp.aotstats	194be27ba3143a3a
+894	1003	7721158067409422	CMakeFiles/appSimpleMediaPlayer-109.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_SimpleMediaPlayer-109.cpp.obj	c1a20fc0be659632
+888	3586	7721158067356333	CMakeFiles/appSimpleMediaPlayer-109.dir/appsimplemediaplayer-109_qmltyperegistrations.cpp.obj	14a8d5335b64892
+914	3690	7721158067615968	CMakeFiles/appSimpleMediaPlayer-109.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp.obj	b57315c869fc518b
+883	3866	7721158067303102	CMakeFiles/appSimpleMediaPlayer-109.dir/main.cpp.obj	6ade8f3c422d18b8
+899	4158	7721158067465385	CMakeFiles/appSimpleMediaPlayer-109.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_qmlcache_loader.cpp.obj	9f11457c21d6c1db
+4158	4389	7721158100050342	appSimpleMediaPlayer-109.exe	b7683b4d5b2ebaae
+57	134	7721171779632303	.qt/appSimpleMediaPlayer-109_res.txt	951af49b5bcb2f47
+57	134	7721171779632303	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSimpleMediaPlayer-109_res.txt	951af49b5bcb2f47
+45	135	7721171779642194	.qt/appSimpleMediaPlayer-109_qml.txt	e4f2ec51c3e750c9
+45	135	7721171779642194	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSimpleMediaPlayer-109_qml.txt	e4f2ec51c3e750c9
+65	288	7721171781125359	.qt/qml_imports/appSimpleMediaPlayer-109_build.cmake	f828d76c07fe9221
+65	288	7721171781125359	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSimpleMediaPlayer-109_build.cmake	f828d76c07fe9221
+288	469	7721171781254371	appSimpleMediaPlayer-109_autogen/timestamp	5a7bd40746c17a38
+288	469	7721171781254371	appSimpleMediaPlayer-109_autogen/mocs_compilation.cpp	5a7bd40746c17a38
+288	469	7721171781254371	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSimpleMediaPlayer-109_autogen/timestamp	5a7bd40746c17a38
+288	469	7721171781254371	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSimpleMediaPlayer-109_autogen/mocs_compilation.cpp	5a7bd40746c17a38
+469	514	7721171783053815	meta_types/appSimpleMediaPlayer-109_json_file_list.txt	d6663e70ef784b75
+469	514	7721171783053815	meta_types/appSimpleMediaPlayer-109_json_file_list.txt.timestamp	d6663e70ef784b75
+469	514	7721171783053815	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appSimpleMediaPlayer-109_json_file_list.txt	d6663e70ef784b75
+469	514	7721171783053815	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appSimpleMediaPlayer-109_json_file_list.txt.timestamp	d6663e70ef784b75
+486	540	7721171783662117	.qt/rcc/qrc_appSimpleMediaPlayer-109_raw_qml_0.cpp	bb92ec27886b643
+486	540	7721171783662117	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSimpleMediaPlayer-109_raw_qml_0.cpp	bb92ec27886b643
+478	546	7721171783688301	.rcc/qmlcache/appSimpleMediaPlayer-109_qmlcache_loader.cpp	da76d39d4ae6bc6
+478	546	7721171783688301	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_qmlcache_loader.cpp	da76d39d4ae6bc6
+515	672	7721171784926598	.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp	194be27ba3143a3a
+515	672	7721171784926598	.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp.aotstats	194be27ba3143a3a
+515	672	7721171784926598	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp	194be27ba3143a3a
+515	672	7721171784926598	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp.aotstats	194be27ba3143a3a
+494	3123	7721171809295060	appSimpleMediaPlayer-109_autogen/EWIEGA46WW/qrc_res.cpp	eb4479ec57db7443
+494	3123	7721171809295060	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSimpleMediaPlayer-109_autogen/EWIEGA46WW/qrc_res.cpp	eb4479ec57db7443
+3137	3478	7721171809739124	CMakeFiles/appSimpleMediaPlayer-109.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSimpleMediaPlayer-109_raw_qml_0.cpp.obj	79999d4f8d3e4d2c
+3132	8540	7721171809688057	CMakeFiles/appSimpleMediaPlayer-109.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp.obj	b57315c869fc518b
+3123	8865	7721171809598865	CMakeFiles/appSimpleMediaPlayer-109.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_qmlcache_loader.cpp.obj	9f11457c21d6c1db
+3142	253638	7721171809784040	CMakeFiles/appSimpleMediaPlayer-109.dir/appSimpleMediaPlayer-109_autogen/EWIEGA46WW/qrc_res.cpp.obj	98b19fd32b75e1c9
+253645	255177	7721174314826948	appSimpleMediaPlayer-109.exe	e3aea47d0be50657
+24	104	7721175789777753	.qt/appSimpleMediaPlayer-109_qml.txt	e4f2ec51c3e750c9
+24	104	7721175789777753	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSimpleMediaPlayer-109_qml.txt	e4f2ec51c3e750c9
+34	279	7721175791489161	.qt/qml_imports/appSimpleMediaPlayer-109_build.cmake	f828d76c07fe9221
+34	279	7721175791489161	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSimpleMediaPlayer-109_build.cmake	f828d76c07fe9221
+287	340	7721175792120189	.qt/rcc/qrc_appSimpleMediaPlayer-109_raw_qml_0.cpp	bb92ec27886b643
+287	340	7721175792120189	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSimpleMediaPlayer-109_raw_qml_0.cpp	bb92ec27886b643
+279	430	7721175792966200	.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp	194be27ba3143a3a
+279	430	7721175792966200	.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp.aotstats	194be27ba3143a3a
+279	430	7721175792966200	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp	194be27ba3143a3a
+279	430	7721175792966200	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp.aotstats	194be27ba3143a3a
+436	568	7721175793180860	CMakeFiles/appSimpleMediaPlayer-109.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSimpleMediaPlayer-109_raw_qml_0.cpp.obj	79999d4f8d3e4d2c
+431	5612	7721175793126330	CMakeFiles/appSimpleMediaPlayer-109.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp.obj	b57315c869fc518b
+5612	7340	7721175844938095	appSimpleMediaPlayer-109.exe	e3aea47d0be50657
+57	132	7721176923905635	.qt/appSimpleMediaPlayer-109_qml.txt	e4f2ec51c3e750c9
+57	132	7721176923905635	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSimpleMediaPlayer-109_qml.txt	e4f2ec51c3e750c9
+69	298	7721176925553195	.qt/qml_imports/appSimpleMediaPlayer-109_build.cmake	f828d76c07fe9221
+69	298	7721176925553195	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSimpleMediaPlayer-109_build.cmake	f828d76c07fe9221
+308	360	7721176926207403	.qt/rcc/qrc_appSimpleMediaPlayer-109_raw_qml_0.cpp	bb92ec27886b643
+308	360	7721176926207403	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSimpleMediaPlayer-109_raw_qml_0.cpp	bb92ec27886b643
+298	458	7721176927073487	.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp	194be27ba3143a3a
+298	458	7721176927073487	.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp.aotstats	194be27ba3143a3a
+298	458	7721176927073487	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp	194be27ba3143a3a
+298	458	7721176927073487	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp.aotstats	194be27ba3143a3a
+469	555	7721176927376102	CMakeFiles/appSimpleMediaPlayer-109.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSimpleMediaPlayer-109_raw_qml_0.cpp.obj	79999d4f8d3e4d2c
+458	2858	7721176927267263	CMakeFiles/appSimpleMediaPlayer-109.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp.obj	b57315c869fc518b
+2859	3993	7721176951272938	appSimpleMediaPlayer-109.exe	e3aea47d0be50657
+53	113	7721178017459699	.qt/appSimpleMediaPlayer-109_qml.txt	e4f2ec51c3e750c9
+53	113	7721178017459699	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSimpleMediaPlayer-109_qml.txt	e4f2ec51c3e750c9
+62	297	7721178019268883	.qt/qml_imports/appSimpleMediaPlayer-109_build.cmake	f828d76c07fe9221
+62	297	7721178019268883	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSimpleMediaPlayer-109_build.cmake	f828d76c07fe9221
+307	358	7721178019903090	.qt/rcc/qrc_appSimpleMediaPlayer-109_raw_qml_0.cpp	bb92ec27886b643
+307	358	7721178019903090	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSimpleMediaPlayer-109_raw_qml_0.cpp	bb92ec27886b643
+298	463	7721178020878501	.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp	194be27ba3143a3a
+298	463	7721178020878501	.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp.aotstats	194be27ba3143a3a
+298	463	7721178020878501	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp	194be27ba3143a3a
+298	463	7721178020878501	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp.aotstats	194be27ba3143a3a
+470	559	7721178021120740	CMakeFiles/appSimpleMediaPlayer-109.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSimpleMediaPlayer-109_raw_qml_0.cpp.obj	79999d4f8d3e4d2c
+463	3134	7721178021054649	CMakeFiles/appSimpleMediaPlayer-109.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp.obj	b57315c869fc518b
+3134	4254	7721178047761122	appSimpleMediaPlayer-109.exe	e3aea47d0be50657
+44	89	7721180032483762	.qt/appSimpleMediaPlayer-109_qml.txt	e4f2ec51c3e750c9
+44	89	7721180032483762	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSimpleMediaPlayer-109_qml.txt	e4f2ec51c3e750c9
+52	237	7721180033941452	.qt/qml_imports/appSimpleMediaPlayer-109_build.cmake	f828d76c07fe9221
+52	237	7721180033941452	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSimpleMediaPlayer-109_build.cmake	f828d76c07fe9221
+246	291	7721180034495416	.qt/rcc/qrc_appSimpleMediaPlayer-109_raw_qml_0.cpp	bb92ec27886b643
+246	291	7721180034495416	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSimpleMediaPlayer-109_raw_qml_0.cpp	bb92ec27886b643
+237	374	7721180035273178	.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp	194be27ba3143a3a
+237	374	7721180035273178	.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp.aotstats	194be27ba3143a3a
+237	374	7721180035273178	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp	194be27ba3143a3a
+237	374	7721180035273178	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp.aotstats	194be27ba3143a3a
+379	458	7721180035459814	CMakeFiles/appSimpleMediaPlayer-109.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSimpleMediaPlayer-109_raw_qml_0.cpp.obj	79999d4f8d3e4d2c
+375	2679	7721180035425711	CMakeFiles/appSimpleMediaPlayer-109.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp.obj	b57315c869fc518b
+2679	3812	7721180058461185	appSimpleMediaPlayer-109.exe	e3aea47d0be50657
+45	100	7721180510699710	.qt/appSimpleMediaPlayer-109_qml.txt	e4f2ec51c3e750c9
+45	100	7721180510699710	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSimpleMediaPlayer-109_qml.txt	e4f2ec51c3e750c9
+61	291	7721180512552767	.qt/qml_imports/appSimpleMediaPlayer-109_build.cmake	f828d76c07fe9221
+61	291	7721180512552767	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSimpleMediaPlayer-109_build.cmake	f828d76c07fe9221
+301	342	7721180513134305	.qt/rcc/qrc_appSimpleMediaPlayer-109_raw_qml_0.cpp	bb92ec27886b643
+301	342	7721180513134305	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSimpleMediaPlayer-109_raw_qml_0.cpp	bb92ec27886b643
+292	433	7721180513963385	.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp	194be27ba3143a3a
+292	433	7721180513963385	.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp.aotstats	194be27ba3143a3a
+292	433	7721180513963385	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp	194be27ba3143a3a
+292	433	7721180513963385	E:/PERSONAL/Learning/QT DEVELOPMENT/SimpleMediaPlayer-109/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp.aotstats	194be27ba3143a3a
+438	517	7721180514167538	CMakeFiles/appSimpleMediaPlayer-109.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSimpleMediaPlayer-109_raw_qml_0.cpp.obj	79999d4f8d3e4d2c
+433	2753	7721180514119432	CMakeFiles/appSimpleMediaPlayer-109.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSimpleMediaPlayer-109_Main_qml.cpp.obj	b57315c869fc518b
+2753	3858	7721180537318595	appSimpleMediaPlayer-109.exe	e3aea47d0be50657

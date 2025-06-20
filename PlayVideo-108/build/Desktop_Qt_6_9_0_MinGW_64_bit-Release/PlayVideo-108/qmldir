@@ -1,0 +1,5 @@
+module PlayVideo-108
+typeinfo appPlayVideo-108.qmltypes
+prefer :/qt/qml/PlayVideo-108/
+Main 1.0 Main.qml
+

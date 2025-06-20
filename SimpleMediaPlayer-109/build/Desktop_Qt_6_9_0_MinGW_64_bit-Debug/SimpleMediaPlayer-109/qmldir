@@ -1,0 +1,5 @@
+module SimpleMediaPlayer-109
+typeinfo appSimpleMediaPlayer-109.qmltypes
+prefer :/qt/qml/SimpleMediaPlayer-109/
+Main 1.0 Main.qml
+

@@ -1,0 +1,10 @@
+--bare
+-I
+E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-I
+C:/Qt/6.9.0/mingw_64/qml
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_PlayVideo-108.qrc
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appPlayVideo-108_raw_qml_0.qrc
+E:/PERSONAL/Learning/QT DEVELOPMENT/PlayVideo-108/Main.qml
