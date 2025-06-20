@@ -1,0 +1,5 @@
+module PlayMusic-107
+typeinfo appPlayMusic-107.qmltypes
+prefer :/qt/qml/PlayMusic-107/
+Main 1.0 Main.qml
+

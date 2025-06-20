@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 4034,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 17
+                    }
+                ],
+                "filepath": "E:/PERSONAL/Learning/QT DEVELOPMENT/PlayMusic-107/Main.qml"
+            }
+        ],
+        "moduleId": "PlayMusic-107(appPlayMusic-107)"
+    }
+]

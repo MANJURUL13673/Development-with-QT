@@ -1,0 +1,44 @@
+# ninja log v6
+21	86	7719393420533116	.qt/appPlayMusic-107_qml.txt	5abde8a8586589e4
+21	86	7719393420533116	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayMusic-107/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appPlayMusic-107_qml.txt	5abde8a8586589e4
+33	95	7719393420617241	.qt/appPlayMusic-107_res.txt	82ecaf13345e3e3
+33	95	7719393420617241	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayMusic-107/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appPlayMusic-107_res.txt	82ecaf13345e3e3
+46	269	7719393422357380	.qt/qml_imports/appPlayMusic-107_build.cmake	49b07bbc3f290d2a
+46	269	7719393422357380	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayMusic-107/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appPlayMusic-107_build.cmake	49b07bbc3f290d2a
+269	485	7719393423724253	appPlayMusic-107_autogen/timestamp	3cc706117be34253
+269	485	7719393423724253	appPlayMusic-107_autogen/mocs_compilation.cpp	3cc706117be34253
+269	485	7719393423724253	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayMusic-107/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appPlayMusic-107_autogen/timestamp	3cc706117be34253
+269	485	7719393423724253	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayMusic-107/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appPlayMusic-107_autogen/mocs_compilation.cpp	3cc706117be34253
+496	542	7719393425083275	.qt/rcc/qrc_qmake_PlayMusic-107.cpp	ca8c98938fcde3bb
+496	542	7719393425083275	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayMusic-107/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_PlayMusic-107.cpp	ca8c98938fcde3bb
+490	545	7719393425124262	meta_types/appPlayMusic-107_json_file_list.txt	4e8cfe96f0baa944
+490	545	7719393425124262	meta_types/appPlayMusic-107_json_file_list.txt.timestamp	4e8cfe96f0baa944
+490	545	7719393425124262	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayMusic-107/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appPlayMusic-107_json_file_list.txt	4e8cfe96f0baa944
+490	545	7719393425124262	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayMusic-107/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appPlayMusic-107_json_file_list.txt.timestamp	4e8cfe96f0baa944
+515	566	7719393425332659	.qt/rcc/qrc_appPlayMusic-107_raw_qml_0.cpp	a6d55347e63df894
+515	566	7719393425332659	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayMusic-107/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appPlayMusic-107_raw_qml_0.cpp	a6d55347e63df894
+505	573	7719393425356898	.rcc/qmlcache/appPlayMusic-107_qmlcache_loader.cpp	e10564715cc3325b
+505	573	7719393425356898	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayMusic-107/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPlayMusic-107_qmlcache_loader.cpp	e10564715cc3325b
+546	614	7719393425820791	meta_types/qt6appplaymusic-107_debug_metatypes.json.gen	d14f886e525648ea
+546	614	7719393425820791	meta_types/qt6appplaymusic-107_debug_metatypes.json	d14f886e525648ea
+546	614	7719393425820791	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayMusic-107/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appplaymusic-107_debug_metatypes.json.gen	d14f886e525648ea
+546	614	7719393425820791	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayMusic-107/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appplaymusic-107_debug_metatypes.json	d14f886e525648ea
+614	760	7719393426742211	appplaymusic-107_qmltyperegistrations.cpp	14c03be681f2c55
+614	760	7719393426742211	PlayMusic-107/appPlayMusic-107.qmltypes	14c03be681f2c55
+614	760	7719393426742211	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayMusic-107/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appplaymusic-107_qmltyperegistrations.cpp	14c03be681f2c55
+614	760	7719393426742211	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayMusic-107/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/PlayMusic-107/appPlayMusic-107.qmltypes	14c03be681f2c55
+760	898	7719393428580452	.rcc/qmlcache/appPlayMusic-107_Main_qml.cpp	5822f8fb709fa19c
+760	898	7719393428580452	.rcc/qmlcache/appPlayMusic-107_Main_qml.cpp.aotstats	5822f8fb709fa19c
+760	898	7719393428580452	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayMusic-107/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPlayMusic-107_Main_qml.cpp	5822f8fb709fa19c
+760	898	7719393428580452	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayMusic-107/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPlayMusic-107_Main_qml.cpp.aotstats	5822f8fb709fa19c
+526	2195	7719393441363706	appPlayMusic-107_autogen/EWIEGA46WW/qrc_res.cpp	25653a6cc38440be
+526	2195	7719393441363706	E:/PERSONAL/Learning/QT DEVELOPMENT/PlayMusic-107/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appPlayMusic-107_autogen/EWIEGA46WW/qrc_res.cpp	25653a6cc38440be
+2195	2294	7719393441713612	CMakeFiles/appPlayMusic-107.dir/appPlayMusic-107_autogen/mocs_compilation.cpp.obj	86126b3241869a64
+2213	2338	7719393441898133	CMakeFiles/appPlayMusic-107.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_PlayMusic-107.cpp.obj	e6d6e4e14e729503
+2233	2359	7719393442098742	CMakeFiles/appPlayMusic-107.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appPlayMusic-107_raw_qml_0.cpp.obj	18527a3640da268b
+2205	6704	7719393441811427	CMakeFiles/appPlayMusic-107.dir/appplaymusic-107_qmltyperegistrations.cpp.obj	914907e8d5d49818
+2227	6792	7719393442030484	CMakeFiles/appPlayMusic-107.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPlayMusic-107_Main_qml.cpp.obj	8cd10d002b58c632
+2200	6951	7719393441754782	CMakeFiles/appPlayMusic-107.dir/main.cpp.obj	df165834431fbbb0
+2219	7507	7719393441953370	CMakeFiles/appPlayMusic-107.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPlayMusic-107_qmlcache_loader.cpp.obj	1c824909230c853a
+127	94133	7719394791772231	CMakeFiles/appPlayMusic-107.dir/appPlayMusic-107_autogen/EWIEGA46WW/qrc_res.cpp.obj	aae2236d3f39519f
+94139	95700	7719395731889241	appPlayMusic-107.exe	f902d37ef59d7035

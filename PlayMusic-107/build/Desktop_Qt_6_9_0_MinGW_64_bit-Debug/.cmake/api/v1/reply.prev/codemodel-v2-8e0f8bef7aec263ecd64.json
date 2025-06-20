@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f87d44a4c002e98a5459.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PlayMusic-107",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-b935ebf58deb782f8678.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-88e1565893613bf9331f.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-59624721a434dd267aac.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-8bd3f26d2ac5c6b6cb21.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-ed0c93697853aa788759.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPlayMusic-107::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPlayMusic-107-Debug-ba08f50a6a762f2ea8f4.json",
+					"name" : "appPlayMusic-107",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPlayMusic-107_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPlayMusic-107_autogen-Debug-6b7fd365201f101d227c.json",
+					"name" : "appPlayMusic-107_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPlayMusic-107_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPlayMusic-107_autogen_timestamp_deps-Debug-e7c76db95eeb64022f6c.json",
+					"name" : "appPlayMusic-107_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPlayMusic-107_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPlayMusic-107_copy_qml-Debug-1b75b8698ceef10cc138.json",
+					"name" : "appPlayMusic-107_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPlayMusic-107_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPlayMusic-107_copy_res-Debug-af419b971750cc470fba.json",
+					"name" : "appPlayMusic-107_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPlayMusic-107_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPlayMusic-107_qmlimportscan-Debug-0c6a0ad684653d1be7c8.json",
+					"name" : "appPlayMusic-107_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPlayMusic-107_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPlayMusic-107_qmllint-Debug-dbe83618ef78836e082b.json",
+					"name" : "appPlayMusic-107_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPlayMusic-107_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPlayMusic-107_qmllint_json-Debug-585691c63643f04ca1b8.json",
+					"name" : "appPlayMusic-107_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPlayMusic-107_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPlayMusic-107_qmllint_module-Debug-09750d804b8a2cf116e4.json",
+					"name" : "appPlayMusic-107_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPlayMusic-107_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPlayMusic-107_qmltyperegistration-Debug-644b0c7b33569be3f1f9.json",
+					"name" : "appPlayMusic-107_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appPlayMusic-107_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appPlayMusic-107_aotstats_target-Debug-e061257b0e83e2c56de8.json",
+					"name" : "module_appPlayMusic-107_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/PlayMusic-107/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/PlayMusic-107"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
