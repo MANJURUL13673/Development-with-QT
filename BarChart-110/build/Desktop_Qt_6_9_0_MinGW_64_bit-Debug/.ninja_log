@@ -1,0 +1,91 @@
+# ninja log v6
+390	2860	7721184825357420	CMakeFiles/appBarChart-110.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appBarChart-110_Main_qml.cpp.obj	cebb6e0f1074000e
+594	677	7721184140508095	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appBarChart-110_qmlcache_loader.cpp	ca6df3fb9c811f1a
+288	370	7721196352542245	meta_types/appBarChart-110_json_file_list.txt.timestamp	3f3007135f6753c2
+34	131	7721184135028808	.qt/appBarChart-110_res.txt	bf1b5692524bb34
+49	95	7721184822324594	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appBarChart-110_qml.txt	84364f266bcd111
+67	287	7721196350333656	appBarChart-110_autogen/timestamp	58188252da73ae76
+34	131	7721184135028808	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appBarChart-110_res.txt	bf1b5692524bb34
+49	95	7721184822324594	.qt/appBarChart-110_qml.txt	84364f266bcd111
+57	246	7721184823806623	.qt/qml_imports/appBarChart-110_build.cmake	468a84be0dc7cfa9
+57	246	7721184823806623	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appBarChart-110_build.cmake	468a84be0dc7cfa9
+67	287	7721196350333656	appBarChart-110_autogen/mocs_compilation.cpp	58188252da73ae76
+67	287	7721196350333656	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appBarChart-110_autogen/timestamp	58188252da73ae76
+67	287	7721196350333656	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appBarChart-110_autogen/mocs_compilation.cpp	58188252da73ae76
+713	866	7721184141836216	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/BarChart-110/appBarChart-110.qmltypes	accab246d97f3ace
+586	642	7721184140160284	.qt/rcc/qrc_qmake_BarChart-110.cpp	73052e80e363d41b
+586	642	7721184140160284	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_BarChart-110.cpp	73052e80e363d41b
+288	370	7721196352542245	meta_types/appBarChart-110_json_file_list.txt	3f3007135f6753c2
+288	370	7721196352542245	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appBarChart-110_json_file_list.txt	3f3007135f6753c2
+288	370	7721196352542245	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appBarChart-110_json_file_list.txt.timestamp	3f3007135f6753c2
+253	298	7721184824355613	.qt/rcc/qrc_appBarChart-110_raw_qml_0.cpp	23b72a8c852540d5
+253	298	7721184824355613	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appBarChart-110_raw_qml_0.cpp	23b72a8c852540d5
+594	677	7721184140508095	.rcc/qmlcache/appBarChart-110_qmlcache_loader.cpp	ca6df3fb9c811f1a
+643	713	7721184140927187	meta_types/qt6appbarchart-110_debug_metatypes.json.gen	626d830dc351f8c1
+643	713	7721184140927187	meta_types/qt6appbarchart-110_debug_metatypes.json	626d830dc351f8c1
+643	713	7721184140927187	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appbarchart-110_debug_metatypes.json.gen	626d830dc351f8c1
+643	713	7721184140927187	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appbarchart-110_debug_metatypes.json	626d830dc351f8c1
+395	466	7721184825408514	CMakeFiles/appBarChart-110.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appBarChart-110_raw_qml_0.cpp.obj	2a6a3144cfb7bff7
+713	866	7721184141836216	appbarchart-110_qmltyperegistrations.cpp	accab246d97f3ace
+371	3310	7721196353371319	CMakeFiles/appBarChart-110.dir/main.cpp.obj	82e37985e56fee0d
+713	866	7721184141836216	BarChart-110/appBarChart-110.qmltypes	accab246d97f3ace
+713	866	7721184141836216	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appbarchart-110_qmltyperegistrations.cpp	accab246d97f3ace
+247	390	7721184825187163	.rcc/qmlcache/appBarChart-110_Main_qml.cpp	275dbe0a894180bd
+247	390	7721184825187163	.rcc/qmlcache/appBarChart-110_Main_qml.cpp.aotstats	275dbe0a894180bd
+247	390	7721184825187163	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appBarChart-110_Main_qml.cpp	275dbe0a894180bd
+1015	4306	7721184143995791	CMakeFiles/appBarChart-110.dir/appbarchart-110_qmltyperegistrations.cpp.obj	1ecab9bb0aa92870
+247	390	7721184825187163	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appBarChart-110_Main_qml.cpp.aotstats	275dbe0a894180bd
+1006	1105	7721184143909733	CMakeFiles/appBarChart-110.dir/appBarChart-110_autogen/mocs_compilation.cpp.obj	d75d29c6f41397e1
+1023	1139	7721184144082791	CMakeFiles/appBarChart-110.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_BarChart-110.cpp.obj	164dc586c6f34866
+1028	4901	7721184144131638	CMakeFiles/appBarChart-110.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appBarChart-110_qmlcache_loader.cpp.obj	e3ad7718cf0c4039
+2860	3134	7721184850048638	appBarChart-110.exe	7c77e4ec512d3e81
+37	269	7721197261420235	appBarChart-110_autogen/timestamp	58188252da73ae76
+37	269	7721197261420235	appBarChart-110_autogen/mocs_compilation.cpp	58188252da73ae76
+37	269	7721197261420235	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appBarChart-110_autogen/timestamp	58188252da73ae76
+37	269	7721197261420235	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appBarChart-110_autogen/mocs_compilation.cpp	58188252da73ae76
+269	307	7721197263741752	meta_types/appBarChart-110_json_file_list.txt	3f3007135f6753c2
+269	307	7721197263741752	meta_types/appBarChart-110_json_file_list.txt.timestamp	3f3007135f6753c2
+269	307	7721197263741752	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appBarChart-110_json_file_list.txt	3f3007135f6753c2
+269	307	7721197263741752	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appBarChart-110_json_file_list.txt.timestamp	3f3007135f6753c2
+307	495	7721197265337184	appbarchart-110_qmltyperegistrations.cpp	accab246d97f3ace
+307	495	7721197265337184	BarChart-110/appBarChart-110.qmltypes	accab246d97f3ace
+307	495	7721197265337184	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appbarchart-110_qmltyperegistrations.cpp	accab246d97f3ace
+307	495	7721197265337184	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/BarChart-110/appBarChart-110.qmltypes	accab246d97f3ace
+495	648	7721197267361614	.rcc/qmlcache/appBarChart-110_Main_qml.cpp	275dbe0a894180bd
+495	648	7721197267361614	.rcc/qmlcache/appBarChart-110_Main_qml.cpp.aotstats	275dbe0a894180bd
+495	648	7721197267361614	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appBarChart-110_Main_qml.cpp	275dbe0a894180bd
+495	648	7721197267361614	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appBarChart-110_Main_qml.cpp.aotstats	275dbe0a894180bd
+649	731	7721197267526764	CMakeFiles/appBarChart-110.dir/appBarChart-110_autogen/mocs_compilation.cpp.obj	21f71880c7aaa5f9
+666	769	7721197267703039	CMakeFiles/appBarChart-110.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_BarChart-110.cpp.obj	7c04a1f4716be51e
+684	784	7721197267885693	CMakeFiles/appBarChart-110.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appBarChart-110_raw_qml_0.cpp.obj	23e2d10331bbb444
+658	3835	7721197267626611	CMakeFiles/appBarChart-110.dir/appbarchart-110_qmltyperegistrations.cpp.obj	a25637ee706c496b
+654	4198	7721197267589717	CMakeFiles/appBarChart-110.dir/main.cpp.obj	489a9c37fd3d130d
+678	4281	7721197267824797	CMakeFiles/appBarChart-110.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appBarChart-110_Main_qml.cpp.obj	3bb81c07b0cd429f
+673	4455	7721197267777527	CMakeFiles/appBarChart-110.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appBarChart-110_qmlcache_loader.cpp.obj	ba2f17de335a0649
+4455	4895	7721197305597689	appBarChart-110.exe	904a6ca38be2b198
+47	101	7721197814600607	.qt/appBarChart-110_qml.txt	84364f266bcd111
+47	101	7721197814600607	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appBarChart-110_qml.txt	84364f266bcd111
+55	259	7721197816145575	.qt/qml_imports/appBarChart-110_build.cmake	468a84be0dc7cfa9
+55	259	7721197816145575	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appBarChart-110_build.cmake	468a84be0dc7cfa9
+268	322	7721197816796349	.qt/rcc/qrc_appBarChart-110_raw_qml_0.cpp	23b72a8c852540d5
+268	322	7721197816796349	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appBarChart-110_raw_qml_0.cpp	23b72a8c852540d5
+259	406	7721197817576542	.rcc/qmlcache/appBarChart-110_Main_qml.cpp	275dbe0a894180bd
+259	406	7721197817576542	.rcc/qmlcache/appBarChart-110_Main_qml.cpp.aotstats	275dbe0a894180bd
+259	406	7721197817576542	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appBarChart-110_Main_qml.cpp	275dbe0a894180bd
+259	406	7721197817576542	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appBarChart-110_Main_qml.cpp.aotstats	275dbe0a894180bd
+411	482	7721197817773848	CMakeFiles/appBarChart-110.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appBarChart-110_raw_qml_0.cpp.obj	23e2d10331bbb444
+407	2906	7721197817724136	CMakeFiles/appBarChart-110.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appBarChart-110_Main_qml.cpp.obj	3bb81c07b0cd429f
+2906	3224	7721197842722345	appBarChart-110.exe	904a6ca38be2b198
+24	68	7721197996482173	.qt/appBarChart-110_qml.txt	84364f266bcd111
+24	68	7721197996482173	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appBarChart-110_qml.txt	84364f266bcd111
+33	214	7721197997924847	.qt/qml_imports/appBarChart-110_build.cmake	468a84be0dc7cfa9
+33	214	7721197997924847	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appBarChart-110_build.cmake	468a84be0dc7cfa9
+223	263	7721197998436965	.qt/rcc/qrc_appBarChart-110_raw_qml_0.cpp	23b72a8c852540d5
+223	263	7721197998436965	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appBarChart-110_raw_qml_0.cpp	23b72a8c852540d5
+214	352	7721197999232652	.rcc/qmlcache/appBarChart-110_Main_qml.cpp	275dbe0a894180bd
+214	352	7721197999232652	.rcc/qmlcache/appBarChart-110_Main_qml.cpp.aotstats	275dbe0a894180bd
+214	352	7721197999232652	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appBarChart-110_Main_qml.cpp	275dbe0a894180bd
+214	352	7721197999232652	E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appBarChart-110_Main_qml.cpp.aotstats	275dbe0a894180bd
+356	429	7721197999446308	CMakeFiles/appBarChart-110.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appBarChart-110_raw_qml_0.cpp.obj	23e2d10331bbb444
+352	2740	7721197999403847	CMakeFiles/appBarChart-110.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appBarChart-110_Main_qml.cpp.obj	3bb81c07b0cd429f
+2740	3014	7721198023282155	appBarChart-110.exe	904a6ca38be2b198

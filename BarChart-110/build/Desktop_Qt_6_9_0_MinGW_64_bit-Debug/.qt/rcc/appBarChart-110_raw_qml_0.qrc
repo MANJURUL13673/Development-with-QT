@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/BarChart-110/">
+    <file alias="Main.qml">E:/PERSONAL/Learning/QT DEVELOPMENT/BarChart-110/Main.qml</file>
+  </qresource>
+</RCC>
+

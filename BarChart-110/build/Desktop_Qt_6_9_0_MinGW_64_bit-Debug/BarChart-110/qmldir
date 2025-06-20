@@ -1,0 +1,5 @@
+module BarChart-110
+typeinfo appBarChart-110.qmltypes
+prefer :/qt/qml/BarChart-110/
+Main 1.0 Main.qml
+
