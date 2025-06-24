@@ -1,0 +1,5 @@
+module ScatterChart-114
+typeinfo appScatterChart-114.qmltypes
+prefer :/qt/qml/ScatterChart-114/
+Main 1.0 Main.qml
+

@@ -1,0 +1,41 @@
+# ninja log v6
+16	63	7724607939870104	.qt/appScatterChart-114_qml.txt	f3114c3390481d0e
+16	63	7724607939870104	E:/PERSONAL/Learning/QT DEVELOPMENT/ScatterChart-114/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appScatterChart-114_qml.txt	f3114c3390481d0e
+24	68	7724607939915537	.qt/appScatterChart-114_res.txt	cb38bb59a17b18c7
+24	68	7724607939915537	E:/PERSONAL/Learning/QT DEVELOPMENT/ScatterChart-114/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appScatterChart-114_res.txt	cb38bb59a17b18c7
+32	229	7724607941479774	.qt/qml_imports/appScatterChart-114_build.cmake	e7007108ae0bebb3
+32	229	7724607941479774	E:/PERSONAL/Learning/QT DEVELOPMENT/ScatterChart-114/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appScatterChart-114_build.cmake	e7007108ae0bebb3
+230	457	7724607942991992	appScatterChart-114_autogen/timestamp	60b09a0beebbc592
+230	457	7724607942991992	appScatterChart-114_autogen/mocs_compilation.cpp	60b09a0beebbc592
+230	457	7724607942991992	E:/PERSONAL/Learning/QT DEVELOPMENT/ScatterChart-114/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appScatterChart-114_autogen/timestamp	60b09a0beebbc592
+230	457	7724607942991992	E:/PERSONAL/Learning/QT DEVELOPMENT/ScatterChart-114/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appScatterChart-114_autogen/mocs_compilation.cpp	60b09a0beebbc592
+461	525	7724607944463586	meta_types/appScatterChart-114_json_file_list.txt	5d0c4ae283cc01a0
+461	525	7724607944463586	meta_types/appScatterChart-114_json_file_list.txt.timestamp	5d0c4ae283cc01a0
+461	525	7724607944463586	E:/PERSONAL/Learning/QT DEVELOPMENT/ScatterChart-114/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appScatterChart-114_json_file_list.txt	5d0c4ae283cc01a0
+461	525	7724607944463586	E:/PERSONAL/Learning/QT DEVELOPMENT/ScatterChart-114/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appScatterChart-114_json_file_list.txt.timestamp	5d0c4ae283cc01a0
+469	534	7724607944450903	.qt/rcc/qrc_qmake_ScatterChart-114.cpp	5da3599b0764d790
+469	534	7724607944450903	E:/PERSONAL/Learning/QT DEVELOPMENT/ScatterChart-114/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_ScatterChart-114.cpp	5da3599b0764d790
+485	538	7724607944599303	.qt/rcc/qrc_appScatterChart-114_raw_qml_0.cpp	e7fa1647858d029e
+485	538	7724607944599303	E:/PERSONAL/Learning/QT DEVELOPMENT/ScatterChart-114/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appScatterChart-114_raw_qml_0.cpp	e7fa1647858d029e
+477	548	7724607944665727	.rcc/qmlcache/appScatterChart-114_qmlcache_loader.cpp	8e408ee52e39833
+477	548	7724607944665727	E:/PERSONAL/Learning/QT DEVELOPMENT/ScatterChart-114/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appScatterChart-114_qmlcache_loader.cpp	8e408ee52e39833
+525	589	7724607945132798	meta_types/qt6appscatterchart-114_debug_metatypes.json.gen	7cc83d768947961e
+525	589	7724607945132798	meta_types/qt6appscatterchart-114_debug_metatypes.json	7cc83d768947961e
+525	589	7724607945132798	E:/PERSONAL/Learning/QT DEVELOPMENT/ScatterChart-114/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appscatterchart-114_debug_metatypes.json.gen	7cc83d768947961e
+525	589	7724607945132798	E:/PERSONAL/Learning/QT DEVELOPMENT/ScatterChart-114/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appscatterchart-114_debug_metatypes.json	7cc83d768947961e
+589	749	7724607946081991	appscatterchart-114_qmltyperegistrations.cpp	aa6b55e4ec1e87d1
+589	749	7724607946081991	ScatterChart-114/appScatterChart-114.qmltypes	aa6b55e4ec1e87d1
+589	749	7724607946081991	E:/PERSONAL/Learning/QT DEVELOPMENT/ScatterChart-114/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appscatterchart-114_qmltyperegistrations.cpp	aa6b55e4ec1e87d1
+589	749	7724607946081991	E:/PERSONAL/Learning/QT DEVELOPMENT/ScatterChart-114/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/ScatterChart-114/appScatterChart-114.qmltypes	aa6b55e4ec1e87d1
+749	886	7724607948002676	.rcc/qmlcache/appScatterChart-114_Main_qml.cpp	1147b4aba2bcc7b
+749	886	7724607948002676	.rcc/qmlcache/appScatterChart-114_Main_qml.cpp.aotstats	1147b4aba2bcc7b
+749	886	7724607948002676	E:/PERSONAL/Learning/QT DEVELOPMENT/ScatterChart-114/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appScatterChart-114_Main_qml.cpp	1147b4aba2bcc7b
+749	886	7724607948002676	E:/PERSONAL/Learning/QT DEVELOPMENT/ScatterChart-114/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appScatterChart-114_Main_qml.cpp.aotstats	1147b4aba2bcc7b
+886	996	7724607948168165	CMakeFiles/appScatterChart-114.dir/appScatterChart-114_autogen/mocs_compilation.cpp.obj	2c607b7956229c8a
+902	1014	7724607948327574	CMakeFiles/appScatterChart-114.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_ScatterChart-114.cpp.obj	53e26a52a1215213
+919	1028	7724607948496593	CMakeFiles/appScatterChart-114.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appScatterChart-114_raw_qml_0.cpp.obj	6ac47faec46a7b8
+896	4166	7724607948266634	CMakeFiles/appScatterChart-114.dir/appscatterchart-114_qmltyperegistrations.cpp.obj	bffc4aaa6a716f26
+913	4297	7724607948440712	CMakeFiles/appScatterChart-114.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appScatterChart-114_Main_qml.cpp.obj	8af45bd019a13869
+892	4524	7724607948226559	CMakeFiles/appScatterChart-114.dir/main.cpp.obj	ad6a674fc900211c
+908	4702	7724607948390498	CMakeFiles/appScatterChart-114.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appScatterChart-114_qmlcache_loader.cpp.obj	ad83991e9212db1f
+4702	5125	7724607986334311	appScatterChart-114.exe	d1dd34022f192cb8
