@@ -1,0 +1,5 @@
+module LineChart-111
+typeinfo appLineChart-111.qmltypes
+prefer :/qt/qml/LineChart-111/
+Main 1.0 Main.qml
+

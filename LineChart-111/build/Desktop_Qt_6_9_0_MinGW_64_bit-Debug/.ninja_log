@@ -1,0 +1,54 @@
+# ninja log v6
+34	94	7724578160554558	.qt/appLineChart-111_res.txt	366684f5ec7daead
+34	94	7724578160554558	E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appLineChart-111_res.txt	366684f5ec7daead
+22	99	7724578160564889	.qt/appLineChart-111_qml.txt	f369a46391293176
+22	99	7724578160564889	E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appLineChart-111_qml.txt	f369a46391293176
+44	374	7724578163355638	.qt/qml_imports/appLineChart-111_build.cmake	ae8841910c121800
+44	374	7724578163355638	E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appLineChart-111_build.cmake	ae8841910c121800
+374	692	7724578165687586	appLineChart-111_autogen/timestamp	442906776f7a0005
+374	692	7724578165687586	appLineChart-111_autogen/mocs_compilation.cpp	442906776f7a0005
+374	692	7724578165687586	E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appLineChart-111_autogen/timestamp	442906776f7a0005
+374	692	7724578165687586	E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appLineChart-111_autogen/mocs_compilation.cpp	442906776f7a0005
+704	756	7724578167175684	.qt/rcc/qrc_qmake_LineChart-111.cpp	559f03374c963cd3
+704	756	7724578167175684	E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_LineChart-111.cpp	559f03374c963cd3
+697	762	7724578167263551	meta_types/appLineChart-111_json_file_list.txt	1a0e8b18ca7e57f
+697	762	7724578167263551	meta_types/appLineChart-111_json_file_list.txt.timestamp	1a0e8b18ca7e57f
+697	762	7724578167263551	E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appLineChart-111_json_file_list.txt	1a0e8b18ca7e57f
+697	762	7724578167263551	E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appLineChart-111_json_file_list.txt.timestamp	1a0e8b18ca7e57f
+721	773	7724578167302686	.qt/rcc/qrc_appLineChart-111_raw_qml_0.cpp	263e2d86d2eacfe9
+721	773	7724578167302686	E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appLineChart-111_raw_qml_0.cpp	263e2d86d2eacfe9
+712	774	7724578167342052	.rcc/qmlcache/appLineChart-111_qmlcache_loader.cpp	cf2ed77eb46d9faa
+712	774	7724578167342052	E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appLineChart-111_qmlcache_loader.cpp	cf2ed77eb46d9faa
+763	843	7724578168056944	meta_types/qt6applinechart-111_debug_metatypes.json.gen	becd721fb5bce35b
+763	843	7724578168056944	meta_types/qt6applinechart-111_debug_metatypes.json	becd721fb5bce35b
+763	843	7724578168056944	E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6applinechart-111_debug_metatypes.json.gen	becd721fb5bce35b
+763	843	7724578168056944	E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6applinechart-111_debug_metatypes.json	becd721fb5bce35b
+843	1098	7724578170032515	applinechart-111_qmltyperegistrations.cpp	9c352ca58232ea5d
+843	1098	7724578170032515	LineChart-111/appLineChart-111.qmltypes	9c352ca58232ea5d
+843	1098	7724578170032515	E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/applinechart-111_qmltyperegistrations.cpp	9c352ca58232ea5d
+843	1098	7724578170032515	E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/LineChart-111/appLineChart-111.qmltypes	9c352ca58232ea5d
+1098	1231	7724578171883475	.rcc/qmlcache/appLineChart-111_Main_qml.cpp	cdb40b63fa61d014
+1098	1231	7724578171883475	.rcc/qmlcache/appLineChart-111_Main_qml.cpp.aotstats	cdb40b63fa61d014
+1098	1231	7724578171883475	E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appLineChart-111_Main_qml.cpp	cdb40b63fa61d014
+1098	1231	7724578171883475	E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appLineChart-111_Main_qml.cpp.aotstats	cdb40b63fa61d014
+1231	1690	7724578172025833	CMakeFiles/appLineChart-111.dir/appLineChart-111_autogen/mocs_compilation.cpp.obj	df8d4f0d96130e09
+1264	1692	7724578172354414	CMakeFiles/appLineChart-111.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appLineChart-111_raw_qml_0.cpp.obj	f8e7b563f04d7dde
+1246	1698	7724578172177755	CMakeFiles/appLineChart-111.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_LineChart-111.cpp.obj	45bb33b4f4cc320b
+1258	5260	7724578172299086	CMakeFiles/appLineChart-111.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appLineChart-111_Main_qml.cpp.obj	58a985374fe62859
+1240	5266	7724578172117936	CMakeFiles/appLineChart-111.dir/applinechart-111_qmltyperegistrations.cpp.obj	cf0c4a92e29658
+1235	5548	7724578172067548	CMakeFiles/appLineChart-111.dir/main.cpp.obj	bc340109f9226253
+1251	5883	7724578172227497	CMakeFiles/appLineChart-111.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appLineChart-111_qmlcache_loader.cpp.obj	723c26dc55100852
+5884	6541	7724578218558332	appLineChart-111.exe	f35ba2c581110a6a
+63	112	7724579578529931	.qt/appLineChart-111_qml.txt	f369a46391293176
+63	112	7724579578529931	E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appLineChart-111_qml.txt	f369a46391293176
+72	258	7724579579971928	.qt/qml_imports/appLineChart-111_build.cmake	ae8841910c121800
+72	258	7724579579971928	E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appLineChart-111_build.cmake	ae8841910c121800
+267	310	7724579580510210	.qt/rcc/qrc_appLineChart-111_raw_qml_0.cpp	263e2d86d2eacfe9
+267	310	7724579580510210	E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appLineChart-111_raw_qml_0.cpp	263e2d86d2eacfe9
+258	404	7724579581356079	.rcc/qmlcache/appLineChart-111_Main_qml.cpp	cdb40b63fa61d014
+258	404	7724579581356079	.rcc/qmlcache/appLineChart-111_Main_qml.cpp.aotstats	cdb40b63fa61d014
+258	404	7724579581356079	E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appLineChart-111_Main_qml.cpp	cdb40b63fa61d014
+258	404	7724579581356079	E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appLineChart-111_Main_qml.cpp.aotstats	cdb40b63fa61d014
+408	487	7724579581575207	CMakeFiles/appLineChart-111.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appLineChart-111_raw_qml_0.cpp.obj	f8e7b563f04d7dde
+404	2603	7724579581525282	CMakeFiles/appLineChart-111.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appLineChart-111_Main_qml.cpp.obj	58a985374fe62859
+2603	2842	7724579603514921	appLineChart-111.exe	f35ba2c581110a6a

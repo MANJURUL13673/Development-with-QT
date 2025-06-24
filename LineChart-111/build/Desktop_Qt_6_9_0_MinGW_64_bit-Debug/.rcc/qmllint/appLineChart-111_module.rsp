@@ -1,0 +1,10 @@
+-I
+E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-I
+C:/Qt/6.9.0/mingw_64/qml
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_LineChart-111.qrc
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/LineChart-111/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appLineChart-111_raw_qml_0.qrc
+--module
+LineChart-111
