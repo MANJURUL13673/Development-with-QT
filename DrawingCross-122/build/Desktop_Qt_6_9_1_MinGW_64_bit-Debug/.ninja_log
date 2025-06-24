@@ -1,0 +1,54 @@
+# ninja log v6
+35	117	7724840421149887	.qt/appDrawingCross-122_qml.txt	7c645d1ebb3fa8d7
+35	117	7724840421149887	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawingCross-122/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appDrawingCross-122_qml.txt	7c645d1ebb3fa8d7
+48	132	7724840421313670	.qt/appDrawingCross-122_res.txt	1b574dd21bb56f62
+48	132	7724840421313670	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawingCross-122/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appDrawingCross-122_res.txt	1b574dd21bb56f62
+61	224	7724840422179927	.qt/qml_imports/appDrawingCross-122_build.cmake	de2ede23927d3752
+61	224	7724840422179927	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawingCross-122/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appDrawingCross-122_build.cmake	de2ede23927d3752
+225	613	7724840424351092	appDrawingCross-122_autogen/timestamp	6b8ce922304e4654
+225	613	7724840424351092	appDrawingCross-122_autogen/mocs_compilation.cpp	6b8ce922304e4654
+225	613	7724840424351092	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawingCross-122/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appDrawingCross-122_autogen/timestamp	6b8ce922304e4654
+225	613	7724840424351092	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawingCross-122/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appDrawingCross-122_autogen/mocs_compilation.cpp	6b8ce922304e4654
+621	706	7724840427034423	meta_types/appDrawingCross-122_json_file_list.txt	95e4d5cd8f07772b
+621	706	7724840427034423	meta_types/appDrawingCross-122_json_file_list.txt.timestamp	95e4d5cd8f07772b
+621	706	7724840427034423	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawingCross-122/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appDrawingCross-122_json_file_list.txt	95e4d5cd8f07772b
+621	706	7724840427034423	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawingCross-122/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appDrawingCross-122_json_file_list.txt.timestamp	95e4d5cd8f07772b
+633	721	7724840427049498	.qt/rcc/qrc_qmake_DrawingCross-122.cpp	da061e2ab0e5db25
+633	721	7724840427049498	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawingCross-122/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_DrawingCross-122.cpp	da061e2ab0e5db25
+661	734	7724840427281999	.qt/rcc/qrc_appDrawingCross-122_raw_qml_0.cpp	29353ba0028ff32a
+661	734	7724840427281999	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawingCross-122/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appDrawingCross-122_raw_qml_0.cpp	29353ba0028ff32a
+646	761	7724840427531899	.rcc/qmlcache/appDrawingCross-122_qmlcache_loader.cpp	4979658f74514552
+646	761	7724840427531899	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawingCross-122/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawingCross-122_qmlcache_loader.cpp	4979658f74514552
+706	803	7724840428015005	meta_types/qt6appdrawingcross-122_debug_metatypes.json.gen	5abd7b1676edccbb
+706	803	7724840428015005	meta_types/qt6appdrawingcross-122_debug_metatypes.json	5abd7b1676edccbb
+706	803	7724840428015005	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawingCross-122/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appdrawingcross-122_debug_metatypes.json.gen	5abd7b1676edccbb
+706	803	7724840428015005	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawingCross-122/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appdrawingcross-122_debug_metatypes.json	5abd7b1676edccbb
+803	1049	7724840429718735	appdrawingcross-122_qmltyperegistrations.cpp	efe241ff0018f2e6
+803	1049	7724840429718735	DrawingCross-122/appDrawingCross-122.qmltypes	efe241ff0018f2e6
+803	1049	7724840429718735	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawingCross-122/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appdrawingcross-122_qmltyperegistrations.cpp	efe241ff0018f2e6
+803	1049	7724840429718735	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawingCross-122/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/DrawingCross-122/appDrawingCross-122.qmltypes	efe241ff0018f2e6
+1049	1268	7724840432535425	.rcc/qmlcache/appDrawingCross-122_Main_qml.cpp	30de8174d1bac158
+1049	1268	7724840432535425	.rcc/qmlcache/appDrawingCross-122_Main_qml.cpp.aotstats	30de8174d1bac158
+1049	1268	7724840432535425	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawingCross-122/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawingCross-122_Main_qml.cpp	30de8174d1bac158
+1049	1268	7724840432535425	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawingCross-122/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawingCross-122_Main_qml.cpp.aotstats	30de8174d1bac158
+1269	1396	7724840432783917	CMakeFiles/appDrawingCross-122.dir/appDrawingCross-122_autogen/mocs_compilation.cpp.obj	43c7769635259cdb
+1294	1443	7724840433027055	CMakeFiles/appDrawingCross-122.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_DrawingCross-122.cpp.obj	236249c942a929ba
+1318	1464	7724840433271001	CMakeFiles/appDrawingCross-122.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appDrawingCross-122_raw_qml_0.cpp.obj	62451748c5daec83
+1282	6268	7724840432907797	CMakeFiles/appDrawingCross-122.dir/appdrawingcross-122_qmltyperegistrations.cpp.obj	40d22f687a72ce36
+1310	6290	7724840433186312	CMakeFiles/appDrawingCross-122.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawingCross-122_Main_qml.cpp.obj	5075c2ded72aaab9
+1276	6363	7724840432844528	CMakeFiles/appDrawingCross-122.dir/main.cpp.obj	e02fb30b28840d12
+1300	6942	7724840433089753	CMakeFiles/appDrawingCross-122.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawingCross-122_qmlcache_loader.cpp.obj	7244a1fddeec6dc9
+6943	7379	7724840489515782	appDrawingCross-122.exe	fa8424f7eddde79
+105	195	7724840858218806	.qt/appDrawingCross-122_qml.txt	7c645d1ebb3fa8d7
+105	195	7724840858218806	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawingCross-122/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appDrawingCross-122_qml.txt	7c645d1ebb3fa8d7
+117	275	7724840858972904	.qt/qml_imports/appDrawingCross-122_build.cmake	de2ede23927d3752
+117	275	7724840858972904	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawingCross-122/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appDrawingCross-122_build.cmake	de2ede23927d3752
+286	350	7724840859758012	.qt/rcc/qrc_appDrawingCross-122_raw_qml_0.cpp	29353ba0028ff32a
+286	350	7724840859758012	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawingCross-122/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appDrawingCross-122_raw_qml_0.cpp	29353ba0028ff32a
+275	469	7724840860843994	.rcc/qmlcache/appDrawingCross-122_Main_qml.cpp	30de8174d1bac158
+275	469	7724840860843994	.rcc/qmlcache/appDrawingCross-122_Main_qml.cpp.aotstats	30de8174d1bac158
+275	469	7724840860843994	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawingCross-122/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawingCross-122_Main_qml.cpp	30de8174d1bac158
+275	469	7724840860843994	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawingCross-122/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawingCross-122_Main_qml.cpp.aotstats	30de8174d1bac158
+475	580	7724840861113507	CMakeFiles/appDrawingCross-122.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appDrawingCross-122_raw_qml_0.cpp.obj	62451748c5daec83
+469	4438	7724840861058561	CMakeFiles/appDrawingCross-122.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawingCross-122_Main_qml.cpp.obj	5075c2ded72aaab9
+4438	4809	7724840900745974	appDrawingCross-122.exe	fa8424f7eddde79

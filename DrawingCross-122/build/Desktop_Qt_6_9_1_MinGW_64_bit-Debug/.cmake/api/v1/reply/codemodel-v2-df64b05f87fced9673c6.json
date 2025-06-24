@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-cacfe45586ec13d593c8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DrawingCross-122",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-4c7857cef414995c22ae.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-d8918f3cdb63121ea931.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-dd5813fb2e84643d2019.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-e5fb8e8305c127745804.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-2c43af7e27a0002f1b03.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDrawingCross-122::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDrawingCross-122-Debug-55625d0aeb4a3087449e.json",
+					"name" : "appDrawingCross-122",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDrawingCross-122_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDrawingCross-122_autogen-Debug-b1f87b6df4d848517397.json",
+					"name" : "appDrawingCross-122_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDrawingCross-122_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDrawingCross-122_autogen_timestamp_deps-Debug-3ef5cc4ee5c6eadbc4cc.json",
+					"name" : "appDrawingCross-122_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDrawingCross-122_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDrawingCross-122_copy_qml-Debug-5b1ea5191b62f0f836c9.json",
+					"name" : "appDrawingCross-122_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDrawingCross-122_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDrawingCross-122_copy_res-Debug-9bcd388d210b213f473c.json",
+					"name" : "appDrawingCross-122_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDrawingCross-122_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDrawingCross-122_qmlimportscan-Debug-428282a1d2ca379f62c5.json",
+					"name" : "appDrawingCross-122_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDrawingCross-122_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDrawingCross-122_qmllint-Debug-023bff99a5314c6e7af1.json",
+					"name" : "appDrawingCross-122_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDrawingCross-122_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDrawingCross-122_qmllint_json-Debug-e512d1184449d8ca2242.json",
+					"name" : "appDrawingCross-122_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDrawingCross-122_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDrawingCross-122_qmllint_module-Debug-a0d267c7c5bceab24f10.json",
+					"name" : "appDrawingCross-122_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDrawingCross-122_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDrawingCross-122_qmltyperegistration-Debug-1182b86c3befeb817a51.json",
+					"name" : "appDrawingCross-122_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appDrawingCross-122_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appDrawingCross-122_aotstats_target-Debug-39f23c2838c44183ba54.json",
+					"name" : "module_appDrawingCross-122_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/DrawingCross-122/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/DrawingCross-122"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

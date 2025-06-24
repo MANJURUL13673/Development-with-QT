@@ -1,0 +1,5 @@
+module DrawingCross-122
+typeinfo appDrawingCross-122.qmltypes
+prefer :/qt/qml/DrawingCross-122/
+Main 1.0 Main.qml
+
