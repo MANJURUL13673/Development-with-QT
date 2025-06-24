@@ -1,0 +1,5 @@
+module AddSphere-117
+typeinfo appAddSphere-117.qmltypes
+prefer :/qt/qml/AddSphere-117/
+Main 1.0 Main.qml
+

@@ -1,0 +1,54 @@
+# ninja log v6
+43	130	7724817737973621	.qt/appAddSphere-117_res.txt	54a364d8b59cd032
+43	130	7724817737973621	E:/PERSONAL/Learning/QT DEVELOPMENT/AddSphere-117/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appAddSphere-117_res.txt	54a364d8b59cd032
+30	135	7724817737983456	.qt/appAddSphere-117_qml.txt	a4127f408a74a6b6
+30	135	7724817737983456	E:/PERSONAL/Learning/QT DEVELOPMENT/AddSphere-117/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appAddSphere-117_qml.txt	a4127f408a74a6b6
+56	238	7724817739055922	.qt/qml_imports/appAddSphere-117_build.cmake	ca0ab322458ec084
+56	238	7724817739055922	E:/PERSONAL/Learning/QT DEVELOPMENT/AddSphere-117/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appAddSphere-117_build.cmake	ca0ab322458ec084
+239	581	7724817741211343	appAddSphere-117_autogen/timestamp	854226b5cf8e9a7f
+239	581	7724817741211343	appAddSphere-117_autogen/mocs_compilation.cpp	854226b5cf8e9a7f
+239	581	7724817741211343	E:/PERSONAL/Learning/QT DEVELOPMENT/AddSphere-117/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appAddSphere-117_autogen/timestamp	854226b5cf8e9a7f
+239	581	7724817741211343	E:/PERSONAL/Learning/QT DEVELOPMENT/AddSphere-117/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appAddSphere-117_autogen/mocs_compilation.cpp	854226b5cf8e9a7f
+588	678	7724817743449152	meta_types/appAddSphere-117_json_file_list.txt	ae22a553249683e6
+588	678	7724817743449152	meta_types/appAddSphere-117_json_file_list.txt.timestamp	ae22a553249683e6
+588	678	7724817743449152	E:/PERSONAL/Learning/QT DEVELOPMENT/AddSphere-117/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appAddSphere-117_json_file_list.txt	ae22a553249683e6
+588	678	7724817743449152	E:/PERSONAL/Learning/QT DEVELOPMENT/AddSphere-117/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appAddSphere-117_json_file_list.txt.timestamp	ae22a553249683e6
+600	693	7724817743476802	.qt/rcc/qrc_qmake_AddSphere-117.cpp	8f4fd5641c218b42
+600	693	7724817743476802	E:/PERSONAL/Learning/QT DEVELOPMENT/AddSphere-117/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_AddSphere-117.cpp	8f4fd5641c218b42
+629	717	7724817743782507	.qt/rcc/qrc_appAddSphere-117_raw_qml_0.cpp	832013d4216b8f58
+629	717	7724817743782507	E:/PERSONAL/Learning/QT DEVELOPMENT/AddSphere-117/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appAddSphere-117_raw_qml_0.cpp	832013d4216b8f58
+613	745	7724817744062017	.rcc/qmlcache/appAddSphere-117_qmlcache_loader.cpp	f9994bd97b914bbc
+613	745	7724817744062017	E:/PERSONAL/Learning/QT DEVELOPMENT/AddSphere-117/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddSphere-117_qmlcache_loader.cpp	f9994bd97b914bbc
+678	792	7724817744624589	meta_types/qt6appaddsphere-117_debug_metatypes.json.gen	24c00c6c4b6a1e28
+678	792	7724817744624589	meta_types/qt6appaddsphere-117_debug_metatypes.json	24c00c6c4b6a1e28
+678	792	7724817744624589	E:/PERSONAL/Learning/QT DEVELOPMENT/AddSphere-117/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appaddsphere-117_debug_metatypes.json.gen	24c00c6c4b6a1e28
+678	792	7724817744624589	E:/PERSONAL/Learning/QT DEVELOPMENT/AddSphere-117/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appaddsphere-117_debug_metatypes.json	24c00c6c4b6a1e28
+793	1064	7724817746433954	appaddsphere-117_qmltyperegistrations.cpp	bb652120096607b9
+793	1064	7724817746433954	AddSphere-117/appAddSphere-117.qmltypes	bb652120096607b9
+793	1064	7724817746433954	E:/PERSONAL/Learning/QT DEVELOPMENT/AddSphere-117/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appaddsphere-117_qmltyperegistrations.cpp	bb652120096607b9
+793	1064	7724817746433954	E:/PERSONAL/Learning/QT DEVELOPMENT/AddSphere-117/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/AddSphere-117/appAddSphere-117.qmltypes	bb652120096607b9
+1065	1263	7724817749206048	.rcc/qmlcache/appAddSphere-117_Main_qml.cpp	580904f79484573e
+1065	1263	7724817749206048	.rcc/qmlcache/appAddSphere-117_Main_qml.cpp.aotstats	580904f79484573e
+1065	1263	7724817749206048	E:/PERSONAL/Learning/QT DEVELOPMENT/AddSphere-117/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddSphere-117_Main_qml.cpp	580904f79484573e
+1065	1263	7724817749206048	E:/PERSONAL/Learning/QT DEVELOPMENT/AddSphere-117/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddSphere-117_Main_qml.cpp.aotstats	580904f79484573e
+1263	1423	7724817749431520	CMakeFiles/appAddSphere-117.dir/appAddSphere-117_autogen/mocs_compilation.cpp.obj	7536bb5c3c9e8535
+1284	1453	7724817749638921	CMakeFiles/appAddSphere-117.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_AddSphere-117.cpp.obj	a34277043047fd65
+1308	1483	7724817749872040	CMakeFiles/appAddSphere-117.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appAddSphere-117_raw_qml_0.cpp.obj	9e0b76d31372e9d2
+1276	6999	7724817749554711	CMakeFiles/appAddSphere-117.dir/appaddsphere-117_qmltyperegistrations.cpp.obj	ff96ebc7acffcdca
+1300	7015	7724817749790885	CMakeFiles/appAddSphere-117.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddSphere-117_Main_qml.cpp.obj	da40c7e72ed592a0
+1268	7109	7724817749483281	CMakeFiles/appAddSphere-117.dir/main.cpp.obj	6f92ae8ad33e140
+1292	7742	7724817749719355	CMakeFiles/appAddSphere-117.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddSphere-117_qmlcache_loader.cpp.obj	2f7dd55a6198c7a8
+7743	8251	7724817814224810	appAddSphere-117.exe	a43fe31f10329e22
+108	190	7724818385579171	.qt/appAddSphere-117_qml.txt	a4127f408a74a6b6
+108	190	7724818385579171	E:/PERSONAL/Learning/QT DEVELOPMENT/AddSphere-117/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appAddSphere-117_qml.txt	a4127f408a74a6b6
+118	271	7724818386354078	.qt/qml_imports/appAddSphere-117_build.cmake	ca0ab322458ec084
+118	271	7724818386354078	E:/PERSONAL/Learning/QT DEVELOPMENT/AddSphere-117/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appAddSphere-117_build.cmake	ca0ab322458ec084
+290	357	7724818387240176	.qt/rcc/qrc_appAddSphere-117_raw_qml_0.cpp	832013d4216b8f58
+290	357	7724818387240176	E:/PERSONAL/Learning/QT DEVELOPMENT/AddSphere-117/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appAddSphere-117_raw_qml_0.cpp	832013d4216b8f58
+271	503	7724818388544873	.rcc/qmlcache/appAddSphere-117_Main_qml.cpp	580904f79484573e
+271	503	7724818388544873	.rcc/qmlcache/appAddSphere-117_Main_qml.cpp.aotstats	580904f79484573e
+271	503	7724818388544873	E:/PERSONAL/Learning/QT DEVELOPMENT/AddSphere-117/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddSphere-117_Main_qml.cpp	580904f79484573e
+271	503	7724818388544873	E:/PERSONAL/Learning/QT DEVELOPMENT/AddSphere-117/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddSphere-117_Main_qml.cpp.aotstats	580904f79484573e
+509	622	7724818388859279	CMakeFiles/appAddSphere-117.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appAddSphere-117_raw_qml_0.cpp.obj	9e0b76d31372e9d2
+503	4608	7724818388806008	CMakeFiles/appAddSphere-117.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddSphere-117_Main_qml.cpp.obj	da40c7e72ed592a0
+4609	4989	7724818429864399	appAddSphere-117.exe	a43fe31f10329e22

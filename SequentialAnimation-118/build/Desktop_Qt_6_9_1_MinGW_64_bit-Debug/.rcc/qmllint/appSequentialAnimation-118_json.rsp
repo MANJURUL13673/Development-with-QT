@@ -1,0 +1,12 @@
+--bare
+-I
+E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug
+-I
+C:/Qt/6.9.1/mingw_64/qml
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qmake_SequentialAnimation-118.qrc
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/appSequentialAnimation-118_raw_qml_0.qrc
+E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/Main.qml
+--json
+E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appSequentialAnimation-118_qmllint.json

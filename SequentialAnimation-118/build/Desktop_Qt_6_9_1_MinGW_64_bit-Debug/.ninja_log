@@ -1,0 +1,54 @@
+# ninja log v6
+41	133	7724819469084885	.qt/appSequentialAnimation-118_qml.txt	48a3c0bbbc0244c7
+41	133	7724819469084885	E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appSequentialAnimation-118_qml.txt	48a3c0bbbc0244c7
+57	142	7724819469205160	.qt/appSequentialAnimation-118_res.txt	488610d5d9f2b38a
+57	142	7724819469205160	E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appSequentialAnimation-118_res.txt	488610d5d9f2b38a
+68	223	7724819469984546	.qt/qml_imports/appSequentialAnimation-118_build.cmake	a3549a01d4452e0b
+68	223	7724819469984546	E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appSequentialAnimation-118_build.cmake	a3549a01d4452e0b
+223	571	7724819472063906	appSequentialAnimation-118_autogen/timestamp	ef92a05b4e11d144
+223	571	7724819472063906	appSequentialAnimation-118_autogen/mocs_compilation.cpp	ef92a05b4e11d144
+223	571	7724819472063906	E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appSequentialAnimation-118_autogen/timestamp	ef92a05b4e11d144
+223	571	7724819472063906	E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appSequentialAnimation-118_autogen/mocs_compilation.cpp	ef92a05b4e11d144
+590	667	7724819474400491	.qt/rcc/qrc_qmake_SequentialAnimation-118.cpp	f604782c390b9a54
+590	667	7724819474400491	E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_SequentialAnimation-118.cpp	f604782c390b9a54
+578	679	7724819474475993	meta_types/appSequentialAnimation-118_json_file_list.txt	57dcd624a1a3079f
+578	679	7724819474475993	meta_types/appSequentialAnimation-118_json_file_list.txt.timestamp	57dcd624a1a3079f
+578	679	7724819474475993	E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appSequentialAnimation-118_json_file_list.txt	57dcd624a1a3079f
+578	679	7724819474475993	E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appSequentialAnimation-118_json_file_list.txt.timestamp	57dcd624a1a3079f
+616	703	7724819474802088	.qt/rcc/qrc_appSequentialAnimation-118_raw_qml_0.cpp	f61aa5bc1b17e79e
+616	703	7724819474802088	E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appSequentialAnimation-118_raw_qml_0.cpp	f61aa5bc1b17e79e
+600	727	7724819474998481	.rcc/qmlcache/appSequentialAnimation-118_qmlcache_loader.cpp	e983e93f16da6f8d
+600	727	7724819474998481	E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSequentialAnimation-118_qmlcache_loader.cpp	e983e93f16da6f8d
+679	773	7724819475532637	meta_types/qt6appsequentialanimation-118_debug_metatypes.json.gen	fad1baf18e5508fd
+679	773	7724819475532637	meta_types/qt6appsequentialanimation-118_debug_metatypes.json	fad1baf18e5508fd
+679	773	7724819475532637	E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appsequentialanimation-118_debug_metatypes.json.gen	fad1baf18e5508fd
+679	773	7724819475532637	E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appsequentialanimation-118_debug_metatypes.json	fad1baf18e5508fd
+774	977	7724819476811566	appsequentialanimation-118_qmltyperegistrations.cpp	83d87183f1fa812f
+774	977	7724819476811566	SequentialAnimation-118/appSequentialAnimation-118.qmltypes	83d87183f1fa812f
+774	977	7724819476811566	E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appsequentialanimation-118_qmltyperegistrations.cpp	83d87183f1fa812f
+774	977	7724819476811566	E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/SequentialAnimation-118/appSequentialAnimation-118.qmltypes	83d87183f1fa812f
+977	1164	7724819479336087	.rcc/qmlcache/appSequentialAnimation-118_Main_qml.cpp	3b52c96f0936eb
+977	1164	7724819479336087	.rcc/qmlcache/appSequentialAnimation-118_Main_qml.cpp.aotstats	3b52c96f0936eb
+977	1164	7724819479336087	E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSequentialAnimation-118_Main_qml.cpp	3b52c96f0936eb
+977	1164	7724819479336087	E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSequentialAnimation-118_Main_qml.cpp.aotstats	3b52c96f0936eb
+1164	1291	7724819479538206	CMakeFiles/appSequentialAnimation-118.dir/appSequentialAnimation-118_autogen/mocs_compilation.cpp.obj	38849aa398eb4442
+1188	1345	7724819479771989	CMakeFiles/appSequentialAnimation-118.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_SequentialAnimation-118.cpp.obj	dd7f2230bddc5e41
+1212	1367	7724819480013397	CMakeFiles/appSequentialAnimation-118.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appSequentialAnimation-118_raw_qml_0.cpp.obj	36c5be038d5053d6
+1178	5654	7724819479671977	CMakeFiles/appSequentialAnimation-118.dir/appsequentialanimation-118_qmltyperegistrations.cpp.obj	b7d57f724f93764e
+1203	5778	7724819479928512	CMakeFiles/appSequentialAnimation-118.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSequentialAnimation-118_Main_qml.cpp.obj	55cdd09b02e5a78c
+1171	5962	7724819479608835	CMakeFiles/appSequentialAnimation-118.dir/main.cpp.obj	7db4770ce44696a7
+1195	6476	7724819479848143	CMakeFiles/appSequentialAnimation-118.dir/9a23340053608eb9e5f1a7447a4f1c4e/.rcc/qmlcache/appSequentialAnimation-118_qmlcache_loader.cpp.obj	c109d61d101315a8
+6477	6909	7724819532665652	appSequentialAnimation-118.exe	2d06bec130c0cb65
+70	138	7724821109937432	.qt/appSequentialAnimation-118_qml.txt	48a3c0bbbc0244c7
+70	138	7724821109937432	E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appSequentialAnimation-118_qml.txt	48a3c0bbbc0244c7
+82	219	7724821110780606	.qt/qml_imports/appSequentialAnimation-118_build.cmake	a3549a01d4452e0b
+82	219	7724821110780606	E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appSequentialAnimation-118_build.cmake	a3549a01d4452e0b
+231	294	7724821111526895	.qt/rcc/qrc_appSequentialAnimation-118_raw_qml_0.cpp	f61aa5bc1b17e79e
+231	294	7724821111526895	E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appSequentialAnimation-118_raw_qml_0.cpp	f61aa5bc1b17e79e
+220	423	7724821112700344	.rcc/qmlcache/appSequentialAnimation-118_Main_qml.cpp	3b52c96f0936eb
+220	423	7724821112700344	.rcc/qmlcache/appSequentialAnimation-118_Main_qml.cpp.aotstats	3b52c96f0936eb
+220	423	7724821112700344	E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSequentialAnimation-118_Main_qml.cpp	3b52c96f0936eb
+220	423	7724821112700344	E:/PERSONAL/Learning/QT DEVELOPMENT/SequentialAnimation-118/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSequentialAnimation-118_Main_qml.cpp.aotstats	3b52c96f0936eb
+429	537	7724821112991784	CMakeFiles/appSequentialAnimation-118.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appSequentialAnimation-118_raw_qml_0.cpp.obj	36c5be038d5053d6
+423	4347	7724821112933143	CMakeFiles/appSequentialAnimation-118.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSequentialAnimation-118_Main_qml.cpp.obj	55cdd09b02e5a78c
+4347	4760	7724821152162627	appSequentialAnimation-118.exe	2d06bec130c0cb65
