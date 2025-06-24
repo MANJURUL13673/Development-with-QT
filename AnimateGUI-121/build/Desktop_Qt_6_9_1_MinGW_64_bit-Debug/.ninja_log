@@ -1,0 +1,93 @@
+# ninja log v6
+28	111	7724830757178250	.qt/appAnimateGUI-121_qml.txt	11a6d17a71a1a4ae
+28	111	7724830757178250	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appAnimateGUI-121_qml.txt	11a6d17a71a1a4ae
+39	114	7724830757232228	.qt/appAnimateGUI-121_res.txt	d1d46b2430a95a22
+39	114	7724830757232228	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appAnimateGUI-121_res.txt	d1d46b2430a95a22
+50	187	7724830757920745	.qt/qml_imports/appAnimateGUI-121_build.cmake	efa9121f6812c5d7
+50	187	7724830757920745	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appAnimateGUI-121_build.cmake	efa9121f6812c5d7
+188	527	7724830760020945	appAnimateGUI-121_autogen/timestamp	2711df78630b6acb
+188	527	7724830760020945	appAnimateGUI-121_autogen/mocs_compilation.cpp	2711df78630b6acb
+188	527	7724830760020945	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appAnimateGUI-121_autogen/timestamp	2711df78630b6acb
+188	527	7724830760020945	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appAnimateGUI-121_autogen/mocs_compilation.cpp	2711df78630b6acb
+534	617	7724830762219195	meta_types/appAnimateGUI-121_json_file_list.txt	4e6b545855a1451
+534	617	7724830762219195	meta_types/appAnimateGUI-121_json_file_list.txt.timestamp	4e6b545855a1451
+534	617	7724830762219195	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appAnimateGUI-121_json_file_list.txt	4e6b545855a1451
+534	617	7724830762219195	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appAnimateGUI-121_json_file_list.txt.timestamp	4e6b545855a1451
+545	630	7724830762229192	.qt/rcc/qrc_qmake_AnimateGUI-121.cpp	f9c49719a4c20b33
+545	630	7724830762229192	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_AnimateGUI-121.cpp	f9c49719a4c20b33
+573	646	7724830762538590	.qt/rcc/qrc_appAnimateGUI-121_raw_qml_0.cpp	26b146bf3f71eb97
+573	646	7724830762538590	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appAnimateGUI-121_raw_qml_0.cpp	26b146bf3f71eb97
+557	664	7724830762684068	.rcc/qmlcache/appAnimateGUI-121_qmlcache_loader.cpp	b56de5ea8025756c
+557	664	7724830762684068	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAnimateGUI-121_qmlcache_loader.cpp	b56de5ea8025756c
+617	708	7724830763176563	meta_types/qt6appanimategui-121_debug_metatypes.json.gen	338114128a496c69
+617	708	7724830763176563	meta_types/qt6appanimategui-121_debug_metatypes.json	338114128a496c69
+617	708	7724830763176563	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appanimategui-121_debug_metatypes.json.gen	338114128a496c69
+617	708	7724830763176563	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appanimategui-121_debug_metatypes.json	338114128a496c69
+708	899	7724830764377462	appanimategui-121_qmltyperegistrations.cpp	492a0cf2117270ca
+708	899	7724830764377462	AnimateGUI-121/appAnimateGUI-121.qmltypes	492a0cf2117270ca
+708	899	7724830764377462	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appanimategui-121_qmltyperegistrations.cpp	492a0cf2117270ca
+708	899	7724830764377462	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/AnimateGUI-121/appAnimateGUI-121.qmltypes	492a0cf2117270ca
+899	1090	7724830766860229	.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp	b543f434d455ce85
+899	1090	7724830766860229	.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp.aotstats	b543f434d455ce85
+899	1090	7724830766860229	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp	b543f434d455ce85
+899	1090	7724830766860229	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp.aotstats	b543f434d455ce85
+1090	1231	7724830767092672	CMakeFiles/appAnimateGUI-121.dir/appAnimateGUI-121_autogen/mocs_compilation.cpp.obj	1a3260172eb24f81
+1112	1287	7724830767309086	CMakeFiles/appAnimateGUI-121.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_AnimateGUI-121.cpp.obj	11da6ea225d458c3
+1139	1302	7724830767579597	CMakeFiles/appAnimateGUI-121.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appAnimateGUI-121_raw_qml_0.cpp.obj	9dfb94a332755893
+1103	6214	7724830767225493	CMakeFiles/appAnimateGUI-121.dir/appanimategui-121_qmltyperegistrations.cpp.obj	11e8c6c61c237d70
+1128	6349	7724830767479934	CMakeFiles/appAnimateGUI-121.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp.obj	c0f0293590479532
+1097	6486	7724830767150016	CMakeFiles/appAnimateGUI-121.dir/main.cpp.obj	67f7b3b86b206365
+1120	7005	7724830767390463	CMakeFiles/appAnimateGUI-121.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAnimateGUI-121_qmlcache_loader.cpp.obj	f1c6fded28478251
+7006	7436	7724830826241431	appAnimateGUI-121.exe	1991a985ddd3ce3a
+78	163	7724832092532249	.qt/appAnimateGUI-121_qml.txt	11a6d17a71a1a4ae
+78	163	7724832092532249	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appAnimateGUI-121_qml.txt	11a6d17a71a1a4ae
+89	235	7724832093242532	.qt/qml_imports/appAnimateGUI-121_build.cmake	efa9121f6812c5d7
+89	235	7724832093242532	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appAnimateGUI-121_build.cmake	efa9121f6812c5d7
+250	309	7724832093994624	.qt/rcc/qrc_appAnimateGUI-121_raw_qml_0.cpp	26b146bf3f71eb97
+250	309	7724832093994624	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appAnimateGUI-121_raw_qml_0.cpp	26b146bf3f71eb97
+236	438	7724832095162528	.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp	b543f434d455ce85
+236	438	7724832095162528	.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp.aotstats	b543f434d455ce85
+236	438	7724832095162528	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp	b543f434d455ce85
+236	438	7724832095162528	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp.aotstats	b543f434d455ce85
+445	550	7724832095464037	CMakeFiles/appAnimateGUI-121.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appAnimateGUI-121_raw_qml_0.cpp.obj	9dfb94a332755893
+438	4476	7724832095394760	CMakeFiles/appAnimateGUI-121.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp.obj	c0f0293590479532
+4476	4923	7724832135784790	appAnimateGUI-121.exe	1991a985ddd3ce3a
+86	201	7724833013951116	.qt/appAnimateGUI-121_qml.txt	11a6d17a71a1a4ae
+86	201	7724833013951116	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appAnimateGUI-121_qml.txt	11a6d17a71a1a4ae
+100	254	7724833014473294	.qt/qml_imports/appAnimateGUI-121_build.cmake	efa9121f6812c5d7
+100	254	7724833014473294	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appAnimateGUI-121_build.cmake	efa9121f6812c5d7
+266	328	7724833015232426	.qt/rcc/qrc_appAnimateGUI-121_raw_qml_0.cpp	26b146bf3f71eb97
+266	328	7724833015232426	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appAnimateGUI-121_raw_qml_0.cpp	26b146bf3f71eb97
+255	448	7724833016351601	.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp	b543f434d455ce85
+255	448	7724833016351601	.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp.aotstats	b543f434d455ce85
+255	448	7724833016351601	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp	b543f434d455ce85
+255	448	7724833016351601	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp.aotstats	b543f434d455ce85
+454	835	7724833016611729	CMakeFiles/appAnimateGUI-121.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appAnimateGUI-121_raw_qml_0.cpp.obj	9dfb94a332755893
+448	5526	7724833016546564	CMakeFiles/appAnimateGUI-121.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp.obj	c0f0293590479532
+5526	6043	7724833067328132	appAnimateGUI-121.exe	1991a985ddd3ce3a
+31	90	7724834737522042	.qt/appAnimateGUI-121_qml.txt	11a6d17a71a1a4ae
+31	90	7724834737522042	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appAnimateGUI-121_qml.txt	11a6d17a71a1a4ae
+40	167	7724834738323218	.qt/qml_imports/appAnimateGUI-121_build.cmake	efa9121f6812c5d7
+40	167	7724834738323218	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appAnimateGUI-121_build.cmake	efa9121f6812c5d7
+178	247	7724834739133182	.qt/rcc/qrc_appAnimateGUI-121_raw_qml_0.cpp	26b146bf3f71eb97
+178	247	7724834739133182	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appAnimateGUI-121_raw_qml_0.cpp	26b146bf3f71eb97
+167	359	7724834740134974	.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp	b543f434d455ce85
+167	359	7724834740134974	.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp.aotstats	b543f434d455ce85
+167	359	7724834740134974	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp	b543f434d455ce85
+167	359	7724834740134974	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp.aotstats	b543f434d455ce85
+365	471	7724834740410086	CMakeFiles/appAnimateGUI-121.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appAnimateGUI-121_raw_qml_0.cpp.obj	9dfb94a332755893
+359	3821	7724834740351970	CMakeFiles/appAnimateGUI-121.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp.obj	c0f0293590479532
+3821	4234	7724834774962838	appAnimateGUI-121.exe	1991a985ddd3ce3a
+78	156	7724835673157734	.qt/appAnimateGUI-121_qml.txt	11a6d17a71a1a4ae
+78	156	7724835673157734	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appAnimateGUI-121_qml.txt	11a6d17a71a1a4ae
+92	238	7724835673989732	.qt/qml_imports/appAnimateGUI-121_build.cmake	efa9121f6812c5d7
+92	238	7724835673989732	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appAnimateGUI-121_build.cmake	efa9121f6812c5d7
+250	321	7724835674799478	.qt/rcc/qrc_appAnimateGUI-121_raw_qml_0.cpp	26b146bf3f71eb97
+250	321	7724835674799478	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appAnimateGUI-121_raw_qml_0.cpp	26b146bf3f71eb97
+239	445	7724835675961895	.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp	b543f434d455ce85
+239	445	7724835675961895	.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp.aotstats	b543f434d455ce85
+239	445	7724835675961895	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp	b543f434d455ce85
+239	445	7724835675961895	E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp.aotstats	b543f434d455ce85
+452	562	7724835676251853	CMakeFiles/appAnimateGUI-121.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appAnimateGUI-121_raw_qml_0.cpp.obj	9dfb94a332755893
+445	4431	7724835676171458	CMakeFiles/appAnimateGUI-121.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAnimateGUI-121_Main_qml.cpp.obj	c0f0293590479532
+4431	4797	7724835716040399	appAnimateGUI-121.exe	1991a985ddd3ce3a

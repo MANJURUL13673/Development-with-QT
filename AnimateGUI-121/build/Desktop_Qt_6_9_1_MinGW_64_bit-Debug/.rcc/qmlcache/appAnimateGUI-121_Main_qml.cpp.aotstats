@@ -1,0 +1,44 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 481,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 33,
+                        "durationMicroseconds": 216,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 98,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 35
+                    }
+                ],
+                "filePath": "E:/PERSONAL/Learning/QT DEVELOPMENT/AnimateGUI-121/Main.qml"
+            }
+        ],
+        "moduleId": "AnimateGUI-121(appAnimateGUI-121)"
+    }
+]
