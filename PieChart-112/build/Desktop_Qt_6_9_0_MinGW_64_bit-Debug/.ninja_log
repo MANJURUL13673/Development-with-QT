@@ -1,0 +1,55 @@
+# ninja log v6
+16	1747	7724596111031058	build.ninja	fb93fccfdab9e78d
+51	107	7724596114124319	.qt/appPieChart-112_res.txt	d3146f6b392b9849
+51	107	7724596114124319	E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appPieChart-112_res.txt	d3146f6b392b9849
+44	109	7724596114136606	.qt/appPieChart-112_qml.txt	6a995ec61d0f9997
+44	109	7724596114136606	E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appPieChart-112_qml.txt	6a995ec61d0f9997
+59	274	7724596115686331	.qt/qml_imports/appPieChart-112_build.cmake	7d2fa468ca4bf1fb
+59	274	7724596115686331	E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appPieChart-112_build.cmake	7d2fa468ca4bf1fb
+275	608	7724596117964270	appPieChart-112_autogen/timestamp	55d9d4ce5b0ec6fc
+275	608	7724596117964270	appPieChart-112_autogen/mocs_compilation.cpp	55d9d4ce5b0ec6fc
+275	608	7724596117964270	E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appPieChart-112_autogen/timestamp	55d9d4ce5b0ec6fc
+275	608	7724596117964270	E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appPieChart-112_autogen/mocs_compilation.cpp	55d9d4ce5b0ec6fc
+612	674	7724596119789268	meta_types/appPieChart-112_json_file_list.txt	508224c14e8672f6
+612	674	7724596119789268	meta_types/appPieChart-112_json_file_list.txt.timestamp	508224c14e8672f6
+612	674	7724596119789268	E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appPieChart-112_json_file_list.txt	508224c14e8672f6
+612	674	7724596119789268	E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appPieChart-112_json_file_list.txt.timestamp	508224c14e8672f6
+621	685	7724596119789268	.qt/rcc/qrc_qmake_PieChart-112.cpp	65955867d502df45
+621	685	7724596119789268	E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_PieChart-112.cpp	65955867d502df45
+640	692	7724596119943167	.qt/rcc/qrc_appPieChart-112_raw_qml_0.cpp	96ad795c01e16845
+640	692	7724596119943167	E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appPieChart-112_raw_qml_0.cpp	96ad795c01e16845
+628	702	7724596120023643	.rcc/qmlcache/appPieChart-112_qmlcache_loader.cpp	b8da010323728117
+628	702	7724596120023643	E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPieChart-112_qmlcache_loader.cpp	b8da010323728117
+675	752	7724596120551311	meta_types/qt6apppiechart-112_debug_metatypes.json.gen	a1630853a77f9499
+675	752	7724596120551311	meta_types/qt6apppiechart-112_debug_metatypes.json	a1630853a77f9499
+675	752	7724596120551311	E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apppiechart-112_debug_metatypes.json.gen	a1630853a77f9499
+675	752	7724596120551311	E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apppiechart-112_debug_metatypes.json	a1630853a77f9499
+752	926	7724596121700847	apppiechart-112_qmltyperegistrations.cpp	92f70bb058fa705a
+752	926	7724596121700847	PieChart-112/appPieChart-112.qmltypes	92f70bb058fa705a
+752	926	7724596121700847	E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apppiechart-112_qmltyperegistrations.cpp	92f70bb058fa705a
+752	926	7724596121700847	E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/PieChart-112/appPieChart-112.qmltypes	92f70bb058fa705a
+927	1116	7724596123997281	.rcc/qmlcache/appPieChart-112_Main_qml.cpp	fb8ba1f31a28fe28
+927	1116	7724596123997281	.rcc/qmlcache/appPieChart-112_Main_qml.cpp.aotstats	fb8ba1f31a28fe28
+927	1116	7724596123997281	E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPieChart-112_Main_qml.cpp	fb8ba1f31a28fe28
+927	1116	7724596123997281	E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPieChart-112_Main_qml.cpp.aotstats	fb8ba1f31a28fe28
+1117	1299	7724596124297617	CMakeFiles/appPieChart-112.dir/appPieChart-112_autogen/mocs_compilation.cpp.obj	4e28fcfbf36748f4
+1142	1320	7724596124548998	CMakeFiles/appPieChart-112.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_PieChart-112.cpp.obj	f6ae84adfb0d89eb
+1169	1328	7724596124819592	CMakeFiles/appPieChart-112.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appPieChart-112_raw_qml_0.cpp.obj	96a0dd610fb6254d
+1129	6789	7724596124411823	CMakeFiles/appPieChart-112.dir/apppiechart-112_qmltyperegistrations.cpp.obj	e09f9771c99f5972
+1159	6809	7724596124720877	CMakeFiles/appPieChart-112.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPieChart-112_Main_qml.cpp.obj	ffb37b68db314f2
+1123	6875	7724596124356617	CMakeFiles/appPieChart-112.dir/main.cpp.obj	7f0291eae0f9e52b
+1151	7245	7724596124637174	CMakeFiles/appPieChart-112.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPieChart-112_qmlcache_loader.cpp.obj	4f10646a57334dac
+7246	7626	7724596185587484	appPieChart-112.exe	39bf86aedc8844df
+53	122	7724596361320420	.qt/appPieChart-112_qml.txt	6a995ec61d0f9997
+53	122	7724596361320420	E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appPieChart-112_qml.txt	6a995ec61d0f9997
+60	272	7724596362766415	.qt/qml_imports/appPieChart-112_build.cmake	7d2fa468ca4bf1fb
+60	272	7724596362766415	E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appPieChart-112_build.cmake	7d2fa468ca4bf1fb
+281	329	7724596363377367	.qt/rcc/qrc_appPieChart-112_raw_qml_0.cpp	96ad795c01e16845
+281	329	7724596363377367	E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appPieChart-112_raw_qml_0.cpp	96ad795c01e16845
+273	426	7724596364249825	.rcc/qmlcache/appPieChart-112_Main_qml.cpp	fb8ba1f31a28fe28
+273	426	7724596364249825	.rcc/qmlcache/appPieChart-112_Main_qml.cpp.aotstats	fb8ba1f31a28fe28
+273	426	7724596364249825	E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPieChart-112_Main_qml.cpp	fb8ba1f31a28fe28
+273	426	7724596364249825	E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPieChart-112_Main_qml.cpp.aotstats	fb8ba1f31a28fe28
+431	507	7724596364469924	CMakeFiles/appPieChart-112.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appPieChart-112_raw_qml_0.cpp.obj	96a0dd610fb6254d
+426	2639	7724596364425841	CMakeFiles/appPieChart-112.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appPieChart-112_Main_qml.cpp.obj	ffb37b68db314f2
+2639	2871	7724596386567246	appPieChart-112.exe	39bf86aedc8844df

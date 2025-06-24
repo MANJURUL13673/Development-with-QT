@@ -1,0 +1,5 @@
+module PieChart-112
+typeinfo appPieChart-112.qmltypes
+prefer :/qt/qml/PieChart-112/
+Main 1.0 Main.qml
+

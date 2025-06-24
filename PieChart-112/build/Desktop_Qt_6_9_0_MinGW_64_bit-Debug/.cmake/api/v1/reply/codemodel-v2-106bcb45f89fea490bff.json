@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ebb9145bc98e8c884dde.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PieChart-112",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-8a9f4539d2b805a4159e.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-2b740b34afacadcc4ab5.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-77bedce6058201694398.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-6e4a6f962007c880004d.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-88f72e60f2d818ef30e5.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPieChart-112::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPieChart-112-Debug-50ef7fd06435e775b45b.json",
+					"name" : "appPieChart-112",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPieChart-112_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPieChart-112_autogen-Debug-ca9fbd7f6e0658d8a9b4.json",
+					"name" : "appPieChart-112_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPieChart-112_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPieChart-112_autogen_timestamp_deps-Debug-65d4e1da222f13c5cd85.json",
+					"name" : "appPieChart-112_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPieChart-112_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPieChart-112_copy_qml-Debug-68b75798759ba7acfa14.json",
+					"name" : "appPieChart-112_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPieChart-112_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPieChart-112_copy_res-Debug-c875ac37cfd6bd1d692a.json",
+					"name" : "appPieChart-112_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPieChart-112_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPieChart-112_qmlimportscan-Debug-1ecf2227069be47a7746.json",
+					"name" : "appPieChart-112_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPieChart-112_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPieChart-112_qmllint-Debug-e5ed9fcef6790544a351.json",
+					"name" : "appPieChart-112_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPieChart-112_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPieChart-112_qmllint_json-Debug-0fb8fc45bc03c6a984b8.json",
+					"name" : "appPieChart-112_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPieChart-112_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPieChart-112_qmllint_module-Debug-e2ea01e68410c60ee717.json",
+					"name" : "appPieChart-112_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPieChart-112_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPieChart-112_qmltyperegistration-Debug-fdfcd0ac4fceacd56444.json",
+					"name" : "appPieChart-112_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appPieChart-112_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appPieChart-112_aotstats_target-Debug-73fa4b3b19ed2b8cda32.json",
+					"name" : "module_appPieChart-112_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

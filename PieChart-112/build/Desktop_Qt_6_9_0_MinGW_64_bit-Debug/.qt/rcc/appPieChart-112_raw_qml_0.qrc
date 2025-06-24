@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/PieChart-112/">
+    <file alias="Main.qml">E:/PERSONAL/Learning/QT DEVELOPMENT/PieChart-112/Main.qml</file>
+  </qresource>
+</RCC>
+
