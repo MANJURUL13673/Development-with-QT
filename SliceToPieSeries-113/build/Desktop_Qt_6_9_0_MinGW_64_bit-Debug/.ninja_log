@@ -1,0 +1,67 @@
+# ninja log v6
+21	82	7724598555825565	.qt/appSliceToPieSeries-113_qml.txt	833ef0ce894bc46
+21	82	7724598555825565	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSliceToPieSeries-113_qml.txt	833ef0ce894bc46
+33	92	7724598555936509	.qt/appSliceToPieSeries-113_res.txt	ceecc143840294be
+33	92	7724598555936509	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSliceToPieSeries-113_res.txt	ceecc143840294be
+46	261	7724598557619521	.qt/qml_imports/appSliceToPieSeries-113_build.cmake	a17e74606880cbcc
+46	261	7724598557619521	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSliceToPieSeries-113_build.cmake	a17e74606880cbcc
+262	499	7724598559198152	appSliceToPieSeries-113_autogen/timestamp	19528178bccb0acb
+262	499	7724598559198152	appSliceToPieSeries-113_autogen/mocs_compilation.cpp	19528178bccb0acb
+262	499	7724598559198152	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSliceToPieSeries-113_autogen/timestamp	19528178bccb0acb
+262	499	7724598559198152	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSliceToPieSeries-113_autogen/mocs_compilation.cpp	19528178bccb0acb
+512	561	7724598560598371	.qt/rcc/qrc_qmake_SliceToPieSeries-113.cpp	cf962ee6aa6cf62
+512	561	7724598560598371	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_SliceToPieSeries-113.cpp	cf962ee6aa6cf62
+504	565	7724598560690429	meta_types/appSliceToPieSeries-113_json_file_list.txt	c8f9efc042724ba0
+504	565	7724598560690429	meta_types/appSliceToPieSeries-113_json_file_list.txt.timestamp	c8f9efc042724ba0
+504	565	7724598560690429	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appSliceToPieSeries-113_json_file_list.txt	c8f9efc042724ba0
+504	565	7724598560690429	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appSliceToPieSeries-113_json_file_list.txt.timestamp	c8f9efc042724ba0
+528	580	7724598560787542	.qt/rcc/qrc_appSliceToPieSeries-113_raw_qml_0.cpp	3dc68b91f45536e5
+528	580	7724598560787542	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSliceToPieSeries-113_raw_qml_0.cpp	3dc68b91f45536e5
+518	585	7724598560817244	.rcc/qmlcache/appSliceToPieSeries-113_qmlcache_loader.cpp	64f8b88df1621d81
+518	585	7724598560817244	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSliceToPieSeries-113_qmlcache_loader.cpp	64f8b88df1621d81
+565	633	7724598561377523	meta_types/qt6appslicetopieseries-113_debug_metatypes.json.gen	9226a42769767084
+565	633	7724598561377523	meta_types/qt6appslicetopieseries-113_debug_metatypes.json	9226a42769767084
+565	633	7724598561377523	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appslicetopieseries-113_debug_metatypes.json.gen	9226a42769767084
+565	633	7724598561377523	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appslicetopieseries-113_debug_metatypes.json	9226a42769767084
+633	800	7724598562352085	appslicetopieseries-113_qmltyperegistrations.cpp	3979d5d3b32f6b1a
+633	800	7724598562352085	SliceToPieSeries-113/appSliceToPieSeries-113.qmltypes	3979d5d3b32f6b1a
+633	800	7724598562352085	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appslicetopieseries-113_qmltyperegistrations.cpp	3979d5d3b32f6b1a
+633	800	7724598562352085	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/SliceToPieSeries-113/appSliceToPieSeries-113.qmltypes	3979d5d3b32f6b1a
+800	954	7724598564496011	.rcc/qmlcache/appSliceToPieSeries-113_Main_qml.cpp	5b482090daeff7c7
+800	954	7724598564496011	.rcc/qmlcache/appSliceToPieSeries-113_Main_qml.cpp.aotstats	5b482090daeff7c7
+800	954	7724598564496011	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSliceToPieSeries-113_Main_qml.cpp	5b482090daeff7c7
+800	954	7724598564496011	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSliceToPieSeries-113_Main_qml.cpp.aotstats	5b482090daeff7c7
+954	1067	7724598564648259	CMakeFiles/appSliceToPieSeries-113.dir/appSliceToPieSeries-113_autogen/mocs_compilation.cpp.obj	1baa7ed71ad5e2c4
+969	1101	7724598564790017	CMakeFiles/appSliceToPieSeries-113.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_SliceToPieSeries-113.cpp.obj	c0c2356a83af0d84
+989	1129	7724598564999030	CMakeFiles/appSliceToPieSeries-113.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSliceToPieSeries-113_raw_qml_0.cpp.obj	ff61c50efac3a7e0
+962	4287	7724598564732581	CMakeFiles/appSliceToPieSeries-113.dir/appslicetopieseries-113_qmltyperegistrations.cpp.obj	e3eb195296771305
+981	4411	7724598564923506	CMakeFiles/appSliceToPieSeries-113.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSliceToPieSeries-113_Main_qml.cpp.obj	b27870fc3ae7cf8c
+959	4656	7724598564697409	CMakeFiles/appSliceToPieSeries-113.dir/main.cpp.obj	58168c9e9932f575
+976	4854	7724598564864197	CMakeFiles/appSliceToPieSeries-113.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSliceToPieSeries-113_qmlcache_loader.cpp.obj	96a8e5e578fc9a89
+4855	5112	7724598603659705	appSliceToPieSeries-113.exe	72af7573691fb900
+28	79	7724599260589441	.qt/appSliceToPieSeries-113_qml.txt	833ef0ce894bc46
+28	79	7724599260589441	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSliceToPieSeries-113_qml.txt	833ef0ce894bc46
+38	233	7724599262106526	.qt/qml_imports/appSliceToPieSeries-113_build.cmake	a17e74606880cbcc
+38	233	7724599262106526	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSliceToPieSeries-113_build.cmake	a17e74606880cbcc
+244	309	7724599262898667	.qt/rcc/qrc_appSliceToPieSeries-113_raw_qml_0.cpp	3dc68b91f45536e5
+244	309	7724599262898667	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSliceToPieSeries-113_raw_qml_0.cpp	3dc68b91f45536e5
+233	390	7724599263643714	.rcc/qmlcache/appSliceToPieSeries-113_Main_qml.cpp	5b482090daeff7c7
+233	390	7724599263643714	.rcc/qmlcache/appSliceToPieSeries-113_Main_qml.cpp.aotstats	5b482090daeff7c7
+233	390	7724599263643714	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSliceToPieSeries-113_Main_qml.cpp	5b482090daeff7c7
+233	390	7724599263643714	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSliceToPieSeries-113_Main_qml.cpp.aotstats	5b482090daeff7c7
+394	465	7724599263836262	CMakeFiles/appSliceToPieSeries-113.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSliceToPieSeries-113_raw_qml_0.cpp.obj	ff61c50efac3a7e0
+390	2567	7724599263798446	CMakeFiles/appSliceToPieSeries-113.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSliceToPieSeries-113_Main_qml.cpp.obj	b27870fc3ae7cf8c
+2568	2800	7724599285563693	appSliceToPieSeries-113.exe	72af7573691fb900
+53	99	7724599914124388	.qt/appSliceToPieSeries-113_qml.txt	833ef0ce894bc46
+53	99	7724599914124388	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSliceToPieSeries-113_qml.txt	833ef0ce894bc46
+60	245	7724599915559040	.qt/qml_imports/appSliceToPieSeries-113_build.cmake	a17e74606880cbcc
+60	245	7724599915559040	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSliceToPieSeries-113_build.cmake	a17e74606880cbcc
+253	305	7724599916157784	.qt/rcc/qrc_appSliceToPieSeries-113_raw_qml_0.cpp	3dc68b91f45536e5
+253	305	7724599916157784	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSliceToPieSeries-113_raw_qml_0.cpp	3dc68b91f45536e5
+245	390	7724599916950219	.rcc/qmlcache/appSliceToPieSeries-113_Main_qml.cpp	5b482090daeff7c7
+245	390	7724599916950219	.rcc/qmlcache/appSliceToPieSeries-113_Main_qml.cpp.aotstats	5b482090daeff7c7
+245	390	7724599916950219	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSliceToPieSeries-113_Main_qml.cpp	5b482090daeff7c7
+245	390	7724599916950219	E:/PERSONAL/Learning/QT DEVELOPMENT/SliceToPieSeries-113/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSliceToPieSeries-113_Main_qml.cpp.aotstats	5b482090daeff7c7
+394	466	7724599917147246	CMakeFiles/appSliceToPieSeries-113.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSliceToPieSeries-113_raw_qml_0.cpp.obj	ff61c50efac3a7e0
+390	2631	7724599917111004	CMakeFiles/appSliceToPieSeries-113.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSliceToPieSeries-113_Main_qml.cpp.obj	b27870fc3ae7cf8c
+2631	2868	7724599939509212	appSliceToPieSeries-113.exe	72af7573691fb900

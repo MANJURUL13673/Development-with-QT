@@ -1,0 +1,5 @@
+module SliceToPieSeries-113
+typeinfo appSliceToPieSeries-113.qmltypes
+prefer :/qt/qml/SliceToPieSeries-113/
+Main 1.0 Main.qml
+
