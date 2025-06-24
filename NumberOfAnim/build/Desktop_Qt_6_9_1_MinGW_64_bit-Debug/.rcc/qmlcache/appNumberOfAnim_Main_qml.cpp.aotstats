@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 418,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "",
+                        "functionName": "loops",
+                        "line": 19
+                    }
+                ],
+                "filePath": "E:/PERSONAL/Learning/QT DEVELOPMENT/NumberOfAnim/Main.qml"
+            }
+        ],
+        "moduleId": "NumberOfAnim(appNumberOfAnim)"
+    }
+]

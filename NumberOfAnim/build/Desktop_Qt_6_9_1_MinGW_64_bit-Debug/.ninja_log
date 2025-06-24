@@ -1,0 +1,41 @@
+# ninja log v6
+38	134	7724823319622792	.qt/appNumberOfAnim_res.txt	e69971d13ec1d671
+38	134	7724823319622792	E:/PERSONAL/Learning/QT DEVELOPMENT/NumberOfAnim/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appNumberOfAnim_res.txt	e69971d13ec1d671
+27	136	7724823319644200	.qt/appNumberOfAnim_qml.txt	f75e01b64b6a0ff
+27	136	7724823319644200	E:/PERSONAL/Learning/QT DEVELOPMENT/NumberOfAnim/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appNumberOfAnim_qml.txt	f75e01b64b6a0ff
+52	236	7724823320656933	.qt/qml_imports/appNumberOfAnim_build.cmake	c62a1e605957029a
+52	236	7724823320656933	E:/PERSONAL/Learning/QT DEVELOPMENT/NumberOfAnim/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appNumberOfAnim_build.cmake	c62a1e605957029a
+237	584	7724823322832013	appNumberOfAnim_autogen/timestamp	caf501eb3c8557f7
+237	584	7724823322832013	appNumberOfAnim_autogen/mocs_compilation.cpp	caf501eb3c8557f7
+237	584	7724823322832013	E:/PERSONAL/Learning/QT DEVELOPMENT/NumberOfAnim/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appNumberOfAnim_autogen/timestamp	caf501eb3c8557f7
+237	584	7724823322832013	E:/PERSONAL/Learning/QT DEVELOPMENT/NumberOfAnim/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appNumberOfAnim_autogen/mocs_compilation.cpp	caf501eb3c8557f7
+605	686	7724823325080235	.qt/rcc/qrc_qmake_NumberOfAnim.cpp	f6942c18952687b3
+605	686	7724823325080235	E:/PERSONAL/Learning/QT DEVELOPMENT/NumberOfAnim/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_NumberOfAnim.cpp	f6942c18952687b3
+591	692	7724823325132043	meta_types/appNumberOfAnim_json_file_list.txt	e9ca877020506083
+591	692	7724823325132043	meta_types/appNumberOfAnim_json_file_list.txt.timestamp	e9ca877020506083
+591	692	7724823325132043	E:/PERSONAL/Learning/QT DEVELOPMENT/NumberOfAnim/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appNumberOfAnim_json_file_list.txt	e9ca877020506083
+591	692	7724823325132043	E:/PERSONAL/Learning/QT DEVELOPMENT/NumberOfAnim/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appNumberOfAnim_json_file_list.txt.timestamp	e9ca877020506083
+634	724	7724823325476920	.qt/rcc/qrc_appNumberOfAnim_raw_qml_0.cpp	b738d693eee36e65
+634	724	7724823325476920	E:/PERSONAL/Learning/QT DEVELOPMENT/NumberOfAnim/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appNumberOfAnim_raw_qml_0.cpp	b738d693eee36e65
+616	755	7724823325788928	.rcc/qmlcache/appNumberOfAnim_qmlcache_loader.cpp	88cd564504cf6971
+616	755	7724823325788928	E:/PERSONAL/Learning/QT DEVELOPMENT/NumberOfAnim/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appNumberOfAnim_qmlcache_loader.cpp	88cd564504cf6971
+692	801	7724823326337769	meta_types/qt6appnumberofanim_debug_metatypes.json.gen	2836cd9a92b63ece
+692	801	7724823326337769	meta_types/qt6appnumberofanim_debug_metatypes.json	2836cd9a92b63ece
+692	801	7724823326337769	E:/PERSONAL/Learning/QT DEVELOPMENT/NumberOfAnim/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appnumberofanim_debug_metatypes.json.gen	2836cd9a92b63ece
+692	801	7724823326337769	E:/PERSONAL/Learning/QT DEVELOPMENT/NumberOfAnim/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appnumberofanim_debug_metatypes.json	2836cd9a92b63ece
+801	998	7724823327555871	appnumberofanim_qmltyperegistrations.cpp	58c6138120c80f83
+801	998	7724823327555871	NumberOfAnim/appNumberOfAnim.qmltypes	58c6138120c80f83
+801	998	7724823327555871	E:/PERSONAL/Learning/QT DEVELOPMENT/NumberOfAnim/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appnumberofanim_qmltyperegistrations.cpp	58c6138120c80f83
+801	998	7724823327555871	E:/PERSONAL/Learning/QT DEVELOPMENT/NumberOfAnim/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/NumberOfAnim/appNumberOfAnim.qmltypes	58c6138120c80f83
+998	1219	7724823330430727	.rcc/qmlcache/appNumberOfAnim_Main_qml.cpp	11fecc4fb18bc2cd
+998	1219	7724823330430727	.rcc/qmlcache/appNumberOfAnim_Main_qml.cpp.aotstats	11fecc4fb18bc2cd
+998	1219	7724823330430727	E:/PERSONAL/Learning/QT DEVELOPMENT/NumberOfAnim/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appNumberOfAnim_Main_qml.cpp	11fecc4fb18bc2cd
+998	1219	7724823330430727	E:/PERSONAL/Learning/QT DEVELOPMENT/NumberOfAnim/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appNumberOfAnim_Main_qml.cpp.aotstats	11fecc4fb18bc2cd
+1219	1344	7724823330614546	CMakeFiles/appNumberOfAnim.dir/appNumberOfAnim_autogen/mocs_compilation.cpp.obj	573b641b34a43c61
+1240	1393	7724823330817788	CMakeFiles/appNumberOfAnim.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_NumberOfAnim.cpp.obj	ae4ce58504bc3662
+1262	1417	7724823331037334	CMakeFiles/appNumberOfAnim.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appNumberOfAnim_raw_qml_0.cpp.obj	acd66adcaec2554c
+1230	6399	7724823330722668	CMakeFiles/appNumberOfAnim.dir/appnumberofanim_qmltyperegistrations.cpp.obj	4b808273bc87f4e0
+1254	6449	7724823330962468	CMakeFiles/appNumberOfAnim.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appNumberOfAnim_Main_qml.cpp.obj	a7c2696f18f224bd
+1225	6596	7724823330671702	CMakeFiles/appNumberOfAnim.dir/main.cpp.obj	6bf801c82b6e6907
+1247	7097	7724823330879526	CMakeFiles/appNumberOfAnim.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appNumberOfAnim_qmlcache_loader.cpp.obj	c0b48acbe5ae959b
+7098	7531	7724823389387086	appNumberOfAnim.exe	9b5425ac0259a4a
