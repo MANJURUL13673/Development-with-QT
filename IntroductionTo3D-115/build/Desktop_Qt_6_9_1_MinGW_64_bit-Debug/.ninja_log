@@ -1,0 +1,54 @@
+# ninja log v6
+50	202	7724738514989425	.qt/appIntroductionTo3D-115_res.txt	c93ed2f3e4db6218
+50	202	7724738514989425	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appIntroductionTo3D-115_res.txt	c93ed2f3e4db6218
+38	211	7724738515100826	.qt/appIntroductionTo3D-115_qml.txt	1403ad71ab174f8
+38	211	7724738515100826	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appIntroductionTo3D-115_qml.txt	1403ad71ab174f8
+63	290	7724738515828577	.qt/qml_imports/appIntroductionTo3D-115_build.cmake	3695296b2b2a3af4
+63	290	7724738515828577	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appIntroductionTo3D-115_build.cmake	3695296b2b2a3af4
+291	746	7724738519153756	appIntroductionTo3D-115_autogen/timestamp	171c53852e562d64
+291	746	7724738519153756	appIntroductionTo3D-115_autogen/mocs_compilation.cpp	171c53852e562d64
+291	746	7724738519153756	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appIntroductionTo3D-115_autogen/timestamp	171c53852e562d64
+291	746	7724738519153756	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appIntroductionTo3D-115_autogen/mocs_compilation.cpp	171c53852e562d64
+786	857	7724738521521304	.qt/rcc/qrc_appIntroductionTo3D-115_raw_qml_0.cpp	395d3ccf3566f702
+786	857	7724738521521304	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appIntroductionTo3D-115_raw_qml_0.cpp	395d3ccf3566f702
+762	857	7724738521540902	.qt/rcc/qrc_qmake_IntroductionTo3D-115.cpp	53c65286c6b058bb
+762	857	7724738521540902	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_IntroductionTo3D-115.cpp	53c65286c6b058bb
+773	892	7724738521898950	.rcc/qmlcache/appIntroductionTo3D-115_qmlcache_loader.cpp	17519a5212589f28
+773	892	7724738521898950	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appIntroductionTo3D-115_qmlcache_loader.cpp	17519a5212589f28
+753	974	7724738522768031	meta_types/appIntroductionTo3D-115_json_file_list.txt	76d1ec2dfce62be4
+753	974	7724738522768031	meta_types/appIntroductionTo3D-115_json_file_list.txt.timestamp	76d1ec2dfce62be4
+753	974	7724738522768031	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appIntroductionTo3D-115_json_file_list.txt	76d1ec2dfce62be4
+753	974	7724738522768031	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appIntroductionTo3D-115_json_file_list.txt.timestamp	76d1ec2dfce62be4
+974	1061	7724738523621645	meta_types/qt6appintroductionto3d-115_debug_metatypes.json.gen	619ab49969a70893
+974	1061	7724738523621645	meta_types/qt6appintroductionto3d-115_debug_metatypes.json	619ab49969a70893
+974	1061	7724738523621645	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appintroductionto3d-115_debug_metatypes.json.gen	619ab49969a70893
+974	1061	7724738523621645	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appintroductionto3d-115_debug_metatypes.json	619ab49969a70893
+1061	1294	7724738525226710	appintroductionto3d-115_qmltyperegistrations.cpp	5ce2ef5718257160
+1061	1294	7724738525226710	IntroductionTo3D-115/appIntroductionTo3D-115.qmltypes	5ce2ef5718257160
+1061	1294	7724738525226710	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appintroductionto3d-115_qmltyperegistrations.cpp	5ce2ef5718257160
+1061	1294	7724738525226710	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/IntroductionTo3D-115/appIntroductionTo3D-115.qmltypes	5ce2ef5718257160
+1295	1499	7724738527816289	.rcc/qmlcache/appIntroductionTo3D-115_Main_qml.cpp	4be7840ea66ecd35
+1295	1499	7724738527816289	.rcc/qmlcache/appIntroductionTo3D-115_Main_qml.cpp.aotstats	4be7840ea66ecd35
+1295	1499	7724738527816289	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appIntroductionTo3D-115_Main_qml.cpp	4be7840ea66ecd35
+1295	1499	7724738527816289	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appIntroductionTo3D-115_Main_qml.cpp.aotstats	4be7840ea66ecd35
+1500	1760	7724738528097898	CMakeFiles/appIntroductionTo3D-115.dir/appIntroductionTo3D-115_autogen/mocs_compilation.cpp.obj	22169105a7648f10
+1542	1859	7724738528512893	CMakeFiles/appIntroductionTo3D-115.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appIntroductionTo3D-115_raw_qml_0.cpp.obj	dd2f82908b0e5d0e
+1521	1860	7724738528302944	CMakeFiles/appIntroductionTo3D-115.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_IntroductionTo3D-115.cpp.obj	53b7fb7196d38165
+1535	6500	7724738528445924	CMakeFiles/appIntroductionTo3D-115.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appIntroductionTo3D-115_Main_qml.cpp.obj	65ebce6d3095b4c2
+1512	6504	7724738528220129	CMakeFiles/appIntroductionTo3D-115.dir/appintroductionto3d-115_qmltyperegistrations.cpp.obj	445d0af63e665bf3
+1506	6513	7724738528160239	CMakeFiles/appIntroductionTo3D-115.dir/main.cpp.obj	9759152f2c76849
+1528	7332	7724738528379127	CMakeFiles/appIntroductionTo3D-115.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appIntroductionTo3D-115_qmlcache_loader.cpp.obj	63d240ffd57574eb
+7333	7837	7724738586427054	appIntroductionTo3D-115.exe	98dd6322dd404ec8
+112	213	7724739232513837	.qt/appIntroductionTo3D-115_qml.txt	1403ad71ab174f8
+112	213	7724739232513837	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appIntroductionTo3D-115_qml.txt	1403ad71ab174f8
+125	281	7724739233131563	.qt/qml_imports/appIntroductionTo3D-115_build.cmake	3695296b2b2a3af4
+125	281	7724739233131563	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appIntroductionTo3D-115_build.cmake	3695296b2b2a3af4
+292	348	7724739233874669	.qt/rcc/qrc_appIntroductionTo3D-115_raw_qml_0.cpp	395d3ccf3566f702
+292	348	7724739233874669	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appIntroductionTo3D-115_raw_qml_0.cpp	395d3ccf3566f702
+281	473	7724739235034202	.rcc/qmlcache/appIntroductionTo3D-115_Main_qml.cpp	4be7840ea66ecd35
+281	473	7724739235034202	.rcc/qmlcache/appIntroductionTo3D-115_Main_qml.cpp.aotstats	4be7840ea66ecd35
+281	473	7724739235034202	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appIntroductionTo3D-115_Main_qml.cpp	4be7840ea66ecd35
+281	473	7724739235034202	E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appIntroductionTo3D-115_Main_qml.cpp.aotstats	4be7840ea66ecd35
+480	581	7724739235288166	CMakeFiles/appIntroductionTo3D-115.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appIntroductionTo3D-115_raw_qml_0.cpp.obj	dd2f82908b0e5d0e
+474	4220	7724739235227024	CMakeFiles/appIntroductionTo3D-115.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appIntroductionTo3D-115_Main_qml.cpp.obj	65ebce6d3095b4c2
+4220	4566	7724739272696515	appIntroductionTo3D-115.exe	98dd6322dd404ec8

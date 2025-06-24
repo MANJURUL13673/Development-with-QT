@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 2398,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 29,
+                        "durationMicroseconds": 382,
+                        "errorMessage": "",
+                        "functionName": "backgroundMode",
+                        "line": 15
+                    }
+                ],
+                "filePath": "E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115/Main.qml"
+            }
+        ],
+        "moduleId": "IntroductionTo3D-115(appIntroductionTo3D-115)"
+    }
+]

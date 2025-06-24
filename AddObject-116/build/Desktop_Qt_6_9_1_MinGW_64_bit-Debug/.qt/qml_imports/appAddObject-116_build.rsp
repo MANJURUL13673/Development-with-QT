@@ -1,0 +1,14 @@
+-rootPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/AddObject-116
+-cmake-output
+-output-file
+E:/PERSONAL/Learning/QT DEVELOPMENT/AddObject-116/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appAddObject-116_build.cmake
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/AddObject-116/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/AddObject-116
+-importPath
+E:/PERSONAL/Learning/QT DEVELOPMENT/AddObject-116/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.1/mingw_64/qml
+-qrcFiles
+E:/PERSONAL/Learning/QT DEVELOPMENT/AddObject-116/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qmake_AddObject-116.qrc
+E:/PERSONAL/Learning/QT DEVELOPMENT/AddObject-116/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/appAddObject-116_raw_qml_0.qrc

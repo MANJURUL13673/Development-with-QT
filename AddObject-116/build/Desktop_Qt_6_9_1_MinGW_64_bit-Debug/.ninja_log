@@ -1,0 +1,41 @@
+# ninja log v6
+31	118	7724742924154861	.qt/appAddObject-116_qml.txt	24400b978f098779
+31	118	7724742924154861	E:/PERSONAL/Learning/QT DEVELOPMENT/AddObject-116/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appAddObject-116_qml.txt	24400b978f098779
+46	125	7724742924232467	.qt/appAddObject-116_res.txt	3eefe8048cc8dd53
+46	125	7724742924232467	E:/PERSONAL/Learning/QT DEVELOPMENT/AddObject-116/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appAddObject-116_res.txt	3eefe8048cc8dd53
+58	207	7724742925058951	.qt/qml_imports/appAddObject-116_build.cmake	9decc527437a44d1
+58	207	7724742925058951	E:/PERSONAL/Learning/QT DEVELOPMENT/AddObject-116/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appAddObject-116_build.cmake	9decc527437a44d1
+207	532	7724742927057786	appAddObject-116_autogen/timestamp	4827ba9db7f645e8
+207	532	7724742927057786	appAddObject-116_autogen/mocs_compilation.cpp	4827ba9db7f645e8
+207	532	7724742927057786	E:/PERSONAL/Learning/QT DEVELOPMENT/AddObject-116/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appAddObject-116_autogen/timestamp	4827ba9db7f645e8
+207	532	7724742927057786	E:/PERSONAL/Learning/QT DEVELOPMENT/AddObject-116/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appAddObject-116_autogen/mocs_compilation.cpp	4827ba9db7f645e8
+551	616	7724742929107704	.qt/rcc/qrc_qmake_AddObject-116.cpp	51e72db12a4aa249
+551	616	7724742929107704	E:/PERSONAL/Learning/QT DEVELOPMENT/AddObject-116/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_AddObject-116.cpp	51e72db12a4aa249
+539	623	7724742929215285	meta_types/appAddObject-116_json_file_list.txt	21227ec3a1da22c0
+539	623	7724742929215285	meta_types/appAddObject-116_json_file_list.txt.timestamp	21227ec3a1da22c0
+539	623	7724742929215285	E:/PERSONAL/Learning/QT DEVELOPMENT/AddObject-116/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appAddObject-116_json_file_list.txt	21227ec3a1da22c0
+539	623	7724742929215285	E:/PERSONAL/Learning/QT DEVELOPMENT/AddObject-116/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appAddObject-116_json_file_list.txt.timestamp	21227ec3a1da22c0
+575	641	7724742929413422	.qt/rcc/qrc_appAddObject-116_raw_qml_0.cpp	76b0c804b176d40f
+575	641	7724742929413422	E:/PERSONAL/Learning/QT DEVELOPMENT/AddObject-116/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appAddObject-116_raw_qml_0.cpp	76b0c804b176d40f
+560	658	7724742929536774	.rcc/qmlcache/appAddObject-116_qmlcache_loader.cpp	ffcfdde34b25bb63
+560	658	7724742929536774	E:/PERSONAL/Learning/QT DEVELOPMENT/AddObject-116/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddObject-116_qmlcache_loader.cpp	ffcfdde34b25bb63
+624	710	7724742930120571	meta_types/qt6appaddobject-116_debug_metatypes.json.gen	e4f503332cc6a1
+624	710	7724742930120571	meta_types/qt6appaddobject-116_debug_metatypes.json	e4f503332cc6a1
+624	710	7724742930120571	E:/PERSONAL/Learning/QT DEVELOPMENT/AddObject-116/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appaddobject-116_debug_metatypes.json.gen	e4f503332cc6a1
+624	710	7724742930120571	E:/PERSONAL/Learning/QT DEVELOPMENT/AddObject-116/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appaddobject-116_debug_metatypes.json	e4f503332cc6a1
+710	906	7724742931327875	appaddobject-116_qmltyperegistrations.cpp	2a857da34926f18b
+710	906	7724742931327875	AddObject-116/appAddObject-116.qmltypes	2a857da34926f18b
+710	906	7724742931327875	E:/PERSONAL/Learning/QT DEVELOPMENT/AddObject-116/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appaddobject-116_qmltyperegistrations.cpp	2a857da34926f18b
+710	906	7724742931327875	E:/PERSONAL/Learning/QT DEVELOPMENT/AddObject-116/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/AddObject-116/appAddObject-116.qmltypes	2a857da34926f18b
+906	1111	7724742933979661	.rcc/qmlcache/appAddObject-116_Main_qml.cpp	bf75645524b80228
+906	1111	7724742933979661	.rcc/qmlcache/appAddObject-116_Main_qml.cpp.aotstats	bf75645524b80228
+906	1111	7724742933979661	E:/PERSONAL/Learning/QT DEVELOPMENT/AddObject-116/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddObject-116_Main_qml.cpp	bf75645524b80228
+906	1111	7724742933979661	E:/PERSONAL/Learning/QT DEVELOPMENT/AddObject-116/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddObject-116_Main_qml.cpp.aotstats	bf75645524b80228
+1111	1236	7724742934210093	CMakeFiles/appAddObject-116.dir/appAddObject-116_autogen/mocs_compilation.cpp.obj	741ab79670ad7136
+1135	1299	7724742934444063	CMakeFiles/appAddObject-116.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_AddObject-116.cpp.obj	8b7eaee6068f6932
+1157	1309	7724742934666339	CMakeFiles/appAddObject-116.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appAddObject-116_raw_qml_0.cpp.obj	69ee04d54e8a4fce
+1124	5202	7724742934346010	CMakeFiles/appAddObject-116.dir/appaddobject-116_qmltyperegistrations.cpp.obj	7346071066567472
+1150	5421	7724742934597020	CMakeFiles/appAddObject-116.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddObject-116_Main_qml.cpp.obj	16ca9ae6afa88842
+1118	5510	7724742934286572	CMakeFiles/appAddObject-116.dir/main.cpp.obj	19969ac7c97ad976
+1142	6042	7724742934518025	CMakeFiles/appAddObject-116.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddObject-116_qmlcache_loader.cpp.obj	6e88798b1e8b0dc6
+6043	6438	7724742983522751	appAddObject-116.exe	e445e0757176300a

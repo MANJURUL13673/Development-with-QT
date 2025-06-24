@@ -1,0 +1,60 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 275,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 29,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "",
+                        "functionName": "backgroundMode",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 23,
+                        "durationMicroseconds": 6703,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method vector3d, returning QVariant -> QVector3D stored as QVariant",
+                        "functionName": "position",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 20,
+                        "durationMicroseconds": 345,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method vector3d, returning QVariant -> QVector3D stored as QVariant",
+                        "functionName": "scale",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 23,
+                        "durationMicroseconds": 224,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method vector3d, returning QVariant -> QVector3D stored as QVariant",
+                        "functionName": "position",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 36,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Multiple matching overrides found. Cannot determine the right one.",
+                        "functionName": "onCompleted",
+                        "line": 34
+                    }
+                ],
+                "filePath": "E:/PERSONAL/Learning/QT DEVELOPMENT/AddObject-116/Main.qml"
+            }
+        ],
+        "moduleId": "AddObject-116(appAddObject-116)"
+    }
+]

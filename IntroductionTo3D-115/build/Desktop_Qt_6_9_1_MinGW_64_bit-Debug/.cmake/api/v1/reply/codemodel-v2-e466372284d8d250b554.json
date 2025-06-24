@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b5f4d57397cf6474b71c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "IntroductionTo3D-115",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-f74ce5d07689392c77cd.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-bb90ee0d2fb9b294c28f.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-c441c4b3fc68d6ee075a.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-80bdb09199c081ff3f61.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-b1c8d0b0307c275ee354.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appIntroductionTo3D-115::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appIntroductionTo3D-115-Debug-3de94e0f614e149bedfb.json",
+					"name" : "appIntroductionTo3D-115",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appIntroductionTo3D-115_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appIntroductionTo3D-115_autogen-Debug-383bef1a76e578591e27.json",
+					"name" : "appIntroductionTo3D-115_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appIntroductionTo3D-115_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appIntroductionTo3D-115_autogen_timestamp_deps-Debug-1bbf615a0e6e4a09d885.json",
+					"name" : "appIntroductionTo3D-115_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appIntroductionTo3D-115_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appIntroductionTo3D-115_copy_qml-Debug-381326f755a9055ada27.json",
+					"name" : "appIntroductionTo3D-115_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appIntroductionTo3D-115_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appIntroductionTo3D-115_copy_res-Debug-a7f0d857e19133ce65c8.json",
+					"name" : "appIntroductionTo3D-115_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appIntroductionTo3D-115_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appIntroductionTo3D-115_qmlimportscan-Debug-188029b8f8e9fee621ab.json",
+					"name" : "appIntroductionTo3D-115_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appIntroductionTo3D-115_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appIntroductionTo3D-115_qmllint-Debug-33c8aa2b500f0f1b9ba7.json",
+					"name" : "appIntroductionTo3D-115_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appIntroductionTo3D-115_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appIntroductionTo3D-115_qmllint_json-Debug-7bf30a6c23009437c977.json",
+					"name" : "appIntroductionTo3D-115_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appIntroductionTo3D-115_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appIntroductionTo3D-115_qmllint_module-Debug-35d9469dd51096ba5e0f.json",
+					"name" : "appIntroductionTo3D-115_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appIntroductionTo3D-115_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appIntroductionTo3D-115_qmltyperegistration-Debug-7a24d681eb370ab36dda.json",
+					"name" : "appIntroductionTo3D-115_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appIntroductionTo3D-115_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appIntroductionTo3D-115_aotstats_target-Debug-4e12376d783d6ade7a01.json",
+					"name" : "module_appIntroductionTo3D-115_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/IntroductionTo3D-115"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

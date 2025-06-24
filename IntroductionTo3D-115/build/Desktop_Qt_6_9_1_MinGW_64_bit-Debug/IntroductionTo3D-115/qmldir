@@ -1,0 +1,5 @@
+module IntroductionTo3D-115
+typeinfo appIntroductionTo3D-115.qmltypes
+prefer :/qt/qml/IntroductionTo3D-115/
+Main 1.0 Main.qml
+

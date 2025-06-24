@@ -1,0 +1,5 @@
+module AddObject-116
+typeinfo appAddObject-116.qmltypes
+prefer :/qt/qml/AddObject-116/
+Main 1.0 Main.qml
+
