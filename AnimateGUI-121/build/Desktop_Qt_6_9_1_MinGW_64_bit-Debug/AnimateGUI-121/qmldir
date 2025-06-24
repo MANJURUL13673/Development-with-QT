@@ -1,0 +1,5 @@
+module AnimateGUI-121
+typeinfo appAnimateGUI-121.qmltypes
+prefer :/qt/qml/AnimateGUI-121/
+Main 1.0 Main.qml
+

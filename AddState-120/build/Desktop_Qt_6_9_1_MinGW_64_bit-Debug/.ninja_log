@@ -1,0 +1,67 @@
+# ninja log v6
+28	129	7724826256906647	.qt/appAddState-120_qml.txt	fc58c1de74b5a3b6
+28	129	7724826256906647	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appAddState-120_qml.txt	fc58c1de74b5a3b6
+47	140	7724826257041218	.qt/appAddState-120_res.txt	7aa5388e9a69abf
+47	140	7724826257041218	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appAddState-120_res.txt	7aa5388e9a69abf
+59	219	7724826257795919	.qt/qml_imports/appAddState-120_build.cmake	8daab9304b0e9d2d
+59	219	7724826257795919	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appAddState-120_build.cmake	8daab9304b0e9d2d
+220	550	7724826259790811	appAddState-120_autogen/timestamp	8d0eff52afa6e68b
+220	550	7724826259790811	appAddState-120_autogen/mocs_compilation.cpp	8d0eff52afa6e68b
+220	550	7724826259790811	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appAddState-120_autogen/timestamp	8d0eff52afa6e68b
+220	550	7724826259790811	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appAddState-120_autogen/mocs_compilation.cpp	8d0eff52afa6e68b
+556	645	7724826262018731	meta_types/appAddState-120_json_file_list.txt	fd0de82d74939a84
+556	645	7724826262018731	meta_types/appAddState-120_json_file_list.txt.timestamp	fd0de82d74939a84
+556	645	7724826262018731	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appAddState-120_json_file_list.txt	fd0de82d74939a84
+556	645	7724826262018731	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appAddState-120_json_file_list.txt.timestamp	fd0de82d74939a84
+567	658	7724826262040362	.qt/rcc/qrc_qmake_AddState-120.cpp	e0f441fea88418c3
+567	658	7724826262040362	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_AddState-120.cpp	e0f441fea88418c3
+593	670	7724826262288464	.qt/rcc/qrc_appAddState-120_raw_qml_0.cpp	a1d7c5afec6de0aa
+593	670	7724826262288464	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appAddState-120_raw_qml_0.cpp	a1d7c5afec6de0aa
+577	695	7724826262522195	.rcc/qmlcache/appAddState-120_qmlcache_loader.cpp	7d645743f23daebc
+577	695	7724826262522195	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddState-120_qmlcache_loader.cpp	7d645743f23daebc
+645	739	7724826263049223	meta_types/qt6appaddstate-120_debug_metatypes.json.gen	9db580f1453224d5
+645	739	7724826263049223	meta_types/qt6appaddstate-120_debug_metatypes.json	9db580f1453224d5
+645	739	7724826263049223	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appaddstate-120_debug_metatypes.json.gen	9db580f1453224d5
+645	739	7724826263049223	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appaddstate-120_debug_metatypes.json	9db580f1453224d5
+739	942	7724826264320566	appaddstate-120_qmltyperegistrations.cpp	6c8ccf17075ce32d
+739	942	7724826264320566	AddState-120/appAddState-120.qmltypes	6c8ccf17075ce32d
+739	942	7724826264320566	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appaddstate-120_qmltyperegistrations.cpp	6c8ccf17075ce32d
+739	942	7724826264320566	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/AddState-120/appAddState-120.qmltypes	6c8ccf17075ce32d
+942	1127	7724826266815374	.rcc/qmlcache/appAddState-120_Main_qml.cpp	12fc4843aaba0703
+942	1127	7724826266815374	.rcc/qmlcache/appAddState-120_Main_qml.cpp.aotstats	12fc4843aaba0703
+942	1127	7724826266815374	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddState-120_Main_qml.cpp	12fc4843aaba0703
+942	1127	7724826266815374	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddState-120_Main_qml.cpp.aotstats	12fc4843aaba0703
+1128	1262	7724826267021062	CMakeFiles/appAddState-120.dir/appAddState-120_autogen/mocs_compilation.cpp.obj	af6f85b5a1b50c50
+1151	1312	7724826267249822	CMakeFiles/appAddState-120.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_AddState-120.cpp.obj	63a83d3881c0e1d0
+1181	1347	7724826267556812	CMakeFiles/appAddState-120.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appAddState-120_raw_qml_0.cpp.obj	f10cd13243ec24ee
+1141	5450	7724826267155751	CMakeFiles/appAddState-120.dir/appaddstate-120_qmltyperegistrations.cpp.obj	2bd3ecb2f82325e5
+1165	5739	7724826267397997	CMakeFiles/appAddState-120.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddState-120_Main_qml.cpp.obj	5cc9ddc36ad04cae
+1134	5769	7724826267091890	CMakeFiles/appAddState-120.dir/main.cpp.obj	fc349ff104519fd7
+1158	6323	7724826267320124	CMakeFiles/appAddState-120.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddState-120_qmlcache_loader.cpp.obj	f141421161590151
+6324	6852	7724826318981085	appAddState-120.exe	f883fb4b5c0df03
+101	173	7724827112120293	.qt/appAddState-120_qml.txt	fc58c1de74b5a3b6
+101	173	7724827112120293	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appAddState-120_qml.txt	fc58c1de74b5a3b6
+115	261	7724827112993054	.qt/qml_imports/appAddState-120_build.cmake	8daab9304b0e9d2d
+115	261	7724827112993054	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appAddState-120_build.cmake	8daab9304b0e9d2d
+273	351	7724827113833741	.qt/rcc/qrc_appAddState-120_raw_qml_0.cpp	a1d7c5afec6de0aa
+273	351	7724827113833741	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appAddState-120_raw_qml_0.cpp	a1d7c5afec6de0aa
+261	467	7724827114973195	.rcc/qmlcache/appAddState-120_Main_qml.cpp	12fc4843aaba0703
+261	467	7724827114973195	.rcc/qmlcache/appAddState-120_Main_qml.cpp.aotstats	12fc4843aaba0703
+261	467	7724827114973195	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddState-120_Main_qml.cpp	12fc4843aaba0703
+261	467	7724827114973195	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddState-120_Main_qml.cpp.aotstats	12fc4843aaba0703
+473	594	7724827115235786	CMakeFiles/appAddState-120.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appAddState-120_raw_qml_0.cpp.obj	f10cd13243ec24ee
+467	4469	7724827115174772	CMakeFiles/appAddState-120.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddState-120_Main_qml.cpp.obj	5cc9ddc36ad04cae
+4469	4879	7724827155198724	appAddState-120.exe	f883fb4b5c0df03
+89	169	7724828530731141	.qt/appAddState-120_qml.txt	fc58c1de74b5a3b6
+89	169	7724828530731141	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appAddState-120_qml.txt	fc58c1de74b5a3b6
+104	240	7724828531433724	.qt/qml_imports/appAddState-120_build.cmake	8daab9304b0e9d2d
+104	240	7724828531433724	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appAddState-120_build.cmake	8daab9304b0e9d2d
+253	308	7724828532131223	.qt/rcc/qrc_appAddState-120_raw_qml_0.cpp	a1d7c5afec6de0aa
+253	308	7724828532131223	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appAddState-120_raw_qml_0.cpp	a1d7c5afec6de0aa
+241	428	7724828533230508	.rcc/qmlcache/appAddState-120_Main_qml.cpp	12fc4843aaba0703
+241	428	7724828533230508	.rcc/qmlcache/appAddState-120_Main_qml.cpp.aotstats	12fc4843aaba0703
+241	428	7724828533230508	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddState-120_Main_qml.cpp	12fc4843aaba0703
+241	428	7724828533230508	E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddState-120_Main_qml.cpp.aotstats	12fc4843aaba0703
+434	535	7724828533494624	CMakeFiles/appAddState-120.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appAddState-120_raw_qml_0.cpp.obj	f10cd13243ec24ee
+428	4178	7724828533433876	CMakeFiles/appAddState-120.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddState-120_Main_qml.cpp.obj	5cc9ddc36ad04cae
+4178	4575	7724828570925932	appAddState-120.exe	f883fb4b5c0df03

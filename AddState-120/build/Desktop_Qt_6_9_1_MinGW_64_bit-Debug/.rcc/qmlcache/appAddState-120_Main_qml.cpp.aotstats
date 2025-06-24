@@ -1,0 +1,76 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 273,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 42,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 42,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 205,
+                        "errorMessage": "",
+                        "functionName": "onPressed",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "",
+                        "functionName": "onReleased",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 41,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 41,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 40
+                    }
+                ],
+                "filePath": "E:/PERSONAL/Learning/QT DEVELOPMENT/AddState-120/Main.qml"
+            }
+        ],
+        "moduleId": "AddState-120(appAddState-120)"
+    }
+]
