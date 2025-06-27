@@ -1,0 +1,178 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c10dd8be5b5221c6c6ca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ThirdAndroidApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ThirdAndroidApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThirdAndroidApp-Debug-7520612ece724f4ab485.json",
+					"name" : "ThirdAndroidApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ThirdAndroidApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThirdAndroidApp_autogen-Debug-f9a299d16cfd1a46fe0b.json",
+					"name" : "ThirdAndroidApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ThirdAndroidApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThirdAndroidApp_autogen_timestamp_deps-Debug-e1524d1a9efaea825df9.json",
+					"name" : "ThirdAndroidApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ThirdAndroidApp_copy_apk_dependencies::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThirdAndroidApp_copy_apk_dependencies-Debug-2a9a9d603f342860d225.json",
+					"name" : "ThirdAndroidApp_copy_apk_dependencies",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ThirdAndroidApp_make_aab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThirdAndroidApp_make_aab-Debug-a1c8659559ae904c2684.json",
+					"name" : "ThirdAndroidApp_make_aab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ThirdAndroidApp_make_aar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThirdAndroidApp_make_aar-Debug-d6cfcb4997834b83b8bf.json",
+					"name" : "ThirdAndroidApp_make_aar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ThirdAndroidApp_make_apk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThirdAndroidApp_make_apk-Debug-00ab8b10698897d219b1.json",
+					"name" : "ThirdAndroidApp_make_apk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ThirdAndroidApp_prepare_apk_dir::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThirdAndroidApp_prepare_apk_dir-Debug-5ebb175a531dcc8a9593.json",
+					"name" : "ThirdAndroidApp_prepare_apk_dir",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_qt_internal_apk_dependencies::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_qt_internal_apk_dependencies-Debug-b566e909c832861a9a48.json",
+					"name" : "_qt_internal_apk_dependencies",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aab-Debug-2ba22a97a4d912be3938.json",
+					"name" : "aab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aar-Debug-ed8c70692d005a0015ef.json",
+					"name" : "aar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apk-Debug-d9034bec64600d5ec672.json",
+					"name" : "apk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apk_all::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apk_all-Debug-37336759158b46819c63.json",
+					"name" : "apk_all",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_internal_plugins::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_internal_plugins-Debug-7fa81b3a548d9291ba59.json",
+					"name" : "qt_internal_plugins",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/ThirdAndroidApp/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug",
+		"source" : "E:/PERSONAL/Learning/ThirdAndroidApp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

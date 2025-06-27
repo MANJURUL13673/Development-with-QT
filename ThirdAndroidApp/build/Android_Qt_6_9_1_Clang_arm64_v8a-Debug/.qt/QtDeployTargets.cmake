@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_ThirdAndroidApp_FILE E:/PERSONAL/Learning/ThirdAndroidApp/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug/libThirdAndroidApp_arm64-v8a.so)
+set(__QT_DEPLOY_TARGET_ThirdAndroidApp_TYPE MODULE_LIBRARY)

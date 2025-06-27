@@ -1,0 +1,28 @@
+[
+    {
+        "classes": [
+            {
+                "className": "Widget",
+                "lineNumber": 14,
+                "object": true,
+                "qualifiedClassName": "Widget",
+                "slots": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "name": "changeRed",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QWidget"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "widget.h",
+        "outputRevision": 69
+    }
+]
