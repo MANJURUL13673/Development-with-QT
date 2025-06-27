@@ -1,0 +1,5 @@
+module CreatingTick-123
+typeinfo appCreatingTick-123.qmltypes
+prefer :/qt/qml/CreatingTick-123/
+Main 1.0 Main.qml
+

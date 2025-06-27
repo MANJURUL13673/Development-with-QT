@@ -1,0 +1,12 @@
+--bare
+-I
+E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug
+-I
+C:/Qt/6.9.1/mingw_64/qml
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qmake_CreatingTick-123.qrc
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/appCreatingTick-123_raw_qml_0.qrc
+E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/Main.qml
+--json
+E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appCreatingTick-123_qmllint.json

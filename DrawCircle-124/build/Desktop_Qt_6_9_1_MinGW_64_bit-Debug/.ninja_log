@@ -1,0 +1,41 @@
+# ninja log v6
+34	126	7724848788318033	.qt/appDrawCircle-124_qml.txt	d7e65567e8925cfb
+34	126	7724848788318033	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawCircle-124/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appDrawCircle-124_qml.txt	d7e65567e8925cfb
+50	137	7724848788435594	.qt/appDrawCircle-124_res.txt	2b2b08331d984c7e
+50	137	7724848788435594	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawCircle-124/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appDrawCircle-124_res.txt	2b2b08331d984c7e
+63	221	7724848789279677	.qt/qml_imports/appDrawCircle-124_build.cmake	47c60c0ceae6a01f
+63	221	7724848789279677	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawCircle-124/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appDrawCircle-124_build.cmake	47c60c0ceae6a01f
+221	572	7724848791502741	appDrawCircle-124_autogen/timestamp	c71621586da70fba
+221	572	7724848791502741	appDrawCircle-124_autogen/mocs_compilation.cpp	c71621586da70fba
+221	572	7724848791502741	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawCircle-124/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appDrawCircle-124_autogen/timestamp	c71621586da70fba
+221	572	7724848791502741	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawCircle-124/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appDrawCircle-124_autogen/mocs_compilation.cpp	c71621586da70fba
+580	668	7724848793755989	meta_types/appDrawCircle-124_json_file_list.txt	fc80d6dfaa1dda8e
+580	668	7724848793755989	meta_types/appDrawCircle-124_json_file_list.txt.timestamp	fc80d6dfaa1dda8e
+580	668	7724848793755989	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawCircle-124/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appDrawCircle-124_json_file_list.txt	fc80d6dfaa1dda8e
+580	668	7724848793755989	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawCircle-124/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appDrawCircle-124_json_file_list.txt.timestamp	fc80d6dfaa1dda8e
+594	684	7724848793767879	.qt/rcc/qrc_qmake_DrawCircle-124.cpp	27d12dba13fd9f8a
+594	684	7724848793767879	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawCircle-124/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_DrawCircle-124.cpp	27d12dba13fd9f8a
+619	698	7724848794027792	.qt/rcc/qrc_appDrawCircle-124_raw_qml_0.cpp	bd8401011ecdc281
+619	698	7724848794027792	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawCircle-124/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appDrawCircle-124_raw_qml_0.cpp	bd8401011ecdc281
+605	728	7724848794308006	.rcc/qmlcache/appDrawCircle-124_qmlcache_loader.cpp	bf6f29c46a034ba6
+605	728	7724848794308006	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawCircle-124/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawCircle-124_qmlcache_loader.cpp	bf6f29c46a034ba6
+668	766	7724848794755404	meta_types/qt6appdrawcircle-124_debug_metatypes.json.gen	ee940192e776f45a
+668	766	7724848794755404	meta_types/qt6appdrawcircle-124_debug_metatypes.json	ee940192e776f45a
+668	766	7724848794755404	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawCircle-124/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appdrawcircle-124_debug_metatypes.json.gen	ee940192e776f45a
+668	766	7724848794755404	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawCircle-124/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appdrawcircle-124_debug_metatypes.json	ee940192e776f45a
+767	984	7724848796110542	appdrawcircle-124_qmltyperegistrations.cpp	7fc163e280372f02
+767	984	7724848796110542	DrawCircle-124/appDrawCircle-124.qmltypes	7fc163e280372f02
+767	984	7724848796110542	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawCircle-124/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appdrawcircle-124_qmltyperegistrations.cpp	7fc163e280372f02
+767	984	7724848796110542	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawCircle-124/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/DrawCircle-124/appDrawCircle-124.qmltypes	7fc163e280372f02
+984	1180	7724848798780889	.rcc/qmlcache/appDrawCircle-124_Main_qml.cpp	24746c92d7d474f8
+984	1180	7724848798780889	.rcc/qmlcache/appDrawCircle-124_Main_qml.cpp.aotstats	24746c92d7d474f8
+984	1180	7724848798780889	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawCircle-124/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawCircle-124_Main_qml.cpp	24746c92d7d474f8
+984	1180	7724848798780889	E:/PERSONAL/Learning/QT DEVELOPMENT/DrawCircle-124/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawCircle-124_Main_qml.cpp.aotstats	24746c92d7d474f8
+1180	1300	7724848798987702	CMakeFiles/appDrawCircle-124.dir/appDrawCircle-124_autogen/mocs_compilation.cpp.obj	fcd8aa16313ca4fa
+1202	1356	7724848799208406	CMakeFiles/appDrawCircle-124.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_DrawCircle-124.cpp.obj	58f38583a16fe08f
+1224	1382	7724848799426457	CMakeFiles/appDrawCircle-124.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appDrawCircle-124_raw_qml_0.cpp.obj	a0999d3923d39969
+1193	6675	7724848799117988	CMakeFiles/appDrawCircle-124.dir/appdrawcircle-124_qmltyperegistrations.cpp.obj	22161fc093ca8ea2
+1217	6804	7724848799347585	CMakeFiles/appDrawCircle-124.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawCircle-124_Main_qml.cpp.obj	867faab0bf7c7532
+1186	6919	7724848799047572	CMakeFiles/appDrawCircle-124.dir/main.cpp.obj	ffaed343d3040b61
+1209	7580	7724848799279549	CMakeFiles/appDrawCircle-124.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawCircle-124_qmlcache_loader.cpp.obj	5fdccd58134b8411
+7582	8074	7724848863008898	appDrawCircle-124.exe	1b797e746b244279

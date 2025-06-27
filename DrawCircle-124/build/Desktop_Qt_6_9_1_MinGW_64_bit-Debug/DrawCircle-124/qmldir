@@ -1,0 +1,5 @@
+module DrawCircle-124
+typeinfo appDrawCircle-124.qmltypes
+prefer :/qt/qml/DrawCircle-124/
+Main 1.0 Main.qml
+

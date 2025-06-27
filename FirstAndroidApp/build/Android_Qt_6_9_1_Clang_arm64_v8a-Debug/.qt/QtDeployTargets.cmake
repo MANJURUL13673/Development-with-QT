@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_FirstAndroidApp_FILE E:/PERSONAL/Learning/FirstAndroidApp/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug/libFirstAndroidApp_arm64-v8a.so)
+set(__QT_DEPLOY_TARGET_FirstAndroidApp_TYPE MODULE_LIBRARY)

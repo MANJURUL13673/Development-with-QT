@@ -1,0 +1,10 @@
+-I
+E:/PERSONAL/Learning/QT DEVELOPMENT/DrawCircle-124/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug
+-I
+C:/Qt/6.9.1/mingw_64/qml
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/DrawCircle-124/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qmake_DrawCircle-124.qrc
+--resource
+E:/PERSONAL/Learning/QT DEVELOPMENT/DrawCircle-124/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/appDrawCircle-124_raw_qml_0.qrc
+--module
+DrawCircle-124

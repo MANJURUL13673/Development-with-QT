@@ -1,0 +1,54 @@
+# ninja log v6
+29	122	7724843480145105	.qt/appCreatingTick-123_qml.txt	9402674c7648c639
+29	122	7724843480145105	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appCreatingTick-123_qml.txt	9402674c7648c639
+43	142	7724843480339671	.qt/appCreatingTick-123_res.txt	234407a00ea62c9e
+43	142	7724843480339671	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appCreatingTick-123_res.txt	234407a00ea62c9e
+56	218	7724843481116483	.qt/qml_imports/appCreatingTick-123_build.cmake	b43e00baee2dd666
+56	218	7724843481116483	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appCreatingTick-123_build.cmake	b43e00baee2dd666
+218	554	7724843483136417	appCreatingTick-123_autogen/timestamp	7755ec1e56cbc364
+218	554	7724843483136417	appCreatingTick-123_autogen/mocs_compilation.cpp	7755ec1e56cbc364
+218	554	7724843483136417	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appCreatingTick-123_autogen/timestamp	7755ec1e56cbc364
+218	554	7724843483136417	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appCreatingTick-123_autogen/mocs_compilation.cpp	7755ec1e56cbc364
+561	645	7724843485389849	meta_types/appCreatingTick-123_json_file_list.txt	f57325c80df49945
+561	645	7724843485389849	meta_types/appCreatingTick-123_json_file_list.txt.timestamp	f57325c80df49945
+561	645	7724843485389849	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appCreatingTick-123_json_file_list.txt	f57325c80df49945
+561	645	7724843485389849	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appCreatingTick-123_json_file_list.txt.timestamp	f57325c80df49945
+573	661	7724843485360695	.qt/rcc/qrc_qmake_CreatingTick-123.cpp	266621698de71a1e
+573	661	7724843485360695	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_CreatingTick-123.cpp	266621698de71a1e
+601	676	7724843485692241	.qt/rcc/qrc_appCreatingTick-123_raw_qml_0.cpp	16ae6cdf6e5c0ab6
+601	676	7724843485692241	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appCreatingTick-123_raw_qml_0.cpp	16ae6cdf6e5c0ab6
+585	694	7724843485847136	.rcc/qmlcache/appCreatingTick-123_qmlcache_loader.cpp	8268fc98e4cdd749
+585	694	7724843485847136	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appCreatingTick-123_qmlcache_loader.cpp	8268fc98e4cdd749
+645	740	7724843486368038	meta_types/qt6appcreatingtick-123_debug_metatypes.json.gen	ad871ca958dbd58d
+645	740	7724843486368038	meta_types/qt6appcreatingtick-123_debug_metatypes.json	ad871ca958dbd58d
+645	740	7724843486368038	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appcreatingtick-123_debug_metatypes.json.gen	ad871ca958dbd58d
+645	740	7724843486368038	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appcreatingtick-123_debug_metatypes.json	ad871ca958dbd58d
+740	956	7724843487676584	appcreatingtick-123_qmltyperegistrations.cpp	ee856bef0501385
+740	956	7724843487676584	CreatingTick-123/appCreatingTick-123.qmltypes	ee856bef0501385
+740	956	7724843487676584	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appcreatingtick-123_qmltyperegistrations.cpp	ee856bef0501385
+740	956	7724843487676584	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CreatingTick-123/appCreatingTick-123.qmltypes	ee856bef0501385
+956	1143	7724843490293569	.rcc/qmlcache/appCreatingTick-123_Main_qml.cpp	34cbf10d92f039c6
+956	1143	7724843490293569	.rcc/qmlcache/appCreatingTick-123_Main_qml.cpp.aotstats	34cbf10d92f039c6
+956	1143	7724843490293569	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appCreatingTick-123_Main_qml.cpp	34cbf10d92f039c6
+956	1143	7724843490293569	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appCreatingTick-123_Main_qml.cpp.aotstats	34cbf10d92f039c6
+1143	1262	7724843490485187	CMakeFiles/appCreatingTick-123.dir/appCreatingTick-123_autogen/mocs_compilation.cpp.obj	970b8273c3f96377
+1163	1318	7724843490693151	CMakeFiles/appCreatingTick-123.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_CreatingTick-123.cpp.obj	253ed0652dc68909
+1187	1330	7724843490927938	CMakeFiles/appCreatingTick-123.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appCreatingTick-123_raw_qml_0.cpp.obj	1a3480ed1bd57b02
+1155	5659	7724843490604069	CMakeFiles/appCreatingTick-123.dir/appcreatingtick-123_qmltyperegistrations.cpp.obj	e5271afbadb2a1fe
+1177	5788	7724843490825813	CMakeFiles/appCreatingTick-123.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appCreatingTick-123_Main_qml.cpp.obj	5ab517e59a621cd3
+1150	6056	7724843490554572	CMakeFiles/appCreatingTick-123.dir/main.cpp.obj	f0fe2942df2a1755
+1171	6571	7724843490764895	CMakeFiles/appCreatingTick-123.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appCreatingTick-123_qmlcache_loader.cpp.obj	606758459125f3b3
+6571	6974	7724843544771354	appCreatingTick-123.exe	68c183403f493eef
+80	140	7724843937661403	.qt/appCreatingTick-123_qml.txt	9402674c7648c639
+80	140	7724843937661403	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appCreatingTick-123_qml.txt	9402674c7648c639
+91	220	7724843938437905	.qt/qml_imports/appCreatingTick-123_build.cmake	b43e00baee2dd666
+91	220	7724843938437905	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appCreatingTick-123_build.cmake	b43e00baee2dd666
+232	295	7724843939180476	.qt/rcc/qrc_appCreatingTick-123_raw_qml_0.cpp	16ae6cdf6e5c0ab6
+232	295	7724843939180476	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appCreatingTick-123_raw_qml_0.cpp	16ae6cdf6e5c0ab6
+221	408	7724843940199487	.rcc/qmlcache/appCreatingTick-123_Main_qml.cpp	34cbf10d92f039c6
+221	408	7724843940199487	.rcc/qmlcache/appCreatingTick-123_Main_qml.cpp.aotstats	34cbf10d92f039c6
+221	408	7724843940199487	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appCreatingTick-123_Main_qml.cpp	34cbf10d92f039c6
+221	408	7724843940199487	E:/PERSONAL/Learning/QT DEVELOPMENT/CreatingTick-123/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appCreatingTick-123_Main_qml.cpp.aotstats	34cbf10d92f039c6
+414	522	7724843940491280	CMakeFiles/appCreatingTick-123.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appCreatingTick-123_raw_qml_0.cpp.obj	1a3480ed1bd57b02
+408	4096	7724843940438404	CMakeFiles/appCreatingTick-123.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appCreatingTick-123_Main_qml.cpp.obj	5ab517e59a621cd3
+4096	4471	7724843977321962	appCreatingTick-123.exe	68c183403f493eef

@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9f4565e2c18a84bb9316.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DrawCircle-124",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-0d2477b0b709ce3b4eb0.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-1b0a9dafa074c8de13ad.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-a08b2c7f98fde57311cd.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-23e2e6fed3c6f0fb0240.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-62077b17aaaf5b4fa481.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDrawCircle-124::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDrawCircle-124-Debug-940b273ed9340d860e0c.json",
+					"name" : "appDrawCircle-124",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDrawCircle-124_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDrawCircle-124_autogen-Debug-53a518d13bd9e6f3e562.json",
+					"name" : "appDrawCircle-124_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDrawCircle-124_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDrawCircle-124_autogen_timestamp_deps-Debug-9c4458684363c9c2d9c0.json",
+					"name" : "appDrawCircle-124_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDrawCircle-124_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDrawCircle-124_copy_qml-Debug-8beafe851a8f02b5e9c6.json",
+					"name" : "appDrawCircle-124_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDrawCircle-124_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDrawCircle-124_copy_res-Debug-2d9447eb0dcdf7f70527.json",
+					"name" : "appDrawCircle-124_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDrawCircle-124_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDrawCircle-124_qmlimportscan-Debug-e626aa46b88f6f64d72f.json",
+					"name" : "appDrawCircle-124_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDrawCircle-124_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDrawCircle-124_qmllint-Debug-f6ae1591fe23d2af5b13.json",
+					"name" : "appDrawCircle-124_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDrawCircle-124_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDrawCircle-124_qmllint_json-Debug-99a74b404c5a8564b224.json",
+					"name" : "appDrawCircle-124_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDrawCircle-124_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDrawCircle-124_qmllint_module-Debug-87cc2fb95e7ad7b487d2.json",
+					"name" : "appDrawCircle-124_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDrawCircle-124_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDrawCircle-124_qmltyperegistration-Debug-7ce3b00993f9c2fdea3f.json",
+					"name" : "appDrawCircle-124_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appDrawCircle-124_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appDrawCircle-124_aotstats_target-Debug-3399d8038bda2f54c2bc.json",
+					"name" : "module_appDrawCircle-124_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PERSONAL/Learning/QT DEVELOPMENT/DrawCircle-124/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "E:/PERSONAL/Learning/QT DEVELOPMENT/DrawCircle-124"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 318,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 100,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 18,
+                        "durationMicroseconds": 7646,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onPaint",
+                        "line": 15
+                    }
+                ],
+                "filePath": "E:/PERSONAL/Learning/QT DEVELOPMENT/DrawCircle-124/Main.qml"
+            }
+        ],
+        "moduleId": "DrawCircle-124(appDrawCircle-124)"
+    }
+]
